@@ -13,7 +13,7 @@ the transportation means is set to ‘Crow Fly’.
 Opening route planner
 ~~~~~~~~~~~~~~~~~~~~~
 To open the route planner you have to open the :ref:`menu <sec-menu>` first.
-Then you press on the ’Plan’ button in the menu.
+Then you have to press on the ’Plan’ button in the menu.
  
 An example of an opened route planner is displayed below:
 
