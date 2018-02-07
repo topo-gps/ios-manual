@@ -13,13 +13,4 @@ Contents:
 .. toctree::
    :maxdepth: 3 
    
-   map
-   dashboard
-   menu
-   your_location
-   waypoints
-   routes
-   search_address
-   coordinate
-   compass_direction
-   settings
+   routes_plan
