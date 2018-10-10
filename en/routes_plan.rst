@@ -17,12 +17,11 @@ Then you have to press on the ’Plan’ button in the menu.
  
 An example of an opened route planner is displayed below:
 
-[[
+.. code-block:: json
  { "mapID": 0,
    "centerWGS": { 52, 6 }
    "routePlannerOpen": true
  }
-]]
    *Figure 1. The route planner is opened.*
 
 Closing route planner
