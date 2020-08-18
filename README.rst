@@ -4,7 +4,7 @@ The test manual can be viewed via https://www.topo-gps.com/test-manual/manual/ht
 
 Updating the manual
 -------------------
-Manuals can be generated on the main Topo GPS server via https://www.topo-gps.com/cgi-bin/make-manuals.sh
+Manuals should be generated on the main Topo GPS server.
 
 reStructuredText
 ----------------
