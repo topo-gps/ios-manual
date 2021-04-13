@@ -5,8 +5,6 @@ Map
 If you start Topo GPS a map will be displayed at first. An example is shown below: 
 
 .. figure:: _static/map1.png  
-   :height: 568px
-   :width: 320px
    :alt: Topo GPS main screen
 
    *Figure 1. The map screen of Topo GPS. The red marker indicates your current location.*
@@ -64,8 +62,6 @@ By pressing the position marker symbol on the bottom left of the screen, the map
 is shown in the figure below.
  
 .. figure:: _static/map2.png  
-   :height: 568px
-   :width: 320px
    :alt: Kaart centreren Topo GPS
 
    *Figure 2. A centered map.*
@@ -93,8 +89,6 @@ By pressing once on the position marker icon on the bottom left of the screen, t
 The map is then rotated such that the top of the map indicates the direction in which you point your iPhone/iPad. If you are moving the top of the map will indicate the direction in which you move. An example is shown in the figure below:
 
 .. figure:: _static/map3.png  
-   :height: 568px
-   :width: 320px
    :alt: Kaart roteren Topo GPS
 
    *Figure 3. A rotated map.*
@@ -124,8 +118,6 @@ Screen orientation
 By rotating your device you can change the screen orientation from portrait to landscape. An example of landscape mode is displayed below:
 
 .. figure:: _static/map4.png  
-   :height: 320px
-   :width: 568px
    :alt: Schermorientatie veranderen Topo GPS
 
    *Figure 4. Map in landscape mode.*
