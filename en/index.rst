@@ -4,8 +4,8 @@
 Topo GPS manual iOS
 ===================
 
-The manual of the topographic maps navigation app `Topo GPS <https://www.topo-gps.com/download/>`_ for iiPhone, iPad and Apple Watch.
-The complete manual can also be downloaded in _`PDF format <https://www.topo-gps.com/ios/en/manual/latex/TopoGPSManual.pdf>`__.
+The manual of the topographic maps navigation app `Topo GPS <https://www.topo-gps.com/download/>`_ for iPhone, iPad and Apple Watch.
+The complete manual can also be downloaded in `PDF format <https://www.topo-gps.com/ios/en/manual/latex/TopoGPSManual.pdf>`_.
 
 Contents:
 
