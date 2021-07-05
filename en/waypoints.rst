@@ -3,7 +3,7 @@
 Waypoints
 =========
 
-A waypoint is a location with a title, and possibly additional information such as photos and a description. Waypoints can be loaded on the map and can be imported and exported.
+A waypoint is a location with an icon and title that can be shown on the map. Possibly it can contain additional information such as photos and a description. Waypoints can be loaded on the map and can be imported in and exported to various formats.
 
 .. toctree::
    :maxdepth: 2
