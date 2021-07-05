@@ -7,7 +7,7 @@ you first have to open the waypoints screen. You can open
 the waypoints screen by pressing ‘Waypoints’ in the :ref:`menu <sec-menu>`.
 An example of the waypoints screen is displayed below:
 
-.. figure:: _static/waypoints-load1.png
+.. figure:: _static/waypoints-load1.jpg
    :height: 568px
    :width: 320px
    :alt: Loading waypoints Topo GPS
