@@ -19,36 +19,44 @@ Creating waypoints on the map
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 By pressing long on the map an icon will appear. An example is shown in the figure below:
 
-.. figure:: _static/waypoint-create-map1.jpg
+.. figure:: _static/waypoints-create-map1.jpg
    :height: 568px
    :width: 320px
    :alt: Waypoint press long on map Topo GPS
 
    *Figure 1. By pressing long on the map an icon will appear.*
 
-As long as you hold your finger on the map you can drag the circle to the
-desired location. If you release your finger a screen will appear in which you can
+As long as you hold your finger on the map you can drag the icon to the
+desired location. If you release your finger a waypoint creation screen will appear in which you can
 set the properties of the waypoint.
 
-.. figure:: _static/waypoint-create-map2.jpg
-  :height: 568px
+.. figure:: _static/waypoints-create-map2.jpg
+   :height: 568px
    :width: 320px
-   :alt: Waypoint create from map Topo GPS
+   :alt: Waypoint creation screen from map Topo GPS
 
-   *Figure 2. Screen in which you can set the properties and save the waypoint.*
+   *Figure 2. Waypoint creation screen in which you can set the properties and save the waypoint.*
 
 If you wish you can give the waypoint a title, set the icon and enter a description.
 
-If you are connected to the internet and you have enabled ‘Adresses - Find automatically’ in the :ref:`settings <subsec-settings>`, an automatic suggestion for the waypoint title will appear. This title has a light grey color and will be used if no title has been entered. In the example of Fig. 2 the suggestion is ‘Dartmoor National Park’.
+If you are connected to the internet and you have enabled ‘Adresses - Find automatically’ in the :ref:`settings <subsec-settings>`, an automatic suggestion for the waypoint title will appear. This title has a light grey color and will be used if no title has been entered. In the example of Fig. 2 the suggestion is ‘Southwood Farm Lane’. If you wish to have a waypoint without a title please enter a single space.
 
-If we now enter ‘Geocache’ as a title and press ‘Save’ the waypoint will be saved on your device. The waypoint will be loaded on the map with the title as is illustrated in the figure below:
+As an example we enter ‘Goal A’ as a title. If you press ‘Save’ the waypoint will be saved on your device and loaded on the map with the title as is illustrated in the figure below.
 
-.. figure:: _static/waypoint-map3.png
+.. figure:: _static/waypoints-create-map3.jpg
    :height: 568px
    :width: 320px
-   :alt: Waypoint add Topo GPS
+   :alt: Waypoint added to map Topo GPS
 
-   *Figure 3. The waypoint ‘Geocache’ has been added to the map.*
+   *Figure 3. The waypoint ‘Goal A’ has been added to the map.*
 
-A waypoint that is created from the map will be stored on your device. Hence, this waypoint will appear in the :ref:`waypoints screen <ss-waypoint-load>`.
+The waypoint that is created from the map is saved on your device and hence will appear in the :ref:`waypoints screen <ss-waypoint-load>`.
+
+If you accidentally pressed long on the main map so that an icon appeared, you can drag this icon to the top or bottom of map screen. It will then be removed and the waypoint creation screen will not pop up. Also if you press 'Cancel' in the waypoint creation screen, the waypoint will not be created.
+
+If enter a description in the waypoint creation screen, you can view it in the waypoint details screen. The waypoint details screen will be opened by tapping on a waypoint that is loaded on the map.
+
+Setting the icon of a created waypoint
+--------------------------------------
+
 
