@@ -36,6 +36,6 @@ Waypoints that are loaded on the map acquire a grey background color in the wayp
 
    *The grey background color indicates that the waypoint ’Stonehenge’ has been loaded on the map.*
 
-It is also possible to load multiple waypoints on the map at once. This is explained in detail in the section :ref:`ss-routes-select`. Summarized: press ‘Select’ on the top right of the waypoints screen to enter the selection mode. Next select the desired waypoints by tapping them. Then press the 'Map’ button on the bottom of the screen to load the selected waypoints onto the map.
+It is also possible to load multiple waypoints on the map at once. This is explained in detail in the section :ref:`ss-routes-select`. Summarized: press 'More (circle with three dots) > Select' on the top right of the waypoints screen to enter the selection mode. Next select the desired waypoints by tapping them. Then press the 'Map’ button on the bottom of the screen to load the selected waypoints onto the map.
 
 In the next section we will explain how to remove waypoints from the map.
