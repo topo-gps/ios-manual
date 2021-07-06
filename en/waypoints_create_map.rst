@@ -62,7 +62,7 @@ Setting the icon of a created waypoint
 --------------------------------------
 In the waypoint creation screen you can set the icon of the to be created waypoint. In the example above the icon is set to the default icon, which is in this case a red circle. If you press the icon item below the title field, the waypoint icons screen will be opened as is shown in the figure below:
 
-.. figure:: _static/waypoints-icons1.png
+.. figure:: _static/waypoint-icons1.png
    :height: 568px
    :width: 320px
    :alt: Waypoint icons screen Topo GPS
@@ -71,7 +71,7 @@ In the waypoint creation screen you can set the icon of the to be created waypoi
 
 The currently active icon type has a grey background color. Currently the waypoint icons screen shows only the default icon. To create a new icon, press the + button on the top right. A new screen opens in which you can create an icon.
 
-.. figure:: _static/waypoints-icons2.png
+.. figure:: _static/waypoint-icons2.png
    :height: 568px
    :width: 320px
    :alt: Waypoint icon creation screen Topo GPS
@@ -80,43 +80,49 @@ The currently active icon type has a grey background color. Currently the waypoi
 
 In the new icon screen you can adjust the properties of the icon. For example we can create a orange rotated rectangle icon with a G inscription like in the example below:
 
-.. figure:: _static/waypoints-icons3.png
+.. figure:: _static/waypoint-icons3.png
    :height: 568px
    :width: 320px
-   :alt: Waypoint icons screen Topo GPS
+   :alt: New waypoint icon creation Topo GPS
 
    *A new icon is about to be created.*
 
 If you press 'Save' the new waypoint icon is created and you will return to the waypoint icons screen.
 
-.. figure:: _static/waypoints-icons4.png
+.. figure:: _static/waypoint-icons4.png
    :height: 568px
    :width: 320px
    :alt: Waypoint icons screen Topo GPS
 
-   *A new icon is about to be created.*
+   *Waypoint icons screen with the newly created 'Hiking goal' icon.*
    
-   .. figure:: _static/waypoints-icons5.jpg
+If you press the newly created hiking goal icon it will be used as icon in the waypoint creation screen.
+   
+   .. figure:: _static/waypoint-icons5.jpg
    :height: 568px
    :width: 320px
    :alt: Waypoint icons screen Topo GPS
 
-   *An new icon is about to be created.*
+   *The hiking goal icon is now the icon for the to be created waypoint.*
 
+The icon in the waypoint screen is now set to the newly created 'Hiking goal' icon. Then if you press 'Save'
+you will return to the map and the waypoint with the hiking goal icon is shown on the map.
 
-   .. figure:: _static/waypoints-icons6.jpg
+   .. figure:: _static/waypoint-icons6.jpg
    :height: 568px
    :width: 320px
    :alt: Waypoint icons screen Topo GPS
 
-   *An new icon is about to be created.*
+   *The waypoint with the hiking goal icon is shown on the map.*
 
-  .. figure:: _static/waypoints-icons7.jpg
+If you now create a new icon by pressing long on the map the icon of the last created waypoint will be used. So in the example you will drag a 'Hiking goal' icon along the map. If you release your finger the waypoint creation screen will be opened, again with the hiking goal icon as the initially set icon. 
+
+  .. figure:: _static/waypoint-icons7.jpg
    :height: 568px
    :width: 320px
-   :alt: Waypoint icons screen Topo GPS
+   :alt: Waypoint creation screen Topo GPS
 
-   *An new icon is about to be created.*
+   *Newly created waypoints have initally the same icon as the icon of the last created waypoint.*
 
 
 Planning a route to a created waypoint
