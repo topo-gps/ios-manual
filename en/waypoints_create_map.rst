@@ -37,7 +37,7 @@ set the properties of the waypoint.
 
    *Waypoint creation screen in which you can set the properties and save the waypoint.*
 
-Optionally you can give the waypoint a title, set the icon and enter a description in the waypoint creation screen.
+In the waypoint creation screen you can optionally you can give the waypoint a title, set the icon and enter a description.
 
 If you are connected to the internet and you have enabled ‘Adresses - Find automatically’ in the :ref:`settings <subsec-settings>`, an automatic suggestion for the waypoint title will appear. This title has a light grey color and will be used if no title has been entered. In the example of Fig. 2 the suggestion is ‘Southwood Farm Lane’. If you wish to have a waypoint without a title please enter a single space in the title field.
 
@@ -60,7 +60,63 @@ If you have entered a description in the waypoint creation screen, you can view 
 
 Setting the icon of a created waypoint
 --------------------------------------
+In the waypoint creation screen you can set the icon of the to be created waypoint. In the example above the icon is set to the default icon, which is in this case a red circle. If you press the icon item below the title field, the waypoint icons screen will be opened as is shown in the figure below:
 
+.. figure:: _static/waypoints-icons1.png
+   :height: 568px
+   :width: 320px
+   :alt: Waypoint icons screen Topo GPS
+
+   *A screen which show all the available waypoint icons on a device.*
+
+The currently active icon type has a grey background color. Currently the waypoint icons screen shows only the default icon. To create a new icon, press the + button on the top right. A new screen opens in which you can create an icon.
+
+.. figure:: _static/waypoints-icons2.png
+   :height: 568px
+   :width: 320px
+   :alt: Waypoint icon creation screen Topo GPS
+
+   *A screen in which you can create a new icon.*
+
+In the new icon screen you can adjust the properties of the icon. For example we can create a orange rotated rectangle icon with a G inscription like in the example below:
+
+.. figure:: _static/waypoints-icons3.png
+   :height: 568px
+   :width: 320px
+   :alt: Waypoint icons screen Topo GPS
+
+   *A new icon is about to be created.*
+
+If you press 'Save' the new waypoint icon is created and you will return to the waypoint icons screen.
+
+.. figure:: _static/waypoints-icons4.png
+   :height: 568px
+   :width: 320px
+   :alt: Waypoint icons screen Topo GPS
+
+   *A new icon is about to be created.*
+   
+   .. figure:: _static/waypoints-icons5.jpg
+   :height: 568px
+   :width: 320px
+   :alt: Waypoint icons screen Topo GPS
+
+   *An new icon is about to be created.*
+
+
+   .. figure:: _static/waypoints-icons6.jpg
+   :height: 568px
+   :width: 320px
+   :alt: Waypoint icons screen Topo GPS
+
+   *An new icon is about to be created.*
+
+  .. figure:: _static/waypoints-icons7.jpg
+   :height: 568px
+   :width: 320px
+   :alt: Waypoint icons screen Topo GPS
+
+   *An new icon is about to be created.*
 
 
 Planning a route to a created waypoint
