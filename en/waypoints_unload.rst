@@ -26,4 +26,4 @@ You can also remove all loaded waypoints from the map at once. For this press â€
 
    *The more menu in the waypoints screen with the 'Remove all from map' option.*
 
-It is also possible to remove a waypoint from the map via the :ref:`waypoint details screen <ss-waypoint-details>`. Tap the waypoint icon of a waypoint that is loaded on the map to open the details screen. Or tap the info button (i) in the waypoints screen to open the details screen of a waypoint. 
+It is also possible to remove a waypoint from the map via the :ref:`waypoint details screen <ss-waypoint-details>`. Tap the waypoint icon of a waypoint that is loaded on the map to open the details screen. Or tap the info button (i) of a waypoints in the waypoints screen to open the details screen.
