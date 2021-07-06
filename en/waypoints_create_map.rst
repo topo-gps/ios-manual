@@ -98,7 +98,7 @@ If you press 'Save' the new waypoint icon is created and you will return to the 
    
 If you press the newly created hiking goal icon it will be used as icon in the waypoint creation screen.
    
-   .. figure:: _static/waypoint-icons5.jpg
+.. figure:: _static/waypoint-icons5.jpg
    :height: 568px
    :width: 320px
    :alt: Waypoint icons screen Topo GPS
@@ -108,7 +108,7 @@ If you press the newly created hiking goal icon it will be used as icon in the w
 The icon in the waypoint screen is now set to the newly created 'Hiking goal' icon. Then if you press 'Save'
 you will return to the map and the waypoint with the hiking goal icon is shown on the map.
 
-   .. figure:: _static/waypoint-icons6.jpg
+.. figure:: _static/waypoint-icons6.jpg
    :height: 568px
    :width: 320px
    :alt: Waypoint icons screen Topo GPS
@@ -117,7 +117,7 @@ you will return to the map and the waypoint with the hiking goal icon is shown o
 
 If you now create a new icon by pressing long on the map the icon of the last created waypoint will be used. So in the example you will drag a 'Hiking goal' icon along the map. If you release your finger the waypoint creation screen will be opened, again with the hiking goal icon as the initially set icon. 
 
-  .. figure:: _static/waypoint-icons7.jpg
+.. figure:: _static/waypoint-icons7.jpg
    :height: 568px
    :width: 320px
    :alt: Waypoint creation screen Topo GPS
