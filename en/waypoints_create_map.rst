@@ -17,7 +17,7 @@ In this section we will explain how to create a waypoint directly on the map.
 
 Creating waypoints on the map
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-By pressing long on the map an icon will appear. An example is shown in the figure below:
+If you press with one finger long on the map an icon will appear. An example is shown in the figure below:
 
 .. figure:: _static/waypoints-create-map1.jpg
    :height: 568px
@@ -52,7 +52,7 @@ As an example we enter ‘Goal A’ as a title. If you press ‘Save’ the wayp
 
 The waypoint that is created from the map is saved on your device and hence will appear in the :ref:`waypoints screen <ss-waypoint-load>`.
 
-If you accidentally pressed long on the main map so that an icon appeared, you can drag this icon to the top or bottom of map screen. It will then be removed and the waypoint creation screen will not pop up. Also if you press 'Cancel' in the waypoint creation screen, the waypoint will not be created.
+If you accidentally pressed long on the main map so that an icon appeared, you can drag the icon to the top or bottom of map screen. It will then be removed and the waypoint creation screen will not pop up. Also if you press 'Cancel' in the waypoint creation screen, the waypoint will not be created.
 
 If you have entered a description in the waypoint creation screen, you can view it in the waypoint details screen. The waypoint details screen will be opened by tapping on a waypoint that is loaded on the map.
 
