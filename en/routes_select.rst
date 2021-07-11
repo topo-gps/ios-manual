@@ -1,7 +1,7 @@
 .. _ss-routes-select:
 
-Selecting routes and waypoints
-==============================
+Selecting routes
+=================
 In the :ref:`routes <ss-route-load>` and in the
 :ref:`waypoints screen <ss-waypoint-load>` you can
 select routes or waypoints and perform one of the
