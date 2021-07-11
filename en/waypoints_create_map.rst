@@ -27,7 +27,7 @@ By pressing long on the map an icon will appear. An example is shown in the figu
    *By pressing long on the map an icon will appear.*
 
 As long as you hold your finger on the map you can drag the icon to the
-desired location. If you release your finger the waypoint creation screen will appear in which you can
+desired location. If you release your finger the waypoint creation screen will appear. In the waypoint creation screen you can
 set the properties of the waypoint.
 
 .. figure:: _static/waypoints-create-map2.jpg
@@ -37,7 +37,7 @@ set the properties of the waypoint.
 
    *Waypoint creation screen in which you can set the properties and save the waypoint.*
 
-In the waypoint creation screen you can optionally you can give the waypoint a title, set the icon and enter a description.
+In the waypoint creation screen you can optionally give the waypoint a title, set the icon and enter a description.
 
 If you are connected to the internet and you have enabled ‘Adresses - Find automatically’ in the :ref:`settings <subsec-settings>`, an automatic suggestion for the waypoint title will appear. This title has a light grey color and will be used if no title has been entered. In the example of Fig. 2 the suggestion is ‘Southwood Farm Lane’. If you wish to have a waypoint without a title please enter a single space in the title field.
 
