@@ -71,7 +71,7 @@ If you press 'Remove' the selected waypoints will be removed.
 
 As an example we now will load the two selected waypoints from the example above on the map by pressing the map icon. The map screen will appear and the map will be zoomed to the two selected waypoints as you can see in the figure below:
 
-.. figure:: _static/waypoints-select4.png
+.. figure:: _static/waypoints-select4.jpg
    :height: 568px
    :width: 320px
    :alt: Selecting waypoints Topo GPS
