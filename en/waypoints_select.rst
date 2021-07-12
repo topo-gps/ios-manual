@@ -36,8 +36,8 @@ Press ‘Select’ in the menu to open the selection screen. It is also possible
    *The select screen in which you can select waypoint.*
 
 
-Selecting
-~~~~~~~~~
+Selecting waypoints
+~~~~~~~~~~~~~~~~~~~
 To select a waypoint, tap a waypoint row in the selection screen. A checkmark will show up and the background of the waypoint row will become grey to indicate that it is selected. An example in which two waypoints are selected is displayed below:
 
 .. figure:: _static/waypoints-select3.png
@@ -49,8 +49,8 @@ To select a waypoint, tap a waypoint row in the selection screen. A checkmark wi
 
 The title of the selection screen shows how many items are selected. You can deselect an waypoint tapping a selected one. If you want to select all waypoitns in the list, you have to press ‘All’ on the top left. To return to the usual waypoints screen you have to press ‘Cancel’.
 
-Performing action
-~~~~~~~~~~~~~~~~~
+Performing an action
+~~~~~~~~~~~~~~~~~~~~
 If you have made a selection you can perform an action with one of the buttons
 in the toolbar on the bottom of the screen. The toolbar buttons are from left to right:
 
