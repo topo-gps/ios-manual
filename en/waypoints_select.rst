@@ -28,7 +28,7 @@ If you press the button 'More' on the top right of the waypoints screen, a menu 
 
 Press ‘Select’ . In the select screen you can select routes or waypoints. You can also open the select screen by pressing long on a item in the routes or waypoints screen. The item that you press will then also be selected. An example of the select screen is displayed below:
 
-.. figure:: _static/route-select2.png
+.. figure:: _static/waypoints-select2.png
    :height: 568px
    :width: 320px
    :alt: Selecting routes and waypoints Topo GPS
