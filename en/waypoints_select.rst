@@ -64,9 +64,9 @@ in the toolbar on the bottom of the screen. The toolbar buttons are from left to
 
 - *More button*: If you press the more button, a menu will appear from which you can choose the following actions:
 
-* Remove from map: If you press this button, the selected waypoints will be removed from the map.
+-- *Remove from map*: If you press this button, the selected waypoints will be removed from the map.
 
-* Change icon: If you press this button the waypoint icons screen will be opened. You can press an icon in this screen to change the icon of the selected waypoints. 
+-- *Change icon*: If you press this button the waypoint icons screen will be opened. You can press an icon in this screen to change the icon of the selected waypoints. 
 
 As an example we now will load the two selected waypoints from the example above on the map by pressing the map icon. The map screen will appear and the map will be zoomed to the two selected waypoints as you can see in the figure below:
 
