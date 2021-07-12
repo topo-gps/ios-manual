@@ -3,7 +3,7 @@
 
 Selecting waypoints
 ===================
-In the :ref:`waypoints screen <ss-waypoint-load>` you can
+In the :ref:`waypoints screen <ss-waypoint-load>` (Menu > Waypoints) you can
 select waypoints and perform one of the following actions on the selected waypoints: 
 
 - Remove selected waypoints
@@ -26,48 +26,55 @@ If you press the button 'More' on the top right of the waypoints screen, a menu 
 
    *The more menu of the waypoints screen.*
 
-Press ‘Select’ . In the select screen you can select routes or waypoints. You can also open the select screen by pressing long on a item in the routes or waypoints screen. The item that you press will then also be selected. An example of the select screen is displayed below:
+Press ‘Select’ in the menu to open the selection screen. It is also possible to open the selection screen by pressing long on an item in the waypoint list. That item will then be selected immediately. An example of a selection screen is shown below:
 
 .. figure:: _static/waypoints-select2.png
    :height: 568px
    :width: 320px
-   :alt: Selecting routes and waypoints Topo GPS
+   :alt: Waypoint selection screen Topo GPS
 
-   *The select screen in which you can select routes.*
+   *The select screen in which you can select waypoint.*
 
 
 Selecting
 ~~~~~~~~~
-By pressing an item in the list of routes/waypoints the item will be selected. If an item is selected a checkmark will show up and the background of the item will become light blue. An example in which two routes are selected is displayed below:
+To select a waypoint, tap a waypoint row in the selection screen. A checkmark will show up and the background of the waypoint row will become grey to indicate that it is selected. An example in which two waypoints are selected is displayed below:
 
-.. figure:: _static/route-select3.png
+.. figure:: _static/waypoints-select3.png
    :height: 568px
    :width: 320px
-   :alt: Selecting routes and waypoints Topo GPS
+   :alt: Two selected waypooints Topo GPS
 
-   *Figure 3. The routes screen.*
+   *Two selected waypoints.*
 
-The title of the selection screen shows how many items are selected. You can deselect an item by pressing it once more. If you want to select all items in the list, you have to press ‘All’ on the top left. To return to the usual routes/waypoints screen you have to press ‘Cancel’.
+The title of the selection screen shows how many items are selected. You can deselect an waypoint tapping a selected one. If you want to select all waypoitns in the list, you have to press ‘All’ on the top left. To return to the usual waypoints screen you have to press ‘Cancel’.
 
 Performing action
 ~~~~~~~~~~~~~~~~~
 If you have made a selection you can perform an action with one of the buttons
-in the toolbar on the bottom of the screen. The possible actions are:
+in the toolbar on the bottom of the screen. The toolbar buttons are from left to right:
 
-- *Trash icon*: Allows you to remove the selection from your device and iCloud.
+- *Trash button*: If you press this button a pop-up will ask to to whether you would like to remove the selected waypoints from your device (and iCloud if enabled).
+If you press 'Remove' the selected waypoints will be removed.
 
-- *Export icon*: Allows you to share the selected routes/waypoints. A pop-up will appear in which you can choose an app for sharing.
+- *Folder button*: If you press this button a screen with the folder tree will be opened. You can select a folder and the selected waypoints will be moved to a new folder.
 
-- *Map icon*; Allows you to move the selection into a folder.
+- *Export button*: If you press this button the export pop-up will be shown. In this pop-up you can select the kind of data to be exported and change the export settings. If you press 'Export' in the export pop-up the selected waypoints will be exported. Another pop-up with apps and actions will be shown. If you tap an app or action, the result of the export will be handled by the app or action.
 
-- *Load*: Allows you to load the selection on the map.
+- *Map button*: If you press this button, the selected waypoints will be loaded on the map. The map will zoom automatically to the selected waypoitns and you will be returned to the map.
 
-As an example we now will load the selection from Fig. 3 on the map by pressing ‘Load’. The map screen will appear and you can see below that the two selected routes have been loaded on the map:
+- *More button*: If you press the more button, a menu will appear from which you can choose the following actions:
 
-.. figure:: _static/route-select4.png
+* Remove from map: If you press this button, the selected waypoints will be removed from the map.
+
+* Change icon: If you press this button the waypoint icons screen will be opened. You can press an icon in this screen to change the icon of the selected waypoints. 
+
+As an example we now will load the two selected waypoints from the example above on the map by pressing the map icon. The map screen will appear and the map will be zoomed to the two selected waypoints as you can see in the figure below:
+
+.. figure:: _static/waypoints-select4.png
    :height: 568px
    :width: 320px
-   :alt: Selecting routes and waypoints Topo GPS
+   :alt: Selecting waypoints Topo GPS
 
-   *Figure 4. The routes ‘Gower Hike’ and ‘Gower Hike Short’ are loaded on the map.*
+   *The waypoints 'Goal A' and 'Stonehenge' have been loaded on the map.*
 
