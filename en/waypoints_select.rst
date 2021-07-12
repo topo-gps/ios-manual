@@ -54,8 +54,7 @@ Performing action
 If you have made a selection you can perform an action with one of the buttons
 in the toolbar on the bottom of the screen. The toolbar buttons are from left to right:
 
-- *Trash button*: If you press this button a pop-up will ask to to whether you would like to remove the selected waypoints from your device (and iCloud if enabled).
-If you press 'Remove' the selected waypoints will be removed.
+- *Trash button*: If you press this button a pop-up will ask to to whether you would like to remove the selected waypoints from your device (and iCloud if enabled). If you press 'Remove' the selected waypoints will be removed.
 
 - *Folder button*: If you press this button a screen with the folder tree will be opened. You can select a folder and the selected waypoints will be moved to a new folder.
 
