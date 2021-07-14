@@ -2,8 +2,7 @@
 
 Editing waypoints
 =================
-To edit a waypoint you have to press the ‘Edit’ button on
-the bottom of the :ref:`waypoint details screen <ss-waypoint-details>`.
+To edit a waypoint you have to press the ‘Edit’ button on the bottom of the :ref:`waypoint details screen <ss-waypoint-details>`.
 If you press this button an edit pop-up will appear like in the figure below:
 
 .. figure:: _static/waypoint-edit.png
@@ -11,7 +10,7 @@ If you press this button an edit pop-up will appear like in the figure below:
    :width: 320px
    :alt: Editing Waypoints Topo GPS
 
-   *Figure 1. A pop-up with four possibilities to modify a waypoint.*
+   *A pop-up with five possibilities to modify a waypoint.*
 
 The pop-up shows four possibilities to modify the waypoint.
 
@@ -19,6 +18,7 @@ The pop-up shows four possibilities to modify the waypoint.
 - *Edit photos*: Allows you to :ref:`edit the photos <ss-waypoint-edit-photos>` of a waypoint.
 - *Edit coordinate*: Allows you to :ref:`edit the coordinates <ss-waypoint-edit-coordinate>` of a waypoint.
 - *Move on map*: Allows you to :ref:`move the waypoint on the map <ss-waypoint-edit-map>`.
+- *Change icon*: Allows you to :ref:`change the icon of the waypoint <ss-waypoint-change-icon>`.
 
 .. _ss-waypoint-edit-title:
 
@@ -32,7 +32,7 @@ the description of the waypoint. An example is shown below:
    :width: 320px
    :alt: Editing Waypoints Topo GPS
 
-   *Figure 2. Modifying the description of the waypoint ‘Stonehenge’.*
+   *Modifying the description of the waypoint ‘Stonehenge’.*
 
 To save the changes you have to press ‘Save’ on the top right of the screen. You return to the waypoints details screen as you can see below:
 
@@ -41,7 +41,7 @@ To save the changes you have to press ‘Save’ on the top right of the screen.
    :width: 320px
    :alt: Editing Waypoints Topo GPS
 
-   *Figure 3. The description of the waypoint ‘Stonehenge’ has been modified.*
+   *The description of the waypoint ‘Stonehenge’ has been modified.*
 
 
 .. _ss-waypoint-edit-photos:
@@ -114,7 +114,7 @@ of editing the coordinates of the waypoint ‘Stonehenge’ is shown below:
 If you press ‘Save’ on the top right the waypoint will be displaced to
 the entered coordinates.
 
-.. se-waypoint-edit-map:
+.. _ss-waypoint-edit-map:
 
 Moving on map
 ~~~~~~~~~~~~~
@@ -141,3 +141,10 @@ new location, as is illustrated in the figure below:
    *Figure 10. The waypoint Stonehenge has been moved temporarily.*
 
 To save the new location of the waypoint you have to press ‘Save’ in the top right of the screen. Otherwise press ‘Cancel’.
+
+
+.. _ss-waypoint-change-icon:
+
+Change icon
+~~~~~~~~~~~
+
