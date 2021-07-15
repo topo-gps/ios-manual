@@ -48,9 +48,8 @@ To save the changes you have to press ‘Save’ on the top right of the screen.
 
 Editing photos
 ~~~~~~~~~~~~~~
-It is possible to add photos to waypoint and to remove waypoints from the waypoint.
-
-If you press ‘Edit photos’ in the :ref:`edit pop-up <ss-waypoint-edit>` the following screen will appear.
+By pressing the 'Edit photos' button in the :ref:`edit pop-up <ss-waypoint-edit>` you can add photos to the waypoint
+and remove photos from the waypoint. If you press this button the following screen will appear.
 
 .. figure:: _static/waypoint-photo1.png
    :height: 568px
@@ -62,10 +61,10 @@ If you press ‘Edit photos’ in the :ref:`edit pop-up <ss-waypoint-edit>` the 
 In the bottom toolbar of the photos screen you can find three buttons:
 
 - *Map button*: If you press this button you can import photos from your photo library to the waypoint.
-- *Camera button*: If you press this button the camera will be started. If you take a photo it will be added to the waypoint. You could also use Menu > Camera for this, then a waypoint is automatically created at your current location and the taken photo is added to it.
+- *Camera button*: If you press this button the camera will be opened. If you take a photo it will be added to the waypoint. You could also use Menu > Camera for this, then a waypoint is automatically created at your current location and the taken photo is added to it.
 - *Trash button*: Allows you to remove a photo from a waypoint.
 
-As an example we now will add a photo of ’Stonehenge’ to from our photo library by pressing the map icon. An example of the screen that appears is displayed below:
+As an example we now will add a photo of ’Stonehenge’ from our photo library by pressing the map icon. An example of the screen that appears is displayed below:
 
 .. figure:: _static/waypoint-photo2.jpg
    :height: 568px
@@ -73,6 +72,8 @@ As an example we now will add a photo of ’Stonehenge’ to from our photo libr
    :alt: Choosing photo from photo library Topo GPS
 
    *The photo library*
+
+*Used photo of Stonehenge CC-BY 2.0 `garethwiscombe <https://www.flickr.com/photos/garethwiscombe/1071477228/in/photostream/>`_ *
 
 In the photo library you can choose a photo. By pressing the photo it will be imported and added to the photos screen as you can see below:
 
