@@ -12,7 +12,7 @@ If you press this button an edit pop-up will appear like in the figure below:
 
    *A pop-up with five possibilities to modify a waypoint.*
 
-The pop-up shows four possibilities to modify the waypoint.
+The pop-up shows five possibilities to modify the waypoint.
 
 - *Edit text*: Allows you to :ref:`edit the title and description <ss-waypoint-edit-title>` of a waypoint.
 - *Edit photos*: Allows you to :ref:`edit the photos <ss-waypoint-edit-photos>` of a waypoint.
