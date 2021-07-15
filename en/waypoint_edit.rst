@@ -50,42 +50,42 @@ Editing photos
 ~~~~~~~~~~~~~~
 It is possible to add photos to waypoint and to remove waypoints from the waypoint.
 
-If you press ‘Edit photos’ in the :ref:`edit pop-up <ss-waypoint-edit>` the following photo’s screen will appear.
+If you press ‘Edit photos’ in the :ref:`edit pop-up <ss-waypoint-edit>` the following screen will appear.
 
 .. figure:: _static/waypoint-photo1.png
    :height: 568px
    :width: 320px
-   :alt: Editing Waypoints Topo GPS
+   :alt: Empty photos screen Topo GPS
 
-   *Figure 4. The photos screen if no photos are added to the waypoint.*
+   *The photos screen if no photos are added to the waypoint.*
 
-In the bottom of the photos screen you can find three buttons:
+In the bottom toolbar of the photos screen you can find three buttons:
 
-- *Map icon*: Allows you to import photos from your library to the waypoint.
-- *Camera icon*: Allows you to take photos and add them to your waypoint.
-- *Trash icon*: Allows you to remove a photo from a waypoint.
+- *Map button*: If you press this button you can import photos from your photo library to the waypoint.
+- *Camera button*: If you press this button the camera will be started. If you take a photo it will be added to the waypoint. You could also use Menu > Camera for this, then a waypoint is automatically created at your current location and the taken photo is added to it.
+- *Trash button*: Allows you to remove a photo from a waypoint.
 
 As an example we now will add a photo of ’Stonehenge’ to from our photo library by pressing the map icon. An example of the screen that appears is displayed below:
 
 .. figure:: _static/waypoint-photo2.jpg
    :height: 568px
    :width: 320px
-   :alt: Editing Waypoints Topo GPS
+   :alt: Choosing photo from photo library Topo GPS
 
-   *Figure 5. The photo library*
+   *The photo library*
 
 In the photo library you can choose a photo. By pressing the photo it will be imported and added to the photos screen as you can see below:
 
 .. figure:: _static/waypoint-photo3.jpg
    :height: 568px
    :width: 320px
-   :alt: Editing Waypoints Topo GPS
+   :alt: Photos screen with photo Topo GPS
 
-   *Figure 6. A photo of Stonehenge is added to the photos screen.*
+   *A photo of Stonehenge is added to the photos screen.*
 
-If you like you can add more photos from the library or using the camera.
+If you like you can add more photos from the library or using the camera. The added photos are always copied to Topo GPS. So removing the photo afterwards from your photo library does not remove the photo in Topo GPS. The resolution of the added photo can be set via 'Menu > Settings > Camera > Photo size'. Larger photo sizes will require more disk space.
 
-If you want to confirm the changes to the photos you have to press ‘Done’ on the top right of the photos screen. Then changes then will be saved and the photo’s will be added to the waypoint.  
+If you want to confirm the changes to the photos you have to press ‘Done’ on the top right of the photos screen. The changes will then be saved and the photos will be added to the waypoint.  
 
 You can view the added photos in the :ref:`waypoint details screen <ss-waypoint-details>` as is illustrated in the figure below:
 
@@ -94,7 +94,19 @@ You can view the added photos in the :ref:`waypoint details screen <ss-waypoint-
    :width: 320px
    :alt: Editing Waypoints Topo GPS
 
-   *Figure 7. A photo of Stonehenge can be viewed in the waypoint details screen.*
+   *A photo of Stonehenge can be viewed in the waypoint details screen.*
+
+If you press the photo in the waypoint details screen, the photo screen will be opened.
+
+.. figure:: _static/waypoint-photo5.jpg
+   :height: 568px
+   :width: 320px
+   :alt: Editing Waypoints Topo GPS
+
+   *A photo of Stonehenge in the .*
+
+In the photo screen you see a larger version of the photo. You can zoom in on this photo to by making a zoom gesture. Sharing the photo is possible by pressing the 'Export' icon on the top right. If you press 'Edit' on the top right you can also modify the photos of the waypoint.
+
 
 .. _ss-waypoint-edit-coordinates:
 
