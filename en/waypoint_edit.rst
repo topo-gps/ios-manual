@@ -73,9 +73,9 @@ As an example we now will add a photo of ’Stonehenge’ from our photo library
 
    *The photo library*
 
-*Used photo of Stonehenge CC-BY 2.0 `garethwiscombe <https://www.flickr.com/photos/garethwiscombe/1071477228/in/photostream/>`_ *
+*Used photo of Stonehenge CC-BY 2.0 `garethwiscombe <https://www.flickr.com/photos/garethwiscombe/1071477228/in/photostream/>`_*
 
-In the photo library you can choose a photo. By pressing the photo it will be imported and added to the photos screen as you can see below:
+In the photo library you can choose a photo. By pressing the photo it will be imported and added to the photos screen as you can see below.
 
 .. figure:: _static/waypoint-photo3.jpg
    :height: 568px
@@ -104,9 +104,10 @@ If you press the photo in the waypoint details screen, the photo screen will be 
    :width: 320px
    :alt: Editing Waypoints Topo GPS
 
-   *A photo of Stonehenge in the .*
+   *The photo screen with a photo of Stonehenge.*
 
-In the photo screen you see a larger version of the photo. You can zoom in on this photo to by making a zoom gesture. Sharing the photo is possible by pressing the 'Export' icon on the top right. If you press 'Edit' on the top right you can also modify the photos of the waypoint.
+In the photo screen you see a larger version of the photo. You can zoom in on this photo to by making a zoom gesture. Sharing the photo is possible by pressing the 'Export' icon on the top right. If you press 'Edit' on the top right you can modify the photos of the waypoint.
+If the waypoints has multiple photo's, you can browse through the available photos by sliding the current photo to the left or right.
 
 
 .. _ss-waypoint-edit-coordinates:
