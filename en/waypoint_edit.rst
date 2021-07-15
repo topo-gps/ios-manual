@@ -144,8 +144,8 @@ In the example of the waypoint ‘Stonehenge’ the following screen will appear
    :alt: Moving waypoint on map Topo GPS
 
    *The screen in which you can move a waypoint.*
-
-If you press long on the waypoint you can drag it to anew location, as is illustrated in the figure below:
+ 
+If you press long on the waypoint you can drag it to a new location, as is illustrated in the figure below:
 
 .. figure:: _static/waypoint-move-map2.png
    :height: 568px
