@@ -75,7 +75,7 @@ As an example we now will add a photo of ’Stonehenge’ from our photo library
 
    *The photo library*
 
-*Used photo of Stonehenge CC-BY 2.0 `garethwiscombe <https://www.flickr.com/photos/garethwiscombe/1071477228/in/photostream/>`_*
+(Used photo of Stonehenge CC-BY 2.0: `garethwiscombe <https://www.flickr.com/photos/garethwiscombe/1071477228/in/photostream/>`_)
 
 In the photo library you can choose a photo. By pressing the photo it will be imported and added to the photos screen as you can see below.
 
@@ -131,8 +131,8 @@ the entered coordinates.
 
 .. _ss-waypoint-edit-map:
 
-Moving on map
-~~~~~~~~~~~~~
+Move on map
+~~~~~~~~~~~
 By pressing `Move on map` in the :ref:`edit pop-up <ss-waypoint-edit>` you
 can move the location of the waypoint manually on a map.
 
@@ -161,4 +161,13 @@ To save the new location of the waypoint you have to press ‘Save’ in the top
 
 Change icon
 ~~~~~~~~~~~
+If you press 'Change icon' in the :ref:`edit pop-up <ss-waypoint-edit>` the waypoint icons screen will appear.
 
+.. figure:: _static/waypoint-icons-screen1.png
+   :height: 568px
+   :width: 320px
+   :alt: Waypoint icons screen Topo GPS
+
+   *The waypoint icons screen*
+
+The waypoint icons screen contains a list of available icons. The currently active icon of the waypoint has a grey background. If you tap an icon row the waypoint icon will be changed and you will return to the waypoint details screen. You can create a new icon by pressing + in the waypoint icons screen.
