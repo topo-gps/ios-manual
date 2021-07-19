@@ -7,7 +7,7 @@ you first have to open the waypoints screen. You can open
 the waypoints screen by pressing ‘Waypoints’ in the :ref:`menu <sec-menu>`.
 An example of the waypoints screen is displayed below:
 
-.. figure:: _static/waypoints-load1.png
+.. figure:: ../_static/waypoints-load1.png
    :height: 568px
    :width: 320px
    :alt: Loading waypoints Topo GPS
@@ -18,7 +18,7 @@ The waypoints screen shows the list of waypoints that are stored locally on your
 
 As an example we now will load the waypoint ‘Stonehenge’. After pressing the 'Stonehenge' item in the waypoint list, you will return to the map and the situation will then be as follows:
 
-.. figure:: _static/waypoints-load2.jpg
+.. figure:: ../_static/waypoints-load2.jpg
    :height: 568px
    :width: 320px
    :alt: Loading waypoints Topo GPS
@@ -29,7 +29,7 @@ In the figure you can see that a waypoint is shown on the map with a red circle 
 
 Waypoints that are loaded on the map acquire a grey background color in the waypoint screen. An example is shown below:
 
-.. figure:: _static/waypoints-load3.png
+.. figure:: ../_static/waypoints-load3.png
    :height: 568px
    :width: 320px
    :alt: Loading waypoints Topo GPS
