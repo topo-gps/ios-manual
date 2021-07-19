@@ -19,7 +19,7 @@ Opening selection screen
 ~~~~~~~~~~~~~~~~~~~~~~~~
 If you press the button 'More' on the top right of the waypoints screen, a menu will be show as in the figure below.
 
-.. figure:: _static/waypoints-select1.png
+.. figure:: ../_static/waypoints-select1.png
    :height: 568px
    :width: 320px
    :alt: Selecting waypoints Topo GPS
@@ -28,7 +28,7 @@ If you press the button 'More' on the top right of the waypoints screen, a menu 
 
 Press ‘Select’ in the menu to open the selection screen. It is also possible to open the selection screen by pressing long on an item in the waypoint list. That item will then be selected immediately. An example of a selection screen is shown below:
 
-.. figure:: _static/waypoints-select2.png
+.. figure:: ../_static/waypoints-select2.png
    :height: 568px
    :width: 320px
    :alt: Waypoint selection screen Topo GPS
@@ -40,7 +40,7 @@ Selecting waypoints
 ~~~~~~~~~~~~~~~~~~~
 To select a waypoint, tap a waypoint row in the selection screen. A checkmark will show up and the background of the waypoint row will become grey to indicate that it is selected. An example in which two waypoints are selected is displayed below:
 
-.. figure:: _static/waypoints-select3.png
+.. figure:: ../_static/waypoints-select3.png
    :height: 568px
    :width: 320px
    :alt: Two selected waypooints Topo GPS
@@ -70,7 +70,7 @@ in the toolbar on the bottom of the screen. The toolbar buttons are from left to
 
 As an example we now will load the two selected waypoints from the example above on the map by pressing the map icon. The map screen will appear and the map will be zoomed to the two selected waypoints as you can see in the figure below:
 
-.. figure:: _static/waypoints-select4.jpg
+.. figure:: ../_static/waypoints-select4.jpg
    :height: 568px
    :width: 320px
    :alt: Selecting waypoints Topo GPS
