@@ -18,8 +18,8 @@ Each waypoint is using an icon from the waypoint icons screen. The waypoint icon
 
 - From the :ref:`waypoint details screen <ss-waypoint-details>` by pressing 'Edit > Change icon'.
 - From the :ref:`waypoints screen <ss-waypoints-select>` by pressing 'More > Select > More (bottom) > Change icons'.
-- From the input coordinates screen by pressing the 'Icon' row.
-- From the :ref:`waypoint creation screen <ss-waypoint-create-map>` by pressing the 'Icon' row.
+- From the input coordinates screen by tapping the 'Icon' row.
+- From the :ref:`waypoint creation screen <ss-waypoint-create-map>` by tapping the 'Icon' row.
 
 
 Default icon
@@ -126,7 +126,7 @@ Press 'More > Select' to enter the selection mode. By pressing long on the handl
 
 Exporting icons
 ~~~~~~~~~~~~~~~
-If you press 'More > Select' in the waypoint icons screen you can select icons to be exported. Then if you press the export button in the bottom right you can export the selected icons. The icons will be exported in the wsf (Waypoint Style Format) file format. This is a special XML file format designed for use in Topo GPS. Another user of Topo GPS (iOS) can open this file with Topo GPS. Then all icons in this wsf file will be imported and shown in the waypoint icons screen.
+If you tap 'More > Select' in the waypoint icons screen you can select icons to be exported. Then if you press the export button in the bottom right you can export the selected icons. The icons will be exported in the wsf (Waypoint Style Format) file format. This is a special XML file format designed for use in Topo GPS. Another user of Topo GPS (iOS) can open this file with Topo GPS. Then all icons in this wsf file will be imported and shown in the waypoint icons screen.
 
 
 
