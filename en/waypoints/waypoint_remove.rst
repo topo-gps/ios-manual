@@ -11,7 +11,7 @@ tapping a waypoint that is loaded on the map.
 
 An example of the waypoint details screen is displayed below:
 
-.. figure:: _static/waypoint-remove1.png
+.. figure:: ../_static/waypoint-remove1.png
    :height: 568px
    :width: 320px
    :alt: Waypoints remove Topo GPS
@@ -22,7 +22,7 @@ You can remove the waypoint by pressing the trash icon on the bottom of
 the waypoint details screen. A pop-up will appear in which you have
 to confirm the removal as is shown below:
 
-.. figure:: _static/waypoint-remove2.png
+.. figure:: ../_static/waypoint-remove2.png
    :height: 568px
    :width: 320px
    :alt: Waypoints remove Topo GPS
