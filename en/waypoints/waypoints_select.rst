@@ -62,7 +62,7 @@ in the toolbar on the bottom of the screen. The toolbar buttons are from left to
 
 - *Map button*: If you press this button, the selected waypoints will be loaded on the map. The map will zoom automatically to the selected waypoitns and you will be returned to the map.
 
-- *More button*: If you press the more button, a menu will appear from which you can choose the following actions:
+- *More button*: If you press the more button in the bottom toolbar, a menu will appear from which you can choose the following actions:
 
   - *Remove from map*: If you press this button, the selected waypoints will be removed from the map.
   
