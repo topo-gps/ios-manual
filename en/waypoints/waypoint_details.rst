@@ -7,7 +7,7 @@ by pressing the info button (i) on the right hand side of a title in the :ref:`w
 
 The waypoint details screen of the waypoint ‘Stonehenge’ is displayed below:
 
-.. figure:: _static/waypoint-details.png
+.. figure:: ../_static/waypoint-details.png
    :height: 568px
    :width: 320px
    :alt: Waypoints details Topo GPS
