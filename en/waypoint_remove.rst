@@ -16,7 +16,7 @@ An example of the waypoint details screen is displayed below:
    :width: 320px
    :alt: Waypoints remove Topo GPS
 
-   *Figure 1. The waypoint details screen of the waypoint ‘Stonehenge’.*
+   *The waypoint details screen of the waypoint ‘Stonehenge’.*
 
 You can remove the waypoint by pressing the trash icon on the bottom of
 the waypoint details screen. A pop-up will appear in which you have
@@ -27,7 +27,7 @@ to confirm the removal as is shown below:
    :width: 320px
    :alt: Waypoints remove Topo GPS
 
-   *Figure 2. Removing the waypoint ‘Stonehenge’.*
+   *Removing the waypoint ‘Stonehenge’.*
 
 If you press ‘Remove’ the waypoint will be removed from your device.
 
