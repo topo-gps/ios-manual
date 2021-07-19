@@ -15,6 +15,7 @@ A waypoint is a location that can be added to the map. The icon and the title of
    waypoint_edit
    waypoint_remove
    waypoints_select
+   waypoints/waypoint_icons
    routes_search
    routes_organize
    routes_share
