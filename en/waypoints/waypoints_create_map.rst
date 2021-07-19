@@ -19,7 +19,7 @@ Creating waypoints on the map
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 If you press with one finger long on the map an icon will appear. An example is shown in the figure below:
 
-.. figure:: _static/waypoints-create-map1.jpg
+.. figure:: ../_static/waypoints-create-map1.jpg
    :height: 568px
    :width: 320px
    :alt: Waypoint press long on map Topo GPS
