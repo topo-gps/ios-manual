@@ -2,29 +2,33 @@
 
 Menu
 ====
-If the menu is opened, you can straightforwardly invoke several important functions
-of Topo GPS.
+The menu of Topo GPS can be used to access the most important functions of Topo GPS. It is shown in the top of the main map screen.
 
-You can open the menu by pressing the handle with the three dots on the top left of the screen. Or you can drag this handle to the left.
+You can open the menu by pressing the handle with the three dots on the top left of the main screen. Or you can drag this handle to the left.
 
-The menu then appears as in the screen below
+The menu then appears as in the screen below.
 
 .. figure:: _static/menu.png  
    :height: 568px
    :width: 320px
    :alt: Menu Topo GPS
 
-   *Figure 1. The opened menu.*
+   *The opened menu.*
 
-As you can see in Figure 1, the menu contains the following items:
+As you can see in the figure above, the menu contains the following items:
 
 - :ref:`Maps <sec-maps>` - To change map or buy additional maps. 
-- :ref:`Waypoints <sec-wp>` - To load waypoints on the map or create new ones by entering coordinates.
-- :ref:`Search <sec-searching>` - To search addresses and places.
-- :ref:`Plan <subsec-route_plannen>` - To plan routes.
-- :ref:`Camera <subsec-camera>` - To take pictures.
+- :ref:`Waypoints <sec-wp>` - To manage everything with waypoints like loading them on the map.
+- :ref:`Search <sec-searching>` - To search addresses and places and enter and scan coordinates.
+- :ref:`Routes <sec-routes>` - To manage everything with routes like loading, recording, planning, generating and importing routes. While routes are very important in Topo GPS you can also access the routes screen from the dashboard by pressing the route button on the bottom right of the screen. 
+- :ref:`Camera <subsec-camera>` - To take photos.
 - :ref:`More` - Here you can change the :ref:`settings <sec-settings>`, view the :ref:`legend <sec-legend>` and look up information about Topo GPS.
 
-To close the menu you have to move the handle with the three dots to the right.
+To close the menu you have to move the handle with the three dots to the right. If the menu is closed the main screen looks as follows:
 
-To :ref:`load routes on the map <subsec-route_laden>` you have to press the route icon on the bottom right of the :ref:`dashboard <sec-dashboard>`.
+.. figure:: _static/menu_closed.png  
+   :height: 568px
+   :width: 320px
+   :alt: Closed menu Topo GPS
+
+   *The closed menu.*
