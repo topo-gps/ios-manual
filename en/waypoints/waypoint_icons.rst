@@ -8,7 +8,7 @@ Waypoints are displayed on the map with an icon and a title. It is possible to c
 The icon of a waypoint or a set of waypoints can be set via the waypoint icons screen. 
 The waypoint icons screen displays the list of available icons on your device. An example is shown below.
 
-.. figure:: ../_static/waypoints-ic1.png
+.. figure:: ../_static/waypoint-ic1.png
    :height: 568px
    :width: 320px
    :alt: Waypoint icons screen Topo GPS
@@ -35,7 +35,7 @@ Creating icons
 In the waypoint icons screen above only the default icon is shown. To add a new icon press '+' on the top right.
 The 'New icon' screen will be opened.
 
-.. figure:: ../_static/waypoints-ic2.png
+.. figure:: ../_static/waypoint-ic2.png
    :height: 568px
    :width: 320px
    :alt: New icon screen Topo GPS
@@ -54,7 +54,7 @@ After you have the set the icon properties, you can give the icon a name and a d
 
 As an example we now will create an icon for ancient monuments. We choose a rotated rectangle as the shape, set the size to large, fill color to pink, and enter 'A' as inscription. Then for the name we enter 'Ancient monument' and as a description information about when to use this icon. The result is shown in the figure below.
 
-.. figure:: ../_static/waypoints-ic3.png
+.. figure:: ../_static/waypoint-ic3.png
    :height: 568px
    :width: 320px
    :alt: New icon screen Topo GPS
@@ -63,7 +63,7 @@ As an example we now will create an icon for ancient monuments. We choose a rota
    
 To save the icon, press 'Save' on the top right of the new icon screen. Then newly created waypoint icon will immediately shown in the waypoint icons screen as is shown below.
 
-.. figure:: ../_static/waypoints-ic4.png
+.. figure:: ../_static/waypoint-ic4.png
    :height: 568px
    :width: 320px
    :alt: Waypoint icons screen Topo GPS
