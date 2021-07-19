@@ -17,10 +17,10 @@ The waypoint icons screen displays the list of available icons on your device. A
 
 The waypoint icons screen can accessed in several ways when creating or modifying waypoints.
 
-- From the `waypoint details screen <ss-waypoint-details>` by pressing 'Edit > Change icon'.
-- From the `waypoints screen <ss-waypoints-select>` by pressing 'More > Select > More (bottom) > Change icons'.
+- From the :ref:`waypoint details screen <ss-waypoint-details>` by pressing 'Edit > Change icon'.
+- From the :ref:`waypoints screen <ss-waypoints-select>` by pressing 'More > Select > More (bottom) > Change icons'.
 - From the input coordinates screen by pressing the 'Icon' row.
-- From the `waypoint creation screen <ss-waypoint-create-map>` by pressing the 'Icon' row.
+- From the :ref:`waypoint creation screen <ss-waypoint-create-map>` by pressing the 'Icon' row.
 
 Default icon
 ~~~~~~~~~~~~
