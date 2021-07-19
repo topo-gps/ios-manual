@@ -5,7 +5,7 @@ Editing waypoints
 To edit a waypoint you have to press the ‘Edit’ button on the bottom of the :ref:`waypoint details screen <ss-waypoint-details>`.
 If you press this button an edit pop-up will appear like in the figure below:
 
-.. figure:: _static/waypoint-edit.png
+.. figure:: ../_static/waypoint-edit.png
    :height: 568px
    :width: 320px
    :alt: Editing Waypoints Topo GPS
@@ -27,7 +27,7 @@ Editing title and description
 By pressing ‘Edit text’ in the :ref:`edit pop-up <ss-waypoint-edit>` you can modify the title and
 the description of the waypoint. An example is shown below:
 
-.. figure:: _static/waypoint-edit-text1.png
+.. figure:: ../_static/waypoint-edit-text1.png
    :height: 568px
    :width: 320px
    :alt: Editing Waypoints Topo GPS
@@ -36,7 +36,7 @@ the description of the waypoint. An example is shown below:
 
 To save the changes you have to press ‘Save’ on the top right of the screen. You return to the waypoints details screen as you can see below:
 
-.. figure:: _static/waypoint-edit-text2.png
+.. figure:: ../_static/waypoint-edit-text2.png
    :height: 568px
    :width: 320px
    :alt: Editing Waypoints Topo GPS
@@ -51,7 +51,7 @@ Editing photos
 By pressing the 'Edit photos' button in the :ref:`edit pop-up <ss-waypoint-edit>` you can add photos to the waypoint
 and remove photos from the waypoint. If you press this button the following screen will appear.
 
-.. figure:: _static/waypoint-photo1.png
+.. figure:: ../_static/waypoint-photo1.png
    :height: 568px
    :width: 320px
    :alt: Empty photos screen Topo GPS
@@ -68,7 +68,7 @@ If you have made changes to the photos of a waypoint you have to press 'Done' on
 
 As an example we now will add a photo of ’Stonehenge’ from our photo library by pressing the map icon. An example of the screen that appears is displayed below:
 
-.. figure:: _static/waypoint-photo2.jpg
+.. figure:: ../_static/waypoint-photo2.jpg
    :height: 568px
    :width: 320px
    :alt: Choosing photo from photo library Topo GPS
@@ -79,7 +79,7 @@ As an example we now will add a photo of ’Stonehenge’ from our photo library
 
 In the photo library you can choose a photo. By pressing the photo it will be imported and added to the photos screen as you can see below.
 
-.. figure:: _static/waypoint-photo3.jpg
+.. figure:: ../_static/waypoint-photo3.jpg
    :height: 568px
    :width: 320px
    :alt: Photos screen with photo Topo GPS
@@ -92,7 +92,7 @@ If you want to confirm the changes to the photos you have to press ‘Done’ on
 
 You can view the added photos in the :ref:`waypoint details screen <ss-waypoint-details>` as is illustrated in the figure below:
 
-.. figure:: _static/waypoint-photo4.jpg
+.. figure:: ../_static/waypoint-photo4.jpg
    :height: 568px
    :width: 320px
    :alt: Editing Waypoints Topo GPS
@@ -101,7 +101,7 @@ You can view the added photos in the :ref:`waypoint details screen <ss-waypoint-
 
 If you tap a photo in the waypoint details screen, the photo screen will be opened with a larger version of the tapped photo.
 
-.. figure:: _static/waypoint-photo5.jpg
+.. figure:: ../_static/waypoint-photo5.jpg
    :height: 568px
    :width: 320px
    :alt: Editing Waypoints Topo GPS
@@ -119,7 +119,7 @@ By pressing ‘Edit coordinates’ in the :ref:`edit pop-up <ss-waypoint-edit>`
 the same screen appears when entering coordinates. An example 
 of editing the coordinates of the waypoint ‘Stonehenge’ is shown below:
 
-.. figure:: _static/waypoint-edit-coordinates.png
+.. figure:: ../_static/waypoint-edit-coordinates.png
    :height: 568px
    :width: 320px
    :alt: Editing coordinates of waypoints Topo GPS
@@ -138,7 +138,7 @@ can move the location of the waypoint manually on a map.
 
 In the example of the waypoint ‘Stonehenge’ the following screen will appear.
 
-.. figure:: _static/waypoint-move-map1.png
+.. figure:: ../_static/waypoint-move-map1.png
    :height: 568px
    :width: 320px
    :alt: Moving waypoint on map Topo GPS
@@ -147,7 +147,7 @@ In the example of the waypoint ‘Stonehenge’ the following screen will appear
  
 If you press long on the waypoint you can drag it to a new location, as is illustrated in the figure below:
 
-.. figure:: _static/waypoint-move-map2.png
+.. figure:: ../_static/waypoint-move-map2.png
    :height: 568px
    :width: 320px
    :alt: Moving waypoint on map Topo GPS
@@ -163,7 +163,7 @@ Change icon
 ~~~~~~~~~~~
 If you press 'Change icon' in the :ref:`edit pop-up <ss-waypoint-edit>` the waypoint icons screen will appear.
 
-.. figure:: _static/waypoint-icons-screen1.png
+.. figure:: ../_static/waypoint-icons-screen1.png
    :height: 568px
    :width: 320px
    :alt: Waypoint icons screen Topo GPS
