@@ -1,10 +1,9 @@
-.. _ss-waypoint-icons
+.. _ss-waypoint-icons:
 
 Waypoint icons
 ==============
 
-Waypoints are displayed on the map with an icon and a title. It is possible to customize the waypoint icon. 
-Each waypoint is either using the default icon or another icon from the waypoint icons screen. Multiple waypoints can use exactly the same icon.
+Waypoints are displayed on the map with an icon and a title. It is possible to customize the waypoint icon. Multiple waypoints can use exactly the same icon.
 
 The waypoint icons screen displays the list of available icons on your device. An example is shown below.
 
@@ -15,7 +14,7 @@ The waypoint icons screen displays the list of available icons on your device. A
 
    *The waypoint icons screen (Waypoint details > Edit > Change icon).*
 
-The waypoint icons screen can accessed in several ways when creating or modifying waypoints.
+Each waypoint is using an icon from the waypoint icons screen. The waypoint icons screen can accessed in several ways when creating or modifying waypoints.
 
 - From the :ref:`waypoint details screen <ss-waypoint-details>` by pressing 'Edit > Change icon'.
 - From the :ref:`waypoints screen <ss-waypoints-select>` by pressing 'More > Select > More (bottom) > Change icons'.
@@ -31,7 +30,7 @@ To change the default icon, tap the info button to open the 'Edit icon' screen. 
 
 You only need to change the default icon if you want to change the default red circle. Otherwise it is better to first create a new icon.
 
-.. _ss-waypoint-create-icons
+.. _ss-waypoint-create-icons:
 
 Creating icons
 ~~~~~~~~~~~~~~
@@ -99,7 +98,7 @@ In the details screen above, the used icon is shown below the title. On the main
    :width: 320px
    :alt: Main screen Topo GPS
    
-   *The 'Stonehenge' waypoint with the 'Ancient monument' icon on the main map.
+   *The 'Stonehenge' waypoint with the 'Ancient monument' icon on the main map.*
 
 Changing icon of multiple waypoints
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
