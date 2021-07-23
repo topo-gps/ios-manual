@@ -12,7 +12,7 @@ The waypoint details screen of the waypoint ‘Stonehenge’ is displayed below:
    :width: 320px
    :alt: Waypoints details Topo GPS
 
-   *Figure 1. The waypoint details screen of the waypoint ‘Stonehenge’.*
+   *The waypoint details screen of the waypoint ‘Stonehenge’.*
 
 The waypoint details screen contains information about the waypoint, such
 as the title and the coordinates. If available you can also find here a description, photos, a phone number and/or an URL.
