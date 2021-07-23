@@ -18,7 +18,7 @@ Then press More (top right) > New Folder. The new folder screen will be opened, 
    
    *The new folder screen*
    
-To create a folder, you have to enter a name. Optionally you can choose the location in the folder tree where the new folder is to be added. This is always set to the currently opened folder in the waypoints screen. If you press location you can change it to another location in the folder tree. When you have entered a name you can press 'Save' to create the a new folder. You will return to the waypoints screen and the newly created folder will be shown.
+To create a folder, you have to enter a name. Optionally you can choose the location in the folder tree where the new folder is to be added. This is always initially set to the currently opened folder in the waypoints screen. If you press location and select a folder you can change the location to another folder. When you have entered a name you need to press 'Save' to create a new folder. You will return to the waypoints screen and the newly created folder will be shown in the list.
 
 As an example we will enter 'Sights' and press 'Save' to create a 'Sights' folder. The waypoints screen now looks as follows:
 
