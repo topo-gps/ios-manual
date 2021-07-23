@@ -5,7 +5,7 @@ Exporting waypoints
 
 To export a single waypoint, open the :ref:`waypoint details screen <ss-waypoint-details>` and tap the export icon in the bottom toolbar.
 
-To export multiple waypoints, open the :ref:`waypoints screen <ss-waypoint-load> (Menu > Waypoints)`. Then open the :ref:`waypoint selection screen <ss-waypoints-select>` by tapping More > Select. Select the desired waypoints and folders and tap the export icon in the bottom toolbar.
+To export multiple waypoints, open the :ref:`waypoints screen <ss-waypoint-load>` (Menu > Waypoints). Then open the :ref:`waypoint selection screen <ss-waypoints-select>` by tapping More > Select. Select the desired waypoints and folders and tap the export icon in the bottom toolbar.
 
 After pressing the export icon the export pop-up will appear in both cases, an example is shown below:
 
@@ -58,6 +58,6 @@ The remaining sections deal with the map (image) that can be exported. You can s
 Exporting all waypoints
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-To export all waypoints stored on your device, open the :ref:`waypoints screen <ss-waypoint-load> (Menu > Waypoints)`. Make sure that the filter is not active (filter button has a blue edge). Go to the root waypoint folder, so that 'All waypoints' is displayed below the search bar. Make sure that the search bar is empty. 
+To export all waypoints stored on your device, open the :ref:`waypoints screen <ss-waypoint-load>` (Menu > Waypoints). Make sure that the filter is not active (filter button has a blue edge). Go to the root waypoint folder, so that 'All waypoints' is displayed below the search bar. Make sure that the search bar is empty. 
 Then open the :ref:`waypoint selection screen <ss-waypoints-select>` by tapping More > Select. Press 'All' on the top left to select all waypoints and folders. Then tap the export icon in the bottom toolbar to open the export pop-up. Select the kind of data to be exported in the export pop-up and press 'Export'.
 
