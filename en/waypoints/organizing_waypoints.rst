@@ -74,7 +74,7 @@ Below the search bar you can see the current location in the folder tree. If you
 
 Changing the order of waypoints 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Just the folder tree / filter bar in the waypoints screen the current sort method is displayed. If you tap it you can change it. If it is set to 'Customizable order' you can determine the order of the waypoints.
+Just below the folder tree / filter bar in the waypoints screen the current sort method is displayed. If you tap the sort method you can change it. If it is set to 'Customizable order' you can determine the order of the waypoints.
 
 To change the order of the waypoints in the 'Sights' folder, just open that folder. Then press More > Select to enter the selection mode.
 The waypoints screen looks then as follows:
@@ -86,7 +86,7 @@ The waypoints screen looks then as follows:
    
    *The 'Sights' folder in selection mode.*
 
-On the right hand side of each item there is a handle with three bars. Drag a handle to a desired position and release the finger. The waypoint will then be moved in the list to the desired location. In the example we below, we have move 'Stonehenge' to the top.
+On the right hand side of each item a handle with three bars is displayed. Drag such a handle to a desired position and release your finger. The waypoint will then be moved in the list to the desired location. In the example below, we have moved 'Stonehenge' to the bottom.
 
 .. figure:: ../_static/waypoint-folder7.png
    :height: 568px
