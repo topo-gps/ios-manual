@@ -11,7 +11,7 @@ In the waypoints screen (Menu > Waypoints) you can search waypoints by :ref:`ent
 Searching waypoints with keywords
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 If you enter a keyword in the search bar on the top of the waypoint screen only waypoints will be shown which have the keyword in its title, description, street, town, province, two character iso countrycode, or zip code. Search is case insenstive. 
-If you search in a folder, also all search results in descendant folders will be displyed.
+If you search in a folder, also all search results in descendant folders will be displayed.
 If a :ref:`filter <ss-waypoint-filter>` is applied, the search will restrict itself to the filtered waypoints.
 
 .. _ss-waypoint-sort:
@@ -25,8 +25,8 @@ If you tap the sort button you can change the current sort method between:
 - *Closest on top*: The waypoints are sorted according to their distance to your current location, the closest is on top.
 - *Newest on top*: The waypoints are sorted according to their creation time, the newest is on top.
 - *Oldest on top*: The waypoints are sorted according to their creation time, the oldest is on top.
-- *Most recently updated on top*: The waypoints are sorted according to the time at which they were last changed, the newest is on top.
-- *Least recently updated on top*: The waypoints are sorted according to the time at which they were last changed, the oldest is on top.
+- *Most recently updated on top*: The waypoints are sorted according to the time at which they were last changed, the waypoint that was changed most recently is on top.
+- *Least recently updated on top*: The waypoints are sorted according to the time at which they were last changed, the waypoint that was changed the longest go is on top.
 - *Alphabetically*: The waypoints are sorted in alphabetical order.
 
 .. _ss-waypoint-filter:
