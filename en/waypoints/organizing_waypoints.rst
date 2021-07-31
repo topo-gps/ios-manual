@@ -3,8 +3,11 @@
 Organizing waypoints
 ====================
 
-You can keep your waypoints organized by creating folders and moving waypoints into folders.
-It is also possible to change the order of the waypoints appearing in the waypoints screen.
+You can keep your waypoints organized by :ref:`creating folders <ss-waypoint-folder-create>` and :ref:`moving waypoints into folders <ss-waypoint-folder-move>`.
+It is also possible to :ref:`change the order of the waypoints <ss-waypoint-folder-reorder>` appearing in the waypoints screen.
+In addition you can keep waypoints organized by assinging them :ref:`specific icons <ss-waypoint-icons>`.
+
+.. _ss-waypoint-folder-create:
 
 Creating a folder
 ~~~~~~~~~~~~~~~~~
@@ -31,6 +34,7 @@ As an example we will enter 'Sights' and press 'Save' to create a 'Sights' folde
    
 The 'Sights' folder is listed in the waypoints screen with a folder icon.
 
+.. _ss-waypoint-folder-move:
 
 Moving waypoints into folder
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -56,6 +60,8 @@ As an example we now will move the waypoints 'Stonehenge' and 'Tower bridge' to 
 
 In the waypoints screen the waypoints 'Stonehenge' and 'Tower bridge' have disappeared. They now can be found in the folder 'Sights'.
 
+.. _ss-waypoint-folder-open:
+
 Opening a folder
 ~~~~~~~~~~~~~~~~
 To open a folder, just tap the folder item in the waypoints screen. As an example we now open the folder 'Sights'. The waypoints screen will then look as follows:
@@ -71,6 +77,28 @@ The 'Stonehenge' and 'Tower bridge' waypoints now can be found in the 'Sights' f
 
 Below the search bar you can see the current location in the folder tree. If you press 'All waypoints' you will return to the root folder.
 
+.. _ss-waypoint-folder-load:
+
+Loading contents of folder
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+To load all waypoints in a folder and its descendant folders, first tap the info button next to a folder in the waypoints screen (Menu > Waypoints). Then press 'Show on map' on the top right to load all waypoints on the map. You will return to the main map screen and the map will be zoomed to the contents of the folder. 
+
+Alternatively, press long on a folder item in the waypoints screen (Menu > Waypoints) to enter the selection mode. Then press the map icon in the bottom toolbar to load the contents of the folder on the map.
+
+.. _ss-waypoint-folder-load:
+
+Removing contents of folder from map
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+To remove the waypoints in a folder and it descendant folders from the map, first tap the info button next to a folder in the waypoints screen (Menu > Waypoints) to open the folder details screen. Then press 'Remove from map' on the top right to remove all waypoints from the map. If 'Shown on map' is shown, first tap it to load all waypoints, then go back to the waypoints screen to open the folder details screen. Then press 'Remove from map' on the top right.
+
+.. _ss-waypoint-folder-rename:
+
+Renaming folders
+~~~~~~~~~~~~~~~~
+To rename a folder first open the waypoints screen (Menu > Waypoints) and tap the info button next to a folder item to open the folder details screen. Then tap 'Edit' in the bottom toolbar, change the name and press 'Save'.
+
+
+.. _ss-waypoint-folder-reorder:
 
 Changing the order of waypoints 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
