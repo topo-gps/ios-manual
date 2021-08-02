@@ -4,12 +4,12 @@ Dashboard
 =========
 On the bottom of the :ref:`map screen <sec-map>` you will find the dashboard as you can see in the figure below.
 
-.. figure:: _static/dashboard1.png
+.. figure:: ../_static/dashboard1.png
    :height: 140px
    :width: 640px
    :alt: Dashboard Topo GPS
 
-   *Figure 1. The dashboard on the bottom of the map screen.*
+   *The dashboard on the bottom of the map screen.*
 
 With the dashboard you can operate Topo GPS. On the dashboard information about the speed, time and distance is displayed. 
 
@@ -54,12 +54,12 @@ Hiking panel
 ------------
 The hiking panel is ideal for walking and is shown below:
 
-.. figure:: _static/dashboard1.png
+.. figure:: ../_static/dashboard1.png
    :height: 134px
    :width: 640px
    :alt: Dashboard Topo GPS
 
-   *Figure 2. The dashboard with the hiking panel.*
+   *The dashboard with the hiking panel.*
 
 The four counters on the hiking panel are subsequently the :ref:`speedo- and altimeter <subsec-snelheid>`,
 the :ref:`route distance meter <subsec-routeafstand>`, the :ref:`record clock <subsec-klok>`
@@ -123,12 +123,12 @@ Cycling panel
 In the cycling panel your speed is somewhat more emphasized and your altitude
 can be seen directly. The cycling panel looks as follows: 
 
-.. figure:: _static/dashboard2.png
+.. figure:: ../_static/dashboard2.png
    :height: 134px
    :width: 640px
    :alt: Dashboard Topo GPS
 
-   *Figure 3. The dashboard with the cycling panel.*
+   *The dashboard with the cycling panel.*
 
 In the center you will find the :ref:`speedometer <subsec-snelheid>` that functions
 in the same way as in the hiking panel (without an altimeter).
@@ -149,22 +149,22 @@ Coordinate panel
 ------------------
 Using the coordinate panel you can straightforwardly  read off coordinates from the map. An example of the coordinate panel is displayed below
 
-.. figure:: _static/dashboard3.png
+.. figure:: ../_static/dashboard3.png
    :height: 135px
    :width: 640px
    :alt: Dashboard Topo GPS
    
-   *Figure 4. The dashboard with the coordinate panel.*
+   *The dashboard with the coordinate panel.*
 
 If the coordinate panel is loaded, a cross appears in the middle of the map,
 as you can see below:
 
-.. figure:: _static/map-coordinate-panel.png
+.. figure:: ../_static/map-coordinate-panel.png
    :height: 568px
    :width: 320px
    :alt: Dashboard Topo GPS
 
-   *Figure 5. The map with the coordinate panel.*
+   *The map with the coordinate panel.*
 
 The coordinate that is displayed on the coordinate panel is the coordinate of the point in the middle of the cross.
 
