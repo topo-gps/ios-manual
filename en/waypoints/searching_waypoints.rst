@@ -98,7 +98,7 @@ Then in the bottom of the filter edit screen, enable filtering on icon:
    :width: 320px
    :alt: Waypoint search Topo GPS
   
-   *Enabling filtering on icon.*
+   *Filtering on icon is enabled.*
 
 In the figure above, filtering on icon is enabled. The icon is set to the default icon, implying that this filter only will show waypoints which have the default icon. To modify this to a specific icon, tap the icon in the filter edit screen. Then the waypoint icons screen will be opened, from which you can select another icon. In the example below we have choosen for the 'Ancient monument' icons.
 
