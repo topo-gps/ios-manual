@@ -55,8 +55,7 @@ into a waypoint and export your current location with the buttons in the bottom 
 In the location information screen you find subsequently the following information:
 
 - *Map*: A map of the surroundings of your current location. You can also zoom and move this map.
-- *Coordinates*: The coordinates of your current location in various formats. You can change the displayed coordinate systems by tapping 'Edit' in the top right of the current location screen and then Displayed coordinates types.
-If you press long on a coordinate you can select it, and then press 'Share' to share the coordinates in textual format.
+- *Coordinates*: The coordinates of your current location in various formats. You can change the displayed coordinate systems by tapping 'Edit' in the top right of the current location screen and then Displayed coordinates types. If you press long on a coordinate you can select it, and then press 'Share' to share the coordinates in textual format.
 - *Address*: The approximate address of your location. If you move this address will be updated automatically. If you press long on the address you can select and share it. If you press 'Edit' you can disabled automatic lookup of addresses in the current location screen.
 - *Location accuracy*: The accuracy of the location determination. This accuracy means that your true location has a high probability of being inside a circle with a radius equal to the accuracy. If the GPS signal is good the location accuracy is 5 m or less.
 - *Altitude*: The current altitude of the device above the WGS84 geoid with the accuracy.
