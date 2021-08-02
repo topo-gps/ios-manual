@@ -3,7 +3,7 @@
 Waypoint icons
 ==============
 
-Waypoints are displayed on the map with an icon and a title. It is possible to customize the waypoint icon. Multiple waypoints can use exactly the same icon.
+Waypoints are displayed on the map with an icon and a title. It is possible to customize the waypoint icon. Multiple waypoints can use exactly the same icon. Waypoints in the waypoints screen (Menu > Waypoints) can be :ref:`filtered on icon <ss-waypoint-filter-icon>`.
 
 The waypoint icons screen displays the list of available icons on your device. An example is shown below.
 
