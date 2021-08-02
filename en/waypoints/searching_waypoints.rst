@@ -61,6 +61,8 @@ In the figure above you see an example of an enabled filter. Below the search ba
 Here the waypoints are filtered on location, only waypoints within 100 km of the current location are shown.
 If you tap the filter description you can modify the current filter. To disable the filter, tap on the filter button.
 
+.. _ss-waypoint-filter-location:
+
 Filtering on location
 ---------------------
 To filter the waypoints on location, tap the filter button to enable the filter. Then tap the filter description to modify the current filter. 
@@ -73,15 +75,47 @@ The following screen will be shown in which you can change the current filter:
   
    *Modifying a filter.*
 
+In the section 'Waypoint location' you can change the properties of the location filter.
+The slider can be moved to determine the maximal distance of shown waypoints to a specific point.
+Below the slider, the point is displayed. In the example above this is the current location.
+If you tap it, you could change the current point to:
+
+- *Everywhere*: There is no filtering on location.
+- *Current location*: Only waypoints within a certain distance of the current location are shown.
+- *Visible part of map*: Only waypoints that are within the bounds of the currently visible part of the main map are shown in the waypoints sceen.
+- *Custom location*: If you enter a custom location or coordinate only waypoint within a certain distance of the entered location are shown.
+
+
+.. _ss-waypoint-filter-icon:
 
 Filtering on icon
 -----------------
+To filter the waypoints on location, tap the filter button to enable the filter. Then tap the filter description to modify the current filter.
+Then in the bottom of the filter edit screen, enable filtering on icon:
 
-.. figure:: ../_static/waypoint-search4.png
+.. figure:: ../_static/waypoint-search5.png
    :height: 568px
    :width: 320px
    :alt: Waypoint search Topo GPS
   
-   *Modifying a filter.*
-   
+   *Enabling filtering on icon.*
+
+In the figure above, filtering on icon is enabled. The icon is set to the default icon, implying that this filter only will show waypoints which have the default icon. To modify this to a specific icon, tap the icon in the filter edit screen. Then the waypoint icons screen will be opened, from which you can select another icon. In the example below we have choosen for the 'Ancient monument' icons.
+
+.. figure:: ../_static/waypoint-search6.png
+   :height: 568px
+   :width: 320px
+   :alt: Waypoint search Topo GPS
+  
+   *Setting the filter to the 'Ancient monument icon'.*
+
+When applying a filtering on icon, only waypoints with a specific icon will be shown in the waypoints screen, as in the figure below. There you see only waypoints with the 'Ancient monument' icon. To indicate that an icon filter is active, the icon on which is filtered is displayed below the search bar left of the filter description.
+
+.. figure:: ../_static/waypoint-search7.png
+   :height: 568px
+   :width: 320px
+   :alt: Waypoint search Topo GPS
+  
+   *Filtering on 'Ancient monuments'.*
+
    
