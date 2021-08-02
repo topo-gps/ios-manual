@@ -12,10 +12,11 @@ Contents:
 .. toctree::
    :maxdepth: 3 
    
-   map
+   main_screen
    dashboard
    menu
    your_location
+   maps/maps
    waypoints
    routes
    search_address
