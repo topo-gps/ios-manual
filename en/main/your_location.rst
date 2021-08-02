@@ -96,7 +96,7 @@ If you press 'Save' your current position will be saved immediately as a waypoin
 
 Creating waypoint on current location
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-By tapping 'Create waypoint' in the bottom toolbar of the current location screen you can create a waypoint at the current location. The difference between tapping 'Save' is that it is slower, but you now also can enter the title, description and change the icon. Exactly the same screen appears in the case if you :ref:`create a waypoint from the map <ss-waypoint-create-map>`.
+By tapping 'Create waypoint' in the bottom toolbar of the current location screen you can create a waypoint at the current location. The difference between tapping 'Save' is that it is slower, but now a waypoint creation screen will pop-up in which you can enter the title, description and change the icon. This is the same screen which appears when :ref:`creating a waypoint from the map <ss-waypoint-create-map>`.
 
 Sharing current location
 ~~~~~~~~~~~~~~~~~~~~~~~~
