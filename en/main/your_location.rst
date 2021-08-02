@@ -2,8 +2,7 @@
 
 Your location
 =============
-Your location will be displayed on the :ref:`map <sec-map>` with
-the position marker:
+Your location is displayed on the :ref:`map <sec-map>` with the position marker:
 
 .. figure:: ../_static/posmarker.png
    :height: 150px
@@ -12,18 +11,28 @@ the position marker:
 
    *The position marker.*
 
-If you stand still, the position marker points in the direction in which you point your device.
+If you are standing still, the position marker points in the direction in which you point your device.
 If you are moving, the position marker points in the direction in which you are moving.
 
 The arrow in the status bar next to the battery icon, indicates that the location services are currently in use. This can cause faster battery consumption than usual. Therefore pay attention to the battery level when using Topo GPS.
 
+The default position marker icon is red, you can change it to another color via Menu > More > Settings > Styles > Position.
+
+To center the map on your location, tap the center button on the left hand side of the :ref:`dashboard <sec-dashboard>`.
+
+To enable location access for Topo GPS, first make sure that iOS Settings > Privacy > Location Services is enabled. Then in the
+same screen give Topo GPS access to precise location while using the app. Or go to iOS Settings > Topo GPS. 
+
+
+
 .. _ss-pm_pi:
 
-Location information screen
----------------------------
-If you tap the position marker, the location information screen will appear. You can also open this screen by pressing long on the :ref:`position marker icon <subsec-ps>` on the dashboard.
+Current location screen
+-----------------------
+If you tap the position marker on the map, the current location screen will appear. 
+You can also open this screen by pressing long on the :ref:`position marker icon <subsec-ps>` on the :ref:`dashboard <sec-dashboard>`.
 
-An example of the location information screen is displayed below:
+An example of the current location screen is displayed below:
 
 .. figure:: ../_static/posmarker2.png
    :height: 568px
