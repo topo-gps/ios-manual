@@ -4,7 +4,7 @@ Main screen
 ===========
 If you start Topo GPS a map will be displayed at first. An example is shown below: 
 
-.. figure:: _static/map1.png  
+.. figure:: ../_static/map1.png  
    :alt: Topo GPS main screen
 
    *Figure 1. The map screen of Topo GPS. The red marker indicates your current location.*
@@ -40,7 +40,7 @@ Screen orientation
 ~~~~~~~~~~~~~~~~~~
 By rotating your device you can change the screen orientation from portrait to landscape. An example of landscape mode is displayed below:
 
-.. figure:: _static/map4.png  
+.. figure:: ../_static/map4.png  
    :alt: Screen orientation landscape Topo GPS
 
    *Main screen in landscape mode.*
