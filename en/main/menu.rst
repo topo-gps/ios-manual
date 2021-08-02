@@ -8,7 +8,7 @@ You can open the menu by pressing the handle with the three dots on the top left
 
 The menu then appears as in the screen below.
 
-.. figure:: _static/menu.png  
+.. figure:: ../_static/menu.png  
    :height: 568px
    :width: 320px
    :alt: Menu Topo GPS
@@ -27,7 +27,7 @@ As you can see in the figure above, the menu contains the following items:
 
 To close the menu you have to move the handle with the three dots to the right. If the menu is closed the main screen looks as follows:
 
-.. figure:: _static/menu_closed.png  
+.. figure:: ../_static/menu_closed.png  
    :height: 568px
    :width: 320px
    :alt: Closed menu Topo GPS
