@@ -1,4 +1,4 @@
-.. _subsec-modify:
+.. _ss-modifying-map-screen:
 
 Modifying map screen
 --------------------
@@ -8,7 +8,7 @@ Move
 ~~~~
 To move the map you have to hold a finger on the map. When you move your finger, the map will be moved as well. You can also move the map by making a quick swipe with your finger on the map.
 
-.. _subsec-zooming:
+.. _subsec-zoom:
 
 Zoom
 ~~~~
@@ -18,17 +18,17 @@ Zoom
 If you do not like zooming in with one tap on the bottom of the map and zooming out with one tap at the top, you can
 swap this in the :ref:`settings <ss-settings-onetapzoom>`. You can also change there bottom/top into left/right.
 
-.. _subsec-centreren:
+.. _subsec-center:
 
 Center
 ~~~~~~
 By pressing the position marker symbol on the bottom left of the screen, the map will be centered around your current location. An example
 is shown in the figure below.
  
-.. figure:: _static/map2.png  
+.. figure:: ../_static/map2.png  
    :alt: Kaart centreren Topo GPS
 
-   *Figure 2. A centered map.*
+   *A centered map.*
 
 - *Move:* If you are moving, the map will stay centered automatically. The map will move with your movement.
 - *Zoom in* If you zoom in by tapping on the bottom of the map, the map stays centered.
@@ -52,10 +52,10 @@ By pressing once on the position marker icon on the bottom left of the screen, t
 
 The map is then rotated such that the top of the map indicates the direction in which you point your iPhone/iPad. If you are moving the top of the map will indicate the direction in which you move. An example is shown in the figure below:
 
-.. figure:: _static/map3.png  
+.. figure:: ../_static/map3.png  
    :alt: Kaart roteren Topo GPS
 
-   *Figure 3. A rotated map.*
+   *A rotated map.*
 
 Rotating the map can be useful when you are following a route. Left and right on the map are than also left and right in reality. In addition the position maker will stay centered on the map.
 
