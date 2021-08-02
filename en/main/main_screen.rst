@@ -7,7 +7,7 @@ If you start Topo GPS a map will be displayed at first. An example is shown belo
 .. figure:: ../_static/map1.png  
    :alt: Topo GPS main screen
 
-   *Figure 1. The map screen of Topo GPS. The red marker indicates your current location.*
+   *The main screen of Topo GPS. The red marker indicates your current location.*
 
 To find your location on the map you have to press the position marker icon on the bottom left of the screen.
 
@@ -34,19 +34,10 @@ A red circle around the position marker indicates an estimate of the accuracy of
 
 An arrow that indicates the map north can be switched on in the settings.
 
-.. _subsec-screen-ortientation:
+.. toctree::
+   :maxdepth: 2
 
-Screen orientation
-~~~~~~~~~~~~~~~~~~
-By rotating your device you can change the screen orientation from portrait to landscape. An example of landscape mode is displayed below:
-
-.. figure:: ../_static/map4.png  
-   :alt: Screen orientation landscape Topo GPS
-
-   *Main screen in landscape mode.*
-
-If you do not want the screen to rotate if you rotate your device, you can lock the
-screen orientation in the :ref:`settings <ss-settings>`.
-
-
-
+   your_location
+   menu
+   dashboard
+   screen-orientation
