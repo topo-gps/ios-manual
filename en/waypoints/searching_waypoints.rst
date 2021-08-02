@@ -14,6 +14,13 @@ If you enter a keyword in the search bar on the top of the waypoint screen only 
 If you search in a folder, also all search results in descendant folders will be displayed.
 If a :ref:`filter <ss-waypoint-filter>` is applied, the search will restrict itself to the filtered waypoints.
 
+.. figure:: ../_static/waypoint-search1.png
+   :height: 568px
+   :width: 320px
+   :alt: Waypoint search Topo GPS
+  
+   *Searching on 'Stone'*
+   
 .. _ss-waypoint-sort:
 
 Sorting waypoints
@@ -29,7 +36,52 @@ If you tap the sort button you can change the current sort method between:
 - *Least recently updated on top*: The waypoints are sorted according to the time at which they were last changed, the waypoint that was changed the longest go is on top.
 - *Alphabetically*: The waypoints are sorted in alphabetical order.
 
+.. figure:: ../_static/waypoint-search2.png
+   :height: 568px
+   :width: 320px
+   :alt: Waypoint sorting Topo GPS
+  
+   *Sorting waypoints on distance to current location.*
+
 .. _ss-waypoint-filter:
 
 Filtering waypoints
 ~~~~~~~~~~~~~~~~~~~
+It is also possible to filter waypoints on location and on icon kind.
+To enable a filter, tap the filter button in the waypoints screen (just below the search bar on the right hand side). If the filter is enabled, the filter button has a blue background, as in the figure below. If the filter is disabled, only the edge of the filter button is blue, as in the figure above.
+
+.. figure:: ../_static/waypoint-search3.png
+   :height: 568px
+   :width: 320px
+   :alt: Waypoint enabled filter Topo GPS
+  
+   *A filter is enabled.*
+   
+In the figure above you see an example of an enabled filter. Below the search bar on the left hand side you see a description of the currently active filter. 
+Here the waypoints are filtered on location, only waypoints within 100 km of the current location are shown.
+If you tap the filter description you can modify the current filter. To disable the filter, tap on the filter button.
+
+Filtering on location
+---------------------
+To filter the waypoints on location, tap the filter button to enable the filter. Then tap the filter description to modify the current filter. 
+The following screen will be shown in which you can change the current filter:
+
+.. figure:: ../_static/waypoint-search4.png
+   :height: 568px
+   :width: 320px
+   :alt: Waypoint filter modifying Topo GPS
+  
+   *Modifying a filter.*
+
+
+Filtering on icon
+-----------------
+
+.. figure:: ../_static/waypoint-search4.png
+   :height: 568px
+   :width: 320px
+   :alt: Waypoint search Topo GPS
+  
+   *Modifying a filter.*
+   
+   
