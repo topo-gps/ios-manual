@@ -72,8 +72,6 @@ By dragging the handles on the right hand side the order of the elements can be 
 
 By tapping 'Displayed coordinate types' the displayed coordinate types can be set so that only coordinate systems which are of interested to you are displayed.
 
-By tapping 'Waypoint title' you can change the automatic title of a waypoint.
-
 .. _ss-current-location-save:
 
 Saving current location
