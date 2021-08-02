@@ -5,12 +5,12 @@ Your location
 Your location will be displayed on the :ref:`map <sec-map>` with
 the position marker:
 
-.. figure:: _static/posmarker.png
+.. figure:: ../_static/posmarker.png
    :height: 150px
    :width: 150px
    :alt: Positiemarker Topo GPS
 
-   *Figure 1. The position marker.*
+   *The position marker.*
 
 If you stand still, the position marker points in the direction in which you point your device.
 If you are moving, the position marker points in the direction in which you are moving.
@@ -25,12 +25,12 @@ If you tap the position marker, the location information screen will appear. You
 
 An example of the location information screen is displayed below:
 
-.. figure:: _static/posmarker2.png
+.. figure:: ../_static/posmarker2.png
    :height: 568px
    :width: 320px
    :alt: Position information Topo GPS
 
-   *Figure 2. The top of the location information screen.*
+   *The top of the location information screen.*
 
 Elements location information screen
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -54,12 +54,12 @@ In the location information screen you find subsequently:
 
 * Your location translated to an address. This only functions if you are connected to the internet. Furthermore you should have enabled the option :ref:`‘Addresses - Find automatically’ <settings-addresses>` in the :ref:`settings <ss-settings>`.
 
-.. figure:: _static/posmarker3.png
+.. figure:: ../_static/posmarker3.png
    :height: 568px
    :width: 320px
    :alt: Position information Topo GPS
 
-   *Figure 3. The bottom of the location information screen.*
+   *The bottom of the location information screen.*
 
 * The compass direction in which you point your device in degrees. This direction is relative to the true (geographic) north. 
    
@@ -74,12 +74,12 @@ Saving current location
 ~~~~~~~~~~~~~~~~~~~~~~~
 By pressing ‘Save’ in the bottom right of the location information screen you can save your current position as a :ref:`waypoint <sec-wp>`. The waypoint will be given a title based on the current time and date and it will be put on the map as you can see below:
 
-.. figure:: _static/posmarker4.png  
+.. figure:: ../_static/posmarker4.png  
    :height: 568px
    :width: 320px
    :alt: Saving current location as waypoint Topo GPS
 
-   *Figure 4. Saving your current location as a waypoint.* 
+   *Saving your current location as a waypoint.* 
 
 
 Sharing current location
