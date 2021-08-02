@@ -2,7 +2,7 @@
 
 Main screen
 ===========
-If you open the Topo GPS app a screen with a map will be displayed at first. This is the main screen. An example is shown below: 
+If you open the Topo GPS app a screen with a map will be displayed. This is the main screen. An example is shown below: 
 
 .. figure:: ../_static/map1.png  
    :alt: Topo GPS main screen
