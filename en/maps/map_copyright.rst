@@ -7,7 +7,7 @@ This is that button on which it says: ‘Map: ....’. Next you have to select t
 
 The map copyright screen of the topographic map of Great Britain is displayed in the figure below:
 
-.. figure:: _static/map-copyright.png  
+.. figure:: ../_static/map-copyright.png  
    :height: 568px
    :width: 320px
    :alt: Copyright map Topo GPS
