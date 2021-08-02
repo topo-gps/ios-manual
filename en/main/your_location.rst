@@ -79,7 +79,7 @@ By tapping 'Waypoint title' you can change the automatic title of a waypoint.
 
 Saving current location
 ~~~~~~~~~~~~~~~~~~~~~~~
-By pressing ‘Save’ in the bottom right of the location information screen you can save your current position as a :ref:`waypoint <sec-wp>`. The waypoint will be given a title based on settings which you can change by tapping 'Edit > Waypoint title' in the current location screen.
+By tapping ‘Save’ in the bottom right of the current location screen you can save your current position as a :ref:`waypoint <sec-wp>`. The waypoint will be given a title based on settings which you can change by tapping 'Edit > Waypoint title' in the current location screen.
 The automatic waypoint title can be set to either:
 
 - *Time*: The current time
@@ -99,8 +99,8 @@ If you press 'Save' your current position will be saved immediately as a waypoin
 
 Creating waypoint on current location
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
+By tapping 'Create waypoint' in the bottom toolbar of the current location screen you can create a waypoint at the current location. The difference between tapping 'Save' is that it is slower, but you now also can enter the title, description and change the icon. Exactly the same screen appears in the case if you :ref:`create a waypoint from the map <ss-waypoint-create-map>`.
 
 Sharing current location
 ~~~~~~~~~~~~~~~~~~~~~~~~
-By pressing 'Share' on the bottom left of the current location screen you can share your location. An export pop-up will appear exactly as what happens when sharing waypoints.
+By pressing 'Share' on the bottom left of the current location screen you can share your location. An export pop-up will appear exactly as what happens when :ref:`exporting waypoints <ss-waypoints-exporting>`.
