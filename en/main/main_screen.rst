@@ -26,4 +26,4 @@ On the bottom left corner of the map you will find the copyright information of 
    your_location
    menu
    dashboard
-   screen-orientation
+   screen_orientation
