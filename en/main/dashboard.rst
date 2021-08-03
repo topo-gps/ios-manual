@@ -2,7 +2,7 @@
 
 Dashboard
 =========
-On the bottom of the :ref:`main screen <sec-main-screen>` you will find the dashboard:
+The bottom bar in the :ref:`main screen <sec-main-screen>` is the dashboard:
 
 .. figure:: ../_static/dashboard1.png
    :height: 140px
@@ -144,11 +144,12 @@ The :ref:`route distance meter <ss-route-distance>` is located in the top right.
 The :ref:`record distance meter <ss-rec-distance>` can be found in the bottom right.
 
 
-.. _ss-coordinatepanel:
+.. _ss-coordinate-panel:
 
 Coordinate panel
-------------------
-Using the coordinate panel you can straightforwardly read off coordinates from the map. An example of the coordinate panel is displayed below
+----------------
+With the coordinate panel you can straightforwardly read off coordinates from the map. 
+An example of the coordinate panel is displayed below:
 
 .. figure:: ../_static/dashboard3.png
    :height: 135px
@@ -158,7 +159,7 @@ Using the coordinate panel you can straightforwardly read off coordinates from t
    *The dashboard with the coordinate panel.*
 
 If the coordinate panel is loaded, a cross appears in the middle of the map,
-as you can see below:
+as is illustrated below:
 
 .. figure:: ../_static/map-coordinate-panel.png
    :height: 568px
@@ -169,22 +170,10 @@ as you can see below:
 
 The coordinate that is displayed on the coordinate panel is the coordinate of the point in the middle of the cross.
 
-By moving the map around you can easily position the middle of the cross to the point from which
+By moving the map around you can position the middle of the cross to the point from which
 you want to determine the coordinate. To quickly determine the coordinates of your current position,
-you can center the map by pressing the :ref:`position marker icon <subsec-ps>` on the left hand side of the dashboard.
+you can center the map by pressing the :ref:`position button <subsec-ps>` on the left hand side of the dashboard.
 
-If you press the coordinate on the panel, the coordinate will be shown in a different format or system.
+If you tap the coordinate on the coordinate panel, the coordinate will be shown in a different format.
 
-Subsequently these are
-
-- WGS longitude latitude, decimal.
-- WGS longitude latitude, degree minutes.
-- WGS longitude latitude, degree minutes seconds.
-- UTM.
-- MGRS.
-- Other local coordinate systems. For example NZTM2000 is displayed when pointed on New Zealand and OSNG coordinates for Great Britain.
-
-
-
-
-
+The possible coordinate formats can be set via :ref:`Menu <sec-menu>` > More > :ref:`Settings <sec-settings>` > Coordinates > Displayed coordinate types.
