@@ -84,3 +84,8 @@ If the map is rotated, an north arrow will appear on the top left of the screen.
 If you zoom the map or move the map the map stays rotated.
 
 Manual rotation can be cancelled by pressing the north arrow. It is also possible to undo the rotation by manually rotating back to the normal situation.
+
+
+Long press
+~~~~~~~~~~
+If you press long on the map an icon will appear which you can drag to a certain location. If you release it, you can :ref:`create a waypoint <s-waypoint-create-map>` on that location. If you accidentally pressed long on the map, drag the icon to the top of or the bottom of the main screen. The icon will disappear and the waypoint creation screen will not be shown.
