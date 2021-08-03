@@ -1,4 +1,4 @@
-.. _ss-maps:
+.. _sec-maps:
 
 Maps
 ====
