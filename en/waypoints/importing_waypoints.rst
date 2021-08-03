@@ -15,7 +15,7 @@ In the waypoints screen (Menu > Waypoints) all imported waypoints can be found i
 
 
 Importing waypoints from iMessage
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 iOS 14
 ------
