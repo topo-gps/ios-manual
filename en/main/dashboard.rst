@@ -2,33 +2,33 @@
 
 Dashboard
 =========
-On the bottom of the :ref:`map screen <sec-main-screen>` you will find the dashboard as you can see in the figure below
+On the bottom of the :ref:`main screen <sec-main-screen>` you will find the dashboard as you can see in the figure below
 
 .. figure:: ../_static/dashboard1.png
    :height: 140px
    :width: 640px
    :alt: Dashboard Topo GPS
 
-   *The dashboard on the bottom of the map screen.*
+   *The dashboard on the bottom of the main screen.*
 
 With the dashboard you can operate Topo GPS. On the dashboard information about the speed, time and distance is displayed. 
 
-The dashboard consists out of three items: the :ref:`position marker icon <ss-ps>`, a :ref:`panel <ss-panel>` with counters and the :ref:`route button <ss-route-button>`.  These items are discussed in more detail below.
+The dashboard consists out of three items: the :ref:`position marker icon <ss-position-marker-icon>`, a :ref:`panel <ss-panel>` with counters and the :ref:`route button <ss-route-button>`. These items are discussed in more detail below.
 
-.. _ss-ps:
+.. _ss-position-marker-icon:
 
 Position marker icon
 --------------------
 By tapping the position marker icon in the left of the dashboard you can :ref:`center <ss-map-center>` and :ref:`rotate <ss-map-rotate>` the map.
 
-If you press long on the position marker icon, the :ref:`current location screen <ss-pm_pi>` will appear. In this screen you can find the coordinates of your current location among other things.
+If you press long on the position marker icon, the :ref:`current location screen <ss-current-location-screen>` will appear. In this screen you can find the coordinates of your current location among other things.
 
 
 .. _ss-route-button:
 
 Route button
 -------------
-By pressing the route button on the right of the dashboard (arrowed icon) you the :ref:`routes screen <sec-routes>` will appear. In this screen you can do everything with routes, like loading routes, planning routes, generating routes, recording routes and importing routes.
+By pressing the route button on the right hand side of the dashboard (arrowed icon) you the :ref:`routes screen <sec-routes>` will appear. In this screen you can do everything with routes, like loading routes, planning routes, generating routes, recording routes and importing routes.
 
 .. _ss-panel:
 
