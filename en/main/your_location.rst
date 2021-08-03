@@ -16,7 +16,7 @@ If you are moving, the position marker points in the direction in which you are 
 
 The arrow in the status bar next to the battery icon, indicates that the location services are currently in use. This can cause faster battery consumption than usual. Therefore pay attention to the battery level when using Topo GPS.
 
-The default position marker icon is red, you can change it to another color via :ref:`Menu <ss-menu>` > More > Settings > Styles > Position. This might to increase the visibility of the position marker ont the map.
+The default position marker icon is red, you can change it to another color via :ref:`Menu <sec-menu>` > More > Settings > Styles > Position. This might to increase the visibility of the position marker ont the map.
 
 To center the map on your location, tap the center button on the left hand side of the :ref:`dashboard <sec-dashboard>`.
 
