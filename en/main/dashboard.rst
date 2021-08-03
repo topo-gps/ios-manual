@@ -2,7 +2,7 @@
 
 Dashboard
 =========
-On the bottom of the :ref:`map screen <sec-map>` you will find the dashboard as you can see in the figure below.
+On the bottom of the :ref:`map screen <sec-main-screen>` you will find the dashboard as you can see in the figure below
 
 .. figure:: ../_static/dashboard1.png
    :height: 140px
@@ -13,27 +13,24 @@ On the bottom of the :ref:`map screen <sec-map>` you will find the dashboard as 
 
 With the dashboard you can operate Topo GPS. On the dashboard information about the speed, time and distance is displayed. 
 
-The dashboard consists out of three panels: the :ref:`subsec-ps`, a :ref:`panel <subsec-paneel>` with counters and the :ref:`route button <subsec-routeknop>`.  These panels are discussed in more detail below.
+The dashboard consists out of three items: the :ref:`position marker icon <ss-ps>`, a :ref:`panel <ss-panel>` with counters and the :ref:`route button <ss-route-button>`.  These items are discussed in more detail below.
 
-.. _subsec-ps:
+.. _ss-ps:
 
 Position marker icon
 --------------------
-By pressing the position marker icon in the bottom left you can :ref:`center <subsec-centreren>` and :ref:`rotate <subsec-roteren>` the map.
+By tapping the position marker icon in the left of the dashboard you can :ref:`center <ss-map-center>` and :ref:`rotate <ss-map-rotate>` the map.
 
-If you press long on the position marker icon, the :ref:`location information screen <ss-pm_pi>` will appear. In this screen you can find the coordinates of your current location among other things.
+If you press long on the position marker icon, the :ref:`current location screen <ss-pm_pi>` will appear. In this screen you can find the coordinates of your current location among other things.
 
 
-.. _subsec-route-button:
+.. _ss-route-button:
 
 Route button
 -------------
-By pressing the route button on the right of the dashboard (arrowed icon) you can :ref:`add routes to the map <ss-route-load>`.
+By pressing the route button on the right of the dashboard (arrowed icon) you the :ref:`routes screen <sec-routes>` will appear. In this screen you can do everything with routes, like loading routes, planning routes, generating routes, recording routes and importing routes.
 
-If you press long on the route button you will enter a screen in which you can import routes.
-
-
-.. _subsec-paneel:
+.. _ss-panel:
 
 Panels
 -------
@@ -41,14 +38,14 @@ Panels
 In the center of the dashboard you can find a panel with counters. There
 are three panels
 
-- The :ref:`hiking panel <ss-wandelpaneel>`. 
-- The :ref:`cycling panel <ss-fietspaneel>`. 
-- The :ref:`coordinate panel <ss-coordinatenpaneel>`. 
+- The :ref:`hiking panel <ss-hiking-panel>`. 
+- The :ref:`cycling panel <ss-cycling-panel>`. 
+- The :ref:`coordinate panel <ss-coordinate-panel>`. 
 
 The circles below the panel indicate the selected panel. By swiping a panel with one finger to the left or
 the right you can load the next or previous panel.
 
-.. _ss-wandelpaneel:
+.. _ss-hiking-panel:
 
 Hiking panel
 ------------
@@ -116,7 +113,7 @@ appears the symbol 'rec' to indicate that this is the recorded distance.
 
 If you press the record distance meter while recording a route, the recorded route will be centered on the map.
 
-.. _ss-fietspaneel:
+.. _ss-cyclingpanel:
 
 Cycling panel
 -------------
@@ -143,7 +140,7 @@ The :ref:`route distance meter <subsec-routeafstand>` is located in the top righ
 The :ref:`record distance meter <subsec-opneemafstand>` can be found in the bottom right.
 
 
-.. _ss-coordinatenpaneel:
+.. _ss-coordinatepanel:
 
 Coordinate panel
 ------------------
