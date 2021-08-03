@@ -77,7 +77,7 @@ If you move the map or zoom with two fingers automatic rotation will be switched
 
 Manual rotation
 ***************
-If you put two fingers on the screen and make a rotation gesture, the map will be rotated around the point that lies in between the two fingers. An example of a rotated map is displayed in figure above. You can rotate the map in every desired direction. 
+If you put two fingers on the screen and make a rotation gesture by moving on of the fingers, the map will be rotated around the point that lies in between the two fingers. An example of a rotated map is displayed in figure above. You can rotate the map in every desired direction. 
 
 If the map is rotated, an north arrow will appear on the top left of the screen. This arrow indicates the direction of the true north on the map. If you press this arrow the rotation will be cancelled.
 
