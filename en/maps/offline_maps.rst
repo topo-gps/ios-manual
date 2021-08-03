@@ -3,7 +3,7 @@
 
 .. _sec-cache:
 
-Making map offline accessible
+Making maps offline accessible
 =============================
 To ensure that the maps are accessible when your are not connected to internet (offline) you can make maps offline accessible. Offline accessible means that the maps are stored on your device and that you can view them without a internet connection.
 
