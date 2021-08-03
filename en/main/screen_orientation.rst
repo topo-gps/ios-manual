@@ -11,7 +11,7 @@ By rotating your device you can change the screen orientation from portrait to l
    *Main screen in landscape mode.*
 
 If you do not want the screen to rotate if you rotate your device, you can lock the
-screen orientation in the :ref:`settings <ss-settings>`.
+screen orientation in the :ref:`settings <ss-settings>` (Menu > More > Settings > Display orientation > Lock).
 
 
 
