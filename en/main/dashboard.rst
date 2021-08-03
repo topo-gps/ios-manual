@@ -170,7 +170,7 @@ as is illustrated below:
 
 The coordinate that is displayed on the coordinate panel is the coordinate of the point in the middle of the cross.
 
-By moving the map around you can position the middle of the cross to the point from which
+By :ref:`moving the map <ss-modifying-map-screen>` you can position the middle of the cross to the point of which
 you want to determine the coordinate. To quickly determine the coordinates of your current position,
 you can center the map by pressing the :ref:`position button <subsec-ps>` on the left hand side of the dashboard.
 
