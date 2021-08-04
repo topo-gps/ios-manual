@@ -5,7 +5,7 @@ Purchasing maps
 In the maps screen (:ref:`Menu <sec-menu>` > Maps) you can purchase additional maps.
 An example of the maps screen is shown below:
 
-.. figure:: ../_static/map-change2.png
+.. figure:: ../_static/map-change2.jpg
    :height: 568px
    :width: 320px
    :alt: Map screen Topo GPS
