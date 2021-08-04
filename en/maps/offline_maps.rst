@@ -22,7 +22,7 @@ On the top left of the :ref:`main screen <sec-main-screen>` the percentage offli
 
    *On the top left of the main screen you can view the percentage of the currently visible area that is offline accessible: 22%*
 
-In the figure above the percentage of offline accessible map tiles is 40%. By looking at the map screen you might think that all map tiles are already accessible, since the whole map screen is covered with tiles. However, if you zoom in, map tiles with a higher resolution will be loaded. If the percentage is not 100% it can happen that when you zoom in grey tiles or unsharp tiles are shown instead of the higher resolution map tiles.
+In the figure above the percentage of offline accessible map tiles is 22%. By looking at the map screen you might think that all map tiles are already accessible, since the whole map screen is covered with tiles. However, if you zoom in, map tiles with a higher resolution will be loaded. If the percentage is not 100% it can happen that when you zoom in grey tiles or unsharp tiles are shown instead of the higher resolution map tiles.
 
 .. _ss-cache-download:
 
