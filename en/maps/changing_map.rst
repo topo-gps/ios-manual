@@ -17,7 +17,7 @@ Suppose we the main map is currently the topographic map of Great Britain, as in
 We now want to change it to the OpenStreetMap map. For that we open the maps screen (:ref:`Menu <sec-menu>` > Maps).
 An example of the map screen is shown below:
 
-.. figure:: ../_static/map-change2.png
+.. figure:: ../_static/map-change2.jpg
    :height: 568px
    :width: 320px
    :alt: Maps screen Topo GPS
@@ -29,7 +29,7 @@ on an map item in the purchases section the map will be opened immediately and y
 
 In the example above, the OpenStreetMap map was purchased. If we tap the OpenStreetMap item, the main map will be changed to OpenStreetMap and we will return to the main screen automatically as in the example below.
 
-.. figure:: ../_static/map-change3.png
+.. figure:: ../_static/map-change3.jpg
    :height: 568px
    :width: 320px
    :alt: Main map screen OpenStreetMap Topo GPS
