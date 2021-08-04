@@ -3,7 +3,7 @@
 Changing current map
 ====================
 
-In the maps screen (:ref:`Menu <sec-menu>` > Maps) you can change the current map and purchase additional maps.
+In the maps screen (:ref:`Menu <sec-menu>` > Maps) you can change the current map and :ref:`purchase additional maps <sec-purchase-maps>`.
 
 Suppose we the main map is currently the topographic map of Great Britain, as in the example below.
 
@@ -24,10 +24,10 @@ An example of the map screen is shown below:
    
    *The maps screen in which you can change the map and purchase additonal maps.*
    
-The maps screen consists of two sections, the purchases and the store. The purchased maps are accessible. If you tap
+The maps screen consists of two sections, the purchases and the :ref:`store <sec-purchase-maps>`. All purchased maps are accessible. If you tap
 on an map item in the purchases section the map will be opened immediately and you will return to the main screen.
 
-In the example above, the OpenStreetMap map was purchased. If we tap the OpenStreetMap item, the main map will be changed to OpenStreetMap and we will return to the main screen automatically as in the example below.
+In the example above, the OpenStreetMap map was :ref:`purchased <sec-purchase-maps>`. If we tap the OpenStreetMap item, the main map will be changed to OpenStreetMap and we will return to the main screen automatically as in the example below.
 
 .. figure:: ../_static/map-change3.jpg
    :height: 568px
