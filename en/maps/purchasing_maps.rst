@@ -2,3 +2,21 @@
 
 Purchasing maps
 ===============
+
+
+
+Purchasing full maps
+--------------------
+
+
+Purchasing parts of maps
+------------------------
+
+
+
+
+Purchasing subscriptions
+------------------------
+
+
+
