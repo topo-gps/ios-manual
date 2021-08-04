@@ -2,14 +2,14 @@
 
 Modifying map screen
 --------------------
-You can modify the map in the :ref:`main screen <sec-main-screen>` by :ref:`moving <ss-map-move>`, :ref:`zooming <ss-map-zoom>`, :ref:`centering <ss-map-center>` and :ref:`rotating <ss-map-rotate>` the map.
+You can modify the map in the :ref:`main screen <sec-main-screen>` by :ref:`scrolling <ss-map-scroll>`, :ref:`zooming <ss-map-zoom>`, :ref:`centering <ss-map-center>` and :ref:`rotating <ss-map-rotate>` the map.
 
 
-.. _ss-map_move:
+.. _ss-map-scroll:
 
-Move
-~~~~
-To move the map you have to hold a finger on the map. When you move your finger, the map will be moved as well. You can also move the map by making a quick swipe with your finger on the map.
+Scroll
+~~~~~~
+To scroll the map you have to hold a finger on the map. When you move your finger, the map will be moved as well. You can also move the map by making a quick swipe with your finger on the map.
 
 
 .. _ss-map-zoom:
