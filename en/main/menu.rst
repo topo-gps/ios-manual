@@ -17,7 +17,7 @@ The menu then appears as in the screen below.
 
 As you can see in the figure above, the menu contains the following items:
 
-- :ref:`Maps <sec-change-map>` - If you tap this item, the maps screen will be opened. In this screen you can change the current map and buy additional maps. 
+- :ref:`Maps <sec-change-map>` - If you tap this item, the maps screen will be opened. In this screen you can :ref:`change the current map <sec-change-map>` and :ref:`buy additional maps <sec-purchase-maps>`. 
 - :ref:`Layers <sec-layers>` - If you tap this item, the layers screen will be opened. In this screen you can add layers to the map like for example the long distance bicycle route layer.
 - :ref:`Waypoints <sec-wp>` - If you tap this item, the waypoints screen will be opened. Here you can manage everything with waypoints like loading them on the map.
 - :ref:`Search <sec-searching>` - If you tap this item you can search addresses and places and enter and scan coordinates.
