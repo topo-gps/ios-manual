@@ -38,3 +38,20 @@ In the example above, the OpenStreetMap map was :ref:`purchased <sec-purchase-ma
 
 If the newly choosen map has coverage in the previously shown area, the newly opened map is zoomed to the previously shown area. Otherwise, the newly opened map is zoomed to the area it covers.
 
+
+Scrolling out of covered area
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+If you scroll out of the covered area of the map, a pop-up will appear in the top of the main screen which suggests you to change the map to a suitable map for that area. In the figure below you can see an example of that pop-up:
+
+.. figure:: ../_static/map-change3.jpg
+   :height: 568px
+   :width: 320px
+   :alt: Map change pop-up Topo GPS
+   
+   *A pop-up suggests to change the current map.*
+
+In the example above the user has scrolled to the northern border of the topographic map of Switzerland. In the top of the screen the background is gray, because that part is not covered by the map. The pop-up suggests an alternative map, in this case the topographic map of Germany or OpenStreetMap. If you tap one of these maps and you have purchased it, the tapped map will be openend and zoomed to the current visible area. If you have not purchased the tapped map, the purchase window will be shown.
+
+Automatic map change
+~~~~~~~~~~~~~~~~~~~~
+If you load a route or load waypoints on the map, the map will change automatically
