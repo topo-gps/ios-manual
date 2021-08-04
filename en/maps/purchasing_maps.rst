@@ -104,7 +104,7 @@ Purchasing subscriptions
 ------------------------
 
 
-.. figure:: ../_static/map-purchase-gb-subscription1.jpg
+.. figure:: ../_static/map-purchase-gb-subscription1.png
    :height: 568px
    :width: 320px
    :alt: Topo GPS
