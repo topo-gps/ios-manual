@@ -43,15 +43,22 @@ Scrolling out of covered area
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 If you scroll out of the covered area of the map, a pop-up will appear in the top of the main screen which suggests you to change the map to a suitable map for that area. In the figure below you can see an example of that pop-up:
 
-.. figure:: ../_static/map-change3.jpg
+.. figure:: ../_static/map-change4.jpg
    :height: 568px
    :width: 320px
    :alt: Map change pop-up Topo GPS
    
    *A pop-up suggests to change the current map.*
 
-In the example above the user has scrolled to the northern border of the topographic map of Switzerland. In the top of the screen the background is gray, because that part is not covered by the map. The pop-up suggests an alternative map, in this case the topographic map of Germany or OpenStreetMap. If you tap one of these maps and you have purchased it, the tapped map will be openend and zoomed to the current visible area. If you have not purchased the tapped map, the purchase window will be shown.
+In the example above the user has scrolled to the northern border of the topographic map of Switzerland. In the top of the screen the background is gray, because that part is not covered by the map. The pop-up suggests an alternative map, in this case the topographic map of Germany or OpenStreetMap. If you tap one of these maps and you have purchased it, the tapped map will be openend and zoomed to the current visible area. If you have not purchased the tapped map, the purchase window will be shown. In the example below, the map has been changed to the topographic map of Germany.
+
+.. figure:: ../_static/map-change5.jpg
+   :height: 568px
+   :width: 320px
+   :alt: Map change pop-up Topo GPS
+   
+   *The current map was changed to Germany after tapping on the suggested map.*
 
 Automatic map change
 ~~~~~~~~~~~~~~~~~~~~
-If you load a route or load waypoints on the map, the map will change automatically
+If you load a route or waypoints on the map, or tap the center button in on the dashboard, the app will check if the items are located on the current map. If not, the map will change automatically to the best suitable map. If the suitable map is not accessible, a screen will appear in which you are presented the suggested map. In this screen you could also buy the suggested map.
