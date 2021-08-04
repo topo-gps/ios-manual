@@ -11,52 +11,54 @@ Map tiles
 ~~~~~~~~~
 The maps in Topo GPS are composed out of map tiles. A small number of map tiles is required to fill the map screen. If one or more of these required tiles are not stored on your device, they will be downloaded automatically. This only succeeds if you are connected to the internet.
 
-On the top left of the map screen the percentage offline accessible map tiles of the currently visible area is shown. This percentage percentage is the number of offline accessible tiles at all zoom levels relative to the total number of tiles at all zoom levels. An example is shown in the figure below:
+If you are connected via a cellular network, downloading of map tiles can only occur if you have enabled cellular access for Topo GPS in the iOS Settings > Topo GPS. In Topo GPS you have to enable :ref:`Menu <sec-menu>` > More > Settings > Map tiles downloading > Cellular network.
 
-.. figure:: _static/map-offline1.png  
+On the top left of the :ref:`main screen <sec-main-screen>` the percentage offline accessible map tiles of the currently visible area is shown. This percentage percentage is the number of offline accessible tiles at all zoom levels relative to the total number of all possible tiles at all zoom levels. An example is shown in the figure below:
+
+.. figure:: ../_static/map-offline1.png  
    :height: 568px
    :width: 320px
    :alt: Making map offline accessible Topo GPS
 
-   *Figure 1. On the top left of the map screen you can view the percentage of the area that is offline accessible: 9%*
+   *On the top left of the main screen you can view the percentage of the area that is offline accessible: 9%*
 
-In Fig. 1 the percentage of offline accessible map tiles is 9%. By looking at the map screen you might think that all map tiles are already accessible, since the whole map screen is covered with tiles. However, if you zoom in, map tiles with a higher resolution will be loaded. If the percentage is not 100% it could be that some of the higher resolution map tiles are not offline accessible.
+In the figure above the percentage of offline accessible map tiles is 9%. By looking at the map screen you might think that all map tiles are already accessible, since the whole map screen is covered with tiles. However, if you zoom in, map tiles with a higher resolution will be loaded. If the percentage is not 100% it can happen that when you zoom in grey tiles or unsharp tiles are shown instead of the higher resolution map tiles.
 
 Downloading map tiles
 ~~~~~~~~~~~~~~~~~~~~~
-If you press the label ‘Offline accessible: ‘ on the top left of the map screen the map download screen will appear. In this screen you can download map tiles of the area that is currently visible in the map screen.
+If you tap the label ‘Offline accessible: ‘ on the top left of the map screen the map download screen will appear. In this screen you can download map tiles of the area that is currently visible in the map screen.
 
 An example of the map download screen is displayed below:
 
-.. figure:: _static/map-offline2.png  
+.. figure:: ../_static/map-offline2.png  
    :height: 568px
    :width: 320px
    :alt: Making map offline accessible Topo GPS
 
-   *Figure 2. The map download screen with which you can download map tiles.*
+   *The map download screen with which you can download map tiles.*
 
 To download all map tiles of the current area, you have to press ‘Download’. 
 The amount of MB indicates an estimate of the size of the download in megabytes.
 
 If downloading of map tiles has been started, the download button shows how many tiles still need to be downloaded, as you can see below:
 
-.. figure:: _static/map-offline3.png  
+.. figure:: ../_static/map-offline3.png  
    :height: 568px
    :width: 320px
    :alt: Making map offline accessible Topo GPS
 
-   *Figure 3. Downloading map tiles.*
+   *Downloading map tiles.*
 
 While downloading map tiles, the percentage offline accessible will increase to 100%. You can cancel the downloading of map tiles at any time by pressing ‘Stop download’.
 
 If you wait the percentage off-line accessible will become 100% automatically, as you can see below:
 
-.. figure:: _static/map-offline4.png  
+.. figure:: ../_static/map-offline4.png  
    :height: 568px
    :width: 320px
    :alt: Making map offline accessible Topo GPS
 
-   *Figure 4. The current area has been made completely offline accessible.*
+   *The current area has been made completely offline accessible.*
 
 If you return to the map screen and do not move or zoom out on the map, you will see that the percentage offline accessible is 100%.
 
@@ -86,11 +88,11 @@ For example, suppose you return from a nice vacation on the Shetland Islands. Yo
 
 If you scroll to the bottom of the map download screen you will find a ‘Remove’ button as you can see below:
 
-.. figure:: _static/map-offline5.png  
+.. figure:: ../_static/map-offline5.png  
    :height: 568px
    :width: 320px
    :alt: Making map offline accessible Topo GPS
 
-   *Figure 5. Removing map tiles.*
+   *Removing map tiles.*
 
 By pressing the ‘Remove’ button you delete all map tiles of the currently visible area in the map screen. In the example above these are all map tiles of the Shetland Islands. 
