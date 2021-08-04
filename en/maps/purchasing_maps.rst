@@ -140,7 +140,7 @@ To purchase a subscription, first open the maps screen via :ref:`Menu <sec-menu>
 In the subscription section, you can read the conditions of the subscription. If you press the buy button you are asked to confirm the purchase. Once confirmed, 
 you will return to the main screen and the whole map is accessible. 
 
-Subscriptions are accessible on all devices that use the same Apple ID. Subscriptions cannot be shared via family sharing. To enable a subscription on another device, you might need to tap ref:`Menu <sec-menu>` > Maps > Restore previous purchases.
+Subscriptions are accessible on all devices that use the same Apple ID. Subscriptions cannot be shared via family sharing. To enable a subscription on another device, you might need to tap :ref:`Menu <sec-menu>` > Maps > Restore previous purchases.
 
 Cancel subscriptions
 ~~~~~~~~~~~~~~~~~~~~
