@@ -61,4 +61,4 @@ In the example above the user has scrolled to the northern border of the topogra
 
 Automatic map change
 ~~~~~~~~~~~~~~~~~~~~
-If you load a route or waypoints on the map, or tap the center button in on the dashboard, the app will check if the items are located on the current map. If not, the map will change automatically to the best suitable map. If the suitable map is not accessible, a screen will appear in which you are presented the suggested map. In this screen you could also buy the suggested map.
+If you load a route or waypoints on the map, or tap the center button on the dashboard, the app will check if the items are located on the current map. If not, the map will change automatically to the best suitable map. If the suitable map is not accessible, a screen will appear in which you are presented the suggested map. In this screen you could also :ref:`buy the suggested map <sec-purchase-maps>`.
