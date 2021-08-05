@@ -81,15 +81,17 @@ Below the search bar you can see the current location in the folder tree. If you
 
 Loading contents of folder
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
-To load all waypoints in a folder and its descendant folders, first tap the info button next to a folder in the waypoints screen (Menu > Waypoints). Then press 'Show on map' on the top right to load all waypoints on the map. You will return to the main map screen and the map will be zoomed to the contents of the folder. 
+To load all waypoints in a folder and its descendant folders, press long on a folder item in the waypoints screen (Menu > Waypoints) to enter the selection mode and to select the folder. Then press the map icon in the bottom toolbar to load the contents of the folder on the map.
 
-Alternatively, press long on a folder item in the waypoints screen (Menu > Waypoints) to enter the selection mode. Then press the map icon in the bottom toolbar to load the contents of the folder on the map.
+Alternatively tap the info button next to a folder in the waypoints screen (Menu > Waypoints). Then press 'Show on map' on the top right to load all waypoints on the map. You will return to the main map screen and the map will be zoomed to the contents of the folder. 
 
 .. _ss-waypoint-folder-load:
 
 Removing contents of folder from map
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-To remove the waypoints in a folder and it descendant folders from the map, first tap the info button next to a folder in the waypoints screen (Menu > Waypoints) to open the folder details screen. Then press 'Remove from map' on the top right to remove all waypoints from the map. If 'Shown on map' is shown, first tap it to load all waypoints, then go back to the waypoints screen to open the folder details screen. Then press 'Remove from map' on the top right.
+To remove the waypoints in a folder and it descendant folders from the map,  press long on a folder item in the waypoints screen (Menu > Waypoints) to enter the selection mode and to select the folder. Then tap in the bottom tool bar the more button and then tap 'Remove from map'.
+
+Alternatively, first tap the info button next to a folder in the waypoints screen (Menu > Waypoints) to open the folder details screen. Then press 'Remove from map' on the top right to remove all waypoints from the map. If 'Shown on map' is shown, first tap it to load all waypoints, then go back to the waypoints screen to open the folder details screen. Then press 'Remove from map' on the top right.
 
 .. _ss-waypoint-folder-rename:
 
