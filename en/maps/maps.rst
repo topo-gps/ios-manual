@@ -13,3 +13,4 @@ The :ref:`main screen <sec-main-screen>` of Topo GPS shows the main map. In this
    offline_maps
    changing_map
    purchasing_maps
+   gray_map
