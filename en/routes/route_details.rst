@@ -12,7 +12,7 @@ the route details screen by tapping the route.
 The route details screen of the route ‘Gower Hike’ is
 shown below:
 
-.. figure:: _static/route-details1.png
+.. figure:: ../_static/route-details1.png
    :height: 568px
    :width: 320px
    :alt: Route details Topo GPS
@@ -44,7 +44,7 @@ On the download button it is estimated how many megabyte (MB) the downloading of
 
 If you have pressed the download button, the button will indicate how much tiles remain to be downloaded. You can abort downloading by pressing ‘Stop download’. If all map tiles relevant to the route have been downloaded, the button will read ‘Downloaded completely’, as you can see below: 
 
-.. figure:: _static/route-details2.png
+.. figure:: ../_static/route-details2.png
    :height: 568px
    :width: 320px
    :alt: Route details Topo GPS
@@ -66,14 +66,14 @@ Additional route details
 ~~~~~~~~~~~~~~~~~~~~~~~~
 By pressing the cell with the title in the route detail screen you obtain additional information about the route. An example is shown in the figure below:
 
-.. figure:: _static/route-details3.png
+.. figure:: ../_static/route-details3.png
    :height: 568px
    :width: 320px
    :alt: Route details Topo GPS
 
    *Figure 3. Additional route details (top).*
 
-.. figure:: _static/route-details4.png
+.. figure:: ../_static/route-details4.png
    :height: 568px
    :width: 320px
    :alt: Route details Topo GPS
