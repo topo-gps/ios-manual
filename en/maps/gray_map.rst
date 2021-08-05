@@ -25,9 +25,10 @@ To see why the maps are not being downloaded, tap the offline accessible button 
    
    *The map download screen.*
    
-In the map download screen you could tap 'Download' and see what happens. Also you could enable 'Use cellular network' to allow cellular downloads of map tiles. You also might want to enable cellular access for Topo GPS in the iOS Settings. You can read more about the map download screen in the section <sec-cache>.
+In the map download screen you could tap 'Download' and see what happens. Also you could enable 'Use cellular network' to allow cellular downloads of map tiles. You also might want to enable cellular access for Topo GPS in the iOS Settings. You can read more about the map download screen in the section :ref:`sec-cache`.
 
 
 Scrolled out of coverage region
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-If you are scrolled out of the region the map covers, most often a pop-up will appear in the top of the map which suggests you to change the map. You might also tap the center button on the :ref:`dashboard <sec-dashboard>` to return the map to your location. Alternatively, change the map via :ref:`Menu <sec-menu>` > Maps.
+If you are scrolled out of the region the map covers, most often a pop-up will appear in the top of the map which suggests you to change the map. You might also tap the center button on the :ref:`dashboard <sec-dashboard>` to return the map to your location. Or :ref:`zoom out <ss-map-zoom>` to find back the coverage region.
+Alternatively, you could change the map via :ref:`Menu <sec-menu>` > Maps.
