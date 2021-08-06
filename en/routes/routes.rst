@@ -3,11 +3,16 @@
 Routes
 ======
 
-With Topo GPS you have the possibility to :ref:`load <subsec-route_load>` routes on the map, to :ref:`import <subsec-routes_import>` routes from the Topo GPS route collection and from :ref:`internet <subsec-route_import_internet>`, to :ref:`record <subsec-route_record>` routes, to :ref:`plan <subsec-route_plan>` routes and to :ref:`share <subsec-routes_share>` routes.
+A route is a collection of points that can be :ref:`shown as a curve on the map <sec-routes-load>`. A route can have possible additional information like a description and photos that can be shown in the :ref:`route details screen <sec-route-details>`.
+
+In Topo GPS you can import, plan, generate, record, and export routes.
+
+Routes can be controlled via the :ref:`routes screen <sec-routes-screen>` which can be opened by tapping the :ref:`route button <ss-route-button>` on the dashboad and by tapping :ref:`Menu <sec-menu>` > Routes.
 
 .. toctree::
    :maxdepth: 2
    
+   routes_screen
    routes_load
    routes_unload
    routes_record
