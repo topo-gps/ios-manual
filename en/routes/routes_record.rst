@@ -56,7 +56,7 @@ While recording you can safely lock your device or switch to another app.
 This will not interrupt the recording. In the top of the screen you can see that Topo GPS is using your location in the background. 
 In some devices the clock gets a blue blackground, on other devices the whole status bar turns blue. If you tap the blue clock or the blue statusbar, you will return to Topo GPS.
 
-If you tap on the line of the recorded route on the main map, the record screen will be opened. You can view the current altitude and speed profile. You can tap these :ref:`profiles <sec-route-profile>` to view them in more detail. 
+If you tap on the line of the recorded route on the main map, the record screen will be opened. You can view a live altitude and speed profile. You can tap these :ref:`profiles <sec-route-profiles>` to view them in more detail. 
 
 If you have :ref:`loaded <ss-route-load>` one or more routes on the map, you can record a route at the same time. An example is shown below:
 
@@ -76,11 +76,11 @@ Recording a route will cost a considerable amount of energy, therefore regularly
 
 Ending recording
 ~~~~~~~~~~~~~~~~
-You can end the a recording by tapping the :ref:`record timer <ss-rec-timer>` on the dashboard or by tapping 'Stop recording' in
+You can end the a recording of a route by tapping the :ref:`record timer <ss-rec-timer>` on the dashboard or by tapping 'Stop recording' in
 the record screen. The record screen can be opened by tapping the line of the recorded route on the map,
 and by selecting the record tab in the :ref:`routes screen <sec-routes-screen>`.
 
-When doing this a pop-up will appear asking you to stop the recording was in the example below: 
+A pop-up will appear asking you to stop the recording like in the example below: 
 
 .. figure:: ../_static/route-record4.png
    :height: 568px
@@ -95,13 +95,10 @@ If you press 'Stop' the recording will be ended and a screen is presented in whi
 
 Pause recording
 ~~~~~~~~~~~~~~~
-If you press 'Pause' in the pop-up which appears when :ref:`ending a route recording <ss-route-record-end>`, the recording of a route will be paused. 
-Your movement will no longer be recorded.
+If you press 'Pause' in the pop-up which appears when :ref:`ending a route recording <ss-route-record-end>`, the recording will be paused. 
 
 The :ref:`record timer <ss-rec-timer>` on the dashboard will be set to --:--
-during a pause. The the :ref:`record distance meter will show
-the recorded distance as you can see below:
-
+during a pause. The :ref:`record distance meter will show the recorded distance as you can see below:
 
 .. figure:: ../_static/route-record5.png
    :height: 568px
@@ -146,25 +143,25 @@ In this screen you can subsequently enter the title, the author and a descriptio
 
 Based on the start and finish point of the route an automatic suggestion for the route title
 will be made. This suggestion appears in the title field if you do not enter a title yourself.
-If you do not enter a title, the suggestion will be used when saving the route. I
+If you do not enter a title, the suggestion will be used when saving the route. 
 
 To ensure automatic title suggestion functions properly, the option :ref:`‘Addresses - Find automatically’ <settings-addresses>` should
 be enabled in the settings.
 
 If you press the '>' on the right hand side of the title you can add an URL.
 
-If you press the '>' on the right hand side of the title you can add contact information, and copyright and license details. If you save a route also the author and copyright details will be saved for future use. If you record or plan a new route, the same author and copyright details will already be filled in. Therefore you do not have to reenter these details when saving the next recorded route.
+If you press the '>' on the right hand side of the author you can add contact information, and copyright and license details. If you save a route also the author and copyright details will be saved for future use. If you record or plan a new route, the same author and copyright details will already be filled in. Therefore you do not have to reenter these details when saving the next recorded route.
 
-You can alter the route type by pressing the route type type. If you save the route, the current route type will be used as a suggestion for the next saved route. If you for example only record bicycles routes you therefore only have to set the route type once.
+You can alter the route type by pressing the route type field. If you save the route, the current route type will be used as a suggestion for the next saved route. If you for example only record bicycles routes you therefore only have to set the route type once.
 
-Waypoints that are currently shown on the map can be included with the route by the setting 'Include waypoints'. If you tap this setting you can change it. You can choose between including all waypoints that are on the map, waypoints near the route, and no waypoints. If you choose for waypoints near route, you can determine the maximal distance of the waypoints to the route. Be careful with setting the setting to all waypoints, since it might cause adding irrelevant waypoints to a route.
+Waypoints that are currently shown on the map can be included with the route by the setting 'Include waypoints'. If you tap this setting you can change it. You can choose between including all waypoints that are on the map, waypoints near the route, and no waypoints. If you choose for waypoints near route, you can determine the maximal distance of the waypoints to the route. Be careful with setting this setting to all waypoints, since it might cause adding waypoints which are far a ways and hence irrelevant to a route.
 
 If you are ready entering the fields, you can press 'Save' on the top right to save the recorded route.
 If you do not want to save the route you can press 'Cancel' on the top left.
 
 The route will be saved into the folder that is currently opened in the :ref:`routes tab of the routes screen <ss-route-load>`.
 
-After you have saved the recorded route, a pop-up will appear that ask you if you would like to share your route with Topo GPS or with another app (for this tap 'More). If you do not want to share the recorded route, you can tap 'Cancel'.
+After you have saved the recorded route, a pop-up will appear that asks you if you would like to share your route with Topo GPS or with another app (for this tap 'More). If you do not want to share the recorded route, you can tap 'Cancel'.
 
 If you choose Topo GPS you can share your route with other Topo GPS users, so that they can :ref:`import your recorded
 route <ss-routes-import>`. 
@@ -175,4 +172,3 @@ The screen that appears is the :ref:`route details screen <sec-route-details>`. 
 recorded route on the map by tapping the 'Show on map’ button on the top right of this screen.
 
 You can also :ref:`load the recorded route on the map <ss-route-load>` at a later time.
-
