@@ -1,20 +1,22 @@
-.. _ss-route-record:
+.. _sec-route-record:
 
 Recording routes
------------------
-By pressing the :ref:`record clock <subsec-klok>` on the :ref:`dashboard <sec-dashboard>`, you
+----------------
+
+
+By pressing the :ref:`record timer <subsec-klok>` on the :ref:`dashboard <sec-dashboard>`, you
 can start and finish the recording of a route. You can also start a recording by pressing 'Record' in the :ref:`routes screen <ss-route-load>`.
 
 
 If you are recording a route and you are moving, a red line will appear on the map. This
 red line indicates your movement. An example is displayed in the figure below:
 
-.. figure:: _static/route-record1.png
+.. figure:: ../_static/route-record1.png
    :height: 568px
    :width: 320px
    :alt: Recording route Topo GPS
 
-   *Figure 1. Recording a route. The red line indicates your movement.*
+   *Recording a route. The red line indicates your movement.*
 
 The :ref:`record clock <subsec-klok>` on the dashboard indicates the time you are recording.
 In the figure above this is 0h17m.
@@ -28,12 +30,12 @@ You can modify the color, width and transparency of the record line in the
 While recording you can safely lock your device or switch to another app.
 This will not interrupt the recording.
 
-.. figure:: _static/route-record2.png
+.. figure:: ../_static/route-record2.png
    :height: 568px
    :width: 320px
    :alt: Recording route Topo GPS
 
-   *Figure 2. The iPhone/iPad setting > Topo GPS > Location should be set to ‘Always’ to ensure correct recording in the background.*
+   *The iPhone/iPad setting > Topo GPS > Location should be set to ‘Always’ to ensure correct recording in the background.*
 
 Warning: To ensure that a route is recorded properly it is very important to set the
 iPhone/iPad setting > Topo GPS > location to ‘Always’ (Fig. 2). With this setting you give
@@ -46,12 +48,12 @@ Showing a route while recording
 If you have :ref:`loaded <ss-route-load>` one or more routes on the map, you
 can record a route at the same time. An example is shown below:
 
-.. figure:: _static/route-record3.png
+.. figure:: ../_static/route-record3.png
    :height: 568px
    :width: 320px
    :alt: Recording route Topo GPS
 
-   *Figure 3. Recording and showing a route.*
+   *Recording and showing a route.*
 
 The blue line indicates the loaded route with a length of 1.9 km, the red line the recorded route
 with a length of 778 m.
@@ -63,12 +65,12 @@ To finish a recording you have to press the :ref:`record clock <subsec-klok>` on
 Alternatively you can press 'Stop recording' in the bottom left 
 of the :ref:`routes screen <ss-route-load>`. The following pop-up will then appear:
 
-.. figure:: _static/route-record4.png
+.. figure:: ../_static/route-record4.png
    :height: 568px
    :width: 320px
    :alt: Routes opnemen stoppen Topo GPS
 
-   *Figure 4. Interrupting recording a route.*
+   *Interrupting recording a route.*
 
 If you press 'Stop' the recording will be finished. A screen that gives you the possibility to save
 :ref:`save the recorded route <ss-record-save>` will appear.
@@ -83,7 +85,7 @@ during a pause, while the record distance meter will show
 the recorded distance as you can see below:
 
 
-.. figure:: _static/route-record5.png
+.. figure:: ../_static/route-record5.png
    :height: 568px
    :width: 320px
    :alt: Route recording paused Topo GPS
@@ -97,7 +99,7 @@ To restart a recording you have to press the :ref:`record clock <subsec-klok>` o
 the ‘Restart recording’ button in the bottom of the :ref:`routes screen <ss-route-load>`. 
 The following pop-up will then appear:
 
-.. figure:: _static/route-record6.png
+.. figure:: ../_static/route-record6.png
    :height: 568px
    :width: 320px
    :alt: Routes opnemen herstarten Topo GPS
@@ -115,7 +117,7 @@ Saving recorded route
 If you have finished the recording of a route a screen will appear
 in which you can save the recorded route. An example is displayed below:
 
-.. figure:: _static/route-record7.png
+.. figure:: ../_static/route-record7.png
    :height: 568px
    :width: 320px
    :alt: Opgenomen routes opslaan Topo GPS
