@@ -44,10 +44,10 @@ if you are moving. This red line indicates your movement. An example is displaye
    *Recording a route. The red line indicates your movement.*
 
 The :ref:`record timer <ss-rec-timer>` on the dashboard indicates the time you are recording.
-In the figure above this is 0h17m.
+In the figure above this is 0h17m. If you tap the timer you can :ref:`end the recording <ss-route-record-end>`.
 
 The :ref:`record distance meter <ss-rec-distance>` on the dashboard indicates
-the length of a recorded route. In the example above this is 778 m.
+the length of a recorded route. In the example above this is 778 m. If you tap the record distance meter the map will be zoomed to the recorded route.
 
 You can modify the color, width and transparency of the record line in the 
 :ref:`settings <ss-settings-lines>`.
@@ -56,7 +56,7 @@ While recording you can safely lock your device or switch to another app.
 This will not interrupt the recording. In the top of the screen you can see that Topo GPS is using your location in the background. 
 In some devices the clock gets a blue blackground, on other devices the whole status bar turns blue. If you tap the blue clock or the blue statusbar, you will return to Topo GPS.
 
-If you tap on the line of the recorded route on the main map, the record screen will be opened. You can view the current altitude and speed profile. You can tap these profiles to view them in more detail. 
+If you tap on the line of the recorded route on the main map, the record screen will be opened. You can view the current altitude and speed profile. You can tap these :ref:`profiles <sec-route-profile>` to view them in more detail. 
 
 If you have :ref:`loaded <ss-route-load>` one or more routes on the map, you can record a route at the same time. An example is shown below:
 
@@ -70,7 +70,9 @@ If you have :ref:`loaded <ss-route-load>` one or more routes on the map, you can
 The blue line indicates the loaded route with a length of 1.9 km, the red line the recorded route
 with a length of 778 m.
 
-Recording a route will cost a considerable amount of power, therefore make sure to regularly check your battery level when recording a route to make sure you are not running out of power. Also pause or finish a recording if your are not longer moving.
+Recording a route will cost a considerable amount of energy, therefore regularly check your battery level when recording a route to make sure you are not running out of power. Also pause or finish a recording if your are not longer moving.
+
+.. _ss-route-record-end:
 
 Ending recording
 ~~~~~~~~~~~~~~~~
@@ -78,7 +80,7 @@ You can end the a recording by tapping the :ref:`record timer <ss-rec-timer>` on
 the record screen. The record screen can be opened by tapping the line of the recorded route on the map,
 and by selecting the record tab in the :ref:`routes screen <sec-routes-screen>`.
 
-When doing this a pop-up asking you to stop the recording will appear as in the example below: 
+When doing this a pop-up will appear asking you to stop the recording was in the example below: 
 
 .. figure:: ../_static/route-record4.png
    :height: 568px
@@ -87,15 +89,17 @@ When doing this a pop-up asking you to stop the recording will appear as in the 
 
    *Ending recording a route.*
 
-If you press 'Stop' the recording will be .
+If you press 'Stop' the recording will be ended and a screen is presented in which you can :ref:`save the recorded route <ss-record-save>`.
+
+.. _ss-route-record-pause:
 
 Pause recording
 ~~~~~~~~~~~~~~~
-If you press 'Pause' in the pop-up of Figure 4, the recording of a route
-will be paused. Your movement will be no longer recorded.
+If you press 'Pause' in the pop-up which appears when :ref:`ending a route recording <ss-route-record-end>`, the recording of a route will be paused. 
+Your movement will no longer be recorded.
 
-The :ref:`record clock <subsec-klok>` will be set to --:--
-during a pause, while the record distance meter will show
+The :ref:`record timer <ss-rec-timer>` on the dashboard will be set to --:--
+during a pause. The the :ref:`record distance meter will show
 the recorded distance as you can see below:
 
 
@@ -104,21 +108,21 @@ the recorded distance as you can see below:
    :width: 320px
    :alt: Route recording paused Topo GPS
 
-   *Figure 5. The recording of a route is paused, which can be seen from the record clock and record distance meter.*
-
+   *The recording of a route is paused, which can be seen from the record clock and record distance meter.*
+   
+.. _ss-record-restart:
 
 Restart recording
 ~~~~~~~~~~~~~~~~~
-To restart a recording you have to press the :ref:`record clock <subsec-klok>` or
-the ‘Restart recording’ button in the bottom of the :ref:`routes screen <ss-route-load>`. 
-The following pop-up will then appear:
+To restart a paused recording you have tap :ref:`record timer <ss-rec-timer>` or
+the ‘Restart recording’ button in the top of the record screen. The following pop-up will then appear:
 
 .. figure:: ../_static/route-record6.png
    :height: 568px
    :width: 320px
    :alt: Routes opnemen herstarten Topo GPS
 
-   *Figure 6. Restarting the recording of a route.*
+   *Restarting the recording of a route.*
 
 If you press 'Restart' the recording will be continued. If you press 'Stop'
 the recording of a route will be finished and you will be
@@ -126,9 +130,9 @@ given the possibility to :ref:`save the recorded route <ss-record-save>`.
 
 .. _ss-record-save:
 
-Stopping recording
-~~~~~~~~~~~~~~~~~~
-If you have finished the recording of a route a screen will appear
+Saving recording
+~~~~~~~~~~~~~~~~
+If you have :ref:`stopped the recording of a route <ss-route-record-end>` a screen will appear
 in which you can save the recorded route. An example is displayed below:
 
 .. figure:: ../_static/route-record7.png
@@ -136,7 +140,7 @@ in which you can save the recorded route. An example is displayed below:
    :width: 320px
    :alt: Opgenomen routes opslaan Topo GPS
 
-   *Figure 7. Saving a recorded route.*
+   *Saving a recorded route.*
 
 In this screen you can subsequently enter the title, the author and a description. 
 
