@@ -52,3 +52,5 @@ It is also possible to load multiple routes on the map. This can be useful if yo
 
 You can also load multiple routes at one by entering the selection mode in the routes tab.
 
+In the next section it is explained how to :ref:`remove a route from the map <sec-routes-unload>`.
+
