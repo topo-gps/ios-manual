@@ -20,7 +20,7 @@ In the top of the route details screen a map with the route is displayed.
 
 Next you can see the title, the route type, distance, time (if the route is recorded) and author. If you tap this item, you can view additional details of a route.
 
-A description and photos will be shown if they are present.
+A description and photos will be shown if they are present. If you tap a photo, it will be shown full screen and you can browse through the photos as in a slideshow.
 
 Next, if present an altitude/elevation profile, a speed and a distance profile are shown. You can tap these profiles to view the :ref:`profile in more detail <sec-route-profiles>` and see additional height and speed information.
 
