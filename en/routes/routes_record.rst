@@ -85,7 +85,7 @@ When doing this a pop-up will appear asking you to stop the recording was in the
 .. figure:: ../_static/route-record4.png
    :height: 568px
    :width: 320px
-   :alt: Routes opnemen stoppen Topo GPS
+   :alt: Stopping route recording Topo GPS
 
    *Ending recording a route.*
 
@@ -106,7 +106,7 @@ the recorded distance as you can see below:
 .. figure:: ../_static/route-record5.png
    :height: 568px
    :width: 320px
-   :alt: Route recording paused Topo GPS
+   :alt: Pausing route recording Topo GPS
 
    *The recording of a route is paused, which can be seen from the record clock and record distance meter.*
    
@@ -120,7 +120,7 @@ the ‘Restart recording’ button in the top of the record screen. The followin
 .. figure:: ../_static/route-record6.png
    :height: 568px
    :width: 320px
-   :alt: Routes opnemen herstarten Topo GPS
+   :alt: Restarting recorded route Topo GPS
 
    *Restarting the recording of a route.*
 
@@ -135,10 +135,10 @@ Saving recording
 If you have :ref:`stopped the recording of a route <ss-route-record-end>` a screen will appear
 in which you can save the recorded route. An example is displayed below:
 
-.. figure:: ../_static/route-record7.png
+.. figure:: ../_static/route-rec3.png
    :height: 568px
    :width: 320px
-   :alt: Opgenomen routes opslaan Topo GPS
+   :alt: Saving recorded route Topo GPS
 
    *Saving a recorded route.*
 
@@ -146,45 +146,33 @@ In this screen you can subsequently enter the title, the author and a descriptio
 
 Based on the start and finish point of the route an automatic suggestion for the route title
 will be made. This suggestion appears in the title field if you do not enter a title yourself.
-If you do not enter a title, the suggestion will be used when saving the route. In the example above 
-the suggestion is ‘Seascale’.
+If you do not enter a title, the suggestion will be used when saving the route. I
 
 To ensure automatic title suggestion functions properly, the option :ref:`‘Addresses - Find automatically’ <settings-addresses>` should
 be enabled in the settings.
 
 If you press the '>' on the right hand side of the title you can add an URL.
 
-If you press the '>' on the right hand side of the title you can add contact information, 
-and copyright and license details. If you save a route also the author and copyright details
-will be saved for future use. If you record or plan a new route, the same author and copyright details
-will already be filled in. Therefore you do not have to reenter these details when saving the
-next recorded route.
+If you press the '>' on the right hand side of the title you can add contact information, and copyright and license details. If you save a route also the author and copyright details will be saved for future use. If you record or plan a new route, the same author and copyright details will already be filled in. Therefore you do not have to reenter these details when saving the next recorded route.
 
-You can alter the route type by pressing the route type cell. If you save the route, the current
-route type will be used as a suggestion for the next saved route. If you for example only record bicycles routes
-you therefore only have to set the route type once.
+You can alter the route type by pressing the route type type. If you save the route, the current route type will be used as a suggestion for the next saved route. If you for example only record bicycles routes you therefore only have to set the route type once.
 
-Waypoints that are currently shown on the map can be included with the
-route by setting the switch 'Include waypoints' on. If you do not want to save the currently displayed waypoints with the route you have to turn this switch off.
+Waypoints that are currently shown on the map can be included with the route by the setting 'Include waypoints'. If you tap this setting you can change it. You can choose between including all waypoints that are on the map, waypoints near the route, and no waypoints. If you choose for waypoints near route, you can determine the maximal distance of the waypoints to the route. Be careful with setting the setting to all waypoints, since it might cause adding irrelevant waypoints to a route.
 
-If you are ready, you can press 'Save' on the top right to save the recorded route.
+If you are ready entering the fields, you can press 'Save' on the top right to save the recorded route.
 If you do not want to save the route you can press 'Cancel' on the top left.
 
-Be aware, the route will be saved into the folder that is currently opened in the :ref:`routes screen <ss-route-load>`.
+The route will be saved into the folder that is currently opened in the :ref:`routes tab of the routes screen <ss-route-load>`.
 
-After you have saved the recorded route, a pop-up will appear that ask you if you
-would like to share your route with Topo GPS, or with Twitter/Facebook (only if you have installed these apps).
+After you have saved the recorded route, a pop-up will appear that ask you if you would like to share your route with Topo GPS or with another app (for this tap 'More). If you do not want to share the recorded route, you can tap 'Cancel'.
+
 If you choose Topo GPS you can share your route with other Topo GPS users, so that they can :ref:`import your recorded
-route <ss-routes-import>`.  You can also choose ‘Cancel’.
+route <ss-routes-import>`. 
+
 It is also possible to :ref:`share the recorded route <ss-routes-share>` later.
 
-The screen that appears is the :ref:`route details screen <ss-route-details>`. You can load the 
-recorded route on the map by pressing ‘Load’ on the top right of this screen.
+The screen that appears is the :ref:`route details screen <sec-route-details>`. You can load the 
+recorded route on the map by tapping the 'Show on map’ button on the top right of this screen.
 
-If you would like to load the saved recorded route on the map later, you have to press the :ref:`route button <subsec-route-button>`
-on the :ref:`dashboard <sec-dashboard>`.
-If you did not go to another folder, you will see the saved route on the top of the list. 
-You can :ref:`load <ss-route-load>` your route by pressing the title.
-
-In the section :ref:`organizing routes and waypoints <ss-routes-organize>` it is explained how to move your route to another folder.
+You can also :ref:`load the recorded route on the map <ss-route-load>` at a later time.
 
