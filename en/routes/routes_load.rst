@@ -50,7 +50,7 @@ The gray background color in the routes screen indicate the loaded routes.
 
 It is also possible to load multiple routes on the map. This can be useful if you want to combine or compare different routes. If you tap an unloaded route in the routes screen it will be added to the map, just as the first loaded route. The route line color will be different from the first route. 
 
-You can also load multiple routes at one by entering the selection mode in the routes tab.
+You can also load multiple routes at once by entering the selection mode in the routes tab.
 
 In the next section it is explained how to :ref:`remove a route from the map <sec-routes-unload>`.
 
