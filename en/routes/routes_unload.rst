@@ -1,17 +1,27 @@
-.. _ss-route-unload:
+.. _sec-routes-unload:
 
-Unloading routes
-----------------
+Removing routes from map
+------------------------
+A route can be removed from the map in several ways.
 
-You can remove a route from the map, in other words unload a route, in three ways.
+Routes screen
+~~~~~~~~~~~~~
+Tap the route button on the dashboard to open the :ref:`routes screen <sec-routes-screen>`. Then select the tab 'Routes'. An example is shown below:
 
-.. figure:: _static/route-load3.png
+.. figure:: ../_static/route-load3.png
    :height: 568px
    :width: 320px
-   :alt: Routesscherm Topo GPS
+   :alt: Routes screen Topo GPS
 
-   *Figuur 1. An example of the route screen with one loaded route.*
+   *An example of the routes screen with one loaded route.*
 
-- By pressing on the title of the loaded route in the :ref:`routes screen <ss-route-load>`. Loaded routes will have a gray background color like in Fig. 1.
-- By pressing ‘Unload all’ on the bottom of the :ref:`routes screen <ss-route-load>`. Then all loaded routes will be removed from the map at once.
-- By tapping the loaded route the :ref:`route details screen <ss-route-details>` will be opened. You can unload the route by pressing ‘Unload’ on the top right of the :ref:`route details screen <ss-route-details>`.
+The routes with a gray background are currently loaded on the map. If you tap a gray item, it will be removed immediately on from the map.
+
+It is also possible to remove all loaded routes from the map at once by tapping More (top right in the Routes tab) > Remove all from map.
+
+Map
+~~~
+If you tap a route line of a route that is loaded on the map, the route details screen will be opened. You can tap 'Remove from map' in the top right of the route details screen. The route will be immediately removed from the map and you will return to the main screen.
+
+
+
