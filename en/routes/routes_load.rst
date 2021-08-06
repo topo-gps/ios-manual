@@ -2,7 +2,7 @@
 
 Loading routes
 --------------
-To load routes on the map, you have to press the :ref:`route button <subsec-route-button>` on the right hand side of the :ref:`dashboard <sec-dashboard>`.
+To load a route on the map, you have to press the :ref:`route button <subsec-route-button>` on the right hand side of the :ref:`dashboard <sec-dashboard>`.
 
 An example of the the routes screen that appears is displayed below:
 
@@ -23,7 +23,7 @@ To load a route on the map, you have to press the title of the preferred route.
 
 As an example we now will load the route ‘Gower Hike’. The result is shown in the figure below.
 
-.. figure:: _static/route-load2.png
+.. figure:: ../_static/route-load2.png
    :height: 568px
    :width: 320px
    :alt: Loading route Topo GPS
@@ -40,7 +40,7 @@ You can alter the color, width, and transparency of the route line in the :ref:`
 
 If you press once more on the :ref:`route button <subsec-route-button>` on the right-hand side of the :ref:`dashboard <sec-dashboard>`, you can see that the ‘Gower Hike’ route has obtained a gray background color.  This means that this route is currently loaded. To go back to the map, you can press 'Map' on the top left.
 
-.. figure:: _static/route-load3.png
+.. figure:: ../_static/route-load3.png
    :height: 568px
    :width: 320px
    :alt: Route load Topo GPS
