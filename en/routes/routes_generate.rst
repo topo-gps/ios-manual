@@ -36,9 +36,9 @@ In the example below, we have tapped on the 'Generate button' to generate a new 
 
    *Another route is generated.*
    
-Clearly the generated route is different as the first route.
+Clearly the newly generated route is different from the first route. By pressing multiple times the generate button, you can generate routes until you find a route you like.
 
-As an example we now change the desired length to 50 km. A new route is generated, as you can see in the example below:
+As an example we now change the desired length to 50 km. A new longer route is generated, as you can see in the example below:
    
 .. figure:: ../_static/route-generate3.png
    :height: 568px
