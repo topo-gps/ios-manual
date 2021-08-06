@@ -1,23 +1,20 @@
-.. _ss-route-details:
+.. _sec-route-details:
 
 Route details
 =============
-By pressing the information button on the right hand side
-of a route title in the :ref:`routes screen <ss-route-load>`
+By tapping the information button (i) on the right hand side of a route title in the `Routes` tab of the :ref:`routes screen <sec-routes-screen>`
 the route details screen appears. 
 
-If you have loaded the route on the map, you can also open
-the route details screen by tapping the route.
+If you have loaded the route on the map, you can also open the route details screen by tapping the route curve.
 
-The route details screen of the route ‘Gower Hike’ is
-shown below:
+The route details screen of the route ‘Gower Hike’ is shown below:
 
 .. figure:: ../_static/route-details1.png
    :height: 568px
    :width: 320px
    :alt: Route details Topo GPS
 
-   *Figure 1. The route details screen of the route ‘Gower Hike’.*
+   *The route details screen of the route ‘Gower Hike’.*
 
 In the top of the screen a map with the route is displayed.
 
