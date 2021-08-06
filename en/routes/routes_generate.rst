@@ -3,7 +3,7 @@
 Generating routes
 =================
 
-Suppose you want to walk or cycle a route of a certain length from a certain point. You could try to :ref:`plan a route <sec-route-plan>`, and by trial and error you will probably end up with a nice round trip route of the desired length. However, in such situation it might be much easier to let Topo GPS generate a route for you.
+Suppose you want to walk or cycle a route of a certain length from a certain point. You could try to :ref:`plan a route <sec-route-plan>`, and by trial and error you will probably end up with a nice round trip route of the desired length. However, in such situation it might be much easier to letting Topo GPS generate a route for you.
 
 Generating a route is the automatic creation of a round-trip route. The only inputs are the starting point, the desired length and the transportation means.
 
@@ -22,6 +22,8 @@ The green point on the map is the start and end point of the route. By pressing 
 
 The slider in the bottom determines the desired length of the route. The desired length is displayed on the right hand side of the slider.
 If you move the slider, a new route will be generated. The actual length of the generated route is displayed above the slider. In the example above, the desired length is 7 km, but the actual length of the generated route is 7.7 km. The desired and actual length, do not always match exactly.
+
+Next to the actual length, you see the total ascent of the routes. If you tap it, you can view the :ref:`height profile <sec-route-profile>` of the generated route.
 
 Below the slider there is the transportation means button. In the example above it is set to pedestrian. If you tap this button you can change the transporation means to for example 'Bicycle'.
 
