@@ -26,7 +26,7 @@ If you press long on the position button, the :ref:`current location screen <ss-
 
 Route button
 ------------
-By tapping the route button on the right hand side of the dashboard (arrowed icon) the :ref:`routes screen <sec-routes>` will appear. In this screen you can do everything with routes, like loading, planning, generating, routes and importing routes.
+By tapping the route button on the right hand side of the dashboard (arrowed icon) the :ref:`routes screen <sec-routes-screen>` will appear. In this screen you can do everything with routes, like loading, planning, generating, routes and importing routes.
 
 .. _ss-panel:
 
