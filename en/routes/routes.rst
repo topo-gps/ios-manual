@@ -18,6 +18,8 @@ Routes can be controlled via the :ref:`routes screen <sec-routes-screen>` which 
    routes_record
    routes_plan
    route_details
+   route_map_download
+   route_profiles
    routes_edit
    routes_remove
    routes_select
