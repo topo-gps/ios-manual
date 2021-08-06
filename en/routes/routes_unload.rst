@@ -17,7 +17,7 @@ Tap the route button on the dashboard to open the :ref:`routes screen <sec-route
 
 The routes with a gray background are currently loaded on the map. If you tap a gray item, it will be removed immediately on from the map.
 
-It is also possible to remove all loaded routes from the map at once by tapping More (top right in the Routes tab) > Remove all from map.
+It is also possible to remove all loaded routes from the map at once by tapping: More (top right in the Routes tab) > Remove all from map.
 
 Map
 ~~~
