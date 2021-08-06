@@ -1,4 +1,4 @@
-.. _ss-route-load:
+.. _sec-routes-load:
 
 Loading routes
 --------------
@@ -6,12 +6,12 @@ To load routes on the map, you have to press the :ref:`route button <subsec-rout
 
 An example of the the routes screen that appears is displayed below:
 
-.. figure:: _static/route-load1.png
+.. figure:: ../_static/route-load1.png
    :height: 568px
    :width: 320px
    :alt: Routes screen Topo GPS
 
-   *Figure 1. An example of the routes screen that appears when pressing the route button on the map screen.*
+   *An example of the routes screen that appears when pressing the route button on the map screen.*
 
 A list of routes appears in the routes screen. In the example above there are three: 
 Gower Hike, Midhurst Fields, and Lake District Walk.
@@ -28,7 +28,7 @@ As an example we now will load the route ‘Gower Hike’. The result is shown i
    :width: 320px
    :alt: Loading route Topo GPS
 
-   *Figure 2. The route ‘Gower Hike’ has been loaded on the map.*
+   *The route ‘Gower Hike’ has been loaded on the map.*
 
 The map moves and zooms automatically so that the complete route is visible on the map. The blue line indicates the route. The white arrows on the blue line indicate the direction of the route.
 
@@ -45,7 +45,7 @@ If you press once more on the :ref:`route button <subsec-route-button>` on the r
    :width: 320px
    :alt: Route load Topo GPS
 
-   *Figure 3. In the route screen it can be seen that the route ‘Gower Hike' is loaded on the map.*
+   *In the route screen it can be seen that the route ‘Gower Hike' is loaded on the map.*
 
 It is also possible to load multiple routes on the map. This can be useful if you want to combine or compare different routes. If you press an unloaded route in the routes screen it will be added to the map, just as the first loaded route. The route line however will be different from the first route. 
 
