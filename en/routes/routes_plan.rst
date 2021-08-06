@@ -1,4 +1,4 @@
-.. _ss-route-plan:
+.. _sec-route-plan:
 
 Planning routes
 ---------------
@@ -17,12 +17,12 @@ Then you press on the ’Plan’ button in the menu.
  
 An example of an opened route planner is displayed below:
 
-.. figure:: _static/route-plan1.png
+.. figure:: ../_static/route-plan1.png
    :height: 568px
    :width: 320px
    :alt: Route planner Topo GPS open
 
-   *Figure 1. The route planner is opened.*
+   *The route planner is opened.*
 
 Closing route planner
 ~~~~~~~~~~~~~~~~~~~~~
