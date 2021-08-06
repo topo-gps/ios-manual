@@ -17,7 +17,7 @@ Alternatively you can open the routes screen by tapping :ref:`Menu <sec-menu>` >
       
 In the bottom of the routes screen you find a tab bar with five different tabs. These are
 
-- *Routes*: This tab shows the routes that are locally stored on your device. This tab can be used for loading routes on the map and exporting your routes.
+- *Routes*: This tab shows the routes that are locally stored on your device. This tab can be used for :ref:`loading routes on the map <sec-routes-load>` and exporting your routes.
 - *Record*: With this tab you can record your route.
 - *Plan*: With this tab you can plan a route.
 - *Generate*: With this tab you can generate a route.
