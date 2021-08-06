@@ -17,6 +17,7 @@ Routes can be controlled via the :ref:`routes screen <sec-routes-screen>` which 
    routes_unload
    routes_record
    routes_plan
+   routes_generate
    route_details
    route_map_download
    route_profiles
