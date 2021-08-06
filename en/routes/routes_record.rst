@@ -2,14 +2,39 @@
 
 Recording routes
 ----------------
+When recording your route all the locations your are visiting are collected. If you finish the recording, you can save the locations as a route.
+
+To record a route you need make sure that Topo GPS is given access to your precise location while using the app in the iOS Settings.
+
+Starting a recording
+~~~~~~~~~~~~~~~~~~~~
+To start a route recording, you have to open the :ref:`routes screen <sec-routes-screen>` and select the tab 'Record'. An example is below:
+
+.. figure:: ../_static/route-rec1.png
+   :height: 568px
+   :width: 320px
+   :alt: Record screen Topo GPS
+   
+   *The route record screen.*
+
+In the 'Record' tab of the routes screen you can start a route recording by tapping the 'Record route' button.
+
+Alternatively, you can also start recording a route from the :ref:`main screen <sec-main-screen>`, by tapping the :ref:`record timer <ss-rec-timer>` on the dashboard. A pop-up will appear in which you are asked whether you want to start a recording as in the example below:
+
+.. figure:: ../_static/route-rec2.png
+   :height: 568px
+   :width: 320px
+   :alt: Record screen Topo GPS
+   
+   *Starting a route recording from the dashboard.*
+
+If you tap 'Start' the route recording will be started.
 
 
-By pressing the :ref:`record timer <subsec-klok>` on the :ref:`dashboard <sec-dashboard>`, you
-can start and finish the recording of a route. You can also start a recording by pressing 'Record' in the :ref:`routes screen <ss-route-load>`.
-
-
-If you are recording a route and you are moving, a red line will appear on the map. This
-red line indicates your movement. An example is displayed in the figure below:
+Recording route
+~~~~~~~~~~~~~~~
+If you have started a recording and return to the main screen, you will see that a red line will appear on the map
+if you are moving. This red line indicates your movement. An example is displayed in the figure below:
 
 .. figure:: ../_static/route-record1.png
    :height: 568px
@@ -18,35 +43,22 @@ red line indicates your movement. An example is displayed in the figure below:
 
    *Recording a route. The red line indicates your movement.*
 
-The :ref:`record clock <subsec-klok>` on the dashboard indicates the time you are recording.
+The :ref:`record timer <ss-rec-timer>` on the dashboard indicates the time you are recording.
 In the figure above this is 0h17m.
 
-The :ref:`route distance meter <subsec-opneemafstand>`  on the dashboard indicates
+The :ref:`record distance meter <ss-rec-distance>` on the dashboard indicates
 the length of a recorded route. In the example above this is 778 m.
 
 You can modify the color, width and transparency of the record line in the 
 :ref:`settings <ss-settings-lines>`.
 
 While recording you can safely lock your device or switch to another app.
-This will not interrupt the recording.
+This will not interrupt the recording. In the top of the screen you can see that Topo GPS is using your location in the background. 
+In some devices the clock gets a blue blackground, on other devices the whole status bar turns blue. If you tap the blue clock or the blue statusbar, you will return to Topo GPS.
 
-.. figure:: ../_static/route-record2.png
-   :height: 568px
-   :width: 320px
-   :alt: Recording route Topo GPS
+If you tap on the line of the recorded route on the main map, the record screen will be opened. You can view the current altitude and speed profile. You can tap these profiles to view them in more detail. 
 
-   *The iPhone/iPad setting > Topo GPS > Location should be set to ‘Always’ to ensure correct recording in the background.*
-
-Warning: To ensure that a route is recorded properly it is very important to set the
-iPhone/iPad setting > Topo GPS > location to ‘Always’ (Fig. 2). With this setting you give
-Topo GPS the possibility to process your location if Topo GPS is running in the background. If this 
-setting is incorrect you will be shown a warning when you start recording a route.
-
-
-Showing a route while recording
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-If you have :ref:`loaded <ss-route-load>` one or more routes on the map, you
-can record a route at the same time. An example is shown below:
+If you have :ref:`loaded <ss-route-load>` one or more routes on the map, you can record a route at the same time. An example is shown below:
 
 .. figure:: ../_static/route-record3.png
    :height: 568px
@@ -58,22 +70,24 @@ can record a route at the same time. An example is shown below:
 The blue line indicates the loaded route with a length of 1.9 km, the red line the recorded route
 with a length of 778 m.
 
+Recording a route will cost a considerable amount of power, therefore make sure to regularly check your battery level when recording a route to make sure you are not running out of power. Also pause or finish a recording if your are not longer moving.
 
-Finish recording
+Ending recording
 ~~~~~~~~~~~~~~~~
-To finish a recording you have to press the :ref:`record clock <subsec-klok>` on the dashboard.
-Alternatively you can press 'Stop recording' in the bottom left 
-of the :ref:`routes screen <ss-route-load>`. The following pop-up will then appear:
+You can end the a recording by tapping the :ref:`record timer <ss-rec-timer>` on the dashboard or by tapping 'Stop recording' in
+the record screen. The record screen can be opened by tapping the line of the recorded route on the map,
+and by selecting the record tab in the :ref:`routes screen <sec-routes-screen>`.
+
+When doing this a pop-up asking you to stop the recording will appear as in the example below: 
 
 .. figure:: ../_static/route-record4.png
    :height: 568px
    :width: 320px
    :alt: Routes opnemen stoppen Topo GPS
 
-   *Interrupting recording a route.*
+   *Ending recording a route.*
 
-If you press 'Stop' the recording will be finished. A screen that gives you the possibility to save
-:ref:`save the recorded route <ss-record-save>` will appear.
+If you press 'Stop' the recording will be .
 
 Pause recording
 ~~~~~~~~~~~~~~~
@@ -112,8 +126,8 @@ given the possibility to :ref:`save the recorded route <ss-record-save>`.
 
 .. _ss-record-save:
 
-Saving recorded route
-~~~~~~~~~~~~~~~~~~~~~
+Stopping recording
+~~~~~~~~~~~~~~~~~~
 If you have finished the recording of a route a screen will appear
 in which you can save the recorded route. An example is displayed below:
 
