@@ -14,8 +14,8 @@ Contents:
    
    main/main_screen
    maps/maps
-   waypoints
-   routes
+   waypoints/waypoints
+   routes/routes
    search_address
    coordinate
    compass_direction
