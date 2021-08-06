@@ -5,7 +5,7 @@ Routes
 
 A route is a collection of points that can be :ref:`shown as a curve on the map <sec-routes-load>`. A route can have possible additional information like a description and photos that can be shown in the :ref:`route details screen <sec-route-details>`.
 
-In Topo GPS you can import, plan, generate, record, and export routes.
+In Topo GPS you can import, plan, generate, :ref:`record <sec-route-record>`, and export routes.
 
 Routes can be controlled via the :ref:`routes screen <sec-routes-screen>` which can be opened by tapping the :ref:`route button <ss-route-button>` on the dashboad and by tapping :ref:`Menu <sec-menu>` > Routes.
 
