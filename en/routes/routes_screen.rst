@@ -15,14 +15,12 @@ Alternatively you can open the routes screen by tapping :ref:`Menu <sec-menu>` >
 
    *The routes screen with a tabbar in the bottom.*
       
-The bottom of the routes screen has a tab bar with five different tabs. These are
+In the bottom of the routes screen you find a tab bar with five different tabs. These are
 
 - *Routes*: This tab shows the routes that are locally stored on your device. This tab can be used for loading routes on the map and exporting your routes.
-- *Record*: With this tab you can record a route.
+- *Record*: With this tab you can record your route.
 - *Plan*: With this tab you can plan a route.
 - *Generate*: With this tab you can generate a route.
 - *Shared*: This tab shows routes shared by other Topo GPS users. You can browse through these routes and import on to your device.
 
-To open a tab, just tap the item in the bottom tab bar. The currently opened tab is colored blue in the bottom tabbar. 
-The app remembers the last opened tab. So if you have opened the 'Plan' tab, return to the main screen and open the routes screen again, 
-the routes screen will be opened with the 'Plan' tab open.
+To open a tab, tap an item in the bottom tab bar. The currently opened tab is colored blue. The app remembers the last opened tab. So if you have opened the 'Plan' tab, return to the main screen and open the routes screen again, the routes screen will be opened with the 'Plan' tab open.
