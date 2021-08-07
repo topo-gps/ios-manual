@@ -2,85 +2,96 @@
 
 Planning routes
 ---------------
+Planning route is creating a route between several locations using a means of transportation. 
+These locations are called route points. 
 
-Topo GPS contains a route planner with which you can straightforwardly 
-plan routes. The route planner can also be used to modify existing routes.
-To use the route planner you have to be connected to the internet, unless 
-the transportation means is set to ‘Crow Fly’.
-
-.. _ss-route-plan-open:
-
-Opening route planner
-~~~~~~~~~~~~~~~~~~~~~
-To open the route planner you have to open the :ref:`menu <sec-menu>` first.
-Then you press on the ’Plan’ button in the menu.
- 
-An example of an opened route planner is displayed below:
+The route planner can be opened by selecting the tab 'Plan' in the bottom of :ref:`routes screen <sec-routes-screen>` (Dashboard > :ref:`Route button <ss-route-button>` or :ref:`Menu <sec-menu>` > Routes). The following screen will appear:
 
 .. figure:: ../_static/route-plan1.png
    :height: 568px
    :width: 320px
-   :alt: Route planner Topo GPS open
+   :alt: Route plan screen Topo GPS
+   
+   *The route planner with no route planned.*
 
-   *The route planner is opened.*
+In the bottom of the screen you find an overlay with a search bar and several buttons with which you can use to control the route planner.
 
-Closing route planner
-~~~~~~~~~~~~~~~~~~~~~
-You can close the route planner by pressing 'Close' on the top left of the route planner.
+To reset the route planner, you have to press More > Reset in the planner overlay. The route points and the routes will then be removed.
 
-If you close the route planner, the planned route will be kept on the map.
-By closing the route planner, the planned route will not be saved. To save
-a planned route you have to press the  :ref:`save <ss-route-plan-save>` button on the top right of the route planner window.
+To undo an action you have to press the ‘Undo’ button (circle with return arrow) in the planner. You can undo all actions in the planner until the
+undo button becomes light blue.
 
-Choosing transportation means
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-By pressing the button on the bottom left of the route planner window, you can choose
-a means of transportation. In Fig. 1 this button says ‘Pedestrian’. If you press button the following screen appears:
+To save a planned route, you have to press :ref:`'Save' <ss-route-plan-save>` button on the top right.
 
-.. figure:: _static/route-plan2.png
+To zoom the map to your location, you can tap the position button in the bottom left of the overlay.
+
+You can obtain more information about the route planner, by pressing 'Planner: Copyright', in the top left of the route planner screen.
+
+Transportation means
+~~~~~~~~~~~~~~~~~~~~
+To plan a route, first check the transportations means in the bottom center. In the example above, it is set to 'Pedestrian'.
+By tapping 'Pedestrian' a screen will appear in which you can change the transportation means to for example bicycling, car or as the crow flies.
+
+If you plan a route as the crow flies or over a layer, you can do this without an internet connection. 
+For the other ways of transportation an internet connection is required, because the routes are calculated externally. 
+
+Adding route points
+~~~~~~~~~~~~~~~~~~~
+To plan a route you need to add route points. You can add route points in three ways:
+
+- By entering an address or coordinates in the search bar.
+- By pressing long on the map and dragging the icon to the desired location.
+- By tapping waypoints, the position marker, or nodes from a node network.
+
+Below we show several examples of planning routes.
+
+Planning a route by entering the name of a location
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+If you tap the search bar in the route planner overlay a screen will appear in which you can enter the starting point
+and the destination. An example is shown below:
+
+.. figure:: ../_static/route-plan2.png
    :height: 568px
    :width: 320px
-   :alt: Vervoersmiddel routeplanner Topo GPS kiezen
+   :alt: Planning route to location Topo GPS
+   
+   *Screen in which you can enter a starting point and a destination.*
+   
+Your current location is automatically filled in as the starting point, you only need to enter the destination. If you wish to use another starting point just enter another location in the 'From:' field. As an example we now enter 'Sommersham' as our destination:
 
-   *Figure 2. Choosing a transportation means.*
+.. figure:: ../_static/route-plan3.png
+   :height: 568px
+   :width: 320px
+   :alt: Planning route to location Topo GPS
+   
+   *Entered the destination 'Sommersham'.*
+ 
+If you now tap 'Plan' on the top right or tap the location in the list of search results, you will return to the plan screen and a pedestrian route will be planned from your current location to 'Sommersham' as you can see in the example below:
 
-You can select the desired way of transportation. You have the following
-possibilities: walking, bicycling, mountain-biking, car (avoid highways), car,
-and as the crow flies.
+.. figure:: ../_static/route-plan4.png
+   :height: 568px
+   :width: 320px
+   :alt: Planning route to location Topo GPS
+   
+   *Planned a route from your current location to 'Sommersham'.*
+   
+In the route planner overlay the destination and origin of the planned route are shown as you can see in the figure above. If you tap them, they can be changed. 
+Furthermore, the length of the route is shown. If you tap the length, the map will be zoomed to the planned route. Also the total ascent is displayed, if you tap it you can view a :ref:`height profile <sec-route-profiles>` of the planned route.
 
-If you plan a route as the crow flies, you can do this without an internet connection. For the other ways of transportation an internet connection is required, because the routes are calculated externally. 
+If you press 'Save' on the top right, you can :ref:`save the planned route <ss-route-plan-save>`.
 
-You can obtain more information about the route planner, by pressing 'Planner: Copyright', just below the route planner window.
+If you do not want to save the route, you can press '< Map' on the top left to return to the :ref:`main screen <sec-main-screen>`.
+The planned route will then also be visible on the map as in the example below:
 
-Plan again switch
-*****************
-In the bottom of the transportation means screen, you can find the switch ‘Already planned part of route - Plan again’. 
+.. figure:: ../_static/route-plan5.png
+   :height: 568px
+   :width: 320px
+   :alt: Planning route to location Topo GPS
+   
+   *The planned route is shown in the main screen.*
 
+If you tap the route line of a planned route in the main screen, you will return to the route planner.
 
-If you disable the switch ‘Plan again’ and choose another means of transportation, the new means of transportation will only be used by the parts of the route that will be planned from now on. In this way you can plan a route with different transportation means. For example first a part ‘Pedestrian’, then a part ‘Crow Fly’ to cross a field in which there are no roads and then again ‘Pedestrian’. 
-
-If you enable the switch ‘Plan again’ and change the transportation means, the already planned part of the route will be recomputed with the new means of transportation. For example, in this way you can turn a planned bicycle route into a pedestrian route.
-
-
-.. _ss-route-plan-plan:
-
-Planning routes
-~~~~~~~~~~~~~~~
-In Topo GPS routes are planned via route points. You can add route points in three ways:
-
-- Manually, by pressing long on the map.
-- By tapping waypoints or the position marker.
-- By entering an address, coordinates or compass direction.
-
-Below we will first explain how you can :ref:`manually plan routes <ss-hu>`. Then it is explained how to plan routes via :ref:`waypoints <ss-route-plan-waypoint>` and your :ref:`current position <ss-hp>` . Finally it is discussed how you can :ref:`plan routes by entering addresses or coordinates <ss-route-plan-address>`.  You can also combine the three different methods.
-
-To reset the route planner, you press 'Reset' on the top right. The route points and the routes will then be removed.
-
-To undo an action you have to press the ‘Undo’ button in the middle of the route planner window. You can undo all actions including a reset until ten steps back.
-
-To save a planned route, you have to press :ref:`'Save' <ss-route-plan-save>` on the right.
-
-.. _ss-hu:
 
 Adding route points manually
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
