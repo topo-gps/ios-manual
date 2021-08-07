@@ -2,8 +2,8 @@
 
 Planning routes
 ---------------
-Planning route is creating a route between several locations using a means of transportation. 
-These locations are called route points. 
+Planning a route is creating a route between several locations using a means of transportation. 
+These locations are called route points in Topo GPS. 
 
 The route planner can be opened by selecting the tab 'Plan' in the bottom of :ref:`routes screen <sec-routes-screen>` (Dashboard > :ref:`Route button <ss-route-button>` or :ref:`Menu <sec-menu>` > Routes). The following screen will appear:
 
@@ -14,9 +14,9 @@ The route planner can be opened by selecting the tab 'Plan' in the bottom of :re
    
    *The route planner with no route planned.*
 
-In the bottom of the screen you find an overlay with a search bar and several buttons with which you can use to control the route planner.
+In the bottom of the screen you find an overlay with a search bar and several buttons which you can use to control the route planner.
 
-To reset the route planner, you have to press More > Reset in the planner overlay. The route points and the routes will then be removed.
+To reset the route planner, you have to press 'More > Reset' in the planner overlay. The route points and the routes will then be removed.
 
 To undo an action you have to press the ‘Undo’ button (circle with return arrow) in the planner. You can undo all actions in the planner until the
 undo button becomes light blue.
