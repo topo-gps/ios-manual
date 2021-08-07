@@ -27,7 +27,7 @@ Next to the actual length, you see the total ascent of the routes. If you tap it
 
 Below the slider there is the transportation means button. In the example above it is set to pedestrian. If you tap this button you can change the transporation means to for example 'Bicycle'.
 
-In the bottom there is the 'Generate button'. If you tap it, you will generate a new route. This can be useful if you want to generate another route, but you do not want to change the starting point or the desired length.
+In the bottom there is the 'Generate' button. If you tap it, you will generate a new route. This can be useful if you want to generate another route, but you do not want to change the starting point or the desired length.
 
 In the example below, we have tapped on the 'Generate button' to generate a new route from the same point:
 
