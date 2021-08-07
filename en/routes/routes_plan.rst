@@ -83,7 +83,7 @@ If you press 'Save' on the top right, you can :ref:`save the planned route <ss-r
 If you do not want to save the route, you can press '< Map' on the top left to return to the :ref:`main screen <sec-main-screen>`.
 The planned route will then also be visible on the map as in the example below:
 
-.. figure:: ../_static/route-plan5.png
+.. figure:: ../_static/route-plan5.jpg
    :height: 568px
    :width: 320px
    :alt: Planning route to location Topo GPS
