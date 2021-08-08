@@ -44,7 +44,7 @@ To plan a route you need to add route points. You can add route points in three 
 
 If you have added at least two route points, a route will be computed between the route points.
 
-In the links below several examples of planning routes are discussed.
+Below several examples of planning routes are discussed.
 
 .. toctree::
    :maxdepth: 2
