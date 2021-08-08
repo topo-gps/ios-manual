@@ -45,7 +45,7 @@ To plan a route you need to add route points. You can add route points in three 
 
 If you added at least two route points, a route will be computed between the route points.
 
-Below you can find several examples of planning routes.
+In the links below several examples of planning routes are discussed.
 
 .. toctree::
    :maxdepth: 2
@@ -62,6 +62,6 @@ The planned route will then be shown on the map in the main screen, but it will 
 .. _ss-route-plan-save:
 
 Saving planned route
---------------------
+~~~~~~~~~~~~~~~~~~~~
 If you want to save a planned route tap 'Save' in the top right of the route planner screen.
 A screen will appear in which you can enter title, author and a description.
