@@ -15,14 +15,19 @@ The route planner can be opened by selecting the tab 'Plan' in the bottom of :re
 
 In the bottom of the screen you find an overlay with a search bar and several buttons which you can use to control the route planner.
 
-To reset the route planner, you have to press 'More > Reset' in the planner overlay. The route points and the routes will then be removed.
+To zoom the map to your location, you can tap the position button in the bottom left of the overlay.
 
 To undo an action you have to press the ‘Undo’ button (circle with return arrow) in the planner. You can undo all actions in the planner until the
 undo button becomes light blue.
 
-To save a planned route, you have to press :ref:`'Save' <ss-route-plan-save>` button on the top right.
+Next to the undo button, you find the more Button (circle with points). If you tap the more button a menu will appear with the following options:
 
-To zoom the map to your location, you can tap the position button in the bottom left of the overlay.
+- *Change map*: You can change the map of the planner with this option.
+- *Add route*: This can be used to join a saved route to the planned route, or to add a saved route to the map.
+- *Search*: With this option you can create a route point by entering a location name.
+- *Reset*: This will reset the route planner. The planned route and the route points will disappear.
+
+To save a planned route, you have to press :ref:`'Save' <ss-route-plan-save>` button on the top right.
 
 You can obtain more information about the route planner, by pressing 'Planner: Copyright', in the top left of the route planner screen.
 
@@ -49,8 +54,11 @@ Below several examples of planning routes are discussed.
 .. toctree::
    :maxdepth: 2
    
-   routes_plan_search_bar
-
+   route_plan_search_bar
+   route_plan_map
+   route_plan_current_location
+   route_plan_bicycle_node_network
+   
 .. _ss-route-plan-finish:
 
 Finishing route planning
