@@ -39,12 +39,29 @@ Adding route points
 ~~~~~~~~~~~~~~~~~~~
 To plan a route you need to add route points. You can add route points in three ways:
 
-- By entering an address or coordinates in the search bar.
+- By entering a location in the search bar.
 - By pressing long on the map and dragging the icon to the desired location.
 - By tapping waypoints, the position marker, or nodes from a node network.
 
-Below we show several examples of planning routes.
+If you added at least two route points, a route will be computed between the route points.
 
+Below you can find several examples of planning routes.
 
+.. toctree::
+   :maxdepth: 2
+   
+   routes_plan_search_bar
 
+.. _ss-route-plan-finish:
 
+Finishing route planning
+~~~~~~~~~~~~~~~~~~~~~~~~
+If your are ready with planning a route, you can return to the main map by tapping '< Map' on the top left of the screen.
+The planned route will then be shown on the map in the main screen, but it will not be saved. If you tap a planned route in the main screen, you will return to the route planner.
+
+.. _ss-route-plan-save:
+
+Saving planned route
+--------------------
+If you want to save a planned route tap 'Save' in the top right of the route planner screen.
+A screen will appear in which you can enter title, author and a description.
