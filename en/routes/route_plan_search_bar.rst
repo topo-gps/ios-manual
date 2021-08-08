@@ -1,4 +1,4 @@
-.. _sec-routes-plan-search-bar:
+.. _sec-route-plan-search-bar:
 
 Planning a route by entering the name of a location
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
