@@ -2,7 +2,7 @@
 
 Planning a route by entering the name of a location
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-To plan a route by entering the name of a location, first open :ref:`the route planner <sec-routes-plan>`. If a route is already planned, tap More > Reset to reset the planner.
+To plan a route by entering the name of a location, first open :ref:`the route planner <sec-route-plan>`. If a route is already planned, tap More > Reset to reset the planner.
 
 If you tap the search bar in the route planner overlay a screen will appear in which you can enter the starting point and the destination. An example is shown below:
 
