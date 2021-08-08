@@ -43,7 +43,7 @@ To plan a route you need to add route points. You can add route points in three 
 - By pressing long on the map and dragging the icon to the desired location.
 - By tapping waypoints, the position marker, or nodes from a node network.
 
-If you added at least two route points, a route will be computed between the route points.
+If you have added at least two route points, a route will be computed between the route points.
 
 In the links below several examples of planning routes are discussed.
 
