@@ -13,7 +13,7 @@ select waypoints and perform one of the following actions on the selected waypoi
 - Change icon of selected waypoints
 - Remove selected waypoints from the map
 
-Selecting waypoints is similar to selecting routes.
+Selecting waypoints is similar to :ref:`selecting routes <sec-routes-select>`.
 
 Opening selection screen
 ~~~~~~~~~~~~~~~~~~~~~~~~
