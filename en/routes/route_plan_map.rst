@@ -9,7 +9,7 @@ If a route is present, tap More > Reset to reset the route planner.
 If you press long on the map, a route point will appear. If you hold you finger on the map, you can drag the route point to the desired position. If you then release your finger, the route point will be positioned.
 An example is displayed below:
 
-.. figure:: _static/route-plan-map1.png
+.. figure:: ../_static/route-plan-map1.png
    :height: 568px
    :width: 320px
    :alt: Route planner Topo GPS add route point.
@@ -20,7 +20,7 @@ The added route point is colored green. The green color indicates that the route
 
 You can add a second route point by pressing long on the map. This one will be colored blue and indicates a route point that is being added. A blue route point will always follow a green one. You now have to drag the blue route point to the desired position. If you release your finger a route will be planned from the green to the blue route point as you can see below:
 
-.. figure:: _static/route-plan-map2.png
+.. figure:: ../_static/route-plan-map2.png
    :height: 568px
    :width: 320px
    :alt: Route planner Topo GPS add route point.
@@ -35,7 +35,7 @@ The length of the planned route is indicated on the route planner overlay in the
 
 To extend the route you have to add a third route point, by pressing long on the map. An example is displayed below:
 
-.. figure:: _static/route-plan-map3.png
+.. figure:: ../_static/route-plan-map3.png
    :height: 568px
    :width: 320px
    :alt: Route planner Topo GPS add route points.
@@ -47,7 +47,7 @@ Planning a round-trip
 ~~~~~~~~~~~~~~~~~~~~~
 To plan a round trip, you first have to add several route points as in the example above. Then tap the first route point. A pop-up will appear in which you are asked to to plan to or select the start point. Tap 'Plan to start point' and the route will be closed, as you can see in the example below:
 
-.. figure:: _static/route-plan-map4.png
+.. figure:: ../_static/route-plan-map4.png
    :height: 568px
    :width: 320px
    :alt: Route planner Topo GPS add route points.
@@ -77,7 +77,7 @@ The route point will become green. Next, you press long on the selected route po
 If you release the moved route point, the new route will be calculated automatically
 as you can see in the figure below: 
 
-.. figure:: _static/route-plan-rp2.png
+.. figure:: ../_static/route-plan-rp2.png
    :height: 480px
    :width: 320px
    :alt: Route plan Topo GPS move route point.
@@ -101,7 +101,7 @@ If you press long on the map, a blue route point will appear. If you
 hold your finger on the map, you can drag this point to
 the desired position. An example is displayed below:
 
-.. figure:: _static/route-plan-rp3.png
+.. figure:: ../_static/route-plan-rp3.png
    :height: 568px
    :width: 320px
    :alt: Routeplanner Topo GPS routepunt invoegen.
@@ -111,7 +111,7 @@ the desired position. An example is displayed below:
 If you release you finger from the screen, the route between the green and
 purple route point will now go via the inserted route point. This is illustrated in the figure below:
  
-.. figure:: _static/route-plan-rp4.png
+.. figure:: ../_static/route-plan-rp4.png
    :height: 568px
    :width: 320px
    :alt: Routeplanner Topo GPS routepunt toevoegen.
@@ -133,7 +133,7 @@ To remove a route point, you first have to :ref:`select <ss-route-point-select>`
 Next, press long on this route point, hold your finger on the screen and drag it to the top or bottom of the screen. 
 You will see that the route point disappears. An example is displayed below:
 
-.. figure:: _static/route-plan-rp5.png
+.. figure:: ../_static/route-plan-rp5.png
    :height: 568px
    :width: 320px
    :alt: Routeplanner Topo GPS routepunt toevoegen.
@@ -144,7 +144,7 @@ If you have dragged the route point to the route plan window you can release it.
 route point will be removed and the route will be recalculated as you can see
 below:
 
-.. figure:: _static/route-plan-rp6.png
+.. figure:: ../_static/route-plan-rp6.png
    :height: 568px
    :width: 320px
    :alt: Routeplanner Topo GPS routepunt toevoegen.
