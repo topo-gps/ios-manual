@@ -98,7 +98,7 @@ We want to start the route in Baylham Stone. Press long on the route to insert a
 
 Next you have to press long on the first route point, drag it to the bottom or top of the screen and release your finger. The first route point will be removed and the route will be shortened from the inserted route point to the last route point. This is illustrated in the figure below:
  
-.. figure:: ../_static/route-track-edit6.png
+.. figure:: ../_static/route-edit6.png
    :height: 568px
    :width: 320px
    :alt: Shortening route Topo GPS
