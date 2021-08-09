@@ -22,7 +22,7 @@ Tap subsequently the desired bicycle nodes to plan a route. An example is shown 
 
 The route is planned on your device, that is why you do not need an internet connection for planning routes over a bicycle node network.
 
-It is also possible to :ref:`move <ss-route-point-move>`, :ref:`insert <ss-route-point-insert>` and :ref:`remove <ss-route-point-remove>` route points
+Like with :ref:`route planning by creating route points manually on the map <sec-route-plan-map>`, it is also possible to :ref:`move <ss-route-point-move>`, :ref:`insert <ss-route-point-insert>` and :ref:`remove <ss-route-point-remove>` route points
 
 If you press long on a connection between the nodes, you can also add a route point on a connection.
 
