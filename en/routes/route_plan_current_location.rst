@@ -27,7 +27,7 @@ Below the plan button you can see the current transportation means. If you tap i
    
    *A route was planned from your current location to a point on the map.*
 
-If you tap the route curve, the :ref`route planner <sec-route-plan>` will be opened. There you can tap More > Reset to remove the planned route, or 'Save' to save it.
+If you tap the route curve, the :ref:`route planner <sec-route-plan>` will be opened. There you can tap More > Reset to remove the planned route, or 'Save' to save it.
 
 .. _ss-route-plan-cur-loc-wp:
 
