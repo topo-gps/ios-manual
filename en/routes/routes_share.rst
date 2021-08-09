@@ -1,7 +1,7 @@
-.. _ss-routes-share:
+.. _sec-routes-export:
 
-Sharing/exporting routes and waypoints
-======================================
+Exporting routes
+================
 
 You can share/export routes and waypoints
 that are saved on your device via several apps.
