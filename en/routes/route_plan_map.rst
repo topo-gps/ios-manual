@@ -67,7 +67,7 @@ Moving route points
 To move a route point, you first :ref:`select <ss-route-point-select>` the desired route point by tapping it. 
 The route point will become green. Next, you press long on the selected route point.  Hold your finger on the screen and drag the route point to the new position. An example is displayed below:
 
-.. figure:: _static/route-plan-rp1.png
+.. figure:: ../_static/route-plan-rp1.png
    :height: 568px
    :width: 320px
    :alt: Route plan Topo GPS move route point."
