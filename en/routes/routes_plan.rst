@@ -70,5 +70,13 @@ The planned route will then be shown on the map in the main screen, but it will 
 
 Saving planned route
 ~~~~~~~~~~~~~~~~~~~~
-If you want to save a planned route tap 'Save' in the top right of the route planner screen.
-A screen will appear in which you can enter title, author and a description.
+If you want to save a planned route tap 'Save' in the top right of the route planner screen. A screen will appear in which you can enter the details of the route as is illustrated below:
+
+.. figure:: ../_static/route-plan-finish.png
+   :height: 568px
+   :width: 320px
+   :alt: Route plan screen Topo GPS
+   
+   *Saving a planned route*
+
+You can enter the title, author, route type, and description. You can also decide to include waypoints that are currently loaded on the map in the route. Then tap 'Save' to save the planned route. You will return to the :ref:`main screen <sec-main-screen>` and the map will be zoomed the planned route. 
