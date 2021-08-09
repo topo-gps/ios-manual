@@ -1,67 +1,65 @@
-.. _ss-routes-select:
+.. _sec-routes-select:
 
 Selecting routes
-=================
-In the :ref:`routes <ss-route-load>` and in the
-:ref:`waypoints screen <ss-waypoint-load>` you can
-select routes or waypoints and perform one of the
-following actions: ‘Remove’, ‘Share’, ‘Move into a folder’ or ‘Load on map’.
+================
 
-Selecting waypoints is similar to selecting routes.
+In the 'Routes' tab of the :ref:`routes screen <sec-routes-screen>` you can
+select routes and perform one of the following actions on the selected routes: 
 
-An example of the routes screen is displayed below:
+- Remove selected routes
+- Move selected routes into a folder
+- Export selected routes
+- Load selected routes on the map
+- Remove selected routes from the map
 
-.. figure:: _static/route-select1.png
-   :height: 568px
-   :width: 320px
-   :alt: Selecting routes and waypoints Topo GPS
-
-   *Figure 1. The routes screen.*
+Selecting routes is similar to :ref:`selecting waypoints <ss-waypoints-select>`.
 
 Opening selection screen
 ~~~~~~~~~~~~~~~~~~~~~~~~
-If you press the button ‘Select’ on the top right of the routes or waypoints screen the select screen will open. In the select screen you can select routes or waypoints. You can also open the select screen by pressing long on a item in the routes or waypoints screen. The item that you press will then also be selected. An example of the select screen is displayed below:
+If you press the button 'More' on the top right of the 'Routes' tab, a menu will be shown as in the figure below.
 
-.. figure:: _static/route-select2.png
+.. figure:: ../_static/routes-select1.png
    :height: 568px
    :width: 320px
-   :alt: Selecting routes and waypoints Topo GPS
+   :alt: Selecting routes Topo GPS
 
-   *Figure 2. The select screen in which you can select routes.*
+   *The more menu of the routes tab.*
 
+Press ‘Select’ in the menu to open the selection screen. It is also possible to open the selection screen by pressing long on an item in the routes list. That item will then be selected immediately. An example of a selection screen is shown below:
 
-Selecting
-~~~~~~~~~
-By pressing an item in the list of routes/waypoints the item will be selected. If an item is selected a checkmark will show up and the background of the item will become light blue. An example in which two routes are selected is displayed below:
-
-.. figure:: _static/route-select3.png
+.. figure:: ../_static/routes-select2.png
    :height: 568px
    :width: 320px
-   :alt: Selecting routes and waypoints Topo GPS
+   :alt: Route selection screen Topo GPS
 
-   *Figure 3. The routes screen.*
+   *The selection screen in which you can select routes.*
 
-The title of the selection screen shows how many items are selected. You can deselect an item by pressing it once more. If you want to select all items in the list, you have to press ‘All’ on the top left. To return to the usual routes/waypoints screen you have to press ‘Cancel’.
+Selecting route
+~~~~~~~~~~~~~~~
+To select a route, tap a route item in the selection screen. A checkmark will show up and the background of the route row will become grey to indicate that it is selected. An example in which two routes are selected is displayed below:
 
-Performing action
-~~~~~~~~~~~~~~~~~
+.. figure:: ../_static/routes-select3.png
+   :height: 568px
+   :width: 320px
+   :alt: Two selected routes Topo GPS
+
+   *Two selected routess.*
+
+The title of the selection screen shows how many items are selected. You can deselect a route by tapping a selected one. If you want to select all routes in the list, you have to press ‘All’ on the top left. To return to the usual routes screen you have to press ‘Cancel’.
+
+Performing an action
+~~~~~~~~~~~~~~~~~~~~
 If you have made a selection you can perform an action with one of the buttons
-in the toolbar on the bottom of the screen. The possible actions are:
+in the toolbar on the bottom of the screen. The toolbar buttons are from left to right:
 
-- *Trash icon*: Allows you to remove the selection from your device and iCloud.
+- *Trash button*: If you press this button a pop-up will ask to to whether you would like to remove the selected routes from your device (and iCloud if enabled). If you press 'Remove' the selected routes will be removed.
 
-- *Export icon*: Allows you to share the selected routes/waypoints. A pop-up will appear in which you can choose an app for sharing.
+- *Folder button*: If you press this button a screen with the folder tree will be opened. You can select a folder and the selected routes will be moved to a new folder.
 
-- *Map icon*; Allows you to move the selection into a folder.
+- *Export button*: If you press this button the export pop-up will be shown. In this pop-up you can select the kind of data to be exported and change the export settings. If you press 'Export' in the export pop-up the selected routes will be exported. Another pop-up with apps and actions will be shown. If you tap an app or action, the result of the export will be handled by the app or action.
 
-- *Load*: Allows you to load the selection on the map.
+- *Map button*: If you press this button, the selected routes will be loaded on the map. The map will zoom automatically to the selected waypoitns and you will be returned to the map.
 
-As an example we now will load the selection from Fig. 3 on the map by pressing ‘Load’. The map screen will appear and you can see below that the two selected routes have been loaded on the map:
+- *More button*: If you press the more button in the bottom toolbar, a menu will appear from which you can choose the following actions:
 
-.. figure:: _static/route-select4.png
-   :height: 568px
-   :width: 320px
-   :alt: Selecting routes and waypoints Topo GPS
-
-   *Figure 4. The routes ‘Gower Hike’ and ‘Gower Hike Short’ are loaded on the map.*
-
+  - *Remove from map*: If you press this button, the selected routes will be removed from the map.
