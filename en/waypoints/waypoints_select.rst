@@ -47,7 +47,7 @@ To select a waypoint, tap a waypoint row in the selection screen. A checkmark wi
 
    *Two selected waypoints.*
 
-The title of the selection screen shows how many items are selected. You can deselect an waypoint tapping a selected one. If you want to select all waypoitns in the list, you have to press ‘All’ on the top left. To return to the usual waypoints screen you have to press ‘Cancel’.
+The title of the selection screen shows how many items are selected. You can deselect an waypoint tapping a selected one. If you want to select all waypoints in the list, you have to press ‘All’ on the top left. To return to the usual waypoints screen you have to press ‘Cancel’.
 
 Performing an action
 ~~~~~~~~~~~~~~~~~~~~
