@@ -47,7 +47,7 @@ Below we will give the following examples:
 
 - :ref:`ss-route-edit-replace`
 
-- :ref:`ss-route-edit-join`
+- :ref:`ss-route-edit-merge`
 
 .. _ss-route-edit-extend:
 
