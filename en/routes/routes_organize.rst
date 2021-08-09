@@ -1,184 +1,126 @@
-.. _ss-routes-organize:
+.. _sec-routes-organize:
 
-Organizing routes and waypoints
-===============================
-In the :ref:`routes screen <ss-route-load>` and
-in the :ref:`waypoints screen <ss-waypoint-load>` 
-you can organize routes and waypoints into folders and
-you can reorder the routes and waypoints.
+Organizing routes
+=================
+You can keep your routes organized by :ref:`creating folders <ss-route-folder-create>` and :ref:`moving routes into folders <ss-route-folder-move>`.
+It is also possible to :ref:`change the order of the routes <ss-route-folder-reorder>` appearing in the 'Routes' tab of the routes screen.
 
-Organizing waypoints is similar to organizing routes. Below,
-we will organize routes as an example.
+Organizing routes is similar to :ref:`organizing waypoints <ss-waypoints-organize>`. 
 
-An example of the routes screen is displayed below:
+.. _ss-route-folder-create:
 
-.. figure:: _static/route-order1.png
+Creating a folder
+~~~~~~~~~~~~~~~~~
+To create a folder, first open the :ref:`routes screen <sec-route-screen>` and select the tab 'Routes' to show your saved routes.
+Then press More (top right) > New Folder. The new folder screen will be opened, an example is shown below:
+
+.. figure:: ../_static/route-folder1.png
    :height: 568px
    :width: 320px
-   :alt: Organizing routes Topo GPS
+   :alt: New route folder Topo GPS
+   
+   *The new folder screen*
+   
+To create a folder, you have to enter a name. Optionally you can choose the location in the folder tree where the new folder is to be added. This is always initially set to the currently opened folder in the route screen. If you press location and select a folder you can change the location to another folder. When you have entered a name you need to press 'Save' to create a new folder. You will return to the routes screen and the newly created folder will be shown in the list.
 
-   *Figure 1. An example of the routes screen.*
+As an example we will enter 'Favorites' and press 'Save' to create a 'Favorites' folder. The routes screen now looks as follows:
 
-To alter the ordering of the routes/waypoints, to create
-new folders, and to move routes/waypoints into folders
-you have to open the selection screen. You can do this by
-pressing ‘Select’ on the top of the routes/waypoints screen.
-An example of the selection screen is displayed below:
-
-.. figure:: _static/route-order2.png
+.. figure:: ../_static/route-folder2.png
    :height: 568px
    :width: 320px
-   :alt: Organizing routes Topo GPS
+   :alt: A created route folder Topo GPS
+   
+   *A 'Favorites' folder has been created.*
+   
+The 'Favorites' folder is listed in the routes screen with a folder icon.
 
-   *Figure 2. An example of the selection screen.*
+.. _ss-route-folder-move:
 
-.. _ss-routes-organize-reorder:
+Moving routes into folder
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+To move routes into a folder you have to open the :ref:`selection screen <sec-routes-select>` by pressing More > Select or pressing long on an item in the routes screen. Select the to be moved routes and press the folder icon in the bottom toolbar. Then the 'Move items to folder' screen will be shown, example is shown below:
 
-Reordering routes and waypoints
--------------------------------
-In the selection screen (Fig. 2) you can alter the ordering of the routes/waypoints
-that appears in the routes/waypoints screen. For this, the :ref:`filter <ss-routes-search-filter>` has
-to be set to ‘All routes’/‘All waypoints’.
-
-To reorder you have to hold your finger on the icon with the tree lines on the right hand side
-of a title. You can now drag the item to the desired position as is illustrated in the figure below.
-
-.. figure:: _static/route-order3.png
+.. figure:: ../_static/route-folder3.png
    :height: 568px
    :width: 320px
-   :alt: Organizing routes Topo GPS
+   :alt: Move routes screen Topo GPS
+   
+   *Move items to folder screen.*
 
-   *Figure 3. Reordering routes.*
+In the 'Move items to folder' screen, the folder tree is shown. If you tap on a folder the selected items will be moved to that folder and you will return to the routes screen.
 
-If you release your finger the route/waypoint will be moved. If you leave the selection screen
-by pressing ‘Cancel’ you can see the result of the reordering.
+As an example we now will move the waypoints 'Gower Hike' and 'Midhurst Fields' to the 'Favorites' folder. After moving the two routes as indicated above the routes screen looks as follows:
 
+.. figure:: ../_static/routes-folder4.png
+   :height: 568px
+   :width: 320px
+   :alt: Routes screen Topo GPS
+   
+   *The routes screen after moving two routes into the folder 'Favorites'.*
 
-.. _ss-routes-organize-folder:
+In the routes screen the routes 'Gower Hike' and 'Midhurst Fields' have disappeared. They now can be found in the folder 'Favorites'.
 
-Organizing routes and waypoints into folders
---------------------------------------------
-You can organize your collection of routes and waypoints into folders. This may
-help to keep the lists in the routes/waypoints screen clear.
+.. _ss-route-folder-open:
 
-Folders will only appear in the routes/waypoints screen if the :ref:`filter <ss-routes-search-filter>` 
-is set to ‘All routes’/‘All waypoints’.
-
-Creating folders
+Opening a folder
 ~~~~~~~~~~~~~~~~
-To create a folder you have to open the selection screen (Fig. 2) first. 
-You have to make sure that no items are selected.
-Next you press the folder icon on the bottom of the screen.
-You will be shown the following screen in which you can give the folder a name:
+To open a folder, just tap the folder item in the routes screen. As an example we now open the folder 'Favorites'. The routes screen will then look as follows:
 
-.. figure:: _static/route-folder1.png
+.. figure:: ../_static/route-folder5.png
    :height: 568px
    :width: 320px
-   :alt: Creating folder Topo GPS
+   :alt: An opened folder Topo GPS
+   
+   *The contents of the 'Favorites' folder.*
 
-   *Figure 4. Creating a folder.*
+The 'Gower Hike' and 'Midhurst Fields' routes now can be found in the 'Favorites' folder. 
 
-If you press ‘Save’ in the top of the screen, the folder will be created.
-The newly created folder will be put on top of the list of routes/waypoints.
-This is illustrated in the figure below in which the folder ‘Southampton’ has
-been created.
+Below the search bar you can see the current location in the folder tree. If you press 'All routes' you will return to the root folder.
 
-.. figure:: _static/route-folder2.png
-   :height: 568px
-   :width: 320px
-   :alt: Creating folder Topo GPS
+.. _ss-route-folder-load:
 
-   *Figure 5. The folder ‘Southampton’ has been created.*
+Loading contents of folder
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+To load all routes in a folder and its descendant folders, press long on a folder item in the routes screen to enter the selection mode and to select the folder. Then press the map icon in the bottom toolbar to load the contents of the folder on the map.
 
+Alternatively tap the info button next to a folder in the routes screen. Then press 'Show on map' on the top right to load all routes on the map. You will return to the main map screen and the map will be zoomed to the contents of the folder. 
 
-Moving routes/waypoints into folders
+.. _ss-route-folder-unload:
+
+Removing contents of folder from map
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-To move routes, waypoints and folders into a folder you
-have to open the selection screen by pressing ‘Select’.
+To remove the routes in a folder and it descendant folders from the map,  press long on a folder item in the routes screen to enter the selection mode and to select the folder. Then tap in the bottom tool bar the more button and then tap 'Remove from map'.
 
-.. figure:: _static/route-folder3.png
+Alternatively, first tap the info button next to a folder in the routes screen to open the folder details screen. Then press 'Remove from map' on the top right to remove all routes from the map. If 'Shown on map' is shown, first tap it to load all routes, then go back to the routes screen to open the folder details screen. Then press 'Remove from map' on the top right.
+
+.. _ss-route-folder-rename:
+
+Renaming folders
+~~~~~~~~~~~~~~~~
+To rename a folder first open the routes screen and tap the info button next to a folder item to open the folder details screen. Then tap 'Edit' in the bottom toolbar, change the name and press 'Save'.
+
+
+.. _ss-route-folder-reorder:
+
+Changing the order of routes 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Just below the folder tree / filter bar in the 'Routes' tab of the routes screen the current sort method is displayed. If you tap the sort method you can change it. If it is set to 'Customizable order' you can determine the order of the routes.
+
+To change the order of the routes in the 'Favorites' folder, just open that folder. Then press More > Select to enter the selection mode.
+The routes screen then looks as follows:
+
+.. figure:: ../_static/route-folder6.png
    :height: 568px
    :width: 320px
-   :alt: Moving folder Topo GPS
+   :alt: An opened folder Topo GPS
+   
+   *The 'Favorites' folder in selection mode.*
 
-   *Figure 6. The selection screen.*
+On the right hand side of each item a handle with three bars is displayed. Drag such a handle to a desired position and release your finger. The route will then be moved in the list to the desired location. In the example below, we have moved 'Gower Hike' to the top.
 
-Next you have to select the items that have to be moved, as
-is illustrated below:
-
-.. figure:: _static/route-folder4.png
+.. figure:: ../_static/route-folder7.png
    :height: 568px
    :width: 320px
-   :alt: Moving folder Topo GPS
-
-   *Figure 7. Selecting the items that need to be moved.*
- 
-Then you have to press the folder icon in the bottom of the screen.
-You will be shown an overview of all the existing folders as
-is illustrated in the figure below:
-
-.. figure:: _static/route-folder5.png
-   :height: 568px
-   :width: 320px
-   :alt: Moving folder Topo GPS
-
-   *Figure 8. Moving items into a folder.*
-
-In this screen you can choose a folder by pressing it. The selected items
-will then be moved to the chosen folder and do not longer show up directly
-in the routes screen as you can see below:
-
-.. figure:: _static/route-folder6.png
-   :height: 568px
-   :width: 320px
-   :alt: Moving folder Topo GPS
-
-   *Figure 9. The routes screen. Some of the routes shown in Fig. 6 have been moved into 
-	the folder ‘Southampton’.*
-
-
-Opening folders
-~~~~~~~~~~~~~~~
-To open a folder you have to tap the corresponding item in the routes/waypoints screen.
-If we open the folder ‘Southampton’ from Fig. 9, the following screen will appear:
-
-.. figure:: _static/route-folder7.png
-   :height: 568px
-   :width: 320px
-   :alt: Moving folder Topo GPS
-
-   *Figure 10. The contents of the folder ‘Southampton’.*
-
-Below the search box you can see the folder path and the title of the current folder.
-You can go back to the root folder by pressing ‘All routes’/‘All waypoints’.
-
-In Fig. 10 you can see that the moved routes indeed can be found in the folder ‘Southampton’.
-
-Routes and waypoints that you import in Topo GPS will be automatically saved in the folder
-that is currently open.
-
-If you create a folder in an opened folder, the created folder will become a subfolder
-of the opened folder.
-
-Editing and sharing folders
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
-By pressing the info button (i) of the folder item in the routes/waypoints screen (Fig. 9),
-the folder details screen will be opened. For the ‘Southampton’ folder the details screen
-is as follows:
-
-.. figure:: _static/route-folder8.png
-   :height: 568px
-   :width: 320px
-   :alt: Moving folder Topo GPS
-
-   *Figure 11. The folder details screen.*
-
-In the folder details screen you can do the following things:
-
-- Modifying folder title: Press ‘Edit’ on the bottom right.
-
-- Sharing contents folder: Press export icon on the bottom.
-
-- Loading contents folder: Press ‘Load’ on the top right.
-
-- Remove folder: Press the trash bin on the bottom. You can only remove folders that are completely empty.
+   :alt: An opened folder Topo GPS
+   
+   *The contents of the 'Favorites' folder after moving the 'Gower Hike' route.*
