@@ -33,7 +33,7 @@ If you tap the route curve, the :ref:`route planner <sec-route-plan>` will be op
 
 Planning from current location to a waypoint
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-To plan a route from your current location to a waypoint, first open the :ref:`waypoint details screen <sec-waypoint-details>` by for example tapping on a waypoint that is loaded on the map. Then scroll down in the waypoint details screen to the plan section. Check the transportation means, and tap 'Plan' to plan a route from your current location to the waypoint, as in the example above.
+To plan a route from your current location to a waypoint, first open the :ref:`waypoint details screen <ss-waypoint-details>` by for example tapping on a waypoint that is loaded on the map. Then scroll down in the waypoint details screen to the plan section. Check the transportation means, and tap 'Plan' to plan a route from your current location to the waypoint, as in the example above.
 
 
 .. _ss-route-plan-cur-loc-name:
