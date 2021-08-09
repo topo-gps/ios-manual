@@ -43,7 +43,7 @@ To select a route, tap a route item in the selection screen. A checkmark will sh
    :width: 320px
    :alt: Two selected routes Topo GPS
 
-   *Two selected routess.*
+   *Two selected routes.*
 
 The title of the selection screen shows how many items are selected. You can deselect a route by tapping a selected one. If you want to select all routes in the list, you have to press ‘All’ on the top left. To return to the usual routes screen you have to press ‘Cancel’.
 
