@@ -17,7 +17,7 @@ Selecting waypoints is similar to :ref:`selecting routes <sec-routes-select>`.
 
 Opening selection screen
 ~~~~~~~~~~~~~~~~~~~~~~~~
-If you press the button 'More' on the top right of the waypoints screen, a menu will be show as in the figure below.
+If you press the button 'More' on the top right of the waypoints screen, a menu will be shown as in the figure below.
 
 .. figure:: ../_static/waypoints-select1.png
    :height: 568px
