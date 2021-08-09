@@ -85,7 +85,7 @@ To load all waypoints in a folder and its descendant folders, press long on a fo
 
 Alternatively tap the info button next to a folder in the waypoints screen (Menu > Waypoints). Then press 'Show on map' on the top right to load all waypoints on the map. You will return to the main map screen and the map will be zoomed to the contents of the folder. 
 
-.. _ss-waypoint-folder-load:
+.. _ss-waypoint-folder-unload:
 
 Removing contents of folder from map
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -107,7 +107,7 @@ Changing the order of waypoints
 Just below the folder tree / filter bar in the waypoints screen the current sort method is displayed. If you tap the sort method you can change it. If it is set to 'Customizable order' you can determine the order of the waypoints.
 
 To change the order of the waypoints in the 'Sights' folder, just open that folder. Then press More > Select to enter the selection mode.
-The waypoints screen looks then as follows:
+The waypoints screen then looks as follows:
 
 .. figure:: ../_static/waypoint-folder6.png
    :height: 568px
