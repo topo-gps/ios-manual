@@ -5,7 +5,7 @@ Editing routes
 To edit a route, first open the :ref:`route details screen <sec-route-details>`.
 Then tap the button 'Edit' in the bottom toolbar. A pop-up appears as you can see in the example below:
 
-.. figure:: _static/route-edit1.png
+.. figure:: ../_static/route-edit1.png
    :height: 568px
    :width: 320px
    :alt: Edit pop-up route details Topo GPS
@@ -29,7 +29,7 @@ Alternatively, open the :ref:`route planner <sec-route-plan>` and tap 'More > Ad
 
 The route will be loaded in the route planner as can be shown from the example above.
 
-.. figure:: _static/route-edit2.png
+.. figure:: ../_static/route-edit2.png
    :height: 568px
    :width: 320px
    :alt: Editing route track Topo GPS
@@ -62,7 +62,7 @@ will be drawn from the green route point to the added route point. The added
 route point will be selected and colored green. An example of extending the route in the figure above
 is shown below
 
-.. figure:: _static/route-edit3.png
+.. figure:: ../_static/route-edit3.png
    :height: 568px
    :width: 320px
    :alt: Extending route Topo GPS
@@ -80,7 +80,7 @@ Shortening a route
 To shorten a route, first :ref:`load the route in the route planner <ss-route-track-edit>` as explained above. 
 As an example we want to shorten the following route:
 
-.. figure:: _static/route-edit4.png
+.. figure:: ../_static/route-edit4.png
    :height: 568px
    :width: 320px
    :alt: Editing route track Topo GPS
@@ -89,7 +89,7 @@ As an example we want to shorten the following route:
    
 We want to start the route in Baylham Stone. Press long on the route to insert a route point on the route. When you move your finger the route point will move on the route. Move the route point to Baylham Stone and release your finger. 
 
-.. figure:: _static/route-edit5.png
+.. figure:: ../_static/route-edit5.png
    :height: 568px
    :width: 320px
    :alt: Shortening route Topo GPS
@@ -98,7 +98,7 @@ We want to start the route in Baylham Stone. Press long on the route to insert a
 
 Next you have to press long on the first route point, drag it to the bottom or top of the screen and release your finger. The first route point will be removed and the route will be shortened from the inserted route point to the last route point. This is illustrated in the figure below:
  
-.. figure:: _static/route-track-edit6.png
+.. figure:: ../_static/route-track-edit6.png
    :height: 568px
    :width: 320px
    :alt: Shortening route Topo GPS
@@ -115,7 +115,7 @@ To replace part of a route, first :ref:`load the route in the route planner <ss-
 
 As an example we will now change the ‘Gower Hike’ so that the middle part of the route will go over the ‘Gower Way’. Initially the route looks as follows:
 
-.. figure:: _static/route-track-replace1.png
+.. figure:: ../_static/route-track-replace1.png
    :height: 568px
    :width: 320px
    :alt: Replacing track Topo GPS
@@ -126,7 +126,7 @@ If you want to replace part of a route you have insert two route points, one at 
 
 Since we want to change the route, so that the middle part runs over the 'Gower way' we have inserted two route points at the Gower way, as you can see below:
 
-.. figure:: _static/route-track-replace2.png
+.. figure:: ../_static/route-track-replace2.png
    :height: 568px
    :width: 320px
    :alt: Replacing route Topo GPS
@@ -135,7 +135,7 @@ Since we want to change the route, so that the middle part runs over the 'Gower 
 
 The route between the orange and the green route point needs to be modified. We now have to insert a third routepoint in between the orange and the green route point by pressing long on the route. The result is shown below:
 
-.. figure:: _static/route-track-replace3.png
+.. figure:: ../_static/route-track-replace3.png
    :height: 568px
    :width: 320px
    :alt: Replacing route Topo GPS
@@ -144,7 +144,7 @@ The route between the orange and the green route point needs to be modified. We 
 
 By pressing long on the green route point you can drag to the botom or the top of the screen to remove it. The route between the previous and next point will be recomputed so that is runs over the 'Gower way' as is shown below:
 
-.. figure:: _static/route-track-replace4.png
+.. figure:: ../_static/route-track-replace4.png
    :height: 568px
    :width: 320px
    :alt: Shortening route Topo GPS
