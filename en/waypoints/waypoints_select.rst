@@ -33,7 +33,7 @@ Press ‘Select’ in the menu to open the selection screen. It is also possible
    :width: 320px
    :alt: Waypoint selection screen Topo GPS
 
-   *The select screen in which you can select waypoint.*
+   *The selection screen in which you can select waypoints.*
 
 
 Selecting waypoints
