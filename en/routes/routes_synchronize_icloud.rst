@@ -60,11 +60,11 @@ Due to iCloud synchronization, the saved routes screen of the iPad contains exac
 
 Percentage synchronized with iCloud
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-To see the percentage of routes or waypoints synchronized with iCloud, pull the list with waypoints or routes down. On the top the percentage synchronized with iCloud will be displayed, as you can see in the example below:
+To see the percentage of routes or waypoints synchronized with iCloud, go to the waypoints or routes screen. Pull the list with waypoints or routes down. On the top the percentage of items synchronized with iCloud will be displayed, as you can see in the example below:
 
 .. figure:: ../_static/icloudsync5.png
-   :height: 1024px
-   :width: 768px
+   :height: 568px
+   :width: 320px
    :alt: Routes and waypoints synchronize iCloud
 
 Details of iCloud synchronization
@@ -85,7 +85,7 @@ If you open the routes/waypoints screen all not synchronized modifications will 
 
 If you would like to synchronize routes and waypoints on a mobile network (be aware this can lead to increased data traffic and battery usage) you have to enable the Topo GPS setting: Synchronize with iCloud - Use mobile network. Also the iOS settings iCloud > Use mobile data should be enabled.
 
-The routes and waypoints that are synchronized with iCloud, are only accessible from within the Topo GPS app with your iCloud account. You will not find your routes in iCloud Drive. Also other users cannot access your synchronized routes and waypoints.
+The routes and waypoints that are synchronized with iCloud, are only accessible from within the Topo GPS app with your iCloud account. People using other iCloud accounts and the developers of Topo GPS cannot see your routes and waypoints. You will not find your routes in iCloud Drive. 
 
 Disabling iCloud synchronization
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
