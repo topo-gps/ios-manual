@@ -6,9 +6,9 @@ Synchronizing routes and waypoints with iCloud
 Routes and waypoints can be synchronized automatically with iCloud in Topo GPS. This makes all your routes and waypoints accessible on all your devices.
 This has two advantages:
 
-- *Convenience*: For example, you plan a hike on your iPad. If you save that route, it will be available on your iPhone within a few seconds. You can go outdoors with your iPhone to walk the planned route. Then if you record your route on your iPhone and save it when finished, the recorded route will be accessible on your iPad as well. Hence you can view your recorded route with your iPad while relaxing on your sofa.
+- *Convenience*: For example, you plan a hike on your iPad. If you save that route, it will be available on your iPhone within a few seconds. You can go outdoors with your iPhone to walk the planned route. Then if you record your route on your iPhone and save it when finished, the recorded route will be accessible on your iPad as well. Hence you can view your recorded route on your iPad.
 
-- *Backup*: With synchronization a copy of all your routes and waypoints will be made on iCloud. If your remove Topo GPS or if your loose your device, your routes and waypoints won’t be lost.
+- *Backup*: With synchronization a copy of all your routes and waypoints will be made on iCloud. If your remove Topo GPS or if your loose your device, your routes and waypoints will not be lost.
 
 Required settings
 ~~~~~~~~~~~~~~~~~
