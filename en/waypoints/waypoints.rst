@@ -22,4 +22,4 @@ Waypoints can be controlled using the waypoints screen which can be loaded by ta
    searching_waypoints
    exporting_waypoints
    importing_waypoints
-   synchronizing_waypoints
+   ../routes/routes_synchronize_icloud
