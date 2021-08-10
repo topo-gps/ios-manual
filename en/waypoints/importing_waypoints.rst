@@ -12,3 +12,4 @@ Alternatively you could open the waypoints screen in Topo GPS (Menu > Waypoints)
 If the waypoints were imported succesfully, you will return to the main map screen and the map will be zoomed to the imported waypoints.
 In the waypoints screen (Menu > Waypoints) all imported waypoints can be found in a newly created folder.
 
+How to import a geodata file from iMessage is explained in a :ref:`separate section <sec-imessage-import>`.
