@@ -38,7 +38,7 @@ The 'Sights' folder is listed in the waypoints screen with a folder icon.
 
 Moving waypoints into folder
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-To move waypoints into a folder you have to open the :ref:`selection screen <ss-waypoint-select>` by pressing More > Select or pressing long on an item in the waypoints screen. Select the to be moved waypoints and press the folder icon in the bottom toolbar. Then the 'Move items to folder' screen will be shown, example is shown below:
+To move waypoints into a folder you have to open the :ref:`selection screen <ss-waypoints-select>` by pressing More > Select or pressing long on an item in the waypoints screen. Select the to be moved waypoints and press the folder icon in the bottom toolbar. Then the 'Move items to folder' screen will be shown, example is shown below:
 
 .. figure:: ../_static/waypoint-folder3.png
    :height: 568px
