@@ -102,7 +102,7 @@ In the details screen above, the used icon is shown below the title. On the main
 
 Changing icon of multiple waypoints
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-To change the icon of multiple waypoints open the :ref:`waypoint screen <ss-waypoints-screen>` via 'Menu > Waypoints'. Then press 'More > Select' to enter the selection mode. Select the desired waypoints and press in the bottom toolbar 'More > Change icons'. Then the waypoint icons screen will be opened. 
+To change the icon of multiple waypoints open the waypoints screen via ':ref:`Menu <sec-menu>` > Waypoints'. Then press 'More > Select' to enter the selection mode. Select the desired waypoints and press in the bottom toolbar 'More > Change icons'. Then the waypoint icons screen will be opened. 
 Tap the desired waypoint icon. You will return immediately to the waypoints screen and the icons will be changed.
 If the desired icon is not in the waypoints screen, please first press + on the top right to :ref:`create a new icon <ss-waypoint-create-icons>`.
 
