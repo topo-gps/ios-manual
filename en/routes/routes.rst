@@ -30,6 +30,7 @@ Routes can be controlled via the :ref:`routes screen <sec-routes-screen>` which 
    routes_export
    routes_share
    routes_synchronize_icloud 
+   downloading_route_maps
 
 
 
