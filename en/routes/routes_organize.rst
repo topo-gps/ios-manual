@@ -11,7 +11,7 @@ Organizing routes is similar to :ref:`organizing waypoints <ss-waypoints-organiz
 
 Creating a folder
 ~~~~~~~~~~~~~~~~~
-To create a folder, first open the :ref:`routes screen <sec-route-screen>` and select the tab 'Routes' to show your saved routes.
+To create a folder, first open the :ref:`routes screen <sec-routes-screen>` and select the tab 'Routes' to show your saved routes.
 Then press More (top right) > New Folder. The new folder screen will be opened, an example is shown below:
 
 .. figure:: ../_static/route-folder1.png
