@@ -2,7 +2,7 @@
 
 Your location
 =============
-Your location is displayed on the :ref:`map <sec-map>` with the position marker:
+Your location is displayed on the :ref:`map <sec-maps>` with the position marker:
 
 .. figure:: ../_static/posmarker.png
    :height: 150px
@@ -33,7 +33,7 @@ enable the settings 'Compass calibration' and 'Movement and distance calibration
 Current location screen
 -----------------------
 If you tap your position marker on the map, the current location screen will appear. 
-You can also open this screen by pressing long on the :ref:`position marker icon <subsec-ps>` on the :ref:`dashboard <sec-dashboard>`.
+You can also open this screen by pressing long on the :ref:`position button <ss-position-button>` on the :ref:`dashboard <sec-dashboard>`.
 
 The current location screen shows details of your current location. In the current location screen you can also save your current location
 into a waypoint and export your current location with the buttons in the bottom toolbar. An example of the current location screen is displayed below:
