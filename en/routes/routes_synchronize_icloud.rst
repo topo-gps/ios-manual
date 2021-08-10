@@ -12,7 +12,7 @@ This has two advantages:
 
 Required settings
 ~~~~~~~~~~~~~~~~~
-To use iCloud synchronization you have to set a number of options.
+To enable iCloud synchronization of routes and waypoint you have to do the following.
 
 First you have to be logged in to iCloud (Settings > iCloud). If you want to synchronize between devices, these devices should use the same iCloud account.
 
