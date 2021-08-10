@@ -11,10 +11,10 @@ The bottom bar in the :ref:`main screen <sec-main-screen>` is the dashboard:
 
    *The dashboard on the bottom of the main screen.*
 
-The dashboard consists out of three items: the :ref:`position button <ss-position-marker-button>`, 
+The dashboard consists out of three items: the :ref:`position button <ss-position-button>`, 
 a :ref:`panel <ss-panel>` with counters and the :ref:`route button <ss-route-button>`. These items are discussed in more detail below.
 
-.. _ss-position-marker-icon:
+.. _ss-position-button:
 
 Position button
 ---------------
@@ -90,7 +90,7 @@ If you tap the direction meter, it will turn in the speedometer.
 
 Route distance meter
 ~~~~~~~~~~~~~~~~~~~~
-The route distance meter (-.- km top right) indicates the length of all routes that are :ref:`loaded <ss-route-load>` on the map, including planned routes. 
+The route distance meter (-.- km top right) indicates the length of all routes that are :ref:`loaded <sec-routes-load>` on the map, including planned routes. 
 If a route is loaded the symbol 'rte' appears just above the 'km/h' to indicate that this is the distance of a loaded route.
 
 If routes are loaded and you tap the route distance meter, the map will be centered on the loaded routes.
@@ -101,16 +101,16 @@ If you are on a route, the route distance meter will automatically change to dis
 
 Record timer
 ~~~~~~~~~~~~
-The record timer (--:-- h:m bottom left) indicates the time you are :ref:`recording <ss-route-record>` a route.
+The record timer (--:-- h:m bottom left) indicates the time you are :ref:`recording <sec-route-record>` a route.
 
-If you tap the record timer you can start, pause and stop a :ref:`route recording <ss-route-record>`. 
+If you tap the record timer you can start, pause and stop a :ref:`route recording <sec-route-record>`. 
 If you are recording a route the symbol 'rec' appears just above the 'h:m' to indicate a recording is active.
 
 .. _ss-rec-distance:
 
 Record distance meter
 ~~~~~~~~~~~~~~~~~~~~~
-The record distance meter (-.- km bottom right) indicates the length of a route that is being :ref:`recorded <ss-route-record>`. 
+The record distance meter (-.- km bottom right) indicates the length of a route that is being :ref:`recorded <sec-route-record>`. 
 By starting a recording you can see with the record distance meter how far you have been traveling. Above the 'km' symbol
 appears the symbol 'rec' to indicate that this is the recorded distance.
 
@@ -137,7 +137,7 @@ in the same way as in the hiking panel. Tapping this meter will also change it.
 On the top left you will find the altimeter, that indicates your altitude above sea level in meters. This 
 is indicated by the symbol 'alt'. Tapping this meter can also change it, exactly like the :ref:`speedometer <ss-speed>`.
 
-In the bottom left the :ref:`record timer <ss-rec-time>` is located.
+In the bottom left the :ref:`record timer <ss-rec-timer>` is located.
 
 The :ref:`route distance meter <ss-route-distance>` is located in the top right.
 
@@ -172,7 +172,7 @@ The coordinate that is displayed on the coordinate panel is the coordinate of th
 
 By :ref:`moving the map <ss-modifying-map-screen>` you can position the middle of the cross to the point of which
 you want to determine the coordinate. To quickly determine the coordinates of your current position,
-you can center the map by pressing the :ref:`position button <subsec-ps>` on the left hand side of the dashboard.
+you can center the map by pressing the :ref:`position button <ss-position-button>` on the left hand side of the dashboard.
 
 If you tap the coordinate on the coordinate panel, the coordinate will be shown in a different format.
 
