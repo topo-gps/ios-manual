@@ -29,5 +29,5 @@ In the bottom of the waypoint details screen you can find a toolbar with the fol
 
 - ‘<‘ and ‘>’ button: Allows you to browse through the list of waypoints, or through the waypoints that are loaded on the map.
 - Trash button: If you press this button a pop-up will show up asking you whether you would like to :ref:`remove the waypoint from your device <ss-waypoint-remove>`.
-- Export button: If you press this button the export pop-up will show up which allows you to :ref:`export the waypoint <ss-routes-share>`.
+- Export button: If you press this button the export pop-up will show up which allows you to :ref:`export the waypoint <ss-waypoints-exporting>`.
 - ‘Edit’: Allows you to :ref:`edit the waypoint <ss-waypoint-edit>`.
