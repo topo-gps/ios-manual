@@ -25,14 +25,42 @@ How to import a geodata file from iMessage is explained in a :ref:`separate sect
 
 Importing route from url
 ------------------------
+If you press long on an url to a geodata file you can copy it to your pasteboard. Then open the :ref:`routes screen <sec-routes-screen>` and select the tab 'Routes'. Tap 'More > Import URL' to open the URL import screen. Here you can paste your URL. Then tap 'Import' to import the URL.
 
+If the routes were imported succesfully, you will return to the main screen, and the map will be zoomed to the imported routes. The imported routes will be saved on your device and can be found back in the 'Routes' tab of the :ref:`routes screen <sec-routes-screen>`.
 
 .. _ss-routes-import-shared:
 
 Importing routes shared by Topo GPS users
 -----------------------------------------
+To import a route shared by other Topo GPS users, first open the :ref:`routes screen <sec-routes-screen>` and select the tab 'Shared'.
+The shared routes screen will be shown as in the example below:
 
+.. figure:: ../_static/route-import-shared1.png
+   :height: 568px
+   :width: 320px
+   :alt: Importing shared route Topo GPS
+   
+   *The shared routes screen.*
 
+The shared routes screen displays routes which are stored on the Topo GPS server and shared by other Topo GPS users. You can :ref:`search <ss-route-search-keywords>`, :ref:`filter <ss-route-filter>` and :ref:`sort <ss-route-sort>` these routes just like you can with your saved routes. Applying a filter can help you to find for example bicycle routes near your current location, as in the example below:
 
+.. figure:: ../_static/route-import-shared2.png
+   :height: 568px
+   :width: 320px
+   :alt: Importing shared route Topo GPS
+   
+   *Searching bicycle routes of minimal 10 km length around your current location.*
+   
+If you tap a route title in the list it will be immediately imported and you will return to the main screen. You can tap long on an item or tap 'Select' on the top right to enter the selection mode. Then you can select multiple routes and import them at once.
 
+If you tap the info button (i) next to a route the :ref:`route details <sec-route-details>` screen of a shared route will be opened. Sometimes it will take a few seconds before all route data is downloaded. An example is shown below.
 
+.. figure:: ../_static/route-import-shared3.png
+   :height: 568px
+   :width: 320px
+   :alt: Route details screen shared route Topo GPS
+   
+   *The route details screen of a shared route.*
+
+You can use the '<' (previous) and '>' (next) buttons in the bottom toolbar to browse through the list of shared routes. If you want to import a specific route you can tap the 'Import' button on the top right. The
