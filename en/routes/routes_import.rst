@@ -10,7 +10,7 @@ In this section it is explained how to :ref:`import a route from a geodata file 
 
 Importing routes from geodata files
 -----------------------------------
-It is possible to import routes in Topo GPS in the following file formats: gpx, kml/kmz, and geojson.
+It is possible to import routes in Topo GPS in the following file formats: gpx, kml/kmz, geojson and ozi explorer track files (plt).
 Files of these types can also be imported if they are compressed in a zip file.
 
 To import route you could try to tap on a file icon. Most often an app picker will show up. Sometimes you need to scroll through the list of apps or tap More to find 'Topo GPS'. You then  have to select 'Open with Topo GPS' or 'Copy to Topo GPS' and the file will be imported in Topo GPS. 
