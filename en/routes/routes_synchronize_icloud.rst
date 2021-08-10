@@ -98,8 +98,7 @@ If you disable iCloud synchronization a pop-up will appear, as is displayed belo
    :width: 320px
    :alt: Routes and waypoints synchronize iCloud
 
-   *If you disable iCloud synchronization, you will be asked whether you want to remove all routes and waypoints from iCloud or to keep them
-on iCloud.*
+   *If you disable iCloud synchronization, you will be asked whether you want to remove all routes and waypoints from iCloud or to keep them on iCloud.*
 
 You have to choose whether to keep or remove all routes and waypoints from iCloud.
 In both cases all routes and waypoints will be kept locally on your device. Locally no routes and waypoints will be removed.
