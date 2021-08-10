@@ -51,7 +51,7 @@ In the 'Move items to folder' screen, the folder tree is shown. If you tap on a 
 
 As an example we now will move the waypoints 'Gower Hike' and 'Midhurst Fields' to the 'Favorites' folder. After moving the two routes as indicated above the routes screen looks as follows:
 
-.. figure:: ../_static/routes-folder4.png
+.. figure:: ../_static/route-folder4.png
    :height: 568px
    :width: 320px
    :alt: Routes screen Topo GPS
