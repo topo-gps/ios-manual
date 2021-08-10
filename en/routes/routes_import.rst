@@ -63,4 +63,4 @@ If you tap the info button (i) next to a route the :ref:`route details <sec-rout
    
    *The route details screen of a shared route.*
 
-You can use the '<' (previous) and '>' (next) buttons in the bottom toolbar to browse through the list of shared routes. If you want to import a specific route you can tap the 'Import' button on the top right. The
+You can use the '<' (previous) and '>' (next) buttons in the bottom toolbar to browse through the list of shared routes. If you want to import a specific route you can tap the 'Import' button on the top right.
