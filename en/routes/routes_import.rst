@@ -19,7 +19,7 @@ Alternatively you could open the 'Routes tab' of the :ref:`routes screen <sec-ro
 
 If the routes were imported succesfully, you will return to the main screen, and the map will be zoomed to the imported routes. The imported routes will be saved on your device and can be found back in the 'Routes' tab of the :ref:`routes screen <sec-routes-screen>`.
 
-How to import a geodata file from iMessage is explained :ref:`here <sec-imessage-import>`.
+How to import a geodata file from iMessage is explained in a :ref:`separate section <sec-imessage-import>`.
 
 .. _ss-routes-import-url:
 
