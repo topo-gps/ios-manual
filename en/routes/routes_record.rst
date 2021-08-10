@@ -58,7 +58,7 @@ In some devices the clock gets a blue blackground, on other devices the whole st
 
 If you tap on the line of the recorded route on the main map, the record screen will be opened. You can view a live altitude and speed profile. You can tap these :ref:`profiles <sec-route-profiles>` to view them in more detail. 
 
-If you have :ref:`loaded <ss-route-load>` one or more routes on the map, you can record a route at the same time. An example is shown below:
+If you have :ref:`loaded <sec-routes-load>` one or more routes on the map, you can record a route at the same time. An example is shown below:
 
 .. figure:: ../_static/route-record3.png
    :height: 568px
@@ -158,16 +158,16 @@ Waypoints that are currently shown on the map can be included with the route by 
 If you are ready entering the fields, you can press 'Save' on the top right to save the recorded route.
 If you do not want to save the route you can press 'Cancel' on the top left.
 
-The route will be saved into the folder that is currently opened in the :ref:`routes tab of the routes screen <ss-route-load>`.
+The route will be saved into the folder that is currently opened in the :ref:`routes tab of the routes screen <sec-routes-load>`.
 
 After you have saved the recorded route, a pop-up will appear that asks you if you would like to share your route with Topo GPS or with another app (for this tap 'More). If you do not want to share the recorded route, you can tap 'Cancel'.
 
-If you choose Topo GPS you can share your route with other Topo GPS users, so that they can :ref:`import your recorded
-route <ss-routes-import>`. 
+If you choose Topo GPS you can :ref:`share your route with other Topo GPS users <sec-routes-share-topo-gps>`, so that they can :ref:`import your recorded
+route <ss-routes-import-shared>`. 
 
-It is also possible to :ref:`share the recorded route <ss-routes-share>` later.
+It is also possible to :ref:`share the recorded route <sec-routes-share-topo-gps>` later.
 
 The screen that appears is the :ref:`route details screen <sec-route-details>`. You can load the 
 recorded route on the map by tapping the 'Show on map’ button on the top right of this screen.
 
-You can also :ref:`load the recorded route on the map <ss-route-load>` at a later time.
+You can also :ref:`load the recorded route on the map <sec-routes-load>` at a later time.
