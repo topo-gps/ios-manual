@@ -33,8 +33,7 @@ If the routes were imported succesfully, you will return to the main screen, and
 
 Importing routes shared by Topo GPS users
 -----------------------------------------
-To import a route shared by other Topo GPS users, first open the :ref:`routes screen <sec-routes-screen>` and select the tab 'Shared'.
-The shared routes screen will be shown as in the example below:
+To import a route :ref:`shared by other Topo GPS users <sec-routes-share-topo-gps>`, first open the :ref:`routes screen <sec-routes-screen>` and select the tab 'Shared'. The shared routes screen will be shown as in the example below:
 
 .. figure:: ../_static/route-import-shared1.png
    :height: 568px
