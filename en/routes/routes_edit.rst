@@ -37,7 +37,7 @@ The route will be loaded in the route planner as can be shown from the example a
    *Editing the route track in the route planner.*
    
 Just like with manually planning a route you can add, move, insert and remove route points to modify the route.
-If you are done editing the route track you can press 'Save' to save the result. The modified route will be saved a new route, the existing route will not be changed. Optionally you could :ref:`remove <sec-routes-remove>` the original route later.   
+If you are done editing the route track you can press 'Save' to save the result. The modified route will be saved a new route, the existing route will not be changed. Optionally you could :ref:`remove <sec-route-remove>` the original route later.   
    
 Below we will give the following examples:
 
