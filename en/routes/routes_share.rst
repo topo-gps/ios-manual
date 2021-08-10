@@ -40,7 +40,7 @@ as in the example below:
 
 Modifying shared route
 ~~~~~~~~~~~~~~~~~~~~~~
-If you want to modify a shared route, you have to :ref:`edit <sec-edit-route>` it on your device and share it again.
+If you want to modify a shared route, you have to :ref:`edit <ss-route-edit>` it on your device and share it again.
 
 Removing shared route
 ~~~~~~~~~~~~~~~~~~~~~
