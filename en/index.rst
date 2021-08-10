@@ -20,3 +20,4 @@ Contents:
    coordinate
    compass_direction
    settings
+   miscellaneous/miscellaneous
