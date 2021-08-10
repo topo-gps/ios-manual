@@ -23,7 +23,7 @@ The green point on the map is the start and end point of the route. By pressing 
 The slider in the bottom determines the desired length of the route. The desired length is displayed on the right hand side of the slider.
 If you move the slider, a new route will be generated. The actual length of the generated route is displayed above the slider. In the example above, the desired length is 7 km, but the actual length of the generated route is 7.7 km. The desired and actual length, do not always match exactly.
 
-Next to the actual length, you see the total ascent of the routes. If you tap it, you can view the :ref:`height profile <sec-route-profile>` of the generated route.
+Next to the actual length, you see the total ascent of the routes. If you tap it, you can view the :ref:`height profile <sec-route-profiles>` of the generated route.
 
 Below the slider there is the transportation means button. In the example above it is set to pedestrian. If you tap this button you can change the transporation means to for example 'Bicycle'.
 
