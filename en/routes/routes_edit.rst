@@ -24,7 +24,7 @@ In the edit pop-up you can choose between the following options:
 
 Editing route track
 ~~~~~~~~~~~~~~~~~~~
-To change the track of a route, open the route :ref:`route details screen <ss-route-details>` and tap 'Edit > Edit track'.
+To change the track of a route, open the route :ref:`route details screen <sec-route-details>` and tap 'Edit > Edit track'.
 Alternatively, open the :ref:`route planner <sec-route-plan>` and tap 'More > Add route'. Tap a route in the list with routes and choose 'Join to planner'.
 
 The route will be loaded in the route planner as can be shown from the example above.
