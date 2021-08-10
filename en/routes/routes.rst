@@ -19,7 +19,7 @@ Routes can be controlled via the :ref:`routes screen <sec-routes-screen>` which 
    routes_plan
    routes_generate
    route_details
-   route_map_download
+   downloading_route_maps
    route_profiles
    routes_edit
    routes_remove
@@ -30,8 +30,7 @@ Routes can be controlled via the :ref:`routes screen <sec-routes-screen>` which 
    routes_export
    routes_share
    routes_synchronize_icloud 
-   downloading_route_maps
-
+   
 
 
 
