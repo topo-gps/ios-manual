@@ -97,8 +97,7 @@ Pause recording
 ~~~~~~~~~~~~~~~
 If you press 'Pause' in the pop-up which appears when :ref:`ending a route recording <ss-route-record-end>`, the recording will be paused. 
 
-The :ref:`record timer <ss-rec-timer>` on the dashboard will be set to --:--
-during a pause. The :ref:`record distance meter will show the recorded distance as you can see below:
+The :ref:`record timer <ss-rec-timer>` on the dashboard will be set to '--:--' during a pause. The :ref:`record distance meter will show the recorded distance as you can see below:
 
 .. figure:: ../_static/route-record5.png
    :height: 568px
