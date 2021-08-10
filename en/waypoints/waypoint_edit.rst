@@ -16,7 +16,7 @@ The pop-up shows five possibilities to modify the waypoint.
 
 - *Edit text*: Allows you to :ref:`edit the title and description <ss-waypoint-edit-title>` of a waypoint.
 - *Edit photos*: Allows you to :ref:`edit the photos <ss-waypoint-edit-photos>` of a waypoint.
-- *Edit coordinates*: Allows you to :ref:`edit the coordinates <ss-waypoint-edit-coordinate>` of a waypoint.
+- *Edit coordinates*: Allows you to :ref:`edit the coordinates <ss-waypoint-edit-coordinates>` of a waypoint.
 - *Move on map*: Allows you to :ref:`move the waypoint on the map <ss-waypoint-edit-map>`.
 - *Change icon*: Allows you to :ref:`change the icon of the waypoint <ss-waypoint-change-icon>`.
 
