@@ -4,7 +4,7 @@ Camera
 ======
 If you tap :ref:`Menu <sec-menu>` > Camera, the camera will be opened.
 If you take a photo, a :ref:`waypoint <sec-wp>` will be created at your current location.
-The photo will be added to the waypoint and can be shown by opening the :ref:`waypoint details screen <sec-waypoint-details>`.
+The photo will be added to the waypoint and can be shown by opening the :ref:`waypoint details screen <ss-waypoint-details>`.
 
 The photo will also be saved in your photo library if you give Topo GPS access to selected photos of your photo library (iOS Settings > Topo GPS > Photos).
 
