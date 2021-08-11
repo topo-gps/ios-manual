@@ -19,6 +19,7 @@ Contents:
    layers/layers
    search_address
    coordinates/coordinates
+   camera
    compass_direction
    settings
    miscellaneous/miscellaneous
