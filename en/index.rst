@@ -17,7 +17,7 @@ Contents:
    waypoints/waypoints
    routes/routes
    search_address
-   coordinate
+   coordinates/coordinates
    compass_direction
    settings
    miscellaneous/miscellaneous
