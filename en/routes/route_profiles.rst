@@ -19,7 +19,7 @@ Both an altitude and elevation profile are height profiles. Altitude is the heig
 
 You can tap a profile in the route details screen, to open the profile screen.
 
-Below we discus only the altitude profile, the other profiles show other information, but their profile screens function very similar.
+Below we discus only the altitude profile, the other profiles show other information, but their profile screens function similarly.
 
 An example of the altitude profile screen is shown in the figure below:
 
