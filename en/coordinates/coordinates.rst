@@ -7,3 +7,4 @@ Coordinates
    :maxdepth: 2
    
    entering_coordinates
+   scanning_coordinates
