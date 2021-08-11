@@ -1,4 +1,4 @@
-.. _ss-coordinates:
+.. _sec-enter-coordinates:
 
 Entering coordinates
 ====================
