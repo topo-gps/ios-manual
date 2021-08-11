@@ -5,7 +5,7 @@ Scanning coordinates
 
 Topo GPS contains a coordinates scanner. The coordinates scanner can scan coordinates and show them on the map. You obtain the best results by scanning coordinates printed on paper. Scanning coordinates shown on a display is also possible. Scanning handwritten coordinates does not function very well.
 
-The coordinates scanner is most often much faster any more accurate than :ref:`entering the coordinates <sec-entering-coordinates>`. 
+Scanning coordinates is most often much faster and more accurate than :ref:`entering the coordinates <sec-entering-coordinates>`. 
 
 To open the coordinates scanner, tap :ref:`Menu <sec-menu>` > Search. Then select the 'Camera' tab in the bottom.
 
