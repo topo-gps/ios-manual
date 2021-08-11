@@ -16,6 +16,7 @@ Contents:
    maps/maps
    waypoints/waypoints
    routes/routes
+   layers/layers
    search_address
    coordinates/coordinates
    compass_direction
