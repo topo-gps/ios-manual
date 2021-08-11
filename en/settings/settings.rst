@@ -2,7 +2,7 @@
 
 Settings
 ========
-The settings screen can be opened tapping :ref:`menu <sec-menu>` > ‘More’ and selecting the tab 'Settings' in the bottom.
+The settings screen can be opened tapping :ref:`Menu <sec-menu>` > ‘More’ and selecting the tab 'Settings' in the bottom.
 
 An example of the settings screen is displayed in the figure below:
 
