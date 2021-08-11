@@ -25,7 +25,7 @@ In the figures below several examples of coordinates grids are displayed.
    :width: 320px
    :alt: Coordinate grids in the layers screen Topo GPS
 
-   *WGS degree minutes seconds coordinates grid.*
+   *WGS84 degree minutes coordinates grid.*
    
 
 .. figure:: ../_static/coordinate-grids3.jpg  
@@ -33,7 +33,7 @@ In the figures below several examples of coordinates grids are displayed.
    :width: 320px
    :alt: Coordinate grids in the layers screen Topo GPS
 
-   *coordinates grid.*
+   *Ordnance Survey National Grid coordinates grid.*
    
 
 .. figure:: ../_static/coordinate-grids4.jpg  
@@ -41,7 +41,7 @@ In the figures below several examples of coordinates grids are displayed.
    :width: 320px
    :alt: Coordinate grids in the layers screen Topo GPS
 
-   *coordinates grid.*
+   *MGRS coordinates grid.*
    
 
 .. figure:: ../_static/coordinate-grids5.jpg  
@@ -49,7 +49,7 @@ In the figures below several examples of coordinates grids are displayed.
    :width: 320px
    :alt: Coordinate grids in the layers screen Topo GPS
 
-   *coordinates grid.*
+   *RD atlasblokken coordinates grid.*
    
    
 
