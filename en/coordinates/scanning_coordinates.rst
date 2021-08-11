@@ -13,65 +13,65 @@ To use the coordinates scanner you need to give Topo GPS permission to access yo
 
 If you open the coordinates scanner you see the image of the camera. In the center there is a lighter rectangle. Place the rectangle above a coordinate. You can zoom in and out with two fingers to focus the rectangle on the coordinate. An example is shown below:
 
-.. figure:: ../_static/scan-coordinates1.jpg
-   :height: 568px
-   :width: 320px
+.. figure:: ../_static/scanning-coordinates1.jpg
+   :height: 760px
+   :width: 351px
    :alt: Scanning coordinates Topo GPS
    
    *Scanning coordinates*
    
 
-.. figure:: ../_static/scan-coordinates2.jpg
-   :height: 568px
-   :width: 320px
+.. figure:: ../_static/scanning-coordinates2.jpg
+   :height: 760px
+   :width: 351px
    :alt: Scanning coordinates Topo GPS
    
    *Scanning coordinates*
    
 
-.. figure:: ../_static/scan-coordinates3.jpg
-   :height: 568px
-   :width: 320px
+.. figure:: ../_static/scanning-coordinates3.jpg
+   :height: 760px
+   :width: 351px
    :alt: Scanning coordinates Topo GPS
    
    *Scanning coordinates*
    
 
-.. figure:: ../_static/scan-coordinates4.jpg
-   :height: 568px
-   :width: 320px
+.. figure:: ../_static/scanning-coordinates4.jpg
+   :height: 760px
+   :width: 351px
    :alt: Scanning coordinates Topo GPS
    
    *Scanning coordinates*
    
 
-.. figure:: ../_static/scan-coordinates5.jpg
-   :height: 568px
-   :width: 320px
+.. figure:: ../_static/scanning-coordinates5.jpg
+   :height: 760px
+   :width: 351px
    :alt: Scanning coordinates Topo GPS
    
    *Scanning coordinates*
    
 
-.. figure:: ../_static/scan-coordinates6.jpg
-   :height: 568px
-   :width: 320px
+.. figure:: ../_static/scanning-coordinates6.jpg
+   :height: 760px
+   :width: 351px
    :alt: Scanning coordinates Topo GPS
    
    *Scanning coordinates*
    
 
-.. figure:: ../_static/scan-coordinates7.jpg
-   :height: 568px
-   :width: 320px
+.. figure:: ../_static/scanning-coordinates7.jpg
+   :height: 760px
+   :width: 351px
    :alt: Scanning coordinates Topo GPS
    
    *Scanning coordinates*
    
 
-.. figure:: ../_static/scan-coordinates8.jpg
-   :height: 568px
-   :width: 320px
+.. figure:: ../_static/scanning-coordinates8.jpg
+   :height: 760px
+   :width: 351px
    :alt: Scanning coordinates Topo GPS
    
    *Scanning coordinates*
