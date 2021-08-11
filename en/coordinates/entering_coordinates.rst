@@ -2,7 +2,7 @@
 
 Entering coordinates
 ====================
-To enter a coordinate you first have to tap :ref:`Menu <sec-menu>` > Search. Then select the 'Coordinate' tab on the bottom of the screen, to open the coordinates input screen. An example is shown in the figure below:
+To enter a coordinate you first have to tap :ref:`Menu <sec-menu>` > Search. Then select the 'Coordinates' tab on the bottom of the screen, to open the coordinates input screen. An example is shown in the figure below:
 
 .. figure:: ../_static/enter-coordinates1.png
    :height: 568px
@@ -17,16 +17,16 @@ Coordinates type
 ~~~~~~~~~~~~~~~~
 To enter coordinates you have first to make sure that the right coordinates type has
 been set. If you press the ‘Type’ cell a screen will appear in which you can
-change the coordinate type, like in the figure below: 
+change the coordinates type, like in the figure below: 
 
 .. figure:: ../_static/enter-coordinates2.png
    :height: 568px
    :width: 320px
    :alt: Entering coordinate Topo GPS
 
-   *Choosing the coordinate type.*
+   *Choosing the coordinates type.*
 
-You can choose between different coordinate types, including:
+You can choose between different coordinates types, including:
 `WGS84 <https://en.wikipedia.org/wiki/WGS84>`_ decimal, `WGS84 <https://en.wikipedia.org/wiki/WGS84>`_ degrees minutesm `WGS84 <https://en.wikipedia.org/wiki/WGS84>`_ degrees minutes seconds, `UTM <https://en.wikipedia.org/wiki/UTM>`_ and `MGRS <https://en.wikipedia.org/wiki/MGRS>`_. Next to that you can use various country specific coordinate systems.
 
 .. _ss-coordinates-enter:
@@ -39,7 +39,6 @@ Depending on the position of the center of the map, the first digits of the coor
 if the coordinates are not located far from the center of the map.
 
 As an example we now will enter the WGS84 coordinates '51.56321 -4.28942':
-
 
 .. figure:: ../_static/enter-coordinates3.png
    :height: 568px
