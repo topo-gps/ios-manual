@@ -7,7 +7,7 @@ Topo GPS contains a coordinates scanner. The coordinates scanner can scan coordi
 
 Scanning coordinates is most often much faster and more accurate than :ref:`entering the coordinates <sec-entering-coordinates>`. 
 
-To open the coordinates scanner, tap :ref:`Menu <sec-menu>` > Search. Then select the 'Camera' tab in the bottom.
+To open the coordinates scanner, tap :ref:`Menu <sec-menu>` > Search. Then select the tab with the camera in the bottom.
 
 To use the coordinates scanner you need to give Topo GPS permission to access your camera in the iOS Settings.
 
