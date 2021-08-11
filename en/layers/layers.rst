@@ -6,7 +6,7 @@ Layers are overlays that can be added to the map. Layers can be controlled via t
 
 The layers screen shows a list of available layers, an example is shown below:
 
-.. figure:: _static/layers-screen.png
+.. figure:: ../_static/layers-screen.png
    :height: 568px
    :width: 320px
    :alt: Layers screen Topo GPS
