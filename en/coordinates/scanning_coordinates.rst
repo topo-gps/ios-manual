@@ -7,11 +7,14 @@ Topo GPS contains a coordinates scanner. The coordinates scanner can scan coordi
 
 Scanning coordinates is most often much faster and more accurate than :ref:`entering the coordinates <sec-entering-coordinates>`. 
 
-To open the coordinates scanner, tap :ref:`Menu <sec-menu>` > Search. Then select the tab with the camera in the bottom.
+To open the coordinates scanner, tap :ref:`Menu <sec-menu>` > Search. Then select the tab with the camera icon in the bottom.
 
 To use the coordinates scanner you need to give Topo GPS permission to access your camera in the iOS Settings.
 
-If you open the coordinates scanner you see the image of the camera. In the center there is a lighter rectangle. Place the rectangle above a coordinate. You can zoom in and out with two fingers to focus the rectangle on the coordinate. An example is shown below:
+If you open the coordinates scanner you see the image of the camera. In the center there is a lighter rectangle. Place that rectangle above the coordinates. You can zoom in and out with two fingers to focus the rectangle on the coordinates. The coordinates should be printed on one line. 
+It is not possible to scan multiple coordinates at once.
+
+An example is shown below:
 
 .. figure:: ../_static/scanning-coordinates1.jpg
    :height: 760px
@@ -83,7 +86,7 @@ In the top left of the coordinates scanner screen you see 'Map (3)'. The number 
    :alt: Scanning coordinates Topo GPS
    
    *The three scanned coordinates are shown on the main map.*
-   
-
+  
+The coordinates scanner detects the coordinates system to be used. For country specific coordinate systems which contains only numbers, sometimes the wrong coordinate system can be picked. To make sure the right coordinate system is used, center the main map on the country that uses the coordinate system you are scanning.
 
 
