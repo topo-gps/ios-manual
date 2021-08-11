@@ -1,4 +1,4 @@
-.. _ss-search-address:
+.. _sec-search-addresses:
 
 Searching addresses and places
 ==============================
