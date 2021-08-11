@@ -2,7 +2,7 @@
 
 Coordinate grids
 ================
-Coordinate grids are a collection of curves at regular intervals that show a coordinate system .
+Coordinate grids are a collection of curves at regular intervals that show a coordinate system.
 
 To add a coordinate grid to the map, go to :ref:`Menu <sec-menu>` > Layers > Coordinate grids. The following screen will appear:
 
