@@ -149,6 +149,7 @@ The :ref:`record distance meter <ss-rec-distance>` can be found in the bottom ri
 Coordinate panel
 ----------------
 With the coordinate panel you can straightforwardly read off coordinates from the map. 
+To open the coordinate panel, :ref:`slide the panels in the dashboard <ss-panel>` to the left.
 An example of the coordinate panel is displayed below:
 
 .. figure:: ../_static/dashboard3.png
