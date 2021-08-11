@@ -21,5 +21,5 @@ Contents:
    coordinates/coordinates
    camera
    compass_direction
-   settings
+   settings/settings
    miscellaneous/miscellaneous
