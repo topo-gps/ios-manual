@@ -1,0 +1,4 @@
+.. _sec-camera:
+
+Camera
+======
