@@ -49,7 +49,7 @@ As an example we now will enter the WGS84 coordinates '51.56321 -4.28942':
    
 Optionally you can enter a title. As long as we do not enter a title, the suggested placeholder title will be used as a title for the waypoint. Next you could set the :ref:`icon <ss-waypoint-icons>` and enter a description.
 
-If you tap ‘Save’ the coordinates will be saved as a :ref:`waypoint <sec-waypoint>`. The coordinates screen will be cleared, so that you can enter the next coordinates. The first digits will now be based on the previous input. On the top left of the screen a Map button will appear, with with you can return to the map. The number behind map tells you how many coordinates have been entered.
+If you tap ‘Save’ the coordinates will be saved as a :ref:`waypoint <sec-wp>`. The coordinates screen will be cleared, so that you can enter the next coordinates. The first digits will now be based on the previous input. On the top left of the screen a Map button will appear, with with you can return to the map. The number behind map tells you how many coordinates have been entered.
 
 As an example we will now enter the coordinates: N 51°34’01.9” W 4°16’41.9”. To enter this coordinate we had to change the type to WGS degree, minutes second. An example is shown below:
 
