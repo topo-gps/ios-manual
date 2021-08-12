@@ -13,7 +13,7 @@ The maps in Topo GPS are composed out of map tiles. A small number of map tiles 
 
 If you are connected via a cellular network, downloading of map tiles can only occur if you have enabled cellular access for Topo GPS in the iOS Settings > Topo GPS. In Topo GPS you have to enable :ref:`Menu <sec-menu>` > More > Settings > Map tiles downloading > Cellular network.
 
-On the top left of the :ref:`main screen <sec-main-screen>` the percentage offline accessible map tiles of the currently visible area is shown. This percentage percentage is the number of offline accessible tiles at all zoom levels relative to the total number of all possible tiles at all zoom levels. An example is shown in the figure below:
+On the top left of the :ref:`main screen <sec-main-screen>` the percentage offline accessible map tiles of the currently visible area is shown. This percentage is the number of offline accessible tiles at all zoom levels relative to the total number of all possible tiles at all zoom levels. An example is shown in the figure below:
 
 .. figure:: ../_static/map-offline1.jpg
    :height: 568px
@@ -72,9 +72,9 @@ Instead of downloading the map tiles of a specific region, it is also possible t
 
 Updating map tiles
 ~~~~~~~~~~~~~~~~~~
-Sometimes the map tiles will be updated. If updated map tiles have appeared and you view them in the map screen, they will be redownloaded and updated automatically.
+Sometimes the updated map tiles are available for download. If updated map tiles are available and you view them in the map screen, they will be downloaded and updated automatically.
 
-You can update all map tiles of a certain area in the map download screen. For this you have to press ‘Update (.. MB)’ in the map download screen. When the percentage updated map tiles equals the percentage offline accessible map tiles, you have updated all offline accessible map tiles. This is the case in the figure above, therefore the ‘Update’ button says ‘Updated completely’.
+You can update all map tiles of a certain area in the map download screen. For this you have to press ‘Update (.. MB)’ in the map download screen. When the percentage updated map tiles equals the percentage offline accessible map tiles, you have updated all offline accessible map tiles. This is the case in the figure above, therefore the ‘Update’ button has changed to ‘Updated completely’.
 
 Storage space
 ~~~~~~~~~~~~~
@@ -90,7 +90,7 @@ Removing map tiles
 ~~~~~~~~~~~~~~~~~~
 If you need storage space, you can remove map tiles in the bottom of the map download screen.
 
-For example, suppose you return from a nice vacation on the Shetland Islands. You have no plans to return in the near future, and do not need the maps anymore. Then you move the map such that only the Shetland Islands are visible. Next you press the ‘Offline accessible’ button on the top left of the screen to open the map download screen.’
+Suppose you return from a nice vacation on the Shetland Islands. You have no plans to return in the near future, and do not need the maps anymore. Then you move the map such that only the Shetland Islands are visible. Next you press the ‘Offline accessible’ button on the top left of the screen to open the map download screen.’
 
 If you scroll to the bottom of the map download screen you will find a ‘Remove’ button as you can see below:
 
