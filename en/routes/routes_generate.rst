@@ -25,7 +25,7 @@ If you move the slider, a new route will be generated. The actual length of the 
 
 Next to the actual length, you see the total ascent of the routes. If you tap it, you can view the :ref:`height profile <sec-route-profiles>` of the generated route.
 
-Below the slider there is the transportation means button. In the example above it is set to pedestrian. If you tap this button you can change the transporation means to for example 'Bicycle'.
+Below the slider there is the transportation means button. In the example above it is set to pedestrian. If you tap this button you can change the transportation means to for example 'Bicycle'.
 
 In the bottom there is the 'Generate' button. If you tap it, you will generate a new route. This can be useful if you want to generate another route, but you do not want to change the starting point or the desired length.
 
