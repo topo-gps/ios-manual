@@ -5,7 +5,7 @@ Organizing waypoints
 
 You can keep your waypoints organized by :ref:`creating folders <ss-waypoint-folder-create>` and :ref:`moving waypoints into folders <ss-waypoint-folder-move>`.
 It is also possible to :ref:`change the order of the waypoints <ss-waypoint-folder-reorder>` appearing in the waypoints screen.
-In addition you can keep waypoints organized by assinging them :ref:`specific icons <ss-waypoint-icons>` and :ref:`filtering on icons <ss-waypoint-filter-icon>`.
+In addition you can keep waypoints organized by assigning them :ref:`specific icons <ss-waypoint-icons>` and :ref:`filtering on icons <ss-waypoint-filter-icon>`.
 
 .. _ss-waypoint-folder-create:
 
