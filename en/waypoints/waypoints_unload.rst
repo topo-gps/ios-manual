@@ -15,7 +15,7 @@ An example of the waypoints screen is displayed in the figure below:
 
 The grey background color of the waypoint ‘Stonehenge’ indicates that it is currently loaded on the map.
 
-If you tap a waypoint item that has a grey background color it will be immediately removed from the map. The grey background color will dissapear.
+If you tap a waypoint item that has a grey background color it will be immediately removed from the map. The grey background color will disappear.
 
 You can also remove all loaded waypoints from the map at once. For this press ‘More' (the top right circle with three dots) to open the 'More' menu in the waypoints screen. Then press 'Remove all from map' in the bottom of the menu. 
 
