@@ -27,7 +27,7 @@ Importing route from url
 ------------------------
 If you press long on an url to a geodata file you can copy it to your pasteboard. Then open the :ref:`routes screen <sec-routes-screen>` and select the tab 'Routes'. Tap 'More > Import URL' to open the URL import screen. Here you can paste your URL. Then tap 'Import' to import the URL.
 
-If the routes were imported succesfully, you will return to the main screen, and the map will be zoomed to the imported routes. The imported routes will be saved on your device and can be found back in the 'Routes' tab of the :ref:`routes screen <sec-routes-screen>`.
+If the routes were imported successfully, you will return to the main screen, and the map will be zoomed to the imported routes. The imported routes will be saved on your device and can be found back in the 'Routes' tab of the :ref:`routes screen <sec-routes-screen>`.
 
 .. _ss-routes-import-shared:
 
