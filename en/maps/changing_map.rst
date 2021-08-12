@@ -22,7 +22,7 @@ An example of the map screen is shown below:
    :width: 320px
    :alt: Maps screen Topo GPS
    
-   *The maps screen in which you can change the map and purchase additonal maps.*
+   *The maps screen in which you can change the map and purchase additional maps.*
    
 The maps screen consists of two sections, the purchases and the :ref:`store <sec-purchase-maps>`. All purchased maps are accessible. If you tap
 on an map item in the purchases section the map will be opened immediately and you will return to the main screen.
@@ -36,7 +36,7 @@ In the example above, the OpenStreetMap map was :ref:`purchased <sec-purchase-ma
    
    *The map in the main screen was changed to OpenStreetMap.*
 
-If the newly choosen map has coverage in the previously shown area, the newly opened map is zoomed to the previously shown area. Otherwise, the newly opened map is zoomed to the area it covers.
+If the newly chosen map has coverage in the previously shown area, the newly opened map is zoomed to the previously shown area. Otherwise, the newly opened map is zoomed to the area it covers.
 
 
 Scrolling out of covered area
