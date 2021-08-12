@@ -39,7 +39,7 @@ set the properties of the waypoint.
 
 In the waypoint creation screen you can optionally give the waypoint a title, set the icon and enter a description.
 
-If you are connected to the internet and you have enabled ‘Adresses - Find automatically’ in the :ref:`settings <subsec-settings>`, an automatic suggestion for the waypoint title will appear. This title has a light grey color and will be used if no title has been entered. In the example of Fig. 2 the suggestion is ‘Southwood Farm Lane’. If you wish to have a waypoint without a title please enter a single space in the title field.
+If you are connected to the internet and you have enabled ‘Addresses - Find automatically’ in the :ref:`settings <subsec-settings>`, an automatic suggestion for the waypoint title will appear. This title has a light grey color and will be used if no title has been entered. In the example of Fig. 2 the suggestion is ‘Southwood Farm Lane’. If you wish to have a waypoint without a title please enter a single space in the title field.
 
 As an example we enter ‘Goal A’ as a title. If you press ‘Save’ the waypoint will be saved on your device and loaded on the map with the title as is illustrated in the figure below.
 
@@ -122,12 +122,12 @@ If you now create a new icon by pressing long on the map the icon of the last cr
    :width: 320px
    :alt: Waypoint creation screen Topo GPS
 
-   *Newly created waypoints have initally the same icon as the icon of the last created waypoint.*
+   *Newly created waypoints have initially the same icon as the icon of the last created waypoint.*
 
 
 Planning a route to a created waypoint
 --------------------------------------
-If you want to plan a route from you current location to a point on the map, you can press long on the map to create an icon on the map and drag it to the desired location. Then the waypoint creation screen will be opened. In the bottom of the waypoint creation screen you see a 'Plan' button with a map next to it. The map shows the newly created waypoint relative to your current location. Below the 'Plan' button you can see the currently selected transportation mode. In the example above this 'Pedestrian'. If you press 'Pedestrian' you can change the transportation mode, for example you can change it to 'Bicycle'. If you press 'Plan' a route is immediately planned from your location to the newly created point and you will return to the map as is shown below. 
+If you want to plan a route from you current location to a point on the map, you can press long on the map to create an icon on the map and drag it to the desired location. Then the waypoint creation screen will be opened. In the bottom of the waypoint creation screen you see a 'Plan' button with a map next to it. The map shows the newly created waypoint relative to your current location. Below the 'Plan' button you can see the currently selected transportation mode. In the example above this is 'Pedestrian'. If you tap 'Pedestrian' you can change the transportation mode, for example you can change it to 'Bicycle'. If you press 'Plan' a route is immediately planned from your location to the newly created point and you will return to the map as is shown below. 
 
 .. figure:: ../_static/waypoints-create-map5.jpg
    :height: 568px
