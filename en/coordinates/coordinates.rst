@@ -10,7 +10,7 @@ In Topo GPS you can view the coordinates of a :ref:`point on the map on the dash
 
 :ref:`Entering coordinates <sec-entering-coordinates>` in various formats is possible via :ref:`Menu <sec-menu>` > Search > Coordinates. If you have a printed coordinate you can also :ref:`scan the coordinate <sec-scanning-coordinates>` via :ref:`Menu <sec-menu>` > Search > Camera.
 
-To control the shown coordinate systems, go to Menu > More > Settings > Coordinates > Displayed coordinate systems.
+To control the shown coordinate systems, go to :Menu > More > Settings > Coordinates > :ref:`Displayed coordinate systems <sec-settings-coordinates>`.
 
 .. toctree::
    :maxdepth: 2
