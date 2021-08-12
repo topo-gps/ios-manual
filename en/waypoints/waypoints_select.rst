@@ -60,7 +60,7 @@ in the toolbar on the bottom of the screen. The toolbar buttons are from left to
 
 - *Export button*: If you press this button the :ref:`export pop-up <ss-waypoints-exporting>` will be shown. In this pop-up you can select the kind of data to be exported and change the export settings. If you press 'Export' in the export pop-up the selected waypoints will be exported. Another pop-up with apps and actions will be shown. If you tap an app or action, the result of the export will be handled by the app or action.
 
-- *Map button*: If you press this button, the selected waypoints will be loaded on the map. The map will zoom automatically to the selected waypoitns and you will be returned to the map.
+- *Map button*: If you press this button, the selected waypoints will be loaded on the map. The map will zoom automatically to the selected waypoints and you will be returned to the map.
 
 - *More button*: If you press the more button in the bottom toolbar, a menu will appear from which you can choose the following actions:
 
