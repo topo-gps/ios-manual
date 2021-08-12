@@ -19,7 +19,7 @@ There are three kinds of map purchases in Topo GPS.
 
 - *Full maps*: These maps are a one-time only purchase. You get full access to the entire map including future updates.
 - *Partial maps*: In these maps you can select parts of the map and buy the parts you need. This is possible with the topographic maps of Great Britain, France and Belgium.
-- *Subscriptions*: In these maps you can purchase a 1 year automatically reneweing subscription to get access to the entire map. This is possible with the topographic maps of Great Britain, France, and Belgium.
+- *Subscriptions*: In these maps you can purchase a 1 year automatically renewing subscription to get access to the entire map. This is possible with the topographic maps of Great Britain, France, and Belgium.
 
 The differences between the map purchases are due to licensing and royalty constraints. Some maps are provided as open data to us, in that case we do not have to pay royalties to the mapping agency. For other maps we however have to pay licensing fees to the mapping agency depending on the amount of maps sold. Therefore these maps are more expensive. 
 
@@ -118,7 +118,7 @@ If you tap 'Confirm' in the AppStore pop-up the selected area will be purchased.
    *The selected area has been purchased.*
 
 After purchasing an area, all map tiles of the purchased area will be downloaded automatically, so that they are offline accessible. 
-Tiles of areas that are not purchased, cannot be made offline accessible. Therfore you can only get Offline accessible to 100% if you zoom in to an area that is fully bought.
+Tiles of areas that are not purchased, cannot be made offline accessible. Therefore you can only get Offline accessible to 100% if you zoom in to an area that is fully bought.
 
 The purchases of parts of maps are synchronized with other devices via iCloud. You need to enable the iOS settings Account > iCloud > iCloud Drive > Topo GPS on your devices to see the purchases on your other devices.
 
