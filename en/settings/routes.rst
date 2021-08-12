@@ -3,7 +3,7 @@
 Routes
 ======
 
-In the section 'Routes' in the :ref:`settings <ss-settings>` you can determine the behavior of :ref:`route distance markers <ss-settings-route-distance-markers>`, :ref:`route course markers <ss-settings-route-course-markers>`, and :ref:`spoken instructions <ss-settings-spoken-instructions>`.
+In the section 'Routes' of the :ref:`settings <ss-settings>` you can determine the behavior of :ref:`route distance markers <ss-settings-route-distance-markers>`, :ref:`route course markers <ss-settings-route-course-markers>`, and :ref:`spoken instructions <ss-settings-spoken-instructions>`.
 
 
 .. _ss-settings-route-distance-markers:
