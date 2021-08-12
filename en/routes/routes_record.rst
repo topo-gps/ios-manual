@@ -54,7 +54,7 @@ You can modify the color, width and transparency of the record line in the
 
 While recording you can safely lock your device or switch to another app.
 This will not interrupt the recording. In the top of the screen you can see that Topo GPS is using your location in the background. 
-In some devices the clock gets a blue blackground, on other devices the whole status bar turns blue. If you tap the blue clock or the blue statusbar, you will return to Topo GPS.
+In some devices the clock gets a blue background, on other devices the whole status bar turns blue. If you tap the blue clock or the blue statusbar, you will return to Topo GPS.
 
 If you tap on the line of the recorded route on the main map, the record screen will be opened. You can view a live altitude and speed profile. You can tap these :ref:`profiles <sec-route-profiles>` to view them in more detail. 
 
