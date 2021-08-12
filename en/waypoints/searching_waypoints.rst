@@ -10,7 +10,7 @@ In the waypoints screen (Menu > Waypoints) you can search waypoints by :ref:`ent
 
 Searching waypoints with keywords
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-If you enter a keyword in the search bar on the top of the waypoint screen only waypoints will be shown which have the keyword in its title, description, street, town, province, two character iso countrycode, or zip code. Search is case insenstive. 
+If you enter a keyword in the search bar on the top of the waypoint screen only waypoints will be shown which have the keyword in its title, description, street, town, province, two character iso country code, or zip code. Search is case insensitive. 
 If you search in a folder, also all search results in descendant folders will be displayed.
 If a :ref:`filter <ss-waypoint-filter>` is applied, the search will restrict itself to the filtered waypoints.
 
@@ -82,7 +82,7 @@ If you tap it, you could change the current point to:
 
 - *Everywhere*: There is no filtering on location.
 - *Current location*: Only waypoints within a certain distance of the current location are shown.
-- *Visible part of map*: Only waypoints that are within the bounds of the currently visible part of the main map are shown in the waypoints sceen.
+- *Visible part of map*: Only waypoints that are within the bounds of the currently visible part of the main map are shown in the waypoints screen.
 - *Custom location*: If you enter a custom location or coordinate only waypoint within a certain distance of the entered location are shown.
 
 
@@ -100,7 +100,7 @@ Then in the bottom of the filter edit screen, enable filtering on icon:
   
    *Filtering on icon is enabled.*
 
-In the figure above, filtering on icon is enabled. The icon is set to the default icon, implying that this filter only will show waypoints which have the default icon. To modify this to a specific icon, tap the icon in the filter edit screen. Then the waypoint icons screen will be opened, from which you can select another icon. In the example below we have choosen for the 'Ancient monument' icons.
+In the figure above, filtering on icon is enabled. The icon is set to the default icon, implying that this filter only will show waypoints which have the default icon. To modify this to a specific icon, tap the icon in the filter edit screen. Then the waypoint icons screen will be opened, from which you can select another icon. In the example below we have chosen for the 'Ancient monument' icons.
 
 .. figure:: ../_static/waypoint-search6.png
    :height: 568px
