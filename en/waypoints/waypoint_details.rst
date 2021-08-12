@@ -17,7 +17,7 @@ The waypoint details screen of the waypoint ‘Stonehenge’ is displayed below:
 The waypoint details screen contains information about the waypoint, such
 as the title and the coordinates. If available you can also find here a description, photos, a phone number and/or an URL.
 
-The coordinates are displayed in various formats. You can set the displayed coordinate types via 'Menu > More > Settings > Displayed coordinate types'. In the example above only WGS decimal and OSNG are shown.
+The coordinates are displayed in various formats. You can set the displayed coordinate types via 'Menu > More > Settings > :ref:`Displayed coordinate types <sec-settings-coordinates>`'. In the example above only WGS decimal and OSNG are shown.
 
 The physical address of a waypoint is also displayed in the details screen. If the address of a waypoint is still unknown, Topo GPS will look up this address in a database of Apple. For this you have to enable the option :ref:`Addresses - find automatically <settings-addresses>` in the :ref:`settings <ss-settings>`. You have also to be connected to the internet.
 
