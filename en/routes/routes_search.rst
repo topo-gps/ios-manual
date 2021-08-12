@@ -9,7 +9,7 @@ In the 'Routes' and 'Shared' tab of the :ref:`routes screen <sec-routes-screen>`
 
 Searching routes with keywords
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-If you enter a keyword in the search bar on the top of the list of routes only routes will be shown which have the keyword in its title, description or author. Search is case insenstive.  If you search in a folder, also all search results in descendant folders will be displayed.
+If you enter a keyword in the search bar on the top of the list of routes only routes will be shown which have the keyword in its title, description or author. Search is case insensitive.  If you search in a folder, also all search results in descendant folders will be displayed.
 If a :ref:`filter <ss-route-filter>` is applied, the search will restrict itself to the filtered route.
 
 .. figure:: ../_static/route-search1.png
