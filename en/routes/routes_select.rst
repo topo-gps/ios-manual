@@ -58,7 +58,7 @@ in the toolbar on the bottom of the screen. The toolbar buttons are from left to
 
 - *Export button*: If you press this button the export pop-up will be shown. In this pop-up you can select the kind of data to be exported and change the export settings. If you press 'Export' in the export pop-up the selected routes will be exported. Another pop-up with apps and actions will be shown. If you tap an app or action, the result of the export will be handled by the app or action.
 
-- *Map button*: If you press this button, the selected routes will be loaded on the map. The map will zoom automatically to the selected waypoitns and you will be returned to the map.
+- *Map button*: If you press this button, the selected routes will be loaded on the map. The map will zoom automatically to the selected routes and you will return to the map.
 
 - *More button*: If you press the more button in the bottom toolbar, a menu will appear from which you can choose the following actions:
 
