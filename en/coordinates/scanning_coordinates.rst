@@ -41,7 +41,7 @@ In the top of the screen you see the position of the coordinate on the map. In t
    
    *Scanning MGRS coordinates*
 
-Ater the coordinates are recognized, again a map with the coordinates will be shown:
+After the coordinates are recognized, again a map with the coordinates will be shown:
 
 .. figure:: ../_static/scanning-coordinates4.jpg
    :height: 760px
