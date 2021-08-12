@@ -83,7 +83,7 @@ The automatic waypoint title can be set to either:
 - *Date and time*: The current date and time
 - *Number (next: ..)*: A number. If you press 'Reset' it will be reset to 1. This setting is useful if you want to save your location several times and number the waypoints.
 
-If you press 'Save' your current position will be saved immediately as a waypoint and added to the map. A pop-up will show that the waypoint was saved sucessfully as you can see in the figure below:
+If you press 'Save' your current position will be saved immediately as a waypoint and added to the map. A pop-up will show that the waypoint was saved successfully as you can see in the figure below:
 
 .. figure:: ../_static/current-location3.png
    :height: 568px
