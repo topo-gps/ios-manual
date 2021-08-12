@@ -177,4 +177,4 @@ you can center the map by pressing the :ref:`position button <ss-position-button
 
 If you tap the coordinate on the coordinate panel, the coordinate will be shown in a different format.
 
-The possible coordinate formats can be set via :ref:`Menu <sec-menu>` > More > :ref:`Settings <ss-settings>` > Coordinates > Displayed coordinate types.
+The possible coordinate formats can be set via :ref:`Menu <sec-menu>` > More > :ref:`Settings <ss-settings>` > Coordinates > :ref:`Displayed coordinate types <sec-settings-coordinates>`.
