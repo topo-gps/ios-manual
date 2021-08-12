@@ -27,7 +27,7 @@ change the coordinates type, like in the figure below:
    *Choosing the coordinates type.*
 
 You can choose between different coordinates types, including:
-`WGS84 <https://en.wikipedia.org/wiki/WGS84>`_ decimal, `WGS84 <https://en.wikipedia.org/wiki/WGS84>`_ degrees minutesm `WGS84 <https://en.wikipedia.org/wiki/WGS84>`_ degrees minutes seconds, `UTM <https://en.wikipedia.org/wiki/UTM>`_ and `MGRS <https://en.wikipedia.org/wiki/MGRS>`_. Next to that you can use various country specific coordinate systems.
+`WGS84 <https://en.wikipedia.org/wiki/WGS84>`_ decimal, `WGS84 <https://en.wikipedia.org/wiki/WGS84>`_ degrees minutes `WGS84 <https://en.wikipedia.org/wiki/WGS84>`_ degrees minutes seconds, `UTM <https://en.wikipedia.org/wiki/UTM>`_ and `MGRS <https://en.wikipedia.org/wiki/MGRS>`_. Next to that you can use various country specific coordinate systems.
 
 .. _ss-coordinates-enter:
 
@@ -51,7 +51,7 @@ Optionally you can enter a title. As long as we do not enter a title, the sugges
 
 If you tap ‘Save’ the coordinates will be saved as a :ref:`waypoint <sec-wp>`. The coordinates screen will be cleared, so that you can enter the next coordinates. The first digits will now be based on the previous input. On the top left of the screen a Map button will appear, with with you can return to the map. The number behind map tells you how many coordinates have been entered.
 
-As an example we will now enter the coordinates: N 51°34’01.9” W 4°16’41.9”. To enter this coordinate we had to change the type to WGS degree, minutes second. An example is shown below:
+As an example we will now enter the coordinates: N 51°34’01.9” W 4°16’41.9”. To enter these coordinates we had to change the type to WGS degree, minutes second. An example is shown below:
 
 .. figure:: ../_static/enter-coordinates4.png
    :height: 568px
@@ -60,18 +60,18 @@ As an example we will now enter the coordinates: N 51°34’01.9” W 4°16’41
 
    *Entering the coordinates N 51°34’01.9” W 4°16’41.9”.*
 
-Again we are happy with the suggested title and press save. The coordinates will be saved and the coordinates screen will be cleared, so that you can enter the next coordinate.
+Again we are happy with the suggested title and press save. The coordinates will be saved and the coordinates screen will be cleared, so that you can enter the next coordinates.
 
 Now will we enter the Ordnance Survey National Grid coordinates SS 41996 88847, as is illustrated below.
 
 .. figure:: ../_static/enter-coordinates5.png
    :height: 568px
    :width: 320px
-   :alt: Entering coordinate Topo GPS
+   :alt: Entering coordinates Topo GPS
 
-   *Entering the coordinate SS 41996 88847.*
+   *Entering the coordinates SS 41996 88847.*
 
-After pressing ‘Save’ the coordinate will be saved and the coordinate screen will again be cleared.
+After pressing ‘Save’ the coordinates will be saved and the coordinates screen will again be cleared.
 
 Displaying on map
 ~~~~~~~~~~~~~~~~~
@@ -90,7 +90,7 @@ coordinates in the examples above and tapping 'Map' the main screen looks as fol
 
 Entering a list of coordinates
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-If you have received a list of coordinates in text format, you could enter them one-by-one via the coordinate input screen, 
+If you have received a list of coordinates in text format, you could enter them one-by-one via the coordinates input screen, 
 as is explained above.
 
 It could however be easier to select and copy these coordinates. Then select the tab ‘Address’ and then press long on the search box. 
@@ -110,7 +110,7 @@ box, as is illustrated in the figure below:
 .. figure:: ../_static/search-coordinate8.png
    :height: 568px
    :width: 320px
-   :alt: Entering coordinate Topo GPS
+   :alt: Entering coordinates Topo GPS
 
    *A list of coordinates has been pasted into the search box.*
 
