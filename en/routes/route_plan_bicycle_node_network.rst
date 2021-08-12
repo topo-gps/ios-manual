@@ -3,7 +3,7 @@
 Planning a route over a bicycle node network
 ============================================
 
-A bicycle node network is a collection of numbered nodes and connections between them. A sign with the node number is placed a the location of a node. It also shows the direction to the nearby nodes. The connections are also marked with signs. A bicycle node network allows for easy navigation, because a route can be described by the node numbers.
+A bicycle node network is a collection of numbered nodes and connections between them. A sign with the node number is placed at the location of a node. It also shows the direction to the nearby nodes. The connections are also marked with signs. A bicycle node network allows for easy navigation, because a route can be described by the node numbers.
 
 Bicycle node networks can be found in the Netherlands, Belgium and Germany.
 
