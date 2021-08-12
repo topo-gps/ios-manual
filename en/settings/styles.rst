@@ -13,9 +13,9 @@ If you tap route lines, you will see that there are 10 different route lines. Th
 
 As an example we now show below the screen in which you can change the line properties of the recorded route:
 
-.. figure:: ../_static/settings-recordline.jpg
-   :height: 150px
-   :width: 150px
+.. figure:: ../_static/settings-recordline.png
+   :height: 568px
+   :width: 320px
    :alt: Position marker Topo GPS
    
    *Changing the properties of the record line.*
@@ -30,8 +30,8 @@ The default position marker has a red color. For visibility it might be better t
 Below you see an example of a map with a purple position marker:
 
 .. figure:: ../_static/settings-posmarker.jpg
-   :height: 150px
-   :width: 150px
+   :height: 568px
+   :width: 320px
    :alt: Position marker Topo GPS
 
    *The position marker was set to purple*
