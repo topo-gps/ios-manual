@@ -29,6 +29,6 @@ If you scroll further down to the section 'Tiles on current map', you :ref:`down
 In the bottom of the routes screen you can find a toolbar with the following buttons:
 
 - *‘<‘ and ‘>’ buttons*: With these buttons you can browse backward and forward through the route details of a collection of routes.
-- *Wastebin button*: If you tap this button you can remove the currently shown route from your device.
+- *Trash button*: If you tap this button you can remove the currently shown route from your device.
 - *Export button*: If you tap this button you can :ref:`export the route <sec-routes-export>`.
 - *Edit button*: If you tap this button an edit pop-up with several options to edit the route will be shown.
