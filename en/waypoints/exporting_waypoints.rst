@@ -19,7 +19,7 @@ After pressing the export icon the export pop-up will appear in both cases, an e
 In the export pop-up you can select the kind of data that will be exported when pressing the export button in the bottom of the pop-up.
 The kind of exported data can be any combination of the following:
 
-- *Geodata*: If you include 'Geodata' a data file containing the waypoint(s) will be exported. The file format is shown in the subtitle of the geodata item. In the example above it is gpx.zip. If you press :ref:`settings <ss-waypoints-export-settings>` you can change the dataformat. Supported file formats for exporting waypoints are gpx, gpx.zip, kml, kmz, geojson, geojson.zip, csv and csv.zip.
+- *Geodata*: If you include 'Geodata' a data file containing the waypoint(s) will be exported. The file format is shown in the subtitle of the geodata item. In the example above it is gpx.zip. If you press :ref:`settings <ss-waypoints-export-settings>` you can change the data format. Supported file formats for exporting waypoints are gpx, gpx.zip, kml, kmz, geojson, geojson.zip, csv and csv.zip.
 - *Photos*: If you include 'Photos' the photos of the waypoint(s) will be exported as well. This item is not available if their are no photos.
 - *Map*: If you include 'Map' a map of the waypoint(s) will be exported. The pixel size of the map is displayed in the subtitle. You can change the pixel size in the :ref:`export settings <ss-waypoints-export-settings>`.
 
@@ -40,7 +40,7 @@ In the export pop-up you can also change the export settings by pressing the 'Se
    *The waypoint export settings screen.*
 
 The first section in the export settings screen is about geodata.
-Here you can set the dataformat of the to be exported waypoint(s). By tapping 'Waypoint data format' you can choose between gpx, kml, csv and geojson.
+Here you can set the data format of the to be exported waypoint(s). By tapping 'Waypoint data format' you can choose between gpx, kml, csv and geojson.
 You can decide whether you want to compress the data. If you enable compression the exported geodata file will be zip compressed. The file size will be much smaller than without compression. 
 
 If you export to csv or geojson, you can also choose the spatial reference system (coordinate system) to be used in the exported data. If you for example want to generate a csv from the waypoints with coordinates in the OS National Grid system, you can set the spatial reference system to OSNG as in the example below:
