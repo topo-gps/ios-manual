@@ -24,7 +24,7 @@ In the edit pop-up you can choose between the following options:
 
 Editing route track
 ~~~~~~~~~~~~~~~~~~~
-To change the track of a route, open the route :ref:`route details screen <sec-route-details>` and tap 'Edit > Edit track'.
+To change the track of a route, open the :ref:`route details screen <sec-route-details>` and tap 'Edit > Edit track'.
 Alternatively, open the :ref:`route planner <sec-route-plan>` and tap 'More > Add route'. Tap a route in the list with routes and choose 'Join to planner'.
 
 The route will be loaded in the route planner as can be shown from the example above.
@@ -109,9 +109,9 @@ You can now save the shortened route by tapping ‘Save’ on the top right.
 
 .. _ss-route-edit-replace:
 
-Replacing part of a route
-~~~~~~~~~~~~~~~~~~~~~~~~~
-To replace part of a route, first :ref:`load the route in the route planner <ss-route-track-edit>` as explained above. 
+Replacing a part of a route
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+To replace a part of a route, first :ref:`load the route in the route planner <ss-route-track-edit>` as explained above. 
 
 As an example we will now change the ‘Gower Hike’ so that the middle part of the route will go over the ‘Gower Way’. Initially the route looks as follows:
 
@@ -142,7 +142,7 @@ The route between the orange and the green route point needs to be modified. We 
 
    *The green route point is inserted in the route.*
 
-By pressing long on the green route point you can drag to the botom or the top of the screen to remove it. The route between the previous and next point will be recomputed so that is runs over the 'Gower way' as is shown below:
+By pressing long on the green route point you can drag to the bottom or the top of the screen to remove it. The route between the previous and next point will be recomputed so that is runs over the 'Gower way' as is shown below:
 
 .. figure:: ../_static/route-track-replace4.png
    :height: 568px
