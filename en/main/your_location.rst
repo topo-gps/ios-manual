@@ -70,7 +70,7 @@ By tapping 'Edit' on the top right of the current location screen you can edit t
 
 By dragging the handles on the right hand side the order of the elements can be modified. 
 
-By tapping 'Displayed coordinate types' the displayed coordinate types can be set so that only coordinate systems which are of interested to you are displayed.
+By tapping 'Displayed coordinate types' the :ref:`displayed coordinate types can be set <sec-settings-coordinates>` so that only coordinate systems which are of interested to you are displayed.
 
 .. _ss-current-location-save:
 
