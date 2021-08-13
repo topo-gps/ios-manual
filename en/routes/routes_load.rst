@@ -35,7 +35,7 @@ The 13.5 km on the top right of the :ref:`dashboard <sec-dashboard>` indicates t
 
 If you want to see the route in more detail, you can :ref:`zoom in <ss-map-zoom>` on the map.
 
-You can alter the color, width, and transparency of the route line in the :ref:`settings <ss-settings-lines>`.
+You can alter the color, width, and transparency of the route line in the :ref:`settings <sec-settings-styles>`.
 
 If you open the :ref:`routes screen <sec-routes-screen>` again, you can see that the ‘Gower Hike’ route has obtained a gray background color, as in the example below:
 
