@@ -7,7 +7,7 @@ With the setting ‘Automatic lock’ in the :ref:`settings <ss-settings>` you c
 
 Suppose you mount your iPhone to your bicycle. Then it could be convenient that the main screen stays on continously. So in that case you have to disable ‘Automatic lock’.
 
-If you have :ref:`locked the orientation of an iPhone <ss-settings-orientation>` in the normal (portrait) orientation, then the option ‘Cover camera’ appears.
+If you have :ref:`locked the orientation of an iPhone <sec-settings-display-orientation>` in the normal (portrait) orientation, then the option ‘Cover camera’ appears.
 
 If you enable the setting ‘Cover camera’ the map screen will be switched off automatically if you cover the front camera. The screen will appear immediately when the the camera is uncovered.
 
