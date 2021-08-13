@@ -103,9 +103,12 @@ Search result details
 If you want to view the details of a search result, you can press the info (i) button on the right
 hand side of the title in the list with search results. The :ref:`waypoint details screen <ss-waypoint-details>` of a search result will then appear.
 
+
+.. _ss-search-history:
+
 Searching with search history
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Your searches will be saved in the search history. This can be disabled in the :ref:`settings <ss-search-settings>`.
+Your searches will be saved in the search history. This can be disabled in the :ref:`settings <sec-settings-search-results>`.
 
 If the search field is empty, the search history will appear below the search field. An example
 is displayed below:
