@@ -22,7 +22,8 @@ You can zoom the map in or out in two ways:
 - *Zooming out:* Tap one finger on the top of the map. Or hold two fingers on the map and move them away from each other.
 
 If you do not like zooming in with one tap on the bottom of the map and zooming out with one tap at the top, you can
-swap this in the via :ref:`Menu <sec-menu>` > More > :ref:`Settings <ss-settings-onetapzoom>`. You can also change there bottom/top into left/right.
+swap this in the via :ref:`Menu <sec-menu>` > More > Settings > :ref:`Single tap zoom <sec-settings-single-tap-zoom>`. 
+You can also change there bottom/top into left/right.
 
 .. _ss-map-center:
 
