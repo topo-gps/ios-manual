@@ -144,8 +144,8 @@ Based on the start and finish point of the route an automatic suggestion for the
 will be made. This suggestion appears in the title field if you do not enter a title yourself.
 If you do not enter a title, the suggestion will be used when saving the route. 
 
-To ensure automatic title suggestion functions properly, the option :ref:`‘Addresses - Find automatically’ <settings-addresses>` should
-be enabled in the settings.
+To ensure automatic title suggestion functions properly, the option :ref:`‘Addresses - Find automatically’ <sec-settings-addresses>` should
+be enabled in the :ref:`settings <ss-settings>`.
 
 If you press the '>' on the right hand side of the title you can add an URL.
 
