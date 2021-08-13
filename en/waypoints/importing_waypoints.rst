@@ -1,3 +1,5 @@
+.. _ss-waypoints-importing:
+
 Importing waypoints
 ===================
 
