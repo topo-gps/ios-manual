@@ -50,7 +50,7 @@ The :ref:`record distance meter <ss-rec-distance>` on the dashboard indicates
 the length of a recorded route. In the example above this is 778 m. If you tap the record distance meter the map will be zoomed to the recorded route.
 
 You can modify the color, width and transparency of the record line in the 
-:ref:`settings <ss-settings-lines>`.
+:ref:`settings <sec-settings-styles>`.
 
 While recording you can safely lock your device or switch to another app.
 This will not interrupt the recording. In the top of the screen you can see that Topo GPS is using your location in the background. 
