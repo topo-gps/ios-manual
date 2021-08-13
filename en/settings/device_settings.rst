@@ -26,7 +26,7 @@ In the device settings screen you can subsquently set the following options:
 
 - *Background app refresh*. If you enable this setting, Topo GPS can process various tasks in the background, like updating synchronizing routes and waypoints and updating layers.
 
-- *Mobile data*. If you enable this setting Topo GPS can use the mobile network. This is for example necessary for :ref:`route planning <sec-routes-plan>` and :ref:`downloading map tiles <sec-cache>` over a mobile network.
+- *Mobile data*. If you enable this setting Topo GPS can use the mobile network. This is for example necessary for :ref:`route planning <sec-route-plan>` and :ref:`downloading map tiles <sec-cache>` over a mobile network.
 
 - *Language*. Here you can set the language Topo GPS is using. Supported languages are English, German, Spanish, French, Dutch, Swedish, Norwegian, Danish, Finnish and Japanese. If your device language is supported, that language is used by default.
 
