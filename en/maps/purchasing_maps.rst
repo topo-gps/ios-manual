@@ -23,6 +23,10 @@ There are three kinds of map purchases in Topo GPS.
 
 The differences between the map purchases are due to licensing and royalty constraints. Some maps are provided as open data to us, in that case we do not have to pay royalties to the mapping agency. For other maps we however have to pay licensing fees to the mapping agency depending on the amount of maps sold. Therefore these maps are more expensive. 
 
+The sales of the maps and layers is our only source of income. It is not possible to create an account in Topo GPS. We do not know your idenity. We do not collect any of your data. We do not sell any of your data. We do not show advertisements. With the money we earn by selling maps and layers we fund the development and maintenance of Topo GPS, we pay for the server infrastructure and data transfer, and we pay the delivery fees and royalties of certain maps.
+
+It is not possible to share your purchases with Android. This is because we need money to fund the development and maintenance of the Android app as well. Also we do not want to spend our time creating a complicated purchases transfer system. Rather we want to develop new useful features for our users.
+
 Purchasing full maps
 --------------------
 To purchase a full map, for example Switzerland, go to :ref:`Menu <sec-menu>` > Maps > Store and tap 'Switzerland'.
@@ -58,6 +62,7 @@ You can zoom in on the purchased map to see it in more detail as in the figure b
 If you go back to the maps screen (:ref:`Menu <sec-menu>` > Maps) you will see that the map of Switzerland has now moved to the section 'Purchases'.
 
 The purchased maps are available on all devices that use the same Apple ID on which the purchase was made. If you have enabled family sharing, the purchased maps are also available to your family members. Sometimes you need to tap 'Restore previous purchases' in the bottom of the map screen (:ref:`Menu <sec-menu>` > Maps) to make these purchases available.
+
 
 
 Purchasing parts of maps
