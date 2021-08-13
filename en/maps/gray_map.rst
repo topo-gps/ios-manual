@@ -1,3 +1,5 @@
+.. _sec-gray-map:
+
 Gray map screen
 ===============
 
