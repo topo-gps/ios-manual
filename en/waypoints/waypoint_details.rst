@@ -19,7 +19,7 @@ as the title and the coordinates. If available you can also find here a descript
 
 The coordinates are displayed in various formats. You can set the displayed coordinate types via 'Menu > More > Settings > :ref:`Displayed coordinate types <sec-settings-coordinates>`'. In the example above only WGS decimal and OSNG are shown.
 
-The physical address of a waypoint is also displayed in the details screen. If the address of a waypoint is still unknown, Topo GPS will look up this address in a database of Apple. For this you have to enable the option :ref:`Addresses - find automatically <settings-addresses>` in the :ref:`settings <sec-settings-addresses>`. You have also to be connected to the internet.
+The physical address of a waypoint is also displayed in the details screen. If the address of a waypoint is still unknown, Topo GPS will look up this address in a database of Apple. For this you have to enable the option :ref:`Addresses - find automatically <sec-settings-addresses>` in the :ref:`settings <ss-settings>`. You have also to be connected to the internet.
 
 On the bottom of the waypoint details screen a small map is shown with shows the waypoint relative to your current location. Note that this map will not show up if you have disabled location access for Topo GPS. On the left hand side of the map there is a plan button. If you press the plan button a route will be planned from your current location to the waypoint with the transportation mode which is displayed below the plan button. If you tap the transportation mode button below the plan button you can change the transportation mode.
 
