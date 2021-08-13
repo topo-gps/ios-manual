@@ -28,6 +28,6 @@ In the device settings screen you can subsquently set the following options:
 
 - *Mobile data*. If you enable this setting Topo GPS can use the mobile network. This is for example necessary for :ref:`route planning <sec-routes-plan>` and :ref:`downloading map tiles <sec-cache>` over a mobile network.
 
-- *Language*. Here you can set the language Topo GPS is using. Supported languages are English, Spanish, French, Dutch, Swedish, Norwegian, Danish, Finnish and Japanese.
+- *Language*. Here you can set the language Topo GPS is using. Supported languages are English, German, Spanish, French, Dutch, Swedish, Norwegian, Danish, Finnish and Japanese. If your device language is supported, that language is used by default.
 
 
