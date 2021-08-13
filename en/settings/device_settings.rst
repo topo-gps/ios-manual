@@ -7,7 +7,7 @@ If you scroll to the bottom of the :ref:`settings screen <ss-settings>` or you g
 
 An example of the iOS device settings screen is shown in the figure below:
 
-.. figure:: _static/search-device.jpg
+.. figure:: _static/settings-device.jpg
    :height: 760px
    :width: 351px
    :alt: Searching address Topo GPS
