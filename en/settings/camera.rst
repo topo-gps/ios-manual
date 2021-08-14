@@ -12,6 +12,6 @@ You can choose between:
 - *Large*: 2048 x 1536 pixels
 - *Extra large*: 2560 x 1920 pixels
 
-Larger photo sizes imply sharper photos, but also require more storage space.
+Larger photo sizes imply sharper photos, but they also require more storage space.
 
 This setting is only relevant for the photos stored in Topo GPS. Photos that are saved in your :ref:`photo library <sec-settings-device>` are always saved in the original resolution.
