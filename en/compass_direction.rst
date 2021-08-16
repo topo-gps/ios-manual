@@ -6,7 +6,7 @@ A compass direction is a path of a certain length from a certain point in a cert
 
 Creating a compass direction
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-To add a compass direction to the map, tap :ref:`Menu > Search` and select the tab 'Compass direction' above the keyboard.
+To add a compass direction to the map, tap :ref:`Menu <sec-menu>` > Search and select the tab 'Compass direction' above the keyboard.
 
 The compass direction screen will appear like in the figure below:
 
@@ -17,7 +17,7 @@ The compass direction screen will appear like in the figure below:
    
    *The compass direction screen.*
 
-In the compass direction field you can subsquently add the following fields:
+In the compass direction screen you can subsequently add the following fields:
 
 - *From*: Here you can set the starting point of the compass direction. Most often it is your current location. If you tap this field you can enter another location or coordinates.
 - *Distance*: Here you can enter the length of the compass direction in the displayed units.
@@ -25,7 +25,7 @@ In the compass direction field you can subsquently add the following fields:
 - *North*: Here you can set the kind of north the angle is referring to. If you are entering a reading of a compass, you might want to set it to magnetic north, so that a correct magnetic declination correction can be applied.
 - *Description*: Optionally you can add a description.
 
-If you have entered all values, you can tap 'Save'. You will return to the main screen and the compass direction will be shown as a route on the map. The compass direction will be saved as well, and can be found back in the :ref:`routes screen <sec-routes-load>`.
+If you have entered all values, you can tap 'Save'. The compass direction will be saved, and can be found back in the :ref:`routes screen <sec-routes-load>`. You will return to the main screen and the compass direction will be shown as a route on the map. 
 
 As an example we now create a compass direction direction of 5000 m with a direction of 45 degrees with respect to the true north. The result is displayed in the figure below:
 
@@ -42,7 +42,7 @@ The :ref:`direction you are travelling in <ss-speed>` can also be displayed on t
 
 Finding a compass direction
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
-To find a compass directions, you first have to :ref:`enable the route course markers <ss-settings-route-course-markers>` in the settings. 
+To find a compass direction, you first have to :ref:`enable the route course markers <ss-settings-route-course-markers>` in the settings. 
 
 Then you can :ref:`plan a route to a point <sec-route-plan>`, for example with the transportation means 'Crow fly'.
 
