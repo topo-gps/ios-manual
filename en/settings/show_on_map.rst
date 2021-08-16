@@ -8,6 +8,8 @@ Location accuracy
 ~~~~~~~~~~~~~~~~~
 If you enable this setting a circle indicating the accuracy of the position determination will appear around the :ref:`position marker <sec-posmarker>`. 
 
+.. _ss-settings-true-north:
+
 True north
 ~~~~~~~~~~
 If you enable this setting an arrow pointing to the direction of the true north will always appear on the top left of the :ref:`main screen <sec-main-screen>`.
