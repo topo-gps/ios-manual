@@ -29,7 +29,7 @@ If you have entered all values, you can tap 'Save'. You will return to the main 
 
 As an example we now create a compass direction direction of 5000 m with a direction of 45 degrees with respect to the true north. The result is displayed in the figure below:
 
-.. figure:: _static/compass-direction2.jpg
+.. figure:: _static/compass-direction2.png
    :height: 568px
    :width: 320px
    :alt: Entering compass direction Topo GPS
