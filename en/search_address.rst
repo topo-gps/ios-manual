@@ -92,7 +92,7 @@ If you press ‘Show on map’ on the bottom right the selected items will be lo
 
 Removing search results from the map
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-To remove a single search result from the map, tap the search result to open the :ref:`waypoint details screen <ss-waypoint-details>`. The tap 'Remove from map' in the top of the screen. To remove all search results from the map at once, tap :ref:`Menu <sec-menu>` > Search. Select the 'Address' tab and tap More (top right) > Remove all from map.
+To remove a single search result from the map, tap the search result to open the :ref:`waypoint details screen <ss-waypoint-details>`. Then tap 'Remove from map' in the top of the screen. To remove all search results from the map at once, tap :ref:`Menu <sec-menu>` > Search. Select the 'Address' tab and tap More (top right) > Remove all from map.
 
 Search result details
 ~~~~~~~~~~~~~~~~~~~~~
