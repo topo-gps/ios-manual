@@ -10,7 +10,7 @@ A screen will appear in which you can enter addresses and place names.
 
 Loading single search result
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-As an example we now will enter the town ‘Selborne’ in the search box. While typing search results will appear in the
+As an example we now will enter the town ‘Alton’ in the search box. While typing search results will appear in the
 list below the search box, as you can see below:
 
 .. figure:: _static/search-address1.png
@@ -18,7 +18,7 @@ list below the search box, as you can see below:
    :width: 320px
    :alt: Searching address Topo GPS
 
-   *Searching the town ‘Selborne’*
+   *Searching the town ‘Alton’*
 
 In order to be able to find addresses or places you have to be connected to the internet. Searching will occur via a service
 of Apple.
@@ -31,38 +31,35 @@ An example is shown below:
    :width: 320px
    :alt: Searching address Topo GPS
 
-   *The search result ‘Selborne’ has been loaded on the map.*
+   *The search result ‘Alton’ has been loaded on the map.*
 
 In the settings (Menu > More > Settings) you can control whether used search results are automatically saved as a waypoint. The default setting is not to save automatically in order not to clutter your list of waypoint with search results. If you want to save search result as a waypoint, you could tap it to open the :ref:`waypoint details screen <ss-waypoint-details>`. There you can tap 'Save' in the bottom right to save the search result.
 
 Loading all search results
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 You can also search on a keyword, like for example ‘Pub’.  The results that appear in the list depend on 
-the area that is currently visible in the map screen. If you search for Pub and the map is zoomed to Selborne, only
-pubs near Selborne will show up, like in the figure below:
+the area that is currently visible in the map screen. If you search for Pub and the map is zoomed to Alton, only
+pubs near Alton will show up, like in the figure below:
 
 .. figure:: _static/search-address3.png
    :height: 568px
    :width: 320px
    :alt: Searching address Topo GPS
 
-   *Searching for ‘Pub’.*
+   *Searching for ‘Pub’ in Alton.*
 
-If you tap a single search result, it will be loaded on the
-map. You can also load all results, by pressing ‘Search’ on
-the bottom right of the screen. This is illustrated
-in the figure below:
+If you tap a single search result, it will be loaded on the map. You can also load all results, by pressing ‘Search’ on the bottom right of the screen. This is illustrated in the figure below:
 
 .. figure:: _static/search-address4.png
    :height: 568px
    :width: 320px
    :alt: Searching address Topo GPS
 
-   *All found pubs near Selborne.*
+   *All found pubs near Alton.*
 
 Loading selection of search results
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-If you now search for ‘Camping’, a list of campings near Selborne will appear,
+If you now search for ‘Restaurant’, a list of restaurants in Alton will appear,
 as you can see in the figure below:
 
 .. figure:: _static/search-address5.png
@@ -70,7 +67,7 @@ as you can see in the figure below:
    :width: 320px
    :alt: Searching address Topo GPS
 
-   *Searching for a camping near Selborne.*
+   *Searching for a restaurant in Alton.*
 
 If you only want to load a few of the results on the map, you have to press long on one of the desired results.
 A selection screen will appear as you can see below:
@@ -83,7 +80,7 @@ A selection screen will appear as you can see below:
    *Selecting search results.*
 
 In this selection screen you can select multiple search results by tapping them. 
-In the example above the campings 'Meonside' and 'Kite View' have been selected. 
+In the example above the restaurants 'Mifta's Indian' and 'The Twisted Teacup' have been selected. 
 If you press ‘Show on map’ on the bottom right the selected items will be loaded on the map, as is illustrated below:
 
 .. figure:: _static/search-address7.png
@@ -95,8 +92,7 @@ If you press ‘Show on map’ on the bottom right the selected items will be lo
 
 Removing search results from the map
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-To remove a search result from the map, tap the search result to open the :ref:`waypoint details screen <ss-waypoint-details>`. The tap 'Remove from map' in the top of the screen. To remove all search results at once (including all loaded other waypoints), tap :ref:`Menu <sec-menu>` > Waypoints > More > Remove all from map.
-
+To remove a single search result from the map, tap the search result to open the :ref:`waypoint details screen <ss-waypoint-details>`. The tap 'Remove from map' in the top of the screen. To remove all search results from the map at once, tap :ref:`Menu <sec-menu>` > Search. Select the 'Address' tab and tap More (top right) > Remove all from map.
 
 Search result details
 ~~~~~~~~~~~~~~~~~~~~~
