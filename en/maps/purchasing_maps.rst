@@ -152,3 +152,9 @@ Cancel subscriptions
 To cancel a subscription, go to  :ref:`Menu <sec-menu>` > Maps. Then tap the info button (i) next to a map on which you are subscribed. Scroll down to the subscription section. Then tap 'Cancel subscription'. You will be brought to an AppStore page on which you can manage your subscription, and also cancel them.
 If you cancel a subscription, the map will remain accessible until the end of the current subscription period.
 
+
+Mobile device management 
+~~~~~~~~~~~~~~~~~~~~~~~~
+Organizations sometimes use devices that are centrally managed through Mobile device management (MDM) software. We can provide the these managed devices with the desired maps. This functions via a managed app configuration file. The administrator only has to enter the organization name and a licensing key which we will provide. The purchased maps and layers will then be available to all managed devices.
+
+For details and pricing, please contact support@topo-gps.com.
