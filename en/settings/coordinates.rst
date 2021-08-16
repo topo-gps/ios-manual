@@ -14,7 +14,7 @@ If you tap displayed coordinate types a screen will appear in which you can enab
    
    *Setting the displayed coordinate types.*
 
-In the figure above, only WGS84 decimal and Ordnance Survey national grid are enabled. If you go a the waypoint details screen, you see in the 'Coordinates' section that also only these coordinate types are shown:
+In the figure above, only WGS84 decimal and Ordnance Survey national grid are enabled. With the handles on the right hand side you can determine the ordering of the displayed coordinates. If you go to the waypoint details screen, you see in the 'Coordinates' section that also only these coordinate types are shown:
 
 .. figure:: ../_static/settings-coordinates2.png
    :height: 568px
@@ -32,12 +32,12 @@ As a second example we now enable other coordinate types, MGRS, WGS84 degree, mi
    
    *Setting the displayed coordinate types.*
 
-In the waypoint details screen the 'Coordinates' section then only shows WGS84 degree minutes seconds, UTM and MGRS coordinates:
+In the waypoint details screen the 'Coordinates' section then only shows the MGRS, WGS84 degree minutes seconds, and UTM coordinates:
    
 .. figure:: ../_static/settings-coordinates4.png
    :height: 568px
    :width: 320px
    :alt: Displayed coordinate types Topo GPS
    
-   *Only WGS84 degree minutes seconds, UTM and MGRS coordinates are shown.*   
+   *Only MGRS, WGS84 degree minutes seconds, and UTM coordinates are shown.*   
 
