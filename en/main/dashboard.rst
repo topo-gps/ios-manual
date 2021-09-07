@@ -91,9 +91,9 @@ If you tap the direction meter, it will turn in the speedometer.
 Route distance meter
 ~~~~~~~~~~~~~~~~~~~~
 The route distance meter (-.- km top right) indicates the length of all routes that are :ref:`loaded <sec-routes-load>` on the map, including planned routes. 
-If a route is loaded the symbol 'rte' appears just above the 'km/h' to indicate that this is the distance of a loaded route.
+If a route has been loaded the symbol 'rte' appears just above the 'km/h' to indicate that this is the distance of a loaded route.
 
-If routes are loaded and you tap the route distance meter, the map will be centered on the loaded routes.
+If routes have been loaded and you tap the route distance meter, the map will be centered on the loaded routes.
 
 If you are on a route, the route distance meter will automatically change to distance to go (dtg). If the 'dtg' symbol is shown the meter indicates the distance to the end of the current route. If you tap the meter in that case, the map will be centered on the route you are currently following.
 
