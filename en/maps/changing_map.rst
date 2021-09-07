@@ -50,7 +50,7 @@ If you scroll out of the covered area of the map, a pop-up will appear in the to
    
    *A pop-up suggests to change the current map.*
 
-In the example above the user has scrolled to the northern border of the topographic map of Switzerland. In the top of the screen the background is gray, because that part is not covered by the map. The pop-up suggests an alternative map, in this case the topographic map of Germany or OpenStreetMap. If you tap one of these maps and you have purchased it, the tapped map will be openend and zoomed to the current visible area. If you have not purchased the tapped map, the purchase window will be shown. In the example below, the map has been changed to the topographic map of Germany.
+In the example above the user has scrolled to the northern border of the topographic map of Switzerland. In the top of the screen the background is gray, because that part is not covered by the map. The pop-up suggests an alternative map, in this case the topographic map of Germany or OpenStreetMap. If you tap one of these maps and you have purchased it, the chosen map will be openend and zoomed to the current visible area. If you have not purchased the chosen map, the purchase window will be shown. In the example below, the map has been changed to the topographic map of Germany.
 
 .. figure:: ../_static/map-change5.jpg
    :height: 568px
