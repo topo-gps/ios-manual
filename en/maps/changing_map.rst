@@ -5,7 +5,7 @@ Changing current map
 
 In the maps screen (:ref:`Menu <sec-menu>` > Maps) you can change the current map and :ref:`purchase additional maps <sec-purchase-maps>`.
 
-Suppose we the main map is currently the topographic map of Great Britain, as in the example below.
+Suppose the main map is currently the topographic map of Great Britain, as in the example below.
 
 .. figure:: ../_static/map-change1.jpg
    :height: 568px
