@@ -95,7 +95,7 @@ If a route has been loaded the symbol 'rte' appears just above the 'km/h' to ind
 
 If routes have been loaded and you tap the route distance meter, the map will be centered on the loaded routes.
 
-If you are on a route, the route distance meter will automatically change to distance to go (dtg). If the 'dtg' symbol is shown the meter indicates the distance to the end of the current route. If you tap the meter in that case, the map will be centered on the route you are currently following.
+If you are on a route, the route distance meter will automatically change to distance to go (dtg). If the 'dtg' symbol is shown the meter indicates the distance to the end of the current route. If you tap the meter in that case, the map will be centered on the route that you are currently following.
 
 .. _ss-rec-timer:
 
@@ -146,20 +146,20 @@ The :ref:`record distance meter <ss-rec-distance>` can be found in the bottom ri
 
 .. _ss-coordinate-panel:
 
-Coordinate panel
-----------------
-With the coordinate panel you can straightforwardly read off coordinates from the map. 
-To open the coordinate panel, :ref:`slide the panels in the dashboard <ss-panel>` to the left.
-An example of the coordinate panel is displayed below:
+Coordinates panel
+-----------------
+With the coordinates panel you can straightforwardly read off coordinates from the map. 
+To open the coordinates panel, :ref:`slide the panels in the dashboard <ss-panel>` to the left.
+An example of the coordinates panel is displayed below:
 
 .. figure:: ../_static/dashboard3.png
    :height: 135px
    :width: 640px
    :alt: Dashboard Topo GPS
    
-   *The dashboard with the coordinate panel.*
+   *The dashboard with the coordinates panel.*
 
-If the coordinate panel is loaded, a cross appears in the middle of the map,
+If the coordinates panel is loaded, a cross appears in the middle of the map,
 as is illustrated below:
 
 .. figure:: ../_static/map-coordinate-panel.png
@@ -169,12 +169,12 @@ as is illustrated below:
 
    *The map with the coordinate panel.*
 
-The coordinate that is displayed on the coordinate panel is the coordinate of the point in the middle of the cross.
+The coordinates that are displayed on the coordinate panel are the coordinates of the point in the middle of the cross.
 
 By :ref:`moving the map <ss-modifying-map-screen>` you can position the middle of the cross to the point of which
-you want to determine the coordinate. To quickly determine the coordinates of your current position,
+you want to determine the coordinates. To quickly determine the coordinates of your current position,
 you can center the map by pressing the :ref:`position button <ss-position-button>` on the left hand side of the dashboard.
 
-If you tap the coordinate on the coordinate panel, the coordinate will be shown in a different format.
+If you tap the coordinates on the coordinates panel, the coordinates will be shown in a different format.
 
 The possible coordinate formats can be set via :ref:`Menu <sec-menu>` > More > :ref:`Settings <ss-settings>` > Coordinates > :ref:`Displayed coordinate types <sec-settings-coordinates>`.
