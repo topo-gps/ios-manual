@@ -74,7 +74,7 @@ Updating map tiles
 ~~~~~~~~~~~~~~~~~~
 Sometimes the updated map tiles are available for download. If updated map tiles are available and you view them in the map screen, they will be downloaded and updated automatically.
 
-You can update all map tiles of a certain area in the map download screen. For this you have to press ‘Update (.. MB)’ in the map download screen. When the percentage updated map tiles equals the percentage offline accessible map tiles, you have updated all offline accessible map tiles. This is the case in the figure above, therefore the ‘Update’ button has changed to ‘Updated completely’.
+You can update all map tiles of a certain area in the map download screen. For this you have to press ‘Download (.. MB)’ in the update section of the map download screen. When the percentage updated map tiles equals the percentage offline accessible map tiles, you have updated all offline accessible map tiles. This is the case in the figure above, therefore the ‘Download’ button has changed to ‘Updated completely’.
 
 Storage space
 ~~~~~~~~~~~~~
