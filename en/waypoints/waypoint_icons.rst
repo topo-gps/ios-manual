@@ -117,7 +117,7 @@ Organizing icons into folders
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 It is possible to move the icons in the waypoint icons screen to folders. This is just like with waypoints and routes. In this way you can keep the waypoint icons organized.
 
-Press 'More > Create folder' to create a new folder. To move waypoint icons into a folder press 'More > Select' and select the desired waypoints. Then press the folder icon in the bottom to open a folder tree. Select the folder to move the selected icons to the desired folder.
+Press 'More > Create folder' to create a new folder. To move waypoint icons into a folder press 'More > Select' and select the desired waypoint icons. Then press the folder icon in the bottom to open a folder tree. Select the folder to move the selected icons to the desired folder.
 
 Changing order of icons
 ~~~~~~~~~~~~~~~~~~~~~~~
