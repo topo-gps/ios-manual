@@ -104,7 +104,7 @@ To rename a folder first open the waypoints screen (Menu > Waypoints) and tap th
 
 Changing the order of waypoints 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Just below the folder tree / filter bar in the waypoints screen the current sort method is displayed. If you tap the sort method you can change it. If it is set to 'Customizable order' you can determine the order of the waypoints.
+Just below the folder / filter bar in the waypoints screen the current sort method is displayed. If you tap the sort method you can change it. If it is set to 'Customizable order' you can determine the order of the waypoints.
 
 To change the order of the waypoints in the 'Sights' folder, just open that folder. Then press More > Select to enter the selection mode.
 The waypoints screen then looks as follows:
