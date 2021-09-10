@@ -17,7 +17,7 @@ The compass direction screen will appear like in the figure below:
    
    *The compass direction screen.*
 
-In the compass direction screen you can subsequently add the following fields:
+In the compass direction screen you can subsequently enter the following things:
 
 - *From*: Here you can set the starting point of the compass direction. Most often it is your current location. If you tap this field you can enter another location or coordinates.
 - *Distance*: Here you can enter the length of the compass direction in the displayed units.
