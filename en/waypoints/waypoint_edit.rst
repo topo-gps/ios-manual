@@ -60,7 +60,7 @@ and remove photos from the waypoint. If you press this button the following scre
 
 In the bottom toolbar of the photos screen you can find three buttons:
 
-- *Map button*: If you press this button you can import photos from your photo library to the waypoint.
+- *Folder button*: If you press this button you can import photos from your photo library to the waypoint.
 - *Camera button*: If you press this button the camera will be opened. If you take a photo it will be added to the waypoint. You could also use Menu > Camera for this, then a waypoint is automatically created at your current location and the taken photo is added to it.
 - *Trash button*: If you press this button you can remove the currently displayed photo from a waypoint.
 
@@ -108,7 +108,7 @@ If you tap a photo in the waypoint details screen, the photo screen will be open
 
    *The photo screen with a photo of Stonehenge.*
 
-You can zoom in on the displayed photo by making a zoom gesture with two fingers. Sharing the photo is possible by pressing the 'Export' icon on the top right. If you press 'Edit' on the top right you can modify the photos of the waypoint. If the waypoints has multiple photo's, you can browse through the available photos by sliding the current photo to the left or to the right.
+You can zoom in on the displayed photo by making a zoom gesture with two fingers. Sharing the photo is possible by pressing the 'Export' icon on the top right. If you press 'Edit' on the top right you can modify the photos of the waypoint. If the waypoint has multiple photo's, you can browse through the available photos by sliding the current photo to the left or to the right.
 
 
 .. _ss-waypoint-edit-coordinates:
@@ -170,4 +170,4 @@ If you press 'Change icon' in the :ref:`edit pop-up <ss-waypoint-edit>` the wayp
 
    *The waypoint icons screen*
 
-The waypoint icons screen contains a list of available icons. The currently active icon of the waypoint has a grey background. If you tap an icon row the waypoint icon will be changed and you will return to the waypoint details screen. You can create a new icon by pressing + in the waypoint icons screen.
+The waypoint icons screen contains a list of available icons. The currently active icon of the waypoint has a grey background. If you tap an icon, the waypoint icon will be changed and you will return to the waypoint details screen. You can create a new icon by pressing + in the waypoint icons screen.
