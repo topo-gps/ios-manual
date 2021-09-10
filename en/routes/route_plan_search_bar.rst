@@ -31,7 +31,7 @@ If you now tap 'Plan' on the top right or tap the location in the list of search
    
    *Planned a route from your current location to 'Sommersham'.*
    
-In the route planner overlay the destination and origin of the planned route are shown as you can see in the figure above. If you tap them, they can be changed. 
+In the route planner overlay the destination and source of the planned route are shown as you can see in the figure above. If you tap them, they can be changed. 
 Furthermore, the length of the route is shown. If you tap the length, the map will be zoomed to the planned route. Also the total ascent is displayed, if you tap it you can view a :ref:`height profile <sec-route-profiles>` of the planned route.
 
 If you press 'Save' on the top right, you can :ref:`save the planned route <ss-route-plan-save>`.
