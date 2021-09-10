@@ -39,7 +39,7 @@ set the properties of the waypoint.
 
 In the waypoint creation screen you can optionally give the waypoint a title, set the icon and enter a description.
 
-If you are connected to the internet and you have enabled ‘Addresses - Find automatically’ in the :ref:`settings <sec-settings-addresses>`, an automatic suggestion for the waypoint title will appear. This title has a light grey color and will be used if no title has been entered. In the example of Fig. 2 the suggestion is ‘Southwood Farm Lane’. If you wish to have a waypoint without a title please enter a single space in the title field.
+If you are connected to the internet and you have enabled ‘Addresses - Find automatically’ in the :ref:`settings <sec-settings-addresses>`, an automatic suggestion for the waypoint title will appear. This title has a light grey color and will be used if no title has been entered. In the example above the suggestion is ‘Southwood Farm Lane’. If you wish to have a waypoint without a title please enter a single space in the title field.
 
 As an example we enter ‘Goal A’ as a title. If you press ‘Save’ the waypoint will be saved on your device and loaded on the map with the title as is illustrated in the figure below.
 
@@ -96,16 +96,16 @@ If you press 'Save' the new waypoint icon is created and you will return to the 
 
    *Waypoint icons screen with the newly created 'Hiking goal' icon.*
    
-If you press the newly created hiking goal icon it will be used as icon in the waypoint creation screen.
+If you press the newly created icon 'Hiking goal' it will be used as icon in the waypoint creation screen.
    
 .. figure:: ../_static/waypoint-icons5.jpg
    :height: 568px
    :width: 320px
    :alt: Waypoint icons screen Topo GPS
 
-   *The hiking goal icon is now the icon for the to be created waypoint.*
+   *The icon 'Hiking goal' is now the icon for the to be created waypoint.*
 
-The icon in the waypoint screen is now set to the newly created 'Hiking goal' icon. Then if you press 'Save'
+The icon in the waypoint creation screen is now set to the newly created 'Hiking goal' icon. Then if you press 'Save'
 you will return to the map and the waypoint with the hiking goal icon is shown on the map.
 
 .. figure:: ../_static/waypoint-icons6.jpg
@@ -115,7 +115,7 @@ you will return to the map and the waypoint with the hiking goal icon is shown o
 
    *The waypoint with the hiking goal icon is shown on the map.*
 
-If you now create a new icon by pressing long on the map the icon of the last created waypoint will be used. So in the example you will drag a 'Hiking goal' icon along the map. If you release your finger the waypoint creation screen will be opened, again with the hiking goal icon as the initially set icon. 
+If you now create a new waypoint by pressing long on the map the icon of the last created waypoint will be used. So in the example you will drag a 'Hiking goal' icon along the map. If you release your finger the waypoint creation screen will be opened. The icon 'Hiking goal' is then the initially set icon. 
 
 .. figure:: ../_static/waypoint-icons7.jpg
    :height: 568px
@@ -127,7 +127,7 @@ If you now create a new icon by pressing long on the map the icon of the last cr
 
 Planning a route to a created waypoint
 --------------------------------------
-If you want to plan a route from you current location to a point on the map, you can press long on the map to create an icon on the map and drag it to the desired location. Then the waypoint creation screen will be opened. In the bottom of the waypoint creation screen you see a 'Plan' button with a map next to it. The map shows the newly created waypoint relative to your current location. Below the 'Plan' button you can see the currently selected transportation mode. In the example above this is 'Pedestrian'. If you tap 'Pedestrian' you can change the transportation mode, for example you can change it to 'Bicycle'. If you press 'Plan' a route is immediately planned from your location to the newly created point and you will return to the map as is shown below. 
+If you want to plan a route from you current location to a point on the map, you can press long on the map to create an icon on the map and drag it to the desired location. Then the waypoint creation screen will be opened. In the bottom of the waypoint creation screen you see a 'Plan' button with a map next to it. The map shows the newly created waypoint relative to your current location. Below the 'Plan' button you can see the currently selected transportation mode. In the example above this is 'Pedestrian'. If you tap 'Pedestrian' you can change the transportation mode. You can for exmaple change it to 'Bicycle'. If you press 'Plan' a route is immediately planned from your location to the newly created point and you will return to the map as is shown below. 
 
 .. figure:: ../_static/waypoints-create-map5.jpg
    :height: 568px
@@ -136,5 +136,5 @@ If you want to plan a route from you current location to a point on the map, you
 
    *A route was planned from the current location to a newly created point on the map.*
 
-The planned route and the waypoint are not saved automatically. To save the planned route press on the route line to open the route planner and then press 'Save' on the top right to save the planned route. After the route is saved it will appear in the routes screen.
+The planned route and the waypoint are not saved automatically. To save the planned route press on the route line to open the route planner. Then press 'Save' on the top right to save the planned route. After the route is saved it will appear in the routes screen.
 
