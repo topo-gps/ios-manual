@@ -78,7 +78,7 @@ To edit an icon, press the info button next to an icon in the waypoint icons scr
 
 Changing icon of a waypoint
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
-To change the icon of an individual waypoint, open the :ref:`waypoint detail screen <ss-waypoint-details>`. Then press 'Edit > Change' icon. The waypoint icons screen will be shown. Then select the desired icon from the list of icons in the waypoint icons screen. 
+To change the icon of an individual waypoint, open the :ref:`waypoint detail screen <ss-waypoint-details>`. Then press 'Edit > Change icon'. The waypoint icons screen will be shown. Then select the desired icon from the list of icons in the waypoint icons screen. 
 If the desired icon is not in the waypoints screen, please first press + on the top right to :ref:`create a new icon <ss-waypoint-create-icons>`.
 The currently set icon has a grey background. After tapping the desired icon, you will return immediately and the waypoint will use the selected icon. 
 
