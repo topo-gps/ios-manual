@@ -33,7 +33,7 @@ If you tap the sort button you can change the current sort method between:
 - *Newest on top*: The waypoints are sorted according to their creation time, the newest is on top.
 - *Oldest on top*: The waypoints are sorted according to their creation time, the oldest is on top.
 - *Most recently updated on top*: The waypoints are sorted according to the time at which they were last changed, the waypoint that was changed most recently is on top.
-- *Least recently updated on top*: The waypoints are sorted according to the time at which they were last changed, the waypoint that was changed the longest go is on top.
+- *Least recently updated on top*: The waypoints are sorted according to the time at which they were last changed, the waypoint that was changed the longest ago is on top.
 - *Alphabetically*: The waypoints are sorted in alphabetical order.
 
 .. figure:: ../_static/waypoint-search2.png
