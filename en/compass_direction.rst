@@ -2,7 +2,7 @@
 
 Compass direction
 =================
-A compass direction is a path of a certain length from a certain point in a certain direction.
+A compass direction is a line of a certain length from a certain point in a certain direction.
 
 Creating a compass direction
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
