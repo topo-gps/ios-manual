@@ -107,7 +107,7 @@ In the figure above, filtering on icon is enabled. The icon is set to the defaul
    :width: 320px
    :alt: Waypoint search Topo GPS
   
-   *Setting the filter to the 'Ancient monument icon'.*
+   *Setting the filter to the 'Ancient monument' icon.*
 
 When applying a filtering on icon, only waypoints with a specific icon will be shown in the waypoints screen, as in the figure below. There you see only waypoints with the 'Ancient monument' icon. To indicate that an icon filter is active, the icon on which is filtered is displayed below the search bar left of the filter description.
 
