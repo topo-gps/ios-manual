@@ -83,7 +83,7 @@ If you tap it, you could change the current point to:
 - *Everywhere*: There is no filtering on location.
 - *Current location*: Only waypoints within a certain distance of the current location are shown.
 - *Visible part of map*: Only waypoints that are within the bounds of the currently visible part of the main map are shown in the waypoints screen.
-- *Custom location*: If you enter a custom location or coordinate only waypoint within a certain distance of the entered location are shown.
+- *Custom location*: If you enter a custom location or coordinates only waypoints within a certain distance of the entered location are shown.
 
 
 .. _ss-waypoint-filter-icon:
