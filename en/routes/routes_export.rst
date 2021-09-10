@@ -39,9 +39,9 @@ In the export pop-up you can also change the export settings by pressing the 'Se
    
    *The route export settings screen.*
 
-The first section in the export settings screen is about geodata. Here you can set the data format of the to be exported waypoint(s). By tapping 'Route data format' you can choose between gpx, kml, and geojson. You can decide whether you want to compress the data. If you enable compression the exported geodata file will be zip compressed. The file size will be much smaller than without compression, therefore we recommend you to enable compression.
+The first section in the export settings screen is about geodata. Here you can set the data format of the to be exported route(s). By tapping 'Route data format' you can choose between gpx, kml, and geojson. You can decide whether you want to compress the data. If you enable compression the exported geodata file will be zip compressed. The file size will be much smaller than without compression, therefore we recommend you to enable compression.
 
-The remaining sections deal with the map (image) that can be exported. You can set the desired pixel width and height with the sliders. Also to generate a map sometimes map tiles need to be downloaded. You can determine if you want to allow cellular downloads of map tiles.
+The remaining sections deal with the map (image) that can be exported. You can decide the file format of the map image (png, jpg, or pdf). You can set the desired pixel width and height with the sliders. Also to generate a map sometimes map tiles need to be downloaded. You can determine if you want to allow cellular downloads of map tiles.
  
 
 Exporting all routes
