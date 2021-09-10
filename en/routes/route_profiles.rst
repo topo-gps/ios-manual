@@ -32,7 +32,7 @@ An example of the altitude profile screen is shown in the figure below:
    
 The altitude profile screen contains a graph and information. The graph contains a pointer which you can drag around to read off a value from the profile.
 
-In the bottom you can select between the tabs 'Details' and 'Map'.In the example above the 'Details' tab is opened. This gives detailed information about the altitude profile, such as 'Total ascent', 'Average ascent grade' and 'Total descent'. 
+In the bottom you can select between the tabs 'Details' and 'Map'. In the example above the 'Details' tab is opened. This gives detailed information about the altitude profile, such as 'Total ascent', 'Average ascent grade' and 'Total descent'. 
 
 If you select the tab 'Map' a map of the route will be shown in combination with the altitude profile, as you can see in the example below:
 
