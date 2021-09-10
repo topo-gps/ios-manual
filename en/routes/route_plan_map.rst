@@ -25,7 +25,7 @@ You can add a second route point by pressing long on the map. This one will be c
    :width: 320px
    :alt: Route planner Topo GPS add route point.
 
-   *A route is planned between two manually route points.*
+   *A route is planned between two manually added route points.*
 
 By planning a route the route points will be moved automatically to the closest road.
 
