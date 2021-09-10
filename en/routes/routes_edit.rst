@@ -60,7 +60,7 @@ As long as you hold your finger on the map, you can drag the blue
 route point to the desired location. If you release your finger a route
 will be drawn from the green route point to the added route point. The added
 route point will be selected and colored green. An example of extending the route in the figure above
-is shown below
+is shown below.
 
 .. figure:: ../_static/route-edit3.png
    :height: 568px
@@ -122,7 +122,7 @@ As an example we will now change the ‘Gower Hike’ so that the middle part of
 
    *The northern part of the route is to be replaced.*
 
-If you want to replace part of a route you have insert two route points, one at the point the point the route needs to deviate, and one at the point the deviation will return to the original route. You can insert a route point by pressing long on the route. A blue route point will appear which you can move along the route to the desired location.
+If you want to replace part of a route you have to insert two route points, one at the point the point the route needs to deviate, and one at the point the deviation will return to the original route. You can insert a route point by pressing long on the route. A blue route point will appear which you can move along the route to the desired location.
 
 Since we want to change the route, so that the middle part runs over the 'Gower way' we have inserted two route points at the Gower way, as you can see below:
 
@@ -142,7 +142,7 @@ The route between the orange and the green route point needs to be modified. We 
 
    *The green route point is inserted in the route.*
 
-By pressing long on the green route point you can drag to the bottom or the top of the screen to remove it. The route between the previous and next point will be recomputed so that is runs over the 'Gower way' as is shown below:
+By pressing long on the green route point you can drag it to the bottom or the top of the screen to remove it. The route between the previous and next point will be recomputed so that is runs over the 'Gower way' as is shown below:
 
 .. figure:: ../_static/route-track-replace4.png
    :height: 568px
