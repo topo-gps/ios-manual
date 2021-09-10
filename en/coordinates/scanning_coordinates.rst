@@ -50,7 +50,7 @@ After the coordinates are recognized, again a map with the coordinates will be s
    
    *MGRS coordinates have been scanned and shown on the map.*
 
-Again you can tap 'Save' to save coordinates and return to the coordinates scanner screen. 
+Again you can tap 'Save' to save the coordinates and return to the coordinates scanner screen. 
 As a last example we now will scan Ordnance Survey National Grid coordinates:
 
 .. figure:: ../_static/scanning-coordinates5.jpg
