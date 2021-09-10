@@ -15,7 +15,7 @@ The percentage offline accessible map tiles indicates the percentage of map tile
 
 Tap the ‘Download’ button to start downloading the map tiles. It is recommended to download all map tiles on a WiFi connection before you go outdoors to follow the route. In that case you can be certain that the part of the map relevant to the route is accessible on all zoom levels, even if you are not connected to the internet.
 
-On the download button it is estimated how many megabyte (MB) the downloading of map tiles will be, and how much storage space the download would require. 
+On the download button an estimate of the size of the download and the required amount of storage space is shown.
 
 If you have tapped the download button, the button will indicate how much tiles remain to be downloaded. You can abort downloading by tapping ‘Stop download’. If all map tiles relevant to the route have been downloaded, the button will read ‘Downloaded completely’ as you can see below: 
 
