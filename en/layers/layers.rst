@@ -2,7 +2,8 @@
 
 Layers
 ======
-Layers are overlays that can be added to the map. Layers can be controlled via the layers screen (:ref:`Menu <sec-menu>` > Layers).
+A layer is a collection of geographical information that can be added to the map. 
+Layers can be added to the map via the layers screen (:ref:`Menu <sec-menu>` > Layers).
 
 The layers screen shows a list of available layers, an example is shown below:
 
