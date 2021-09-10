@@ -169,7 +169,7 @@ as is illustrated below:
 
    *The map with the coordinate panel.*
 
-The coordinates that are displayed on the coordinate panel are the coordinates of the point in the middle of the cross.
+The coordinates that are displayed on the coordinates panel are the coordinates of the point in the middle of the cross.
 
 By :ref:`moving the map <ss-modifying-map-screen>` you can position the middle of the cross to the point of which
 you want to determine the coordinates. To quickly determine the coordinates of your current position,
@@ -178,3 +178,5 @@ you can center the map by pressing the :ref:`position button <ss-position-button
 If you tap the coordinates on the coordinates panel, the coordinates will be shown in a different format.
 
 The possible coordinate formats can be set via :ref:`Menu <sec-menu>` > More > :ref:`Settings <ss-settings>` > Coordinates > :ref:`Displayed coordinate types <sec-settings-coordinates>`.
+
+If you press long on the coordinates in the coordinates panel a pop-up will appear in which you can choose to copy the coordinates to the pasteboard or to share the coordinates.
