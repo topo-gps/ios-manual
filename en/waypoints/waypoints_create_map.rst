@@ -2,12 +2,12 @@
 
 Creating waypoints
 ==================
-There are several ways of creating waypoints in Topo GPS.
+There are several ways to create waypoints in Topo GPS.
 
 - Pressing long on the map and dragging the icon to the desired location.
-- Entering an address in the address search tab via Menu > Search.
-- Entering a coordinate in the coordinate tab via Menu > Search.
-- Scanning a coordinate with the coordinate scanner via Menu > Search.
+- Entering an address in the address tab via Menu > Search.
+- Entering coordinates in the coordinates tab via Menu > Search.
+- Scanning coordinates with the coordinates scanner via Menu > Search.
 - Importing a geodata file which contains waypoints via Menu > Waypoints > More > Import file.
 - Saving the current location as a waypoint by pressing the position marker and then 'Save' or 'Create waypoint'. 
 - Taking a photo via Menu > Camera.
