@@ -51,7 +51,7 @@ Optionally you can enter a title. As long as we do not enter a title, the sugges
 
 If you tap ‘Save’ the coordinates will be saved as a :ref:`waypoint <sec-wp>`. The coordinates screen will be cleared, so that you can enter the next coordinates. The first digits will now be based on the previous input. On the top left of the screen a Map button will appear, with with you can return to the map. The number behind map tells you how many coordinates have been entered.
 
-As an example we will now enter the coordinates: N 51°34’01.9” W 4°16’41.9”. To enter these coordinates we had to change the type to WGS degree, minutes second. An example is shown below:
+As an example we will now enter the coordinates: N 51°34’01.9” W 4°16’41.9”. To enter these coordinates we had to change the type to WGS degree, minutes, seconds. An example is shown below:
 
 .. figure:: ../_static/enter-coordinates4.png
    :height: 568px
