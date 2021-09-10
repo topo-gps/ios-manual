@@ -24,9 +24,9 @@ A description and photos will be shown if they are present. If you tap a photo, 
 
 Next, if present an altitude/elevation profile, a speed and a distance profile are shown. You can tap these profiles to view the :ref:`profile in more detail <sec-route-profiles>` and see additional height and speed information.
 
-If you scroll further down to the section 'Tiles on current map', you :ref:`download the map tiles of a route <sec-route-map-tiles>`.
+If you scroll further down to the section 'Tiles on current map', you can :ref:`download the map tiles of a route <sec-route-map-tiles>`.
 
-In the bottom of the routes screen you can find a toolbar with the following buttons:
+In the bottom of the routes details screen you can find a toolbar with the following buttons:
 
 - *‘<‘ and ‘>’ buttons*: With these buttons you can browse backward and forward through the route details of a collection of routes.
 - *Trash button*: If you tap this button you can remove the currently shown route from your device.
