@@ -23,7 +23,7 @@ An example is shown below:
    
    *Scanning coordinates with the coordinates scanner.*
    
-If you have placed the coordinates in the rectangle and focussed the camera the coordinate will be recognized automatically and shown on the map, as in the example below:
+If you have placed the coordinates in the rectangle and focussed the camera the coordinates will be recognized automatically and shown on the map, as in the example below:
 
 .. figure:: ../_static/scanning-coordinates2.jpg
    :height: 760px
@@ -32,7 +32,7 @@ If you have placed the coordinates in the rectangle and focussed the camera the 
    
    *Coordinates have been scanned and are shown on the map.*
    
-In the top of the screen you see the position of the coordinate on the map. In the bottom you see the scanned image. You can use it to verify that the coordinate was scanned correctly. If you tap 'Save' the coordinate is saved as a :ref:`waypoint <sec-wp>` and the coordinates scanner screen is opened again. As a second example we will scan MGRS coordinates:
+In the top of the screen you see the position of the coordinates on the map. In the bottom you see the scanned image. You can use it to verify that the coordinates were scanned correctly. If you tap 'Save' the coordinates are saved as a :ref:`waypoint <sec-wp>` and the coordinates scanner screen is opened again. As a second example we will scan MGRS coordinates:
 
 .. figure:: ../_static/scanning-coordinates3.jpg
    :height: 760px
@@ -50,7 +50,7 @@ After the coordinates are recognized, again a map with the coordinates will be s
    
    *MGRS coordinates have been scanned and shown on the map.*
 
-Again you can tap 'Save' to save coordinates and return to the coordinate scanner screen. 
+Again you can tap 'Save' to save coordinates and return to the coordinates scanner screen. 
 As a last example we now will scan Ordnance Survey National Grid coordinates:
 
 .. figure:: ../_static/scanning-coordinates5.jpg
