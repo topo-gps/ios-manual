@@ -104,7 +104,7 @@ The :ref:`record timer <ss-rec-timer>` on the dashboard will be set to '--:--' d
    :width: 320px
    :alt: Pausing route recording Topo GPS
 
-   *The recording of a route is paused, which can be seen from the record timer and record distance meter.*
+   *The recording of a route has been paused, which can be seen from the record timer and record distance meter.*
    
 .. _ss-record-restart:
 
