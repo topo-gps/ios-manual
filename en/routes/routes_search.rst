@@ -9,8 +9,8 @@ In the 'Routes' and 'Shared' tab of the :ref:`routes screen <sec-routes-screen>`
 
 Searching routes with keywords
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-If you enter a keyword in the search bar on the top of the list of routes only routes will be shown which have the keyword in its title, description or author. Search is case insensitive.  If you search in a folder, also all search results in descendant folders will be displayed.
-If a :ref:`filter <ss-route-filter>` is applied, the search will restrict itself to the filtered route.
+If you enter a keyword in the search bar on the top of the list of routes only routes will be shown which have the keyword in its title, description or author. Search is case insensitive.  If you search in a folder, also all search results in the descendant folders will be displayed.
+If a :ref:`filter <ss-route-filter>` is applied, the search will restrict itself to the filtered routes.
 
 .. figure:: ../_static/route-search1.png
    :height: 568px
@@ -93,8 +93,8 @@ If you tap it, you could change the current point to:
 
 - *Everywhere*: There is no filtering on location.
 - *Current location*: Only routes within a certain distance of the current location are shown.
-- *Visible part of map*: Only routes that are within the bounds of the currently visible part of the main map are shown in the routes srceen.
-- *Custom location*: If you enter a custom location or coordinate only routes within a certain distance of the entered location are shown.
+- *Visible part of map*: Only routes that are within the bounds of the currently visible part of the main map are shown in the routes screen.
+- *Custom location*: If you enter a custom location or coordinates only routes within a certain distance of the entered location are shown.
 
 
 .. _ss-route-filter-length:
