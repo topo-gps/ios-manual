@@ -6,7 +6,7 @@ Synchronizing routes and waypoints with iCloud
 Routes and waypoints can be synchronized automatically with iCloud in Topo GPS. This makes all your routes and waypoints accessible on all your devices.
 This has two advantages:
 
-- *Convenience*: For example, you plan a hike on your iPad. If you save that route, it will be available on your iPhone within a few seconds. You can go outdoors with your iPhone to walk the planned route. Then if you record your route on your iPhone and save it when finished, the recorded route will be accessible on your iPad as well. Hence you can view your recorded route on your iPad.
+- *Convenience*: For example, you plan a hike on your iPad. If you save that route, it will be available on your iPhone within a few seconds. You can go outdoors with your iPhone to walk the planned route. Then if you record your route on your iPhone and save it when finished, the recorded route will be accessible on your iPad as well. Then you can view your recorded route on your iPad.
 
 - *Backup*: With synchronization a copy of all your routes and waypoints will be made on iCloud. If your remove Topo GPS or if your loose your device, your routes and waypoints will not be lost.
 
@@ -37,16 +37,16 @@ Finally you have to enable the Topo GPS :ref:`setting <ss-settings>` (Menu > Mor
 
 Automatic synchronization
 ~~~~~~~~~~~~~~~~~~~~~~~~~
-If the settings are correct, no more action is required, synchronization will occur completely automatically. All modifications to routes and waypoints will be sent to iCloud when possible. If a device detects changes on iCloud, they will immediately be carried out.
+If the settings are correct, no more action is required, synchronization will occur completely automatically. All modifications to routes and waypoints will be sent to iCloud when possible. If routes or waypoints are changed on iCloud, they will be changed on your devices as well.
 
-Below you see an example of iCloud synchronization with an iPhone and iPad. First 'Saved routes' screen on the iPhone:
+Below you see an example of iCloud synchronization with an iPhone and iPad. First the routes screen on the iPhone:
 
 .. figure:: ../_static/icloudsync3.png
    :height: 568px
    :width: 320px
    :alt: Routes and waypoints synchronize iCloud
 
-   *The 'Saved routes' on an iPhone.*
+   *The routes on an iPhone.*
 
 Due to iCloud synchronization, the saved routes screen of the iPad contains exactly the same routes in the same order as the iPhone, as you can see below:
 
@@ -55,7 +55,7 @@ Due to iCloud synchronization, the saved routes screen of the iPad contains exac
    :width: 768px
    :alt: Routes and waypoints synchronize iCloud
 
-   *The saved routes screen on the iPad contains exactly the same routes as the iPhone due to iCloud synchronization.*
+   *The routes screen on the iPad contains exactly the same routes as the iPhone due to iCloud synchronization.*
 
 
 Percentage synchronized with iCloud
