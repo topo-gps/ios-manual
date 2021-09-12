@@ -4,7 +4,7 @@ Removing routes
 ===============
 To remove a route from your device you first have to open the :ref:`route details screen <sec-route-details>`.
 
-You can do this by pressing the info button on the right hand side of a route in the :ref:`save routes tab of the routes screen <sec-routes-load>` or by
+You can do this by pressing the info button on the right hand side of a route in the :ref:`routes tab of the routes screen <sec-routes-load>` or by
 tapping a route that is loaded on the map.
 
 An example of the route details screen is displayed below:
