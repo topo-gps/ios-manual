@@ -36,7 +36,7 @@ Press ‘Select’ in the menu to open the selection screen. It is also possible
 
 Selecting route
 ~~~~~~~~~~~~~~~
-To select a route, tap a route item in the selection screen. A checkmark will show up and the background of the route row will become grey to indicate that it is selected. An example in which two routes are selected is displayed below:
+To select a route, tap a route item in the selection screen. A checkmark will show up and the background of the item will become grey to indicate that it is selected. An example in which two routes are selected is displayed below:
 
 .. figure:: ../_static/routes-select3.png
    :height: 568px
@@ -54,7 +54,7 @@ in the toolbar on the bottom of the screen. The toolbar buttons are from left to
 
 - *Trash button*: If you press this button a pop-up will ask to to whether you would like to remove the selected routes from your device (and iCloud if enabled). If you press 'Remove' the selected routes will be removed.
 
-- *Folder button*: If you press this button a screen with the folder tree will be opened. You can select a folder and the selected routes will be moved to a new folder.
+- *Folder button*: If you press this button a screen with the folder tree will be opened. You can select a folder and the selected routes will be moved to this folder.
 
 - *Export button*: If you press this button the export pop-up will be shown. In this pop-up you can select the kind of data to be exported and change the export settings. If you press 'Export' in the export pop-up the selected routes will be exported. Another pop-up with apps and actions will be shown. If you tap an app or action, the result of the export will be handled by the app or action.
 
