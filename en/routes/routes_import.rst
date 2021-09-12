@@ -13,7 +13,7 @@ Importing routes from geodata files
 It is possible to import routes in Topo GPS in the following file formats: gpx, kml/kmz, geojson and ozi explorer track files (plt).
 Files of these types can also be imported if they are compressed in a zip file.
 
-To import route you could try to tap on a file icon. Most often an app picker will show up. Sometimes you need to scroll through the list of apps or tap More to find 'Topo GPS'. You then  have to select 'Open with Topo GPS' or 'Copy to Topo GPS' and the file will be imported in Topo GPS. 
+To import a route you could try to tap on a file icon. Most often an app picker will show up. Sometimes you need to scroll through the list of apps or tap More to find 'Topo GPS'. You then have to tap 'Open with Topo GPS' or 'Copy to Topo GPS' and the file will be imported in Topo GPS. 
 
 Alternatively you could open the 'Routes tab' of the :ref:`routes screen <sec-routes-screen>`. Then tap More > Import file. Then the files app will be opened. Here you can select a cloud storage, like iCloud, Dropbox, OneDrive or Google Drive. Then you can browse through your files and select the files you want to import.
 
@@ -33,7 +33,7 @@ If the routes were imported successfully, you will return to the main screen, an
 
 Importing routes shared by Topo GPS users
 -----------------------------------------
-To import a route :ref:`shared by other Topo GPS users <sec-routes-share-topo-gps>`, first open the :ref:`routes screen <sec-routes-screen>` and select the tab 'Shared'. The shared routes screen will be shown as in the example below:
+To import routes :ref:`shared by other Topo GPS users <sec-routes-share-topo-gps>`, first open the :ref:`routes screen <sec-routes-screen>` and select the tab 'Shared'. The shared routes screen will be shown as in the example below:
 
 .. figure:: ../_static/route-import-shared1.png
    :height: 568px
