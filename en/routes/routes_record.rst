@@ -43,7 +43,7 @@ if you are moving. This red line indicates your movement. An example is displaye
 
    *Recording a route. The red line indicates your movement.*
 
-The :ref:`record timer <ss-rec-timer>` on the dashboard indicates the time you are recording.
+The :ref:`record timer <ss-rec-timer>` on the dashboard indicates the duration of the current recording.
 In the figure above this is 0h17m. If you tap the timer you can :ref:`end the recording <ss-route-record-end>`.
 
 The :ref:`record distance meter <ss-rec-distance>` on the dashboard indicates
@@ -70,7 +70,7 @@ If you have :ref:`loaded <sec-routes-load>` one or more routes on the map, you c
 The blue line indicates the loaded route with a length of 1.9 km, the red line the recorded route
 with a length of 778 m.
 
-Recording a route will cost a considerable amount of energy, therefore regularly check your battery level when recording a route to make sure you are not running out of power. Also pause or finish a recording if your are not longer moving.
+Recording a route will cost a considerable amount of energy. Therefore regularly check your battery level while recording to make sure your device is not running out of power. Pause or finish a recording when your are no longer moving.
 
 .. _ss-route-record-end:
 
@@ -97,14 +97,14 @@ Pause recording
 ~~~~~~~~~~~~~~~
 If you press 'Pause' in the pop-up which appears when :ref:`ending a route recording <ss-route-record-end>`, the recording will be paused. 
 
-The :ref:`record timer <ss-rec-timer>` on the dashboard will be set to '--:--' during a pause. The :ref:`record distance meter will show the recorded distance as you can see below:
+The :ref:`record timer <ss-rec-timer>` on the dashboard will be set to '--:--' during a pause. The :ref:`record distance meter <ss-rec-distance>` will show the recorded distance as you can see below:
 
 .. figure:: ../_static/route-record5.png
    :height: 568px
    :width: 320px
    :alt: Pausing route recording Topo GPS
 
-   *The recording of a route is paused, which can be seen from the record clock and record distance meter.*
+   *The recording of a route is paused, which can be seen from the record timer and record distance meter.*
    
 .. _ss-record-restart:
 
@@ -153,9 +153,9 @@ If you press the '>' on the right hand side of the author you can add contact in
 
 You can alter the route type by pressing the route type field. If you save the route, the current route type will be used as a suggestion for the next saved route. If you for example only record bicycles routes you therefore only have to set the route type once.
 
-Waypoints that are currently shown on the map can be included with the route by the setting 'Include waypoints'. If you tap this setting you can change it. You can choose between including all waypoints that are on the map, waypoints near the route, and no waypoints. If you choose for waypoints near route, you can determine the maximal distance of the waypoints to the route. Be careful with setting this setting to all waypoints, since it might cause adding waypoints which are far a ways and hence irrelevant to a route.
+Waypoints that are currently shown on the map can be included with the route by the setting 'Include waypoints'. If you tap this setting you can change it. You can choose between including all waypoints that are on the map, waypoints near the route, and no waypoints. If you choose for waypoints near route, you can determine the maximal distance of the waypoints to the route. Be careful with setting this setting to all waypoints. This might cause adding waypoints which are far a way and hence irrelevant to a route.
 
-If you are ready entering the fields, you can press 'Save' on the top right to save the recorded route.
+If you are done, you can press 'Save' on the top right to save the recorded route.
 If you do not want to save the route you can press 'Cancel' on the top left.
 
 The route will be saved into the folder that is currently opened in the :ref:`routes tab of the routes screen <sec-routes-load>`.
