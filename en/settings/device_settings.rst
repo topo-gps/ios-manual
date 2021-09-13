@@ -18,7 +18,7 @@ In the device settings screen you can subsquently set the following options:
 
 - *Location*. If you set this to 'While using', Topo GPS can show your position on the map, record your route and find waypoints and routes near your location.
 
-- *Photos*. If you set this to 'Selected photos', you can decide which photos Topo GPS can import. Also if you set this to 'Selected photos', Topo GPS can save the photos made with the :ref:`camera <sec-camera>` in your photo library.
+- *Photos*. If you set this to 'Selected photos', you can decide which photos Topo GPS can import. If you set this to 'Selected photos', Topo GPS can also save the photos made with the :ref:`camera <sec-camera>` in your photo library.
 
 - *Camera*. If you enable the camera, you can make :ref:`photos <sec-camera>` and :ref:`scan coordinates <sec-scanning-coordinates>`.
 
