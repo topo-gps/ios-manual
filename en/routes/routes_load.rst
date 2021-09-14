@@ -44,9 +44,9 @@ If you open the :ref:`routes screen <sec-routes-screen>` again, you can see that
    :width: 320px
    :alt: Route load Topo GPS
 
-   *In the route screen it can be seen that the route ‘Gower Hike' is loaded on the map.*
+   *In the route screen it can be seen that the route ‘Gower Hike' has been loaded on the map.*
 
-A gray background color in the routes screen indicate that the route is currently loaded on the map.
+A gray background color in the routes screen indicates that the route is currently loaded on the map.
 
 It is also possible to load multiple routes on the map. This can be useful if you want to combine or compare different routes. If you tap another route in the routes screen it will be added to the map, just as the first loaded route. The route line color will be different from the first route. 
 
