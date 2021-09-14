@@ -47,7 +47,7 @@ As an example we now change the desired length to 50 km. A new longer route is g
    :width: 320px
    :alt: Route generation Topo GPS
 
-   *A route with a desired length of 50 km is generated.*
+   *A route with a desired length of 50 km has been generated.*
    
 If you tap 'Save' on the top right of the route generation screen, the generated route will be saved on your device, loaded on the map and you will return to the main screen. Below you see the result of saving the first generated route of the examples above:
 
