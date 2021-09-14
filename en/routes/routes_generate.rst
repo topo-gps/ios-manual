@@ -36,7 +36,7 @@ In the example below, we have tapped on the 'Generate button' to generate a new 
    :width: 320px
    :alt: Route generation Topo GPS
 
-   *Another route is generated.*
+   *Another route has been generated.*
    
 Clearly the newly generated route is different from the first route. By pressing multiple times the generate button, you can generate routes until you find a route you like.
 
