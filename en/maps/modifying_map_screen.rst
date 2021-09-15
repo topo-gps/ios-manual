@@ -32,7 +32,9 @@ Center
 By tapping the position marker icon on the bottom left of the main screen, the map will be centered on your current location. An example
 is shown in the figure below.
  
-.. figure:: ../_static/map2.png  
+.. figure:: ../_static/map2.png
+   :height: 568px
+   :width: 320px
    :alt: Centrered map Topo GPS
 
    *A centered map.*
@@ -62,6 +64,8 @@ By tapping once on the position marker icon on the bottom left of the screen, th
 The map is rotated such that the top of the map indicates the direction in which you point your device if your are standing still. If you are moving the top of the map will indicate the direction in which you move. An example is shown in the figure below:
 
 .. figure:: ../_static/map3.png  
+   :height: 568px
+   :width: 320px
    :alt: Rotated map Topo GPS
 
    *A rotated map.*
