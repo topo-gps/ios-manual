@@ -5,6 +5,8 @@ Main screen
 If you open the Topo GPS app a screen with a map will be displayed. This is the main screen. An example is shown below: 
 
 .. figure:: ../_static/map1.png  
+   :height: 568px
+   :width: 320px
    :alt: Topo GPS main screen
 
    *The main screen of Topo GPS. The red marker indicates your current location.*
