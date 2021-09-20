@@ -48,7 +48,7 @@ Below the map, you find information about the purchase. If you tap the purchase 
    :width: 320px
    :alt: Purchase Swiss map Topo GPS
    
-   *The map of Swizterland has just been purchased.*
+   *The map of Switzerland has just been purchased.*
 
 You can zoom in on the purchased map to see it in more detail as in the figure below:
 
