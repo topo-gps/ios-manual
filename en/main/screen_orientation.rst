@@ -11,9 +11,10 @@ By rotating your device you can change the screen orientation from portrait to l
    :alt: Screen orientation landscape Topo GPS
 
    *Main screen in landscape mode.*
+   
+If the screen does not rotate if you rotate your device, you should check the 'Control Center'. Swipe down from the top-right corner of your screen to open Control Center. Tap the Orientation Lock button if it is enabled. Next to that you should disable the Topo GPS setting :ref:`Display Orientation > Lock <sec-settings-display-orientation>`.
 
-If you do not want the screen to rotate if you rotate your device, you can lock the
-screen orientation in the :ref:`settings <ss-settings>` (Menu > More > Settings > Display orientation > Lock).
+If you do not want the screen to rotate if you rotate your device, you should enable the Topo GPS :ref:`Display Orientation > Lock <sec-settings-display-orientation>`.
 
 
 
