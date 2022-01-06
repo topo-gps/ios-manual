@@ -21,7 +21,7 @@ It is also possible to remove all loaded routes from the map at once by tapping:
 
 Map
 ~~~
-If you tap a route line of a route that is loaded on the map, the :ref:`route details screen <sec-route-details>` will be opened. You can tap 'Remove from map' in the top right of the route details screen. The route will be immediately removed from the map and you will return to the main screen.
+If you tap a route line of a route that is loaded on the map, the :ref:`route details screen <sec-route-details>` will be opened. You can tap the remove from map icon in the top right of the route details screen. The route will be immediately removed from the map and you will return to the main screen.
 
 
 
