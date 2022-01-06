@@ -153,7 +153,8 @@ If you press the '>' on the right hand side of the author you can add contact in
 
 You can alter the route type by pressing the route type field. If you save the route, the current route type will be used as a suggestion for the next saved route. If you for example only record bicycles routes you therefore only have to set the route type once.
 
-Waypoints that are currently shown on the map can be included with the route by the setting 'Include waypoints'. If you tap this setting you can change it. You can choose between including all waypoints that are on the map, waypoints near the route, and no waypoints. If you choose for waypoints near route, you can determine the maximal distance of the waypoints to the route. Be careful with setting this setting to all waypoints. This might cause adding waypoints which are far a way and hence irrelevant to a route.
+Waypoints that are currently shown on the map can be included with the route by the setting 'Include waypoints'. If you tap this setting you can change it. You can choose between including all waypoints that are on the map, waypoints near the route, waypoints created during recording, and no waypoints. 
+The recommended settings is: 'waypoints created during recording'. Then only waypoints that are loaded on the map and created during the recording will be added to the route. If you choose for waypoints near route, you can determine the maximal distance of the waypoints to the route. Be careful with setting this setting to all waypoints. This might cause adding waypoints which are far a way and hence irrelevant to a route.
 
 If you are done, you can press 'Save' on the top right to save the recorded route.
 If you do not want to save the route you can press 'Cancel' on the top left.
