@@ -4,8 +4,14 @@ Compass direction
 =================
 A compass direction is a line of a certain length from a certain point in a certain direction.
 
-Creating a compass direction
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+You can manually create or read of a compass direction using the :ref:`map ruler <ss-map-ruler>`. This is most often the quickest way.
+
+Alternatively you can :ref:`enter a compass direction manually <ss-compass-direction-enter>`, or read of the :ref:`compass direction on a route <ss-compass-direction-route>` as explained below.
+
+.. _ss-compass-direction-enter:
+
+Manually entering a compass direction
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 To add a compass direction to the map, tap :ref:`Menu <sec-menu>` > Search and select the tab 'Compass direction' above the keyboard.
 
 The compass direction screen will appear like in the figure below:
@@ -40,8 +46,11 @@ If you are using compass directions it might also be useful to :ref:`enable the 
 
 The :ref:`direction you are travelling in <ss-speed>` can also be displayed on the dashboard.
 
-Finding a compass direction
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. _ss-compass-direction-route:
+
+Finding a compass direction on a route
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 To find a compass direction, you first have to :ref:`enable the route course markers <ss-settings-route-course-markers>` in the settings. 
 
 Then you can :ref:`plan a route to a point <sec-route-plan>`, for example with the transportation means 'Crow fly'.
