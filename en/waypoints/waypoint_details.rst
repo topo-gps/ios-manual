@@ -14,6 +14,9 @@ The waypoint details screen of the waypoint ‘Stonehenge’ is displayed below:
 
    *The waypoint details screen of the waypoint ‘Stonehenge’.*
 
+On the top right of the waypoint details screen you find a map icon with a slash. If you tap this button, the waypoint will be removed from
+the main map. If the waypoint is not loaded on the map, a map icon withouth a slash is shown. If you tap that icon, the waypoint will be loaded on the map and you will return to the main map.
+
 The waypoint details screen contains information about the waypoint, such
 as the title and the coordinates. If available you can also find here a description, photos, a phone number and/or an URL.
 
