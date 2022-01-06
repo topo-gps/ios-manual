@@ -16,9 +16,11 @@ The route details screen of the route ‘Carnedd Llewelyn’ is shown below:
 
    *The route details screen of the route ‘Carnedd Llewelyn’.*
 
+If you tap the map icon with the slash on the top right, the route will be removed from the map. If the route is not loaded on the map, a map icon will be shown instead. If you tap the map icon, the route will be loaded on the map and you will return to the map.
+
 In the top of the route details screen a map with the route is displayed.
 
-Next you can see the title, the route type, distance, time (if the route is recorded) and author. If you tap this item, you can view additional details of a route.
+Next you can see the title, the route type, distance, time (if the route is recorded), total ascent (if available) and author. If you tap this item, you can view additional details of a route.
 
 A description and photos will be shown if they are present. If you tap a photo, it will be shown full screen and you can browse through the photos as in a slideshow.
 
