@@ -1,0 +1,41 @@
+.. _sec-measure:
+
+Measuring distances and angles
+==============================
+
+.. _ss-map-ruler:
+
+Map ruler
+~~~~~~~~~
+To measure distances and angles between two points in the main map screen you can use the map ruler. 
+To show the map ruler, first press long on the map until the icon for waypoint creation appears. Then add a second finger (possibly with your other hand). Immediately a ruler will be shown between the two fingers. If you move your fingers around you can change the start and endpoint of the ruler. 
+If you put the start or end point near a waypoint or your current location, it will snap to it automatically. If you release your fingers, the ruler will remain at its location. An example of the ruler is shown in the figure below:
+
+
+
+In the middle of the ruler the distance between the two points is shown. If there is space, also the compas direction (with respect to the true north) from the start to the end point is displayed. The endpoint has a arrow head so that you can infer the direction of the ruler.
+
+
+Modifying map ruler
+-------------------
+You can modify the position, length and direction of the map ruler in several ways.
+
+- Change start point: Put your finger on the ruler (light grey) near the starting point and move it around. 
+- Change end point: Put your finger on the ruler near the end point and move it around. 
+- Move the ruler withouth changing length: Put your finger on the ruler in the center, and move it around.
+- Change length: Put two fingers on the ruler and move them apart to increase the length of the ruler. Move the two fingers towards each other to decrease the length. Only the end point will change, the starting point will remain at the same position.
+- Rotate: Put two fingers on the ruler, keep the finger nearest to the starting point fixed. Move only the second finger to rotate the ruler. The length of the ruler stays the same, only the direction will change. While the length of the ruler stays the same, the measured distance can vary by rotating. This is due to the used map projection, especially when using the mercator projection (as is the case for OpenStreetMap), you might see clear differences.
+
+Removing map ruler
+------------------
+To remove the map ruler, tap the close button with the cross on the ruler. 
+
+
+.. _ss-map-ruler-navigate:
+
+Navigating to a point
+---------------------
+
+
+
+
