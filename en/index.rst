@@ -23,5 +23,6 @@ Contents:
    coordinates/coordinates
    camera
    compass_direction
+   measure/measure
    settings/settings
    miscellaneous/miscellaneous
