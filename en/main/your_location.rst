@@ -32,7 +32,7 @@ enable the settings 'Compass calibration' and 'Movement and distance calibration
 
 Current location screen
 -----------------------
-If you tap your position marker on the map, the current location screen will appear. 
+If you tap the position marker on the map, the current location screen will appear. 
 You can also open this screen by pressing long on the :ref:`position button <ss-position-button>` on the :ref:`dashboard <sec-dashboard>`.
 
 The current location screen shows details of your current location. In the current location screen you can also save your current location
@@ -101,3 +101,19 @@ By tapping 'Create waypoint' in the bottom toolbar of the current location scree
 Sharing current location
 ~~~~~~~~~~~~~~~~~~~~~~~~
 By pressing 'Share' on the bottom left of the current location screen you can share your location. An export pop-up will appear exactly as what happens when :ref:`exporting waypoints <ss-waypoints-exporting>`.
+
+
+
+Current location quick actions
+------------------------------
+If you press long on the position marker icon, a quick actions screen will appear.
+
+.. figure:: ../_static/current-location-quick-actions.jpg
+   :height: 568px
+   :width: 320px
+   :alt: Current location quick actions Topo GPS
+
+   *The quick actions for your current location.* 
+
+In the quick actions screen for the current location you can choose to view the details, to share your current location, to create a waypoint at your current location, or to save the current location as a waypoint.   
+
