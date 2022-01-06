@@ -30,7 +30,7 @@ An example of the altitude profile screen is shown in the figure below:
    
    *Altitude profile of a route in more detail*
    
-The altitude profile screen contains a graph and information. The graph contains a pointer which you can drag around to read off a value from the profile.
+The altitude profile screen contains a graph and information. The graph contains a pointer which you can drag around to read off a value from the profile. By putting two fingers on the profile and moving them away from each other you can zoom in to the profile to see more details. If you are zoomed in you can also move the profile with one finger. To zoom out, put two fingers on the profile and move them towards each other.
 
 In the bottom you can select between the tabs 'Details' and 'Map'. In the example above the 'Details' tab is opened. This gives detailed information about the altitude profile, such as 'Total ascent', 'Average ascent grade' and 'Total descent'. 
 
