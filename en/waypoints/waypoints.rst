@@ -14,6 +14,7 @@ In the waypoints screen (:ref:`Menu <sec-menu>` > Waypoints) you can do all sort
    waypoints_unload
    waypoints_create_map
    waypoint_details
+   waypoint_quick_actions
    waypoint_edit
    waypoint_remove
    waypoints_select
