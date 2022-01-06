@@ -38,8 +38,7 @@ set the properties of the waypoint.
    *Waypoint creation screen in which you can set the properties and save the waypoint.*
 
 In the waypoint creation screen you can optionally give the waypoint a title, set the icon and enter a description.
-
-If you are connected to the internet and you have enabled ‘Addresses - Find automatically’ in the :ref:`settings <sec-settings-addresses>`, an automatic suggestion for the waypoint title will appear. This title has a light grey color and will be used if no title has been entered. In the example above the suggestion is ‘Southwood Farm Lane’. If you wish to have a waypoint without a title please enter a single space in the title field.
+If you do not enter a title, the :ref:`automatically suggested title <ss-waypoint-create-automatic-title>` (which is light grey) is used.
 
 As an example we enter ‘Goal A’ as a title. If you press ‘Save’ the waypoint will be saved on your device and loaded on the map with the title as is illustrated in the figure below.
 
@@ -56,6 +55,14 @@ If you accidentally pressed long on the main map so that an icon appeared, you c
 
 If you have entered a description in the waypoint creation screen, you can view it in the waypoint details screen. The waypoint details screen will be opened by tapping on a waypoint that is loaded on the map.
 
+.. _ss-waypoint-create-automatic-title:
+
+Automatic title suggestions
+---------------------------
+If you are connected to the internet and you have enabled ‘Addresses - Find automatically’ in the :ref:`settings <sec-settings-addresses>`, an automatic suggestion for the waypoint title will appear in the title box. This title has a light grey color and will be used if no title has been entered. In the example above the suggestion is ‘Southwood Farm Lane’. If you wish to have a waypoint without a title please enter a single space in the title field.
+
+If you enter a number in as a title, for example '001', the next time you create a waypoint manually from the map, the suggested title will be '002', etc.
+This also works with characters, if you enter an 'A', the next suggested title will be 'B', etc. Or if you have entered 'Node_001', the next suggested title will be 'Node_002'. If you do not like the suggested title, you can just enter your desired title, and the next suggested title will be derived from the last input.
 
 
 Setting the icon of a created waypoint
