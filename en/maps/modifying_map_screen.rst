@@ -94,3 +94,5 @@ Manual rotation can be cancelled by pressing the north arrow. It is also possibl
 Long press
 ~~~~~~~~~~
 If you press long on the map an icon will appear which you can drag to a certain location. If you release it, you can :ref:`create a waypoint <ss-waypoint-create-map>` on that location. If you accidentally pressed long on the map, drag the icon to the top of or the bottom of the main screen. The icon will disappear and the waypoint creation screen will not be shown.
+
+If you put a second finger on the map after the waypoint creation icon has appeared, the :ref:`map ruler <ss-map-ruler>` will be shown. You can use the map ruler to measure distances and angles.
