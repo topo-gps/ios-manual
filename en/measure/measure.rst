@@ -66,4 +66,6 @@ The shortest path between two points on the earth is called a geodesic. Only sho
 
    *The curve on the map ruler is not a straight line but a geodesic.*
 
+Sometimes the geodesic does not fit on the ruler. If you want to make it visible, it can sometimes help to rotate the map ruler. If it still is not what you want, the use the route planner to plan a route with the transportation mode set to 'Crow fly'.
+
 On a geodesic the compass direction varies. We therefore only display the compass direction if it varies little. If it varies more than one unit of measurement, we show an error margin, that indicates between which values the compass direction varies along the geodesic. If the error is too large, the compass direction is not shown at all.
