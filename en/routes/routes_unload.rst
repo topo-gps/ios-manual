@@ -2,7 +2,7 @@
 
 Removing routes from map
 ------------------------
-A route can be removed from the map in several ways.
+A route can be removed from the map via the routes screen and from the route details screen.
 
 Routes screen
 ~~~~~~~~~~~~~
