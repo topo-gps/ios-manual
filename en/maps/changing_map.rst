@@ -62,3 +62,19 @@ In the example above the user has scrolled to the northern border of the topogra
 Automatic map change
 ~~~~~~~~~~~~~~~~~~~~
 If you load a route or waypoints on the map, or tap the center button on the dashboard, the app will check if the items are located on the current map. If not, the map will change automatically to the best suitable map. If the suitable map is not accessible, a screen will appear in which you are presented the suggested map. In this screen you could also :ref:`buy the suggested map <sec-purchase-maps>`.
+
+
+Dark map style
+~~~~~~~~~~~~~~
+You can set the map style in Topo GPS to 'Normal' or 'Dark' in the :ref:`settings <sec-settings>`. The normal style has light colors. An example of the dark map style is shown below:
+
+.. figure:: ../_static/map_dark.jpg
+   :height: 568px
+   :width: 320px
+   :alt: Dark map Topo GPS
+   
+   *The dark map style.*
+
+If you are using Topo GPS during the night, it might be better to set the map style to 'Dark'. The map is then much darker, making it easier for your eyes to look on the screen. The map legend is also adapted for dark mode. We recommend you to combine the 'Dark' map style setting with the 'Dark' mode display setting of your device. Then also all interface elements will have a dark background.
+
+To set the map style to dark go to Menu > More > :ref:`Settings <sec-settings>` > :ref:`Styles <sec-sec-settings-styles>` > Map.
