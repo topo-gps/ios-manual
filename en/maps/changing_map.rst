@@ -66,7 +66,7 @@ If you load a route or waypoints on the map, or tap the center button on the das
 
 Dark map style
 ~~~~~~~~~~~~~~
-You can set the map style in Topo GPS to 'Normal' or 'Dark' in the :ref:`settings <sec-settings>`. The normal style has light colors. An example of the dark map style is shown below:
+You can set the map style in Topo GPS to 'Normal' or 'Dark' in the :ref:`settings <ss-settings>`. The normal style has light colors. An example of the dark map style is shown below:
 
 .. figure:: ../_static/map_dark.jpg
    :height: 568px
@@ -77,4 +77,4 @@ You can set the map style in Topo GPS to 'Normal' or 'Dark' in the :ref:`setting
 
 If you are using Topo GPS during the night, it might be better to set the map style to 'Dark'. The map is then much darker, making it easier for your eyes to look on the screen. The map legend is also adapted for dark mode. We recommend you to combine the 'Dark' map style setting with the 'Dark' mode display setting of your device. Then also all interface elements will have a dark background.
 
-To set the map style to dark go to Menu > More > :ref:`Settings <sec-settings>` > :ref:`Styles <sec-sec-settings-styles>` > Map.
+To set the map style to dark go to Menu > More > :ref:`Settings <ss-settings>` > :ref:`Styles <sec-settings-styles>` > Map.
