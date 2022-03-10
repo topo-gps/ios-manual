@@ -11,7 +11,7 @@ You can set the map style in Topo GPS to 'Normal' or 'Dark'. The normal style ha
 .. figure:: ../_static/map_dark.jpg
    :height: 568px
    :width: 320px
-   :alt: Position marker Topo GPS
+   :alt: Dark map Topo GPS
    
    *The dark map style.*
 
