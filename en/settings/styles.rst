@@ -2,7 +2,21 @@
 
 Styles
 ======
-In the section 'Styles' of the :ref:`settings <ss-settings>` you can set the appearance of the record, plan and route lines. Moreover you can determine the appearance of the :ref:`position marker <sec-posmarker>`.
+In the section 'Styles' of the :ref:`settings <ss-settings>` you can set the appearance of the map, the record, plan and route lines. Moreover you can determine the appearance of the :ref:`position marker <sec-posmarker>`.
+
+Map
+~~~
+You can set the map style in Topo GPS to 'Normal' or 'Dark'. The normal style has light colors. An example of the dark map style is shown below:
+
+.. figure:: ../_static/map_dark.jpg
+   :height: 568px
+   :width: 320px
+   :alt: Position marker Topo GPS
+   
+   *The dark map style.*
+
+If you are using Topo GPS during the night, it might be better to set the map style to 'Dark'. The map is then much darker, making it easier for your eyes to look on the screen. The map legend is also adapted for dark mode. We recommend you to combine the 'Dark' map style setting with the 'Dark' mode display setting of your device. Then also all interface elements will have a dark background.
+
 
 Record, plan and route lines
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
