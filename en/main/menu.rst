@@ -2,9 +2,9 @@
 
 Menu
 ====
-The menu of Topo GPS can be used to access the most important functions of Topo GPS. It can be shown in the bottom of the main map screen.
+The menu of Topo GPS can be used to access the most important functions of Topo GPS. The menu is located in the bottom of the main map screen.
 
-You can open the menu by swiping the dashboard in the bottom of the screen upwards. Or you can tap the handle bar on the top of the dashboard of the screen.
+To open the menu you have to swipe the dashboard in the bottom of the screen upwards. Or you can tap the handle bar on the top of the dashboard of the screen.
 
 The menu then appears as in the screen below.
 
