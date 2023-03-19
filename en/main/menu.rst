@@ -2,32 +2,32 @@
 
 Menu
 ====
-The menu of Topo GPS can be used to access the most important functions of Topo GPS. It is shown in the top of the main map screen.
+The menu of Topo GPS can be used to access the most important functions of Topo GPS. It can be shown in the bottom of the main map screen.
 
-You can open the menu by pressing the handle with the three dots on the top right of the main screen. Or you can drag this handle to the left.
+You can open the menu by swiping the dashboard in the bottom of the screen upwards. Or you can tap the handle bar on the top of the dashboard of the screen.
 
 The menu then appears as in the screen below.
 
-.. figure:: ../_static/menu.png  
+.. figure:: ../_static/menu_open.jpg  
    :height: 568px
    :width: 320px
    :alt: Menu Topo GPS
 
    *The opened menu.*
 
-As you can see in the figure above, the menu contains the following items:
+The menu contains the following items:
 
-- :ref:`Maps <sec-change-map>` - If you tap this item, the maps screen will be opened. In this screen you can :ref:`change the current map <sec-change-map>` and :ref:`buy additional maps <sec-purchase-maps>`. 
+- :ref:`Maps <sec-change-map>` - If you tap this item, the maps popup will be opened. In the maps popup you can :ref:`change the current map <sec-change-map>` and :ref:`Export the contents of the current visible map <sec-export-visible-map>`. 
 - :ref:`Layers <sec-layers>` - If you tap this item, the layers screen will be opened. In this screen you can add layers to the map like for example the long distance bicycle route layer.
 - :ref:`Waypoints <sec-wp>` - If you tap this item, the waypoints screen will be opened. Here you can do everything with waypoints like loading them on the map.
-- Search - If you tap this item you can :ref:`search addresses and places <sec-search-addresses>` and :ref:`enter <sec-entering-coordinates>` and :ref:`scan <sec-scanning-coordinates>` coordinates.
-- :ref:`Routes <sec-routes>` - If you tap this item, :ref:`the routes screen <sec-routes-screen>` will be opened. In this screen you can do everything with routes like loading, recording, planning, generating and importing routes. Because routes are very important in Topo GPS you can also access the routes screen from the dashboard by tapping :ref:`the route button <ss-route-button>` on the bottom right of the screen. 
+- Search - If you tap this item the search popup will be shown. Here you can :ref:`search addresses and places <sec-search-addresses>` and :ref:`enter <sec-entering-coordinates>` and :ref:`scan <sec-scanning-coordinates>` coordinates.
+- :ref:`Routes <sec-routes>` - If you tap this item, :ref:`the routes popup <sec-routes-popup>` will be opened. Here you can view your saved routes, import shared routes, generate a route, plan a route, and record a route. Because routes are very important in Topo GPS you can also open the routes popup from the dashboard by tapping :ref:`the route button <ss-route-button>` on the bottom right of the screen. 
 - :ref:`Camera <sec-camera>` - If you tap this button, the camera will be opened. If you take a photo a waypoint will be created at your current location and the photo will be added to this waypoint.
-- More - If you tap this item the more screen will be opened. With the tabbar in the bottom you can access the various screens, like the :ref:`settings <ss-settings>` screen, the :ref:`legend <ss-legend>`, and the Topo GPS info screen.
+- More - If you tap this item the more popup will be shown. Via the more popup you can import files, open the :ref:`settings <ss-settings>` screen, and the Topo GPS info screen.
 
-To close the menu you have to move the handle with the three dots to the right. If the menu is closed the main screen looks as follows:
+To close the menu you have to swipe the dashboard downwards. You can also tap the handle bar on the top of the dashboard. If the menu is closed the main screen looks as follows:
 
-.. figure:: ../_static/menu_closed.png  
+.. figure:: ../_static/menu_closed.jpg 
    :height: 568px
    :width: 320px
    :alt: Closed menu Topo GPS
