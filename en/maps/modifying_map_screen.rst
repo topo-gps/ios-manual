@@ -25,6 +25,8 @@ If you do not like zooming in with one tap on the bottom of the map and zooming 
 swap this in the via :ref:`Menu <sec-menu>` > More > Settings > :ref:`Single tap zoom <sec-settings-single-tap-zoom>`. 
 You can also change there bottom/top into left/right.
 
+At some point it is not possible to zoom in further. If you want to enable additional zoom, you can do this by enabling the setting Menu > More > Settings > Map > Additional zoom in. The drawback is that then map will become grainy when zoomed in far.
+
 .. _ss-map-center:
 
 Center
@@ -32,7 +34,7 @@ Center
 By tapping the position marker icon on the bottom left of the main screen, the map will be centered on your current location. An example
 is shown in the figure below.
  
-.. figure:: ../_static/map2.png
+.. figure:: ../_static/main_map_centered.jpg
    :height: 568px
    :width: 320px
    :alt: Centrered map Topo GPS
@@ -63,7 +65,7 @@ By tapping once on the position marker icon on the bottom left of the screen, th
 
 The map is rotated such that the top of the map indicates the direction in which you point your device if your are standing still. If you are moving the top of the map will indicate the direction in which you move. An example is shown in the figure below:
 
-.. figure:: ../_static/map3.png  
+.. figure:: ../_static/main_map_rotated.jpg 
    :height: 568px
    :width: 320px
    :alt: Rotated map Topo GPS
