@@ -32,30 +32,23 @@ enable the settings 'Compass calibration' and 'Movement and distance calibration
 
 Current location screen
 -----------------------
-If you tap the position marker on the map, the current location screen will appear. 
+If you tap the position marker, the current location screen will appear. 
 You can also open this screen by pressing long on the :ref:`position button <ss-position-button>` on the :ref:`dashboard <sec-dashboard>`.
 
 The current location screen shows details of your current location. In the current location screen you can also save your current location
 into a waypoint and export your current location with the buttons in the bottom toolbar. An example of the current location screen is displayed below:
 
-.. figure:: ../_static/current-location1.png
+.. figure:: ../_static/current_position.jpg
    :height: 568px
    :width: 320px
    :alt: Current location screeen Topo GPS
 
    *The current location screen (top part).*
-   
-.. figure:: ../_static/current-location2.png
-   :height: 568px
-   :width: 320px
-   :alt: Current location screeen Topo GPS
-
-   *The current location screen (bottom part).*
-   
+      
 In the location information screen you find subsequently the following information:
 
 - *Map*: A map of the surroundings of your current location. You can also zoom and move this map.
-- *Coordinates*: The coordinates of your current location in various formats. You can change the displayed coordinate systems by tapping 'Edit' in the top right of the current location screen and then Displayed coordinates types. If you press long on a coordinate you can select it, and then press 'Share' to share the coordinates in textual format.
+- *Coordinates*: The coordinates of your current location in various formats. You can change the displayed coordinate systems by tapping the item. If you press long on a coordinate you can select it, and then press 'Share' to share the coordinates in textual format.
 - *Address*: The approximate address of your location. If you move this address will be updated automatically. If you press long on the address you can select and share it. If you press 'Edit' you can disabled automatic lookup of addresses in the current location screen.
 - *Location accuracy*: The accuracy of the location determination. This accuracy means that your true location has a high probability of being inside a circle with a radius equal to the accuracy. If the GPS signal is good the location accuracy is 5 m or less.
 - *Altitude*: The current altitude of the device above the WGS84 geoid with the accuracy.
@@ -85,7 +78,7 @@ The automatic waypoint title can be set to either:
 
 If you press 'Save' your current position will be saved immediately as a waypoint and added to the map. A pop-up will show that the waypoint was saved successfully as you can see in the figure below:
 
-.. figure:: ../_static/current-location3.png
+.. figure:: ../_static/current_position_save.jpg
    :height: 568px
    :width: 320px
    :alt: Saving current location as waypoint Topo GPS
@@ -108,7 +101,7 @@ Current location quick actions
 ------------------------------
 If you press long on the position marker icon, a quick actions screen will appear.
 
-.. figure:: ../_static/current-location-quick-actions.jpg
+.. figure:: ../_static/current_position_quick.jpg
    :height: 568px
    :width: 320px
    :alt: Current location quick actions Topo GPS
