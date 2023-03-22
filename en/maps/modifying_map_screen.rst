@@ -25,7 +25,7 @@ If you do not like zooming in with one tap on the bottom of the map and zooming 
 swap this in the via :ref:`Menu <sec-menu>` > More > Settings > :ref:`Single tap zoom <sec-settings-single-tap-zoom>`. 
 You can also change there bottom/top into left/right.
 
-At some point it is not possible to zoom in further. If you want to enable additional zoom, you can do this by enabling the setting Menu > More > Settings > Map > Additional zoom in. The drawback is that then map will become grainy when zoomed in far.
+At some point it is not possible to zoom in further. If you want to enable additional zoom, you can do this by enabling the setting `Menu > More > Settings > Map > Additional zoom in <sec-settings-map>`. The drawback is that then map will become grainy when zoomed in far.
 
 .. _ss-map-center:
 
