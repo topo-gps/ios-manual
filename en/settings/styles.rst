@@ -17,6 +17,7 @@ You can set the map style in Topo GPS to 'Normal' or 'Dark'. The normal style ha
 
 If you are using Topo GPS during the night, it might be better to set the map style to 'Dark'. The map is then much darker, making it easier for your eyes to look on the screen. The map legend is also adapted for dark mode. We recommend you to combine the 'Dark' map style setting with the 'Dark' mode display setting of your device. Then also all interface elements will have a dark background.
 
+It is also possible to change the map style directly on the main screen via :ref:`Menu > Maps <sec-menu>`. Tap 'change to dark/light map' in the pop-up that appears. 
 
 Record, plan and route lines
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
