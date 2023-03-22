@@ -17,7 +17,7 @@ If you open the legend of a typical map you will see the following screen:
 
    *The map legend screen.*
 
-You can view the map and the lengen at the same time, so that you more easily can lookup the meaning of symbols of the map.
-You can scroll down in the legend to view more symbols. If you pull the handle in the legend pop-up up, the legend will be enlarged.
+The map and the lenged are displayed simultaneously, so that you more easily can lookup the meaning of symbols on the map.
+You can scroll down in the legend to view more symbols. If you pull the handle in the legend pop-up upwards, the legend will be enlarged.
 
 Most legends are translated to the language the Topo GPS app is using.
