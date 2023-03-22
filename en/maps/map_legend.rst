@@ -4,15 +4,20 @@ Map legend
 ==========
 A legend gives an explanation for the symbols on the map.
 
-To view the legend, you have to tap the map copyright button. The map copyright button is the button on which it says: ‘Map: ....’ in the bottom left of the map. A new screen appears. You then have to select the tab ‘Legend’ in the bottom of the screen. You can also view the Legend via :ref:`Menu <sec-menu>` > More by selecting the tab ‘Legend’ in the bottom.
+To view the legend, you have to tap the map copyright button. The map copyright button is the button on which it says: ‘Map: ....’ in the bottom left of the map. A pop-up appears in which you can tap 'Legend'.
 
-If you open the legend of the topographic map of Great Britain you will see the following screen:
+Alternatively you can tap 'Maps' in ref:`Menu <sec-menu>`. Then tap 'Legend' in the pop-up that appears.
 
-.. figure:: ../_static/map-legend.png  
+If you open the legend of a typical map you will see the following screen:
+
+.. figure:: ../_static/legend.jpg
    :height: 568px
    :width: 320px
    :alt: Legend map Topo GPS
 
-   *The legend screen of the topographic map of Great Britain.*
+   *The map legend screen.*
 
-You can scroll down in the legend to view more symbols. Most legends are translated to the language the Topo GPS app is using.
+You can view the map and the lengen at the same time, so that you more easily can lookup the meaning of symbols of the map.
+You can scroll down in the legend to view more symbols. If you pull the handle in the legend pop-up up, the legend will be enlarged.
+
+Most legends are translated to the language the Topo GPS app is using.
