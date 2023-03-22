@@ -2,11 +2,11 @@
 
 Settings
 ========
-The settings screen can be opened tapping :ref:`Menu <sec-menu>` > ‘More’ and selecting the tab 'Settings' in the bottom.
+The settings screen can be opened tapping the item 'More' in the :ref:`Menu <sec-menu>`. Then tap the tab 'Settings' in the pop-up that appears:
 
 An example of the settings screen is displayed in the figure below:
 
-.. figure:: ../_static/settings1.png  
+.. figure:: ../_static/settings.jpg
    :height: 568px
    :width: 320px
    :alt: Settings screen Topo GPS
@@ -23,6 +23,7 @@ The settings screen contains the following sections:
    styles
    routes
    show_on_map
+   map
    units
    coordinates
    map_tiles_downloading
@@ -30,6 +31,7 @@ The settings screen contains the following sections:
    search_results
    addresses
    camera
+   dashboard
    synchronize_with_icloud
    device_settings
    
