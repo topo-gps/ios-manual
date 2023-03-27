@@ -172,7 +172,7 @@ as is illustrated below:
 
    *The map with the coordinate panel.*
 
-The coordinates that are displayed on the coordinates panel are the coordinates of the point in the middle of the cross.
+The coordinates that are displayed on the coordinates panel are the coordinates of the point in the middle of the cross. In the example above the coordinates are displayed in WGS84 degree minutes seconds format. Below you can read how to change this format.
 
 By :ref:`moving the map <ss-modifying-map-screen>` you can position the middle of the cross to the point of which
 you want to determine the coordinates. To quickly determine the coordinates of your current position,
@@ -194,4 +194,13 @@ The following actions are possible:
 - Share: The textual representation of the coordinates can be shared with another app.
 - Export: The coordinates and/or the map can be exported in a specific geodata format like gpx.
 - Open with: You can open the coordinates in another popular app. Currently you can choose between Apple Maps, Google Maps or Wikipedia. If you choose a maps app, the maps app will be opened exactly at the location you are currently viewing in Topo GPS. If you choose 'Wikipedia', the Wikipedia app or website will open and will display information of the location nearest to the middle of the cross. This can be useful if you want to look up information about a specific site on the map.
-- Type coordinates: Here you can change the type of the coordinates visible on the coordinates panel. Several types are listed in the pop-up. If the one you need is not shown, you could choose 'More' to open the 'Displayed coordinates types' screen. Here you should enable the coordinates you want to see in the type coordinates pop-up screen. Then go back, tap the coordinates, tap 'Type coordinates', and tap the coordinates type you just have enabled. If the coordinates type you need is not shown in the displayed coordinates types screen, it might not be supported by Topo GPS. Contact support@topo-gps.com about this and we might add it to the Topo GPS app.
+- Type coordinates: Here you can change the type of the coordinates visible on the coordinates panel. Several types are listed in the pop-up. If the one you need is not shown, you could choose 'More' to open the 'Displayed coordinates types' screen. Here you should enable the coordinates you want to see in the type coordinates pop-up screen. Then go back, tap the coordinates, tap 'Type coordinates', and tap the coordinates type you just have enabled. If the coordinates type you need is not shown in the displayed coordinates types screen, it might not be supported by Topo GPS. Contact support@topo-gps.com about this and we might add it to the Topo GPS app. In the figure below an example is shown in which the coordinates type was changed to MGRS.
+
+
+.. figure:: ../_static/map-coordinates-panel3.jpg
+   :height: 568px
+   :width: 320px
+   :alt: Coordinates panel pop-up Topo GPS
+
+   *The coordinates in the coordinates panel were changed to MGRS.*
+
