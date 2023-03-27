@@ -6,7 +6,7 @@ A legend gives an explanation for the symbols on the map.
 
 To view the legend, you have to tap the map copyright button. The map copyright button is the button on which it says: ‘Map: ....’ in the bottom left of the map. A pop-up appears in which you can tap 'Legend'.
 
-Alternatively you can tap 'Maps' in ref:`Menu <sec-menu>`. Then tap 'Legend' in the pop-up that appears.
+Alternatively you can tap 'Maps' in :ref:`Menu <sec-menu>`. Then tap 'Legend' in the pop-up that appears.
 
 If you open the legend of a typical map you will see the following screen:
 
