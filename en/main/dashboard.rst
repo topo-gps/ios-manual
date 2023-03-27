@@ -13,6 +13,7 @@ The bottom bar in the :ref:`main screen <sec-main-screen>` is the dashboard:
 
 The dashboard consists out of three items: the :ref:`position button <ss-position-button>`, 
 a :ref:`panel <ss-panel>` with counters and the :ref:`route button <ss-route-button>`. These items are discussed in more detail below.
+If you swipe the dashboard updward, the :ref:`menu <sec-menu>` will become visible.
 
 .. _ss-position-button:
 
@@ -26,7 +27,9 @@ If you press long on the position button, the :ref:`current location screen <ss-
 
 Route button
 ------------
-By tapping the route button on the right hand side of the dashboard (arrowed icon) the :ref:`routes screen <sec-routes-screen>` will appear. In this screen you can do everything with routes, like loading, planning, generating, routes and importing routes.
+By tapping the route button on the right hand side of the dashboard (arrowed icon) the :ref:`routes pop-up <sec-routes-screen>` will appear. Via this pop-up you can do everything with routes, like loading, planning, generating, and importing routes.
+
+It is possible to change the button on the right hand side of the dashboard via :ref:`Menu > More > Settings > Dashboard <sec-settings-dashboard>`. For example if you take a lot of photo's you might want to set it to 'Camera'. All functions are also always accessible via the :ref:`menu <sec-menu>`.
 
 .. _ss-panel:
 
@@ -43,8 +46,8 @@ are three panels
 The circles below the panel indicate the selected panel. By swiping a panel with one finger to the left or
 the right you can load the next or previous panel.
 
-The units of the meters on the dashboard can be changed via 
-Menu > More > Settings > Units. You can choose between metric, imperial, and nautical units.
+The units of the meters on the dashboard can be changed via :ref:`
+Menu > More > Settings > Units <sec-settings-units>`. You can choose between metric, imperial, and nautical units.
 
 .. _ss-hiking-panel:
 
@@ -162,10 +165,10 @@ An example of the coordinates panel is displayed below:
 If the coordinates panel is loaded, a cross appears in the middle of the map,
 as is illustrated below:
 
-.. figure:: ../_static/map-coordinate-panel.png
+.. figure:: ../_static/map-coordinates-panel1.jpg
    :height: 568px
    :width: 320px
-   :alt: Dashboard Topo GPS
+   :alt: Coordinates panel Topo GPS
 
    *The map with the coordinate panel.*
 
@@ -175,8 +178,20 @@ By :ref:`moving the map <ss-modifying-map-screen>` you can position the middle o
 you want to determine the coordinates. To quickly determine the coordinates of your current position,
 you can center the map by pressing the :ref:`position button <ss-position-button>` on the left hand side of the dashboard.
 
-If you tap the coordinates on the coordinates panel, the coordinates will be shown in a different format.
+If you tap the coordinates on the coordinates panel, a pop-up will appear with which you can carry out actions with the coordinates.
+An example of the pop-up is shown in the figure below:
 
-The possible coordinate formats can be set via :ref:`Menu <sec-menu>` > More > :ref:`Settings <ss-settings>` > Coordinates > :ref:`Displayed coordinate types <sec-settings-coordinates>`.
+.. figure:: ../_static/map-coordinates-panel2.jpg
+   :height: 568px
+   :width: 320px
+   :alt: Coordinates panel pop-up Topo GPS
 
-If you press long on the coordinates in the coordinates panel a pop-up will appear in which you can choose to copy the coordinates to the pasteboard or to share the coordinates.
+   *The coordinate panel pop-up.*
+
+The following actions are possible:
+
+- Copy: The coordinates are copied to the clipboard. You can paste it somewhere in another app. If you have enabled :ref:`Universal clipboard <https://support.apple.com/en-us/HT209460>_` then it is even possible to paste the coordinates in another Apple device in this way.'
+- Share: The textual representation of the coordinates can be shared with another app.
+- Export: The coordinates and/or the map can be exported in a specific geodata format like gpx.
+- Open with: You can open the coordinates in another popular app. Currently you can choose between Apple Maps, Google Maps or Wikipedia. If you choose a maps app, the maps app will be opened exactly at the location you are currently viewing in Topo GPS. If you choose 'Wikipedia', the Wikipedia app or website will open and will display information of the location nearest to the middle of the cross. This can be useful if you want to look up information about a specific site on the map.
+- Type coordinates: Hear you can change the type of the coordinates visible on the coordinates panel. Several types are listed in the pop-up. If the one you need is not shown, you could choose 'More' to open the 'Displayed coordinates types' screen. Here you should enable the coordinates you want to see in the type coordinates pop-up screen. Then go back, tap the coordinates, tap 'Type coordinates', and tap the coordinates type you just have enabled. If the coordinates type you need is not shown in the displayed coordinates types screen, it might not be supported by Topo GPS. Contact support@topo-gps.com and we might add it to the Topo GPS app.
