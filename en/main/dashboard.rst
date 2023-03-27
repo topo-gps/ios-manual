@@ -190,7 +190,7 @@ An example of the pop-up is shown in the figure below:
 
 The following actions are possible:
 
-- Copy: The coordinates are copied to the clipboard. You can paste it somewhere in another app. If you have enabled :ref:`Universal clipboard <https://support.apple.com/en-us/HT209460>_` then it is even possible to paste the coordinates in another Apple device in this way.'
+- Copy: The coordinates are copied to the clipboard. You can paste it somewhere in another app. If you have enabled `Universal clipboard <https://support.apple.com/en-us/HT209460>`_ then it is even possible to paste the coordinates in another Apple device in this way.'
 - Share: The textual representation of the coordinates can be shared with another app.
 - Export: The coordinates and/or the map can be exported in a specific geodata format like gpx.
 - Open with: You can open the coordinates in another popular app. Currently you can choose between Apple Maps, Google Maps or Wikipedia. If you choose a maps app, the maps app will be opened exactly at the location you are currently viewing in Topo GPS. If you choose 'Wikipedia', the Wikipedia app or website will open and will display information of the location nearest to the middle of the cross. This can be useful if you want to look up information about a specific site on the map.
