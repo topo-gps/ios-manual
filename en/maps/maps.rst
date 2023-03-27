@@ -8,6 +8,7 @@ The :ref:`main screen <sec-main-screen>` of Topo GPS shows the main map. In this
    :maxdepth: 2
 
    modifying_map_screen
+   maps_popup
    map_legend
    map_copyright
    offline_maps
