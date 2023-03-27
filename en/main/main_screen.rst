@@ -20,7 +20,7 @@ The label on the upper left side of the map indicates the percentage offline acc
 
 On the bottom right corner of the map you can find a scale indicator. Using the scale indicator you can quickly estimate the distance between two points on the map. You can also use the :ref:`map ruler <ss-map-ruler>` to measure distances and angles more precisely.
 
-On the bottom left corner of the map you will find the copyright information of the current map. If you tap this label the map information screen will open. In the bottom you can select a tab with detailed :ref:`copyright information <ss-map-copyright>`. If available also a :ref:`legend <ss-legend>` tab is available. For some maps their is also a map error tab, which you can use to report feedback on the map.
+On the bottom left corner of the map you will find the copyright information of the current map. If you tap this label either a pop-up will appear or directly the map copyright information screen. In the pop-up you can choose between :ref:`copyright information <ss-map-copyright>` or :ref:`legend <ss-legend>`. For some maps also a map error tab appears, which you can use to report feedback on the map.
 
 .. toctree::
    :maxdepth: 2
