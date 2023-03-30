@@ -15,9 +15,9 @@ An example of the waypoints screen is displayed in the figure below:
    :width: 320px
    :alt: Waypoints remove from map Topo GPS
 
-   *The grey background color indicates that the waypoint ‘Stonehenge’ is loaded on the map.*
+   *The grey background color indicates that the waypoint ‘Waypoint A’ is loaded on the map.*
 
-The grey background color of the waypoint ‘Stonehenge’ indicates that it is currently loaded on the map.
+The grey background color of the waypoint ‘Waypoint A’ indicates that it is currently loaded on the map.
 
 If you tap a waypoint item that has a grey background color it will be immediately removed from the map. The grey background color will disappear.
 
