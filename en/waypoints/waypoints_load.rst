@@ -7,7 +7,7 @@ you first have to open the waypoints screen. You can open
 the waypoints screen by pressing ‘Waypoints’ in the :ref:`menu <sec-menu>`.
 An example of the waypoints screen is displayed below:
 
-.. figure:: ../_static/waypoints-load1.jpg
+.. figure:: ../_static/waypoints-load1.png
    :height: 568px
    :width: 320px
    :alt: Loading waypoints Topo GPS
@@ -29,7 +29,7 @@ In the figure you can see that a waypoint is shown on the map with a red circle 
 
 Waypoints that are loaded on the map acquire a grey background color in the waypoint screen. An example is shown below:
 
-.. figure:: ../_static/waypoints-load3.jpg
+.. figure:: ../_static/waypoints-load3.png
    :height: 568px
    :width: 320px
    :alt: Loading waypoints Topo GPS
