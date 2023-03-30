@@ -23,7 +23,7 @@ If you tap a waypoint item that has a grey background color it will be immediate
 
 You can also remove all loaded waypoints from the map at once. For this press ‘More' (the top right circle with three dots) to open the 'More' menu in the waypoints screen. Then press 'Remove all from map' in the bottom of the menu. 
 
-.. figure:: ../_static/waypoints-unload1.png
+.. figure:: ../_static/waypoints-load4.png
    :height: 568px
    :width: 320px
    :alt: Waypoints remove all from map Topo GPS
