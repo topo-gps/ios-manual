@@ -30,7 +30,7 @@ As long as you hold your finger on the map you can drag the icon to the
 desired location. If you release your finger the waypoint creation screen will appear. In the waypoint creation screen you can
 set the properties of the waypoint.
 
-.. figure:: ../_static/waypoints-create-map2.jpg
+.. figure:: ../_static/waypoints-create-map2.png
    :height: 568px
    :width: 320px
    :alt: Waypoint creation screen from map Topo GPS
@@ -42,7 +42,7 @@ If you do not enter a title, the :ref:`automatically suggested title <ss-waypoin
 
 As an example we enter ‘A’ as a title. If you press ‘Save’ the waypoint will be saved on your device and loaded on the map with the title as is illustrated in the figure below.
 
-.. figure:: ../_static/waypoints-create-map3.jpg
+.. figure:: ../_static/waypoints-create-map3.png
    :height: 568px
    :width: 320px
    :alt: Waypoint added to map Topo GPS
@@ -70,7 +70,7 @@ Setting the icon of a created waypoint
 In the waypoint creation screen you can set the icon of the to be created waypoint. In the example above the selected icon is a red circle. By tapping the another icon, it will be used instead. You can scroll to the list of icons to see more icon suggestions. Only the last used icons are shown in the waypoint creation screen. If you want to use a different icon, you can tap the '>' button on the right hand side. Then the waypoint icons screen will be opened. Here you can choose from many predefined icons, and you can create your own custom icons.
 
 
-.. figure:: ../_static/waypoints-create-map4.jpg
+.. figure:: ../_static/waypoints-create-map4.png
    :height: 568px
    :width: 320px
    :alt: Waypoint added to map Topo GPS
@@ -82,7 +82,7 @@ In the example above we selected a green icon. If you save this waypoint, the ne
 
 Planning a route to a created waypoint
 --------------------------------------
-If you want to plan a route from you current location to a point on the map, you can press long on the map to create an icon on the map and drag it to the desired location. Then the waypoint creation screen will be opened. In the bottom of the waypoint creation screen you see a 'Plan' button with a map next to it. The map shows the newly created waypoint relative to your current location. Below the 'Plan' button you can see the currently selected transportation mode. In the example above this is 'Pedestrian'. If you tap 'Pedestrian' you can change the transportation mode. You can for example change it to 'Bicycle'. If you press 'Plan' a route is immediately planned from your location to the newly created point and you will return to the map as is shown below. 
+If you want to plan a route from you current location to a point on the map, you can press long on the map to create an icon on the map and drag it to the desired location. Then the waypoint creation screen will be opened. In the bottom of the waypoint creation screen you see a 'Plan' button with a map next to it. The map shows the newly created waypoint relative to your current location. Below the 'Plan route' button you can see the currently selected transportation mode. In the example above this is 'Pedestrian'. If you tap 'Pedestrian' you can change the transportation mode. You can for example change it to 'Bicycle'. If you press 'Plan route' a route is immediately planned from your location to the newly created point and you will return to the map as is shown below. 
 
 .. figure:: ../_static/waypoints-create-map5.jpg
    :height: 568px
