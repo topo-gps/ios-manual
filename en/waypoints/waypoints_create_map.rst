@@ -70,6 +70,16 @@ Setting the icon of a created waypoint
 In the waypoint creation screen you can set the icon of the to be created waypoint. In the example above the selected icon is a red circle. By tapping the another icon, it will be used instead. You can scroll to the list of icons to see more icon suggestions. Only the last used icons are shown in the waypoint creation screen. If you want to use a different icon, you can tap the '>' button on the right hand side. Then the waypoint icons screen will be opened. Here you can choose from many predefined icons, and you can create your own custom icons.
 
 
+.. figure:: ../_static/waypoints-create-map4.jpg
+   :height: 568px
+   :width: 320px
+   :alt: Waypoint added to map Topo GPS
+
+   *A green icon was selected.*
+
+In the example above we selected a green icon. If you save this waypoint, the next time you create a waypoint from the map this icon is used as the initially used icon for waypoint creation.
+
+
 Planning a route to a created waypoint
 --------------------------------------
 If you want to plan a route from you current location to a point on the map, you can press long on the map to create an icon on the map and drag it to the desired location. Then the waypoint creation screen will be opened. In the bottom of the waypoint creation screen you see a 'Plan' button with a map next to it. The map shows the newly created waypoint relative to your current location. Below the 'Plan' button you can see the currently selected transportation mode. In the example above this is 'Pedestrian'. If you tap 'Pedestrian' you can change the transportation mode. You can for exmaple change it to 'Bicycle'. If you press 'Plan' a route is immediately planned from your location to the newly created point and you will return to the map as is shown below. 
@@ -81,5 +91,4 @@ If you want to plan a route from you current location to a point on the map, you
 
    *A route was planned from the current location to a newly created point on the map.*
 
-The planned route and the waypoint are not saved automatically. To save the planned route press on the route line to open the route planner. Then press 'Save' on the top right to save the planned route. After the route is saved it will appear in the routes screen.
-
+The planned route and the waypoint are not saved automatically. To save the planned route press on the route line to open the route planner. Then press 'Save' on the top right to save the planned route. After the route is saved it will appear in the saved routes screen.
