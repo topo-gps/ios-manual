@@ -5,14 +5,14 @@ Waypoint details
 The waypoint details screen appears by tapping on the icon of a waypoint that is loaded on the map. You can also open this screen
 by pressing the info button (i) on the right hand side of a title in the :ref:`waypoints screen <ss-waypoint-load>`.
 
-The waypoint details screen of the waypoint ‘Stonehenge’ is displayed below:
+An example of the waypoint details screen is displayed below:
 
 .. figure:: ../_static/waypoint-details.png
    :height: 568px
    :width: 320px
    :alt: Waypoints details Topo GPS
 
-   *The waypoint details screen of the waypoint ‘Stonehenge’.*
+   *The waypoint details screen of the waypoint ‘A’.*
 
 On the top right of the waypoint details screen you find a map icon with a slash. If you tap this button, the waypoint will be removed from
 the main map. If the waypoint is not loaded on the map, a map icon withouth a slash is shown. If you tap that icon, the waypoint will be loaded on the map and you will return to the main map.
