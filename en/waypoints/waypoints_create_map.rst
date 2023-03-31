@@ -5,10 +5,10 @@ Creating waypoints
 There are several ways to create waypoints in Topo GPS.
 
 - Pressing long on the map and dragging the icon to the desired location.
-- Entering an address in the address tab via Menu > Search.
-- Entering coordinates in the coordinates tab via Menu > Search.
-- Scanning coordinates with the coordinates scanner via Menu > Search.
-- Importing a geodata file which contains waypoints via Menu > Waypoints > More > Import file.
+- Entering an address in the address tab via Menu > Search > Search address.
+- Entering coordinates in the coordinates tab via Menu > Search > Enter coordinates.
+- Scanning coordinates with the coordinates scanner via Menu > Search > Scan coordinates.
+- Importing a geodata file which contains waypoints via Menu > More > Import file.
 - Saving the current location as a waypoint by pressing the position marker and then 'Save' or 'Create waypoint'. 
 - Taking a photo via Menu > Camera.
 - Adding waypoints via the waypoints screen > More > +.
@@ -40,14 +40,14 @@ set the properties of the waypoint.
 In the waypoint creation screen you can optionally give the waypoint a title, set the icon and enter a description.
 If you do not enter a title, the :ref:`automatically suggested title <ss-waypoint-create-automatic-title>` (which is light grey) is used.
 
-As an example we enter ‘Goal A’ as a title. If you press ‘Save’ the waypoint will be saved on your device and loaded on the map with the title as is illustrated in the figure below.
+As an example we enter ‘A’ as a title. If you press ‘Save’ the waypoint will be saved on your device and loaded on the map with the title as is illustrated in the figure below.
 
 .. figure:: ../_static/waypoints-create-map3.jpg
    :height: 568px
    :width: 320px
    :alt: Waypoint added to map Topo GPS
 
-   *The waypoint ‘Goal A’ has been added to the map.*
+   *The waypoint ‘A’ has been added to the map.*
 
 The waypoint that is created from the map is saved on your device and hence will appear in the :ref:`waypoints screen <ss-waypoint-load>`.
 
@@ -59,7 +59,7 @@ If you have entered a description in the waypoint creation screen, you can view 
 
 Automatic title suggestions
 ---------------------------
-If you are connected to the internet and you have enabled ‘Addresses - Find automatically’ in the :ref:`settings <sec-settings-addresses>`, an automatic suggestion for the waypoint title will appear in the title box. This title has a light grey color and will be used if no title has been entered. In the example above the suggestion is ‘Southwood Farm Lane’. If you wish to have a waypoint without a title please enter a single space in the title field.
+If you are connected to the internet and you have enabled ‘Addresses - Find automatically’ in the :ref:`settings <sec-settings-addresses>`, an automatic suggestion for the waypoint title will appear in the title box. This title has a light grey color and will be used if no title has been entered. If you wish to have a waypoint without a title please enter a single space in the title field.
 
 If you enter a number in as a title, for example '001', the next time you create a waypoint manually from the map, the suggested title will be '002', etc.
 This also works with characters, if you enter an 'A', the next suggested title will be 'B', etc. Or if you have entered 'Node_001', the next suggested title will be 'Node_002'. If you do not like the suggested title, you can just enter your desired title, and the next suggested title will be derived from the last input.
@@ -67,69 +67,7 @@ This also works with characters, if you enter an 'A', the next suggested title w
 
 Setting the icon of a created waypoint
 --------------------------------------
-In the waypoint creation screen you can set the icon of the to be created waypoint. In the example above the icon is set to the default icon, which is in this case a red circle. If you press the icon item below the title field, the waypoint icons screen will be opened as is shown in the figure below:
-
-.. figure:: ../_static/waypoint-icons1.png
-   :height: 568px
-   :width: 320px
-   :alt: Waypoint icons screen Topo GPS
-
-   *A screen which show all the available waypoint icons on a device.*
-
-The currently active icon type has a grey background color. Currently the waypoint icons screen shows only the default icon. To create a new icon, press the + button on the top right. A new screen opens in which you can create an icon.
-
-.. figure:: ../_static/waypoint-icons2.png
-   :height: 568px
-   :width: 320px
-   :alt: Waypoint icon creation screen Topo GPS
-
-   *A screen in which you can create a new icon.*
-
-In the new icon screen you can adjust the properties of the icon. For example we can create a orange rotated rectangle icon with a G inscription like in the example below:
-
-.. figure:: ../_static/waypoint-icons3.png
-   :height: 568px
-   :width: 320px
-   :alt: New waypoint icon creation Topo GPS
-
-   *A new icon is about to be created.*
-
-If you press 'Save' the new waypoint icon is created and you will return to the waypoint icons screen.
-
-.. figure:: ../_static/waypoint-icons4.png
-   :height: 568px
-   :width: 320px
-   :alt: Waypoint icons screen Topo GPS
-
-   *Waypoint icons screen with the newly created 'Hiking goal' icon.*
-   
-If you press the newly created icon 'Hiking goal' it will be used as icon in the waypoint creation screen.
-   
-.. figure:: ../_static/waypoint-icons5.jpg
-   :height: 568px
-   :width: 320px
-   :alt: Waypoint icons screen Topo GPS
-
-   *The icon 'Hiking goal' is now the icon for the to be created waypoint.*
-
-The icon in the waypoint creation screen is now set to the newly created 'Hiking goal' icon. Then if you press 'Save'
-you will return to the map and the waypoint with the hiking goal icon is shown on the map.
-
-.. figure:: ../_static/waypoint-icons6.jpg
-   :height: 568px
-   :width: 320px
-   :alt: Waypoint icons screen Topo GPS
-
-   *The waypoint with the hiking goal icon is shown on the map.*
-
-If you now create a new waypoint by pressing long on the map the icon of the last created waypoint will be used. So in the example you will drag a 'Hiking goal' icon along the map. If you release your finger the waypoint creation screen will be opened. The icon 'Hiking goal' is then the initially set icon. 
-
-.. figure:: ../_static/waypoint-icons7.jpg
-   :height: 568px
-   :width: 320px
-   :alt: Waypoint creation screen Topo GPS
-
-   *Newly created waypoints have initially the same icon as the icon of the last created waypoint.*
+In the waypoint creation screen you can set the icon of the to be created waypoint. In the example above the selected icon is a red circle. By tapping the another icon, it will be used instead. You can scroll to the list of icons to see more icon suggestions. Only the last used icons are shown in the waypoint creation screen. If you want to use a different icon, you can tap the '>' button on the right hand side. Then the waypoint icons screen will be opened. Here you can choose from many predefined icons, and you can create your own custom icons.
 
 
 Planning a route to a created waypoint
