@@ -12,7 +12,7 @@ tapping a waypoint that is loaded on the map.
 You can remove the waypoint by pressing the trash icon on the bottom of the waypoint details screen. A pop-up will appear in which you have
 to confirm the removal as is shown below:
 
-.. figure:: ../_static/waypoint-remove2.png
+.. figure:: ../_static/waypoint-remove.png
    :height: 568px
    :width: 320px
    :alt: Waypoints remove Topo GPS
