@@ -3,7 +3,9 @@
 Changing current map
 ====================
 
-In the maps screen (:ref:`Menu <sec-menu>` > Maps) you can change the current map and :ref:`purchase additional maps <sec-purchase-maps>`.
+To change the current map, tap Menu > Maps to open the :ref:`maps pop-up <ss-maps-popup>`.
+
+If there are alternative maps available for the current visible area in the main screen, they are shown in the bottom of the maps pop-up. Tapping them immediately switches the map. If you tap 'More maps' in the maps pop-up, the maps screen will be opened. Here (:ref:`Menu <sec-menu>` > Maps) you can also change the current map and :ref:`purchase additional maps <sec-purchase-maps>`.
 
 Suppose the main map is currently the topographic map of Great Britain, as in the example below.
 
@@ -14,7 +16,7 @@ Suppose the main map is currently the topographic map of Great Britain, as in th
    
    *The main screen with the topographic map of Great Britain.*
    
-We now want to change it to the OpenStreetMap map. For that we open the maps screen (:ref:`Menu <sec-menu>` > Maps).
+We now want to change it to the OpenStreetMap map. For that we open the maps screen (:ref:`Menu <sec-menu>` > Maps > More maps).
 An example of the map screen is shown below:
 
 .. figure:: ../_static/map-change2.jpg
