@@ -17,10 +17,9 @@ An example of the waypoint details screen is displayed below:
 On the top right of the waypoint details screen you find a map icon with a slash. If you tap this button, the waypoint will be removed from
 the main map. If the waypoint is not loaded on the map, a map icon withouth a slash is shown. If you tap that icon, the waypoint will be loaded on the map and you will return to the main map.
 
-The waypoint details screen contains information about the waypoint, such
-as the title and the coordinates. If available you can also find here a description, photos, a phone number and/or an URL.
+The waypoint details screen contains information about the waypoint, such as the title and the coordinates. If available you can also find here a description, photos, a phone number and/or an URL.
 
-The coordinates are displayed in various formats. You can set the displayed coordinate types via 'Menu > More > Settings > :ref:`Displayed coordinate types <sec-settings-coordinates>`'. 
+The coordinates are displayed in various formats. You can set the displayed coordinate types by tapping the '>' next to the coordinates. If you press long on the coordinates you can select them and copy the coordinates in text format.
 
 The physical address of a waypoint is also displayed in the details screen. If the address of a waypoint is still unknown, Topo GPS will look up this address in a database of Apple. For this you have to enable the option :ref:`Addresses - find automatically <sec-settings-addresses>` in the :ref:`settings <ss-settings>`. You have also to be connected to the internet.
 
