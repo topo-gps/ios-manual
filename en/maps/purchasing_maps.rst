@@ -2,7 +2,7 @@
 
 Purchasing maps
 ===============
-In the maps screen (:ref:`Menu <sec-menu>` > Maps) you can buy additional maps.
+In the maps screen (:ref:`Menu <sec-menu>` > Maps > More maps) you can buy additional maps.
 An example of the maps screen is shown below:
 
 .. figure:: ../_static/map-change2.jpg
@@ -29,7 +29,7 @@ It is not possible to share your purchases with Android. This is because we need
 
 Purchasing full maps
 --------------------
-To purchase a full map, for example Switzerland, go to :ref:`Menu <sec-menu>` > Maps > Store and tap 'Switzerland'.
+To purchase a full map, for example Switzerland, go to :ref:`Menu <sec-menu>` > Maps > More maps > Store, and tap 'Switzerland'.
 The information screen of map of Switzerland will be opened:
 
 .. figure:: ../_static/map-purchase-ch1.png
@@ -39,7 +39,8 @@ The information screen of map of Switzerland will be opened:
    
    *Map information screen Switzerland*
 
-In the information screen of the map of Switzerland, you see a preview map on the top. You can scroll and zoom this map to see if this map suits your needs. You can get a small tour through the map by tapping the 'Tour' button in the bottom toolbar.
+In the information screen of the map of Switzerland, you see a preview map on the top. You can scroll and zoom this map to see if this map suits your needs. You can get a small tour through the map by tapping the 'Tour' button in the bottom toolbar. You can also tap 'Try map'. Then the map will be loaded in the main screen for free. The free trial map will however be less sharp when zoomed in far than a purchased map.
+
 Below the map, you find information about the purchase. If you tap the purchase button with the price a purchase will be initiated. You will be asked by the AppStore to confirm the purchase, and once confirmed you will be return to the main screen and the newly purchased map will be opened:
 
 
