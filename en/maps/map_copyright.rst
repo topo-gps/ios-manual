@@ -3,7 +3,7 @@
 Map copyright
 =============
 To view the copyright information of a map, you have to press the map copyright button on the bottom left of the map screen. 
-This is the button with the label: ‘Map: ....’. Next you have to select the tab ‘Copyright’ in the bottom.
+This is the button with the label: ‘Map: ....’. If a pop-up appears, you need to tap the item ‘Copyright’.
 
 The map copyright screen of the topographic map of Great Britain is displayed in the figure below:
 
