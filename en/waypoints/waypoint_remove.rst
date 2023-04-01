@@ -23,6 +23,6 @@ If you press ‘Remove’ the waypoint and all its photo's will be removed from 
 
 If you have enabled :ref:`iCloud synchronization of waypoints <ss-routes-synchronize-icloud>` the waypoint will also be removed from iCloud and from all devices that are synchronized with the same iCloud account.
 
-It is also possible to remove multiple waypoints at once from the :ref:`waypoints screen <ss-waypoint-load>`. Press 'More > Select’ and :ref:`select <ss-waypoints-select>` the waypoints that need to be removed. Next press the trash icon on the bottom of the screen and confirm the removal.
+It is also possible to remove multiple waypoints at once from the :ref:`waypoints screen <ss-waypoint-load>`. Press long on a waypoint item or tap 'More > Select’ to enter the selection mode. Then :ref:`select <ss-waypoints-select>` the waypoints that need to be removed. Next press the trash icon on the bottom of the screen and confirm the removal.
 
 If you only want to :ref:`remove a waypoint from the map (and not from the device) <ss-waypoint-unload>` you have to tap the map icon with a slash in the top right of the waypoint details screen. 
