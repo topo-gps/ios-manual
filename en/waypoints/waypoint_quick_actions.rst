@@ -11,5 +11,7 @@ If you press long on a waypoint icon on the main map, a quick actions menu will 
    
    *The quick actions menu that appear when pressing long on a waypoint.*
 
-You can use the quick actions menu to view the :ref:`waypoint details <ss-waypoint-details>`, to :ref:`share the waypoint <ss-waypoints-exporting>` 
-or to remove the waypoint from the map.
+You can use the quick actions menu to view the :ref:`waypoint details <ss-waypoint-details>`, to :ref:`share the waypoint <ss-waypoints-exporting>`, 
+and to remove the waypoint from the map. 
+
+To interact quickly with this popup, press long on a waypoint icon, hold your finger on the screen and move it to the desired item in the popup. Then release your finger.
