@@ -28,7 +28,7 @@ In the figure above the percentage of offline accessible map tiles is 22%. By lo
 
 Downloading map tiles
 ~~~~~~~~~~~~~~~~~~~~~
-If you tap the label ‘Offline accessible:‘ on the top left of the map screen the map download screen will appear. In this screen you can download map tiles of the area that is currently visible in the map screen.
+If you tap the label ‘Offline accessible:‘ on the top left of the map screen the map download screen will appear. Alternatively you can tap Menu > Maps > Download map. In the map download screen you can download map tiles of the area that is currently visible in the map screen.
 
 An example of the map download screen is displayed below:
 
