@@ -9,7 +9,7 @@ If you press long on a waypoint icon on the main map, a quick actions menu will 
    :width: 320px
    :alt: Quick actions on a waypoint
    
-   *The quick actions menu that appear when pressing long on a waypoint.*
+   *The quick actions menu that appears when pressing long on a waypoint.*
 
 You can use the quick actions menu to view the :ref:`waypoint details <ss-waypoint-details>`, to :ref:`share the waypoint <ss-waypoints-exporting>`, 
 and to remove the waypoint from the map. 
