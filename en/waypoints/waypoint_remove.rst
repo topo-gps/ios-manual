@@ -17,9 +17,9 @@ to confirm the removal as is shown below:
    :width: 320px
    :alt: Waypoints remove Topo GPS
 
-   *Removing a waypoint’.*
+   *Removing a waypoint.*
 
-If you press ‘Remove’ the waypoint will be removed from your device.
+If you press ‘Remove’ the waypoint and all its photo's will be removed from your device.
 
 If you have enabled :ref:`iCloud synchronization of waypoints <ss-routes-synchronize-icloud>` the waypoint will also be removed from iCloud and from all devices that are synchronized with the same iCloud account.
 
