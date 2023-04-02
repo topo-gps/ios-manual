@@ -10,7 +10,16 @@ Photo's in jpeg/heic/heif format will only be imported if they contain a locatio
 
 To import waypoints you could try to tap on a file icon. Most often an app picker will show up. You then have to select 'Open with Topo GPS' or 'Copy to Topo GPS' and the file will be imported in Topo GPS.
 
-Alternatively you could import the files directly into Topo GPS by tapping :ref:`Menu <sec-menu>` > More > Import file.
+Alternatively you could import the files directly into Topo GPS by tapping :ref:`Menu <sec-menu>` > More > Import file in the main screen as shown below.
+
+.. figure:: ../_static/menu-more.jpg
+   :height: 568px
+   :width: 320px
+   :alt: Editing Waypoints Topo GPS
+
+   *Tap Menu > More > Import file to import a file.*
+
+
 
 Alternatively you could tap Menu > Waypoints > More > Import file. The files app will be opened. Here you can select a cloud storage, like iCloud, Dropbox, OneDrive or Google Drive. Then you can browse through your files and select the files you want to import.
 
