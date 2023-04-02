@@ -12,7 +12,7 @@ To import waypoints you could try to tap on a file icon. Most often an app picke
 
 Alternatively you could import the files directly into Topo GPS by tapping :ref:`Menu <sec-menu>` > More > Import file in the main screen as shown below.
 
-.. figure:: ../_static/menu-more.jpg
+.. figure:: ../_static/menu_more.jpg
    :height: 568px
    :width: 320px
    :alt: Editing Waypoints Topo GPS
