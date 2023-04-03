@@ -3,8 +3,6 @@
 Waypoint icons
 ==============
 
-Waypoints are displayed on the map with an icon and a title. It is possible to customize the waypoint icon. Multiple waypoints can use exactly the same icon. Waypoints in the waypoints screen (Menu > Waypoints) can be :ref:`filtered on icon <ss-waypoint-filter-icon>`.
-
 The waypoint icons screen displays the list of available icons on your device. An example is shown below.
 
 .. figure:: ../_static/waypoint-ic1.png
@@ -18,24 +16,29 @@ Each waypoint is using an icon from the waypoint icons screen. The waypoint icon
 
 - From the :ref:`waypoint details screen <ss-waypoint-details>` by pressing 'Edit > Change icon'.
 - From the :ref:`waypoints screen <ss-waypoints-select>` by pressing 'More > Select > More (bottom) > Change icons'.
-- From the input coordinates screen by tapping the 'Icon' row.
-- From the :ref:`waypoint creation screen <ss-waypoint-create-map>` by tapping the 'Icon' row.
+- From the :ref:`waypoint creation screen <ss-waypoint-create-map>` by tapping the '>' in the 'Icon' row.
+- From the Enter coordinates screen by tapping the 'Icon' row.
 
 
 Default icon
 ~~~~~~~~~~~~
-In the waypoint icons screen in the example above only one icon is shown. The default icon. This icon is used for all waypoints for which an icon was not explicitly set. 
+In the top of the waypoint icons screen, the default icon is shown. This icon is used for all waypoints for which an icon was not explicitly set. 
 
-To change the default icon, tap the info button to open the 'Edit icon' screen. If you change the default icon, this will be reflected immediately in all waypoints that are using the default icon.
+To change the default icon, tap the info button to open the 'Edit icon' screen. If you change the default icon, this will be reflected immediately in all waypoints that are using the default icon. You only need to change the default icon if you want to change the default red circle. Otherwise it is better to use one of the predefined icons or create a new icon.
 
-You only need to change the default icon if you want to change the default red circle. Otherwise it is better to first create a new icon.
+
+Predefined icons
+~~~~~~~~~~~~~~~~
+If you tap the folder 'Predefined icons' in the waypoint icons screen, the avaiable predefined icons are shown. These are several circles, triangles, and squares of various colours. Also a list of icons with various symbols are shown. If you scroll down you can view more.
+
+If the icon of your liking is not among the predefined icons, you can create one yourself.
+
 
 .. _ss-waypoint-create-icons:
 
 Creating icons
 ~~~~~~~~~~~~~~
-In the waypoint icons screen above only the default icon is shown. To add a new icon press '+' on the top right.
-The 'New icon' screen will be opened.
+To add create a new icon tap 'New icon' in the bottom of the waypoint icons screen. The 'New icon' screen will be opened as in the figure below:
 
 .. figure:: ../_static/waypoint-ic2.png
    :height: 568px
