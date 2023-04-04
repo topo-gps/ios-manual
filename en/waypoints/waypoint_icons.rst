@@ -45,7 +45,7 @@ Using a predefined icon saves you the hassle of creating one yourself, but the d
 
 Creating icons
 ~~~~~~~~~~~~~~
-To add create a new icon tap 'New icon' in the bottom of the waypoint icons screen. The 'New icon' screen will be opened as in the figure below:
+To create a new icon tap 'New icon' in the bottom of the waypoint icons screen. The 'New icon' screen will be opened as in the figure below:
 
 .. figure:: ../_static/waypoint-icon-create-1.png
    :height: 568px
