@@ -3,22 +3,22 @@
 Waypoint icons
 ==============
 
-The waypoint icons screen displays the list of available icons on your device. An example is shown below.
+A :ref:`waypoint <ss-waypoint>` is displayed on the map with an icon. If you create a waypoint you can choose an icon from the waypoint icons screen.
+The waypoint icons screen displays the list of available icons on your device. An example of this screen is shown below.
 
 .. figure:: ../_static/waypoint-ic1.png
    :height: 568px
    :width: 320px
    :alt: Waypoint icons screen Topo GPS
 
-   *The waypoint icons screen (Waypoint details > Edit > Change icon).*
+   *The waypoint icons screen .*
 
-Each waypoint is using an icon from the waypoint icons screen. The waypoint icons screen can accessed in several ways when creating or modifying waypoints.
+The waypoint icons screen can accessed in several ways when creating or modifying waypoints.
 
+- From the :ref:`waypoint creation screen <ss-waypoint-create-map>` by tapping the '>' in the 'Icon' row.
 - From the :ref:`waypoint details screen <ss-waypoint-details>` by pressing 'Edit > Change icon'.
 - From the :ref:`waypoints screen <ss-waypoints-select>` by pressing 'More > Select > More (bottom) > Change icons'.
-- From the :ref:`waypoint creation screen <ss-waypoint-create-map>` by tapping the '>' in the 'Icon' row.
 - From the Enter coordinates screen by tapping the 'Icon' row.
-
 
 Default icon
 ~~~~~~~~~~~~
@@ -29,10 +29,18 @@ To change the default icon, tap the info button to open the 'Edit icon' screen. 
 
 Predefined icons
 ~~~~~~~~~~~~~~~~
-If you tap the folder 'Predefined icons' in the waypoint icons screen, the avaiable predefined icons are shown. These are several circles, triangles, and squares of various colours. Also a list of icons with various symbols are shown. If you scroll down you can view more.
+If you tap the folder 'Predefined icons' in the waypoint icons screen, the avaiable predefined icons are shown. These are several circles, triangles, and squares of various colors. Also a list of icons with various symbols are shown. If you scroll down you can view more.
 
 If the icon of your liking is not among the predefined icons, you can create one yourself.
 
+.. figure:: ../_static/waypoint-ic2.png
+   :height: 568px
+   :width: 320px
+   :alt: New icon screen Topo GPS
+   
+   *The predefined icons screen*
+
+Using a predefined icon saves you the hassle of creating one yourself, but the drawback is that there is less customization possible.
 
 .. _ss-waypoint-create-icons:
 
@@ -40,26 +48,33 @@ Creating icons
 ~~~~~~~~~~~~~~
 To add create a new icon tap 'New icon' in the bottom of the waypoint icons screen. The 'New icon' screen will be opened as in the figure below:
 
-.. figure:: ../_static/waypoint-ic2.png
+.. figure:: ../_static/waypoint-icon-create-1.png
    :height: 568px
    :width: 320px
    :alt: New icon screen Topo GPS
    
    *The new icon screen*
 
-The following properties of an icon can be modified.
+Using the tab selector in the top of the new icon screen you can choose between creating a normal icon or an emoji icon.
 
-- Shape. Press 'Change icon' and tap the desired shape. You can choose between circle, triangle, rectangle, square, rhombus among other.
-- Size. Press 'Change size' and tap the desired size. You can choose between 'Small', 'Normal' and 'Large'.
-- Fill color. Press 'Change fill color' to change the fill color of the icon. The color picker screen will appear in which you select the desired color. In the bottom you can set the opacity. If you have selected a color you have to press the cross on the top right to return.
-- Edge color. Press 'Change edge color' to change the color of the edge of the icon. 
-- Inscription. If you enter a inscription in the inscription field, a inscription (for example an 'A') will be shown in the middle of the icon. The color of the inscription is the same as the edge color if the contrast with the fill color is large enough. If not, it is either white or black, depending on which color gives the most contrast with the fill color.
+If you choose a normal icon you can change the following properties.
 
-After you have the set the icon properties, you can give the icon a name and a description. The name and description will be shown in the waypoint icons screen.
+- *Shape*: Tap on one of the shown shapes to change the shape. Scroll to the right or tap '>' to view more shapes.
+- *Fill color*: Tap a fill color to change the fill color. Scroll to the right or tap '>' to choose from more colors.  If you tap '>' you can also set the opacity of the fill color.
+- *Edge color*: Tap a edge color to change the edge color. Scroll to the right or tap '>' to choose from more colors.
+- *Symbol*: Tap a symbol to choose a symbol or none. Scroll to the right or tap '>' for more symbols. 
+- *Size*: Tap the desired size.
+- *Inscription*: If you enter a inscription in the inscription field, a inscription (for example an 'A') will be shown in the middle of the icon. The color of the inscription is the same as the edge color if the contrast with the fill color is large enough. If not, it is either white or black, depending on which color gives the most contrast with the fill color. You cannot combine an inscription with a symbol.
+
+The currently selected icon has a grey background.
+
+If you select the emjoi tab to create an emoji icon you can choose the emoji from a list of emojis. You can scroll down to view more. It is possible to set the size of the emoji icon by tapping the desired size.
+
+After you have the set the icon properties, you can give the icon a name and a description. The name and description will be shown in the waypoint icons screen and also in the waypoint details screen of waypoints using that icon.
 
 As an example we now will create an icon for ancient monuments. We choose a rotated rectangle as the shape, set the size to large, fill color to pink, and enter 'A' as inscription. Then for the name we enter 'Ancient monument' and as a description information about when to use this icon. The result is shown in the figure below.
 
-.. figure:: ../_static/waypoint-ic3.png
+.. figure:: ../_static/waypoint-icon-create-2.png
    :height: 568px
    :width: 320px
    :alt: New icon screen Topo GPS
@@ -68,47 +83,32 @@ As an example we now will create an icon for ancient monuments. We choose a rota
    
 To save the icon, press 'Save' on the top right of the new icon screen. Then newly created waypoint icon will immediately shown in the waypoint icons screen as is shown below.
 
-.. figure:: ../_static/waypoint-ic4.png
+.. figure:: ../_static/waypoint-ic3.png
    :height: 568px
    :width: 320px
    :alt: Waypoint icons screen Topo GPS
 
-   *The waypoint icons screen with the newly created icon for ancient monuments.*
+   *The newly created icon for ancient monuments in the waypoint icons screen.*
    
+The newly created icon can now be used for creating new waypoints, and for :ref:`changing the icon of waypoints <ss-waypoint-change-icon>`.
+
 Editing icons
 ~~~~~~~~~~~~~
-To edit an icon, press the info button next to an icon in the waypoint icons screen. You can change the properties of an icon in the same way as explained above when creating a new icon. Press 'Save' to confirm the changes and to return to the waypoint icons screen. If you make a change to a icon in this way, it will be immediately reflected in all waypoints that are using this icon.
+To edit an stored custom icon in the waypoint icons screen, tap the info button next to the icon. You can change the properties of an icon in the same way as explained above when creating a new icon. Press 'Save' to confirm the changes and to return to the waypoint icons screen. If you make a change to a icon in this way, it will be immediately reflected in all waypoints that are using this icon.
+
+.. _ss-waypoint-change-icon:
 
 Changing icon of a waypoint
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
-To change the icon of an individual waypoint, open the :ref:`waypoint detail screen <ss-waypoint-details>`. Then press 'Edit > Change icon'. The waypoint icons screen will be shown. Then select the desired icon in the waypoint icons screen. 
-If the desired icon is not in the waypoints screen, please first press + on the top right to :ref:`create a new icon <ss-waypoint-create-icons>`.
-The currently set icon has a grey background. After tapping the desired icon, you will return immediately and the waypoint will use the selected icon. 
+To change the icon of an individual waypoint, open the :ref:`waypoint detail screen <ss-waypoint-details>`. Then tap 'Edit > Change icon'. The waypoint icons screen will be shown. Then select the desired icon in the waypoint icons screen.  If the desired icon is not in the waypoints screen, tap 'New icon' in the bottom to :ref:`create a new icon <ss-waypoint-create-icons>`. The currently set icon has a grey background. After tapping the desired icon, you will return immediately and the waypoint will use the selected icon. 
 
-In this way we for example change the icon of the Stonehenge waypoint to the 'Ancien monument' icon.
-
-.. figure:: ../_static/waypoint-ic5.png
-   :height: 568px
-   :width: 320px
-   :alt: Waypoint details screen Topo GPS
-   
-   *The icon of the 'Stonehenge' waypoint was changed to 'Ancient monument'*
-
-In the details screen above, the used icon is shown below the title. On the main map the 'Stonehenge' waypoint with the newly created icon looks as follows:
-
-.. figure:: ../_static/waypoint-ic6.jpg
-   :height: 568px
-   :width: 320px
-   :alt: Main screen Topo GPS
-   
-   *The 'Stonehenge' waypoint with the 'Ancient monument' icon on the main map.*
+.. _ss-waypoint-multiple-change-icon:
 
 Changing icon of multiple waypoints
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 To change the icon of multiple waypoints open the waypoints screen via ':ref:`Menu <sec-menu>` > Waypoints'. Then press 'More > Select' to enter the selection mode. Select the desired waypoints and press in the bottom toolbar 'More > Change icons'. Then the waypoint icons screen will be opened. 
 Tap the desired waypoint icon. You will return immediately to the waypoints screen and the icons will be changed.
-If the desired icon is not in the waypoints screen, please first press + on the top right to :ref:`create a new icon <ss-waypoint-create-icons>`.
-
+If the desired icon is not in the waypoints screen, tap 'New icon' in the bottom of the screen to :ref:`create a new icon <ss-waypoint-create-icons>`.
 
 
 Removing icons
