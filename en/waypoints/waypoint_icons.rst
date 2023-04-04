@@ -3,8 +3,7 @@
 Waypoint icons
 ==============
 
-A :ref:`waypoint <ss-waypoint>` is displayed on the map with an icon. If you create a waypoint you can choose an icon from the waypoint icons screen.
-The waypoint icons screen displays the list of available icons on your device. An example of this screen is shown below.
+A :ref:`waypoint <ss-waypoint>` is displayed on the map with an icon. If you :ref:`create a waypoint <ss-waypoint-create-map>` you can choose an icon from the waypoint icons screen. The waypoint icons screen displays the list of available icons on your device. An example of this screen is shown below.
 
 .. figure:: ../_static/waypoint-ic1.png
    :height: 568px
