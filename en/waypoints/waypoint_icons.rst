@@ -130,5 +130,7 @@ Exporting icons
 ~~~~~~~~~~~~~~~
 If you tap 'More > Select' in the waypoint icons screen you can select icons to be exported. Then if you press the export button in the bottom right you can export the selected icons. The icons will be exported in the wsf (Waypoint Style Format) file format. This is a special XML file format designed for use in Topo GPS. Another user of Topo GPS (iOS) can open this file with Topo GPS. Then all icons in this wsf file will be imported and shown in the waypoint icons screen.
 
+If you :ref:`export waypoints <ss-waypoints-exporting>` the icons are also exported if you export the waypoints to gpx, kml/kmz or csv format. The waypoint with the icons can be imported fully into another Topo GPS app on iOS. However not all apps and programs will support the icon structure of Topo GPS. Default kml for example only supports round icons with a fill color. It might therefore be that if you import the exported file into another program or app the icons will not be visible.
+
 
 
