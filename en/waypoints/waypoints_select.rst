@@ -17,27 +17,8 @@ Selecting waypoints is similar to :ref:`selecting routes <sec-routes-select>`.
 
 Opening selection screen
 ~~~~~~~~~~~~~~~~~~~~~~~~
-If you press the button 'More' on the top right of the waypoints screen, a menu will be shown as in the figure below.
+To open the the selection screen, you have to press long a waypoint item you want to select. Alternatively, you can tap the button 'More' on the top right and then tap 'Select'. 
 
-.. figure:: ../_static/waypoints-select1.png
-   :height: 568px
-   :width: 320px
-   :alt: Selecting waypoints Topo GPS
-
-   *The more menu of the waypoints screen.*
-
-Press ‘Select’ in the menu to open the selection screen. It is also possible to open the selection screen by pressing long on an item in the waypoint list. That item will then be selected immediately. An example of a selection screen is shown below:
-
-.. figure:: ../_static/waypoints-select2.png
-   :height: 568px
-   :width: 320px
-   :alt: Waypoint selection screen Topo GPS
-
-   *The selection screen in which you can select waypoints.*
-
-
-Selecting waypoints
-~~~~~~~~~~~~~~~~~~~
 To select a waypoint, tap a waypoint item in the selection screen. A checkmark will show up and the background of the waypoint item will become grey to indicate that it is selected. An example in which two waypoints are selected is displayed below:
 
 .. figure:: ../_static/waypoints-select3.png
@@ -53,12 +34,11 @@ To quickly select multiple waypoints you can long press on a item, leave the fin
 
 Performing an action
 ~~~~~~~~~~~~~~~~~~~~
-If you have made a selection you can perform an action with one of the buttons
-in the toolbar on the bottom of the screen. The toolbar buttons are from left to right:
+If you have made a selection you can perform an action with one of the buttons in the toolbar on the bottom of the screen. The toolbar buttons are from left to right:
 
 - *Trash button*: If you press this button a pop-up will ask to to whether you would like to remove the selected waypoints from your device (and iCloud if enabled). If you press 'Remove' the selected waypoints will be removed.
 
-- *Folder button*: If you press this button a screen with the folder tree will be opened. You can select a folder and the selected waypoints will be moved to a new folder.
+- *Folder button*: If you press this button a screen with the folder tree will be opened. You can select a folder and the selected waypoints will be moved to another folder.
 
 - *Export button*: If you press this button the :ref:`export pop-up <ss-waypoints-exporting>` will be shown. In this pop-up you can select the kind of data to be exported and change the export settings. If you press 'Export' in the export pop-up the selected waypoints will be exported. Another pop-up with apps and actions will be shown. If you tap an app or action, the result of the export will be handled by the app or action.
 
