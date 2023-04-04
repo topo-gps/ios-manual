@@ -91,4 +91,4 @@ To save the new location of the waypoint you have to press ‘Save’ in the top
 
 Change icon
 ~~~~~~~~~~~
-If you press 'Change icon' in the :ref:`edit pop-up <ss-waypoint-edit>` the waypoint icons screen will appear. The waypoint icons screen contains a list of available icons. The currently active icon of the waypoint has a grey background. If you tap an icon, the waypoint icon will be changed and you will return to the waypoint details screen. If the desired icon is not shown in the waypoint icons screen, you can create a new icon by pressing 'New icon' in bottom of the waypoint icons screen.
+If you press 'Change icon' in the :ref:`edit pop-up <ss-waypoint-edit>` the :ref:`waypoint icons screen <ss-waypoint-icons>` will appear. The waypoint icons screen contains a list of available icons. The currently active icon of the waypoint has a grey background. If you tap an icon, the waypoint icon will be changed and you will return to the waypoint details screen. If the desired icon is not shown in the waypoint icons screen, you can :ref:`create a new icon <ss-waypoint-create-icons>` by pressing 'New icon' in bottom of the waypoint icons screen.
