@@ -71,7 +71,7 @@ If you select the emjoi tab to create an emoji icon you can choose the emoji fro
 
 After you have the set the icon properties, you can give the icon a name and a description. The name and description will be shown in the waypoint icons screen and also in the waypoint details screen of waypoints using that icon.
 
-As an example we now will create an icon for ancient monuments. We choose a rotated rectangle as the shape, set the size to large, fill color to pink, and enter 'A' as inscription. Then for the name we enter 'Ancient monument' and as a description information about when to use this icon. The result is shown in the figure below.
+As an example we now will create an icon for ancient monuments. We choose a milestone as the shape, set the size to large, fill color to pink, and enter 'A' as inscription. Then for the name we enter 'Ancient monument' and as a description information about when to use this icon. The result is shown in the figure below.
 
 .. figure:: ../_static/waypoint-icon-create-2.png
    :height: 568px
