@@ -5,9 +5,9 @@ Exporting waypoints
 
 To export a single waypoint, open the :ref:`waypoint details screen <ss-waypoint-details>` and tap the export icon in the bottom toolbar.
 
-To export multiple waypoints, open the :ref:`waypoints screen <ss-waypoint-load>` (Menu > Waypoints). Then open the :ref:`waypoint selection screen <ss-waypoints-select>` by tapping More > Select. Select the desired waypoints and folders and tap the export icon in the bottom toolbar.
+To export multiple waypoints, open the :ref:`waypoints screen <ss-waypoint-load>` (Menu > Waypoints). Then open the :ref:`waypoint selection screen <ss-waypoints-select>` by tapping More > Select. It might be useful to apply filters and/or a search term. Select the desired waypoints and folders and tap the export icon in the bottom toolbar.
 
-To export the waypoints that are loaded on the current visible part of the main map screen, tap Menu > Maps > Export visible items. Note that you then also might export routes if they are shown on the map.
+To export the waypoints that are loaded on the current visible part of the main map screen, tap :ref:`Menu > Maps > Export visible items <ss-maps-popup>`. Note that you then also might export routes if they are shown on the map.
 
 After pressing the export button the export pop-up will appear in all cases, an example is shown below:
 
