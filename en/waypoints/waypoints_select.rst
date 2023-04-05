@@ -32,6 +32,12 @@ The title of the selection screen shows how many items are selected. You can des
 
 To quickly select multiple waypoints you can long press on a item, leave the finger on the list and then go up or down. In the same way you can quickly deselect multiple items.
 
+If you tap 'All' on the top left of the selection screen, all items listed are selected immediately.
+
+If you need to select a specific set of waypoints, before making the selection it might be useful first apply :ref:`filters <ss-waypoint-filter>`, :ref:`search keywords <ss-waypoint-search-keywords>`, and :ref:`sort <ss-waypoint-sort>` the waypoints in a handy way.
+
+If you select a :ref:`waypoint folder <ss-waypoints-organize>`, the applied action will be carried out recursively to the contents of the folder. For example, if you select a folder by pressing long on the folder in the waypoints screen, and then tap the map icon in the bottom of the screen, all waypoints contained in the folder will appear on the map.
+
 Performing an action
 ~~~~~~~~~~~~~~~~~~~~
 If you have made a selection you can perform an action with one of the buttons in the toolbar on the bottom of the screen. The toolbar buttons are from left to right:
