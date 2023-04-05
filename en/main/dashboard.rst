@@ -85,6 +85,7 @@ If you press the speedometer once more it turns into an altimeter. Your altitude
 by the symbol 'alt'.
 
 If you tap the altimeter, the direction meter with the symbol 'dir' will be shown. This indicates the current direction with respect to the true north.
+The direction is the compass direction in which you point your device if you are standing still. If you move it is the direction of movement.
 
 If you tap the direction meter, it will turn in the speedometer.
 
