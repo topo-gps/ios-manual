@@ -36,6 +36,10 @@ Waypoints that are loaded on the map acquire a grey background color in the wayp
 
    *The grey background color indicates that the waypoint ’Waypoint A’ has been loaded on the map.*
 
-It is also possible to load multiple waypoints on the map at once. This is explained in detail in the section :ref:`ss-waypoints-select`. Summarized: press 'More (circle with three dots) > Select' on the top right of the waypoints screen to enter the selection mode. Next select the desired waypoints by tapping them. Then press the 'Map’ button on the bottom of the screen to load the selected waypoints onto the map.
+It is also possible to load multiple waypoints on the map at once. This is explained in detail in the section :ref:`ss-waypoints-select`. Summarized: press long on a waypoint item in the waypoints screen to open the selection mode. Next select the other desired waypoints by tapping them. Then press the 'Map’ button on the bottom of the screen to load the selected waypoints onto the map.
 
-In the next section we will explain how to remove waypoints from the map.
+In the next section we will explain how to :ref:`remove waypoints <ss-waypoint-remove>` from the map.
+
+Overlappping waypoints
+~~~~~~~~~~~~~~~~~~~~~~
+If there are two waypoints near each other, so that the icons could overlap, Topo GPS will only show the latest added waypoint. The underlying other waypoint will only show up if you zoom in further. If the waypoints do not show up when zoomed in maximally, you could try to extend the maximum allowed zoom of the map in the :ref:`Topo GPS settings <sec-settings-map>`. 
