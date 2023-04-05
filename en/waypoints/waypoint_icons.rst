@@ -89,7 +89,7 @@ To save the icon, press 'Save' on the top right of the new icon screen. Then new
 
    *The newly created icon for ancient monuments in the waypoint icons screen.*
    
-The newly created icon can now be used for creating new waypoints, and for :ref:`changing the icon of waypoints <ss-waypoint-change-icon>`.
+The newly created icon can now be used for :ref:`creating new waypoints <ss-waypoint-create-map>`, and for :ref:`changing the icon of waypoints <ss-waypoint-change-icon>`.
 
 Editing icons
 ~~~~~~~~~~~~~
