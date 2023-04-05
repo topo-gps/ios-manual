@@ -42,4 +42,4 @@ In the next section we will explain how to :ref:`remove waypoints <ss-waypoint-r
 
 Overlappping waypoints
 ~~~~~~~~~~~~~~~~~~~~~~
-If there are two waypoints near each other, so that the icons could overlap, Topo GPS will only show the latest added waypoint. The underlying other waypoint will only show up if you zoom in further. If the waypoints do not show up when zoomed in maximally, you could try to extend the maximum allowed zoom of the map in the :ref:`Topo GPS settings <sec-settings-map>`. 
+If there are two waypoints near to each other, the icons could overlap when zoomed out far enough. Instead Topo GPS will only show the latest added waypoint and the other waypoint is not shown. The underlying other waypoint will only appear if you zoom in far enough. If the waypoints do not show up when zoomed in maximally, you might try to extend the maximum allowed zoom of the map in the :ref:`Topo GPS settings <sec-settings-map>`. 
