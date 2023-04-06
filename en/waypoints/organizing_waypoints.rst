@@ -49,7 +49,7 @@ To move waypoints into a folder you have to open the :ref:`selection screen <ss-
 
 In the 'Move items to folder' screen, the folder tree is shown. If you tap on a folder the selected items will be moved to that folder and you will return to the waypoints screen.
 
-As an example we now will move the waypoints 'Stonehenge' and 'Tower bridge' to the 'Sights' folder. After moving the two waypoints as indicated above the waypoints screen looks as follows:
+As an example we now will move the waypoints 'C' and 'D' to the 'Sights' folder. After moving the two waypoints as indicated above the waypoints screen looks as follows:
 
 .. figure:: ../_static/waypoint-folder4.png
    :height: 568px
@@ -58,7 +58,7 @@ As an example we now will move the waypoints 'Stonehenge' and 'Tower bridge' to 
    
    *The waypoints screen after moving two waypoints into the folder 'Sights'.*
 
-In the waypoints screen the waypoints 'Stonehenge' and 'Tower bridge' have disappeared. They now can be found in the folder 'Sights'.
+In the waypoints screen the waypoints 'C' and 'D' have disappeared. They now can be found in the folder 'Sights'.
 
 .. _ss-waypoint-folder-open:
 
@@ -73,7 +73,7 @@ To open a folder, just tap the folder item in the waypoints screen. As an exampl
    
    *The contents of the 'Sights' folder.*
 
-The 'Stonehenge' and 'Tower bridge' waypoints now can be found in the 'Sights' folder. 
+The 'C' and 'D' waypoints now can be found in the 'Sights' folder. 
 
 Below the search bar you can see the current location in the folder tree. If you press 'All waypoints' you will return to the root folder.
 
@@ -116,12 +116,12 @@ The waypoints screen then looks as follows:
    
    *The 'Sights' folder in selection mode.*
 
-On the right hand side of each item a handle with three bars is displayed. Drag such a handle to a desired position and release your finger. The waypoint will then be moved in the list to the desired location. In the example below, we have moved 'Stonehenge' to the bottom.
+On the right hand side of each item a handle with three bars is displayed. Drag such a handle to a desired position and release your finger. The waypoint will then be moved in the list to the desired location. In the example below, we have moved 'C' to the bottom.
 
 .. figure:: ../_static/waypoint-folder7.png
    :height: 568px
    :width: 320px
    :alt: An opened folder Topo GPS
    
-   *The contents of the 'Sights' folder after moving the 'Stonehenge' waypoint.*
+   *The contents of the 'Sights' folder after moving the 'C' waypoint.*
 
