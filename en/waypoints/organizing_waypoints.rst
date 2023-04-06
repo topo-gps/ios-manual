@@ -116,7 +116,7 @@ The waypoints screen then looks as follows:
    
    *The 'Sights' folder in selection mode.*
 
-On the right hand side of each item a handle with three bars is displayed. Drag such a handle to a desired position and release your finger. The waypoint will then be moved in the list to the desired location. In the example below, we have moved 'C' to the bottom.
+On the right hand side of each item a handle with three bars is displayed. Drag such a handle to a desired position and release your finger. The waypoint will then be moved in the list to the desired location. In the example below, we haved moved 'C' to the bottom.
 
 .. figure:: ../_static/waypoint-folder7.png
    :height: 568px
