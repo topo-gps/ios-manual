@@ -4,8 +4,9 @@ Organizing waypoints
 ====================
 
 You can keep your waypoints organized by :ref:`creating folders <ss-waypoint-folder-create>` and :ref:`moving waypoints into folders <ss-waypoint-folder-move>`.
-It is also possible to :ref:`change the order of the waypoints <ss-waypoint-folder-reorder>` appearing in the waypoints screen.
-In addition you can keep waypoints organized by assigning them :ref:`specific icons <ss-waypoint-icons>` and :ref:`filtering on icons <ss-waypoint-filter-icon>`.
+It is also possible to :ref:`change the order of the waypoints <ss-waypoint-folder-reorder>` appearing in the waypoints screen they are :ref:`sorted in customizable order <ss-waypoint-sort>`. In addition you can keep waypoints organized by assigning them :ref:`specific icons <ss-waypoint-icons>` and :ref:`filter them on icon <ss-waypoint-filter-icon>`.
+
+Folders are only visible in the :ref:`waypoints screen <ss-waypoint-load>` if the :ref:`filter <ss-waypoint-filter>` (below the search bar) is disabled.
 
 .. _ss-waypoint-folder-create:
 
@@ -20,8 +21,8 @@ Then press More (top right) > New Folder. The new folder screen will be opened, 
    :alt: New waypoint folder Topo GPS
    
    *The new folder screen*
-   
-To create a folder, you have to enter a name. Optionally you can choose the location in the folder tree where the new folder is to be added. This is always initially set to the currently opened folder in the waypoints screen. If you press location and select a folder you can change the location to another folder. When you have entered a name you need to press 'Save' to create a new folder. You will return to the waypoints screen and the newly created folder will be shown in the list.
+    
+To create a folder, you have to enter a name for the new folder. The default location of the newly created folder is the currently active folder in the waypoints screen. If you want to create the new folder in another folder, you have to tap the 'Location' section and choose a folder. When you are done you need to tap 'Save' to create the folder. You will return to the waypoints screen and the newly created folder will be shown in the list (if the folder is saved in the currently active folder).
 
 As an example we will enter 'Sights' and press 'Save' to create a 'Sights' folder. The waypoints screen now looks as follows:
 
@@ -38,7 +39,7 @@ The 'Sights' folder is listed in the waypoints screen with a folder icon.
 
 Moving waypoints into folder
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-To move waypoints into a folder you have to open the :ref:`selection screen <ss-waypoints-select>` by pressing More > Select or pressing long on an item in the waypoints screen. Select the to be moved waypoints and press the folder icon in the bottom toolbar. Then the 'Move items to folder' screen will be shown, example is shown below:
+To move waypoints into a folder you have to open the :ref:`selection screen <ss-waypoints-select>` by pressing long on an item in the waypoints screen. Select the to be moved items and tap the folder icon in the bottom toolbar. Then the 'Move items to folder' screen will be shown, example is shown below:
 
 .. figure:: ../_static/waypoint-folder3.png
    :height: 568px
@@ -81,7 +82,7 @@ Below the search bar you can see the current location in the folder tree. If you
 
 Loading contents of folder
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
-To load all waypoints in a folder and its descendant folders, press long on a folder item in the waypoints screen (Menu > Waypoints) to enter the selection mode and to select the folder. Then press the map icon in the bottom toolbar to load the contents of the folder on the map.
+To load all waypoints in a folder and its descendant folders, press long on a folder item in the waypoints screen (Menu > Waypoints) to select the folder. Then press the map icon in the bottom toolbar to load the contents of the folder on the map.
 
 Alternatively tap the info button next to a folder in the waypoints screen (Menu > Waypoints). Then press 'Show on map' on the top right to load all waypoints on the map. You will return to the main map screen and the map will be zoomed to the contents of the folder. 
 
@@ -104,7 +105,7 @@ To rename a folder first open the waypoints screen (Menu > Waypoints) and tap th
 
 Changing the order of waypoints 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Just below the folder / filter bar in the waypoints screen the current sort method is displayed. If you tap the sort method you can change it. If it is set to 'Customizable order' you can determine the order of the waypoints.
+Just below the folder tree and filter bar in the waypoints screen the current sort method is displayed. If you tap the sort method you can change it. If it is set to 'Customizable order' you can determine the order of the waypoints.
 
 To change the order of the waypoints in the 'Sights' folder, just open that folder. Then press More > Select to enter the selection mode.
 The waypoints screen then looks as follows:
