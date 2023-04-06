@@ -26,7 +26,7 @@ To select more waypoints, tap a waypoint item in the selection screen. A checkma
    :width: 320px
    :alt: Two selected waypooints Topo GPS
 
-   *Two selected waypoints.*
+   *Three selected waypoints.*
 
 The title of the selection screen shows how many items are selected. You can deselect an waypoint tapping a selected one. If you want to select all waypoints in the list, you have to press ‘All’ on the top left. To return to the usual waypoints screen you have to press ‘Cancel’.
 
