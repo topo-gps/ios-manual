@@ -19,9 +19,9 @@ Opening selection screen
 ~~~~~~~~~~~~~~~~~~~~~~~~
 To open the the selection screen, you have to press long a waypoint item you want to select. Alternatively, you can tap the button 'More' on the top right and then tap 'Select'. 
 
-To select a waypoint, tap a waypoint item in the selection screen. A checkmark will show up and the background of the waypoint item will become grey to indicate that it is selected. An example in which two waypoints are selected is displayed below:
+To select a waypoint, tap a waypoint item in the selection screen. A checkmark will show up and the background of the waypoint item will become grey to indicate that it is selected. An example in which three waypoints are selected is displayed below:
 
-.. figure:: ../_static/waypoints-select3.png
+.. figure:: ../_static/waypoint-select.png
    :height: 568px
    :width: 320px
    :alt: Two selected waypooints Topo GPS
@@ -58,10 +58,10 @@ If you have made a selection you can perform an action with one of the buttons i
 
 As an example we now will load the two selected waypoints from the example above on the map by pressing the map icon. The map screen will appear and the map will be zoomed to the two selected waypoints as you can see in the figure below:
 
-.. figure:: ../_static/waypoints-select4.jpg
+.. figure:: ../_static/waypoint-select-load.jpg
    :height: 568px
    :width: 320px
    :alt: Selecting waypoints Topo GPS
 
-   *The waypoints 'Goal A' and 'Stonehenge' have been loaded on the map.*
+   *The waypoints 'B', 'C', and 'D' have been loaded on the map.*
 
