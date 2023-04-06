@@ -73,7 +73,7 @@ You can view the added photos in the :ref:`waypoint details screen <ss-waypoint-
 .. figure:: ../_static/waypoint-details-photo.png
    :height: 568px
    :width: 320px
-   :alt: Empty photos screen Topo GPS
+   :alt: Waypoint details screen Topo GPS
 
    *The waypoint details screen with a photo.*
 
