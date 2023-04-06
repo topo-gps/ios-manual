@@ -68,7 +68,16 @@ If you have made changes to the photos of a waypoint you have to press 'Done' on
 
 The added photos are always copied to Topo GPS. So removing the photo afterwards from your photo library does not remove the photo in Topo GPS. The resolution of the added photo can be set via 'Menu > Settings > Camera > Photo size'. Larger photo sizes will require more disk space.
 
-You can view the added photos in the :ref:`waypoint details screen <ss-waypoint-details>`. If you tap a photo in the waypoint details screen, the photo screen will be opened with a larger version of the tapped photo. You can zoom in on the displayed photo by making a zoom gesture with two fingers. Sharing the photo is possible by pressing the 'Export' icon on the top right. If you press 'Edit' on the top right you can modify the photos of the waypoint. If the waypoint has multiple photos, you can browse through the available photos by sliding the current photo to the left or to the right. Tapping the info button on the bottom shows the location a photo was taken and if available the direction in which it was taken on a map.
+You can view the added photos in the :ref:`waypoint details screen <ss-waypoint-details>`. Below you see an example of the 'Stonehenge' waypoint details screen with a photo:
+
+.. figure:: ../_static/waypoint-details-photo.png
+   :height: 568px
+   :width: 320px
+   :alt: Empty photos screen Topo GPS
+
+   *The waypoint details screen with a photo.*
+
+If you tap a photo in the waypoint details screen, the photo screen will be opened with a larger version of the tapped photo. You can zoom in on the displayed photo by making a zoom gesture with two fingers. Sharing the photo is possible by pressing the 'Export' icon on the top right. If you press 'Edit' on the top right you can modify the photos of the waypoint. If the waypoint has multiple photos, you can browse through the available photos by sliding the current photo to the left or to the right. Tapping the info button on the bottom shows the location a photo was taken and if available the direction in which it was taken on a map.
 
 
 .. _ss-waypoint-edit-coordinates:
