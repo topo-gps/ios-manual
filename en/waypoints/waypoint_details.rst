@@ -34,9 +34,12 @@ In the bottom of the waypoint details screen you can find a toolbar with the fol
 - Export button: If you press this button the export pop-up will show up which allows you to :ref:`export the waypoint <ss-waypoints-exporting>`.
 - ‘Edit’: Allows you to :ref:`edit the waypoint <ss-waypoint-edit>`.
 
+
+.. _ss-waypoint-photos:
+
 Photos
 ------
-An example of the waypoint details screen with a photo is shown below:
+An example of the :ref:`waypoint details screen <ss-waypoint-details>` with a photo is shown below:
 
 .. figure:: ../_static/waypoint-details-photo.png
    :height: 568px
@@ -45,7 +48,7 @@ An example of the waypoint details screen with a photo is shown below:
 
    *The waypoint details screen with a photo.*
 
-If you tap a photo in the waypoint details screen, the slide show screen will be opened with a larger version of the tapped photo. You can zoom in on the displayed photo by making a zoom gesture with two fingers. Sharing the photo is possible by pressing the 'Export' icon on the top right. If you tap 'Edit' on the top right you can modify the photos of the waypoint. If the waypoint has multiple photos, you can browse through the available photos by sliding the current photo to the left or to the right. 
+If you tap a photo in the waypoint details screen, the slide show screen will be opened with a larger version of the tapped photo. You can zoom in on the displayed photo by making a zoom gesture with two fingers. If the waypoint has multiple photos, you can browse through the available photos by sliding the current photo to the left or to the right. Sharing the photo is possible by pressing the 'Export' icon in the bottom right. If you tap 'Edit' on the top right you can add and remove photos. 
 
 Tapping the info button in the bottom toolbar of a photo slideshow shows the location a photo was taken and if available the direction in which it was taken on a map. Also additonal details like the timestamp and altitude of the photo are shown. An example is shown in the figure below:
 
