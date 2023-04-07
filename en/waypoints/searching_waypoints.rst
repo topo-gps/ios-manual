@@ -10,18 +10,7 @@ In the waypoints screen (Menu > Waypoints) you can search waypoints by :ref:`ent
 
 Searching waypoints with keywords
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-If you enter a keyword in the search bar on the top of the waypoint screen only waypoints will be shown which have the keyword in its title, description, street, town, province, two character iso country code, or zip code. Search is case insensitive. 
-If you search in a folder, also all search results in descendant folders will be displayed.
-If a :ref:`filter <ss-waypoint-filter>` is applied, the search will restrict itself to the filtered waypoints.
-
-.. figure:: ../_static/waypoint-search1.png
-   :height: 568px
-   :width: 320px
-   :alt: Waypoint search Topo GPS
-  
-   *Searching on 'Stone'*
-   
-.. _ss-waypoint-sort:
+If you enter a keyword in the search bar on the top of the waypoins screen only waypoints will be shown which have the keyword in its title, description, street, town, province, two character iso country code, or zip code. Search is case insensitive.  If you search in a folder, also all search results in descendant folders will be displayed. If a :ref:`filter <ss-waypoint-filter>` is applied, the search will restrict itself to the filtered waypoints.
 
 Sorting waypoints
 ~~~~~~~~~~~~~~~~~
@@ -47,8 +36,7 @@ If you tap the sort button you can change the current sort method between:
 
 Filtering waypoints
 ~~~~~~~~~~~~~~~~~~~
-It is also possible to filter waypoints on location and on icon kind.
-To enable a filter, tap the filter button in the waypoints screen (just below the search bar on the right hand side). If the filter is enabled, the filter button has a blue background, as in the figure below. If the filter is disabled, only the edge of the filter button is blue, as in the figure above.
+It is also possible to filter waypoints on location and on the kind of icon. To enable a filter, tap the filter button in the waypoints screen (just below the search bar on the right hand side). If the filter is enabled, the filter button has a blue background, as in the figure below. If the filter is disabled, only the edge of the filter button is blue, as in the figure above.
 
 .. figure:: ../_static/waypoint-search3.png
    :height: 568px
@@ -82,7 +70,8 @@ If you tap it, you could change the current point to:
 
 - *Everywhere*: There is no filtering on location.
 - *Current location*: Only waypoints within a certain distance of the current location are shown.
-- *Visible part of map*: Only waypoints that are within the bounds of the currently visible part of the main map are shown in the waypoints screen.
+- *Within selected area*: A map will be shown, which you can move and zoom to the desired area. Only waypoints in the shown area on the map are shown in the waypoints screen.
+- *Visible part of map*: Only waypoints that are within the bounds of the currently visible part of the main map are shown in the waypoints screen. In constrast to the 'Within selected area' filter, this is a dynamic filter. It changes if you change the position of the map in the main screen.
 - *Custom location*: If you enter a custom location or coordinates only waypoints within a certain distance of the entered location are shown.
 
 
@@ -90,7 +79,7 @@ If you tap it, you could change the current point to:
 
 Filtering on icon
 -----------------
-To filter the waypoints on location, tap the filter button to enable the filter. Then tap the filter description to modify the current filter.
+To filter the waypoints on icon, tap the filter button to enable the filter. Then tap the filter description to modify the current filter.
 Then in the bottom of the filter edit screen, enable filtering on icon:
 
 .. figure:: ../_static/waypoint-search5.png
