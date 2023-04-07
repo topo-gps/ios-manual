@@ -53,7 +53,7 @@ The waypoint that is created from the map is saved on your device and hence will
 
 If you accidentally pressed long on the main map so that an icon appeared, you can drag the icon to the top or bottom of map screen. It will then be removed and the waypoint creation screen will not pop up. Also if you press 'Cancel' in the waypoint creation screen, the waypoint will not be created.
 
-If you have entered a description in the waypoint creation screen, you can view it in the waypoint details screen. The waypoint details screen will be opened by tapping on a waypoint that is loaded on the map.
+If you have entered a description in the waypoint creation screen, you can view it in the :ref:`waypoint details screen <ss-waypoint-details>`. The waypoint details screen will be opened by tapping on a waypoint that is loaded on the map.
 
 .. _ss-waypoint-create-automatic-title:
 
@@ -67,7 +67,7 @@ This also works with characters, if you enter an 'A', the next suggested title w
 
 Setting the icon of a created waypoint
 --------------------------------------
-In the waypoint creation screen you can set the icon of the to be created waypoint. In the example above the selected icon is a red circle. By tapping the another icon, it will be used instead. You can scroll to the list of icons to see more icon suggestions. Only the last used icons are shown in the waypoint creation screen. If you want to use a different icon, you can tap the '>' button on the right hand side. Then the waypoint icons screen will be opened. Here you can choose from many predefined icons, and you can create your own custom icons.
+In the waypoint creation screen you can set the icon of the to be created waypoint. In the example above the selected icon is a red circle. By tapping the another icon, it will be used instead. You can scroll to the list of icons to see more icon suggestions. Only the last used icons are shown in the waypoint creation screen. If you want to use a different icon, you can tap the '>' button on the right hand side. Then the :ref:`waypoint icons screen <ss-waypoint-icons>` will be opened. Here you can choose from many predefined icons, and you can create your own custom icons.
 
 
 .. figure:: ../_static/waypoints-create-map4.png
