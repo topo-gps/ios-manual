@@ -53,7 +53,7 @@ The waypoint that is created from the map is saved on your device and hence will
 
 If you accidentally pressed long on the main map so that an icon appeared, you can drag the icon to the top or bottom of map screen. It will then be removed and the waypoint creation screen will not pop up. Also if you press 'Cancel' in the waypoint creation screen, the waypoint will not be created.
 
-If you have entered a description in the waypoint creation screen, you can view it in the :ref:`waypoint details screen <ss-waypoint-details>`. The waypoint details screen will be opened by tapping on a waypoint that is loaded on the map.
+If you have entered a description in the waypoint creation screen, you can view it in the :ref:`waypoint details screen <ss-waypoint-details>`. The waypoint details screen will be opened if you tap on a waypoint that is loaded on the map.
 
 .. _ss-waypoint-create-automatic-title:
 
