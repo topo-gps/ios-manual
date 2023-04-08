@@ -14,10 +14,10 @@ Alternatively you can open the routes screen by tapping :ref:`Menu <sec-menu>` >
 
    *The routes pop-up (Menu > Routes).*
       
+- *Record a route*: If you tap this item you can :ref:`start or stop a route recording<sec-route-record>`.
+- *Generate a route*: If you tap this item you can :ref:`generate a route <sec-route-generate>`.
+- *Plan a route*: If you tap this item you can :ref:`plan a route <sec-route-plan>`.
+- *Shared routes*: If you tap this item you can find routes shared by other Topo GPS users. You can browse through these routes and import them on your device.
+- *Saved routes*: If you tap this item, the routes screen is opened. This screen shows the routes that are stored on your device locally. Using this screen you can for example :ref:`load routes on the map <sec-routes-load>` and export your routes.
 
-- *Routes*: This tab shows the routes that are locally stored on your device. This tab can be used for :ref:`loading routes on the map <sec-routes-load>` and exporting your routes.
-- *Record*: With this tab you can :ref:`record your route <sec-route-record>`.
-- *Plan*: With this tab you can :ref:`plan a route <sec-route-plan>`.
-- *Generate*: With this tab you can :ref:`generate a route <sec-route-generate>`.
-- *Shared*: This tab shows routes shared by other Topo GPS users. You can browse through these routes and import them on your device.
-
+To quickly interact with the routes pop-up, press the the route button or Menu > Routes, then hold your finger on the screen and move it to the desired item in the pop-up. Then release your finger.
