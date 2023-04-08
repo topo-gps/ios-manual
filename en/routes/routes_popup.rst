@@ -13,7 +13,9 @@ Alternatively you can open the routes screen by tapping :ref:`Menu <sec-menu>` >
    :alt: Routes pop-up Topo GPS
 
    *The routes pop-up (Menu > Routes).*
-      
+   
+The routes pop-up contains the following items:
+
 - *Record route / Stop recording*: If you tap this item you can :ref:`start or stop recording a route <sec-route-record>`.
 - *Generate a route*: If you tap this item you can :ref:`generate a route <sec-route-generate>`.
 - *Plan a route*: If you tap this item you can :ref:`plan a route <sec-route-plan>`.
