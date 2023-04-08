@@ -56,7 +56,7 @@ It is also possible to filter waypoints on location and on the kind of icon. To 
    *A filter is enabled.*
    
 In the figure above you see an example of an enabled filter. Below the search bar on the left hand side you see a description of the currently active filter. 
-Here the waypoints are filtered on location, only waypoints within 100 km of the current location are shown.
+Here the waypoints are filtered on location, only waypoints within 10 km of the current location are shown.
 If you tap the filter description you can modify the current filter. To disable the filter, tap on the filter button.
 
 .. _ss-waypoint-filter-location:
