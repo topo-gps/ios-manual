@@ -7,7 +7,7 @@ Routes can be controlled via the routes pop-up. The routes pop-up can be opened 
 This is the button in the bottom right of the :ref:`main screen <sec-main-screen>`. 
 Alternatively you can open the routes screen by tapping :ref:`Menu <sec-menu>` > Routes.
 
-.. figure:: ../_static/menu-routes.jpg
+.. figure:: ../_static/menu_route.jpg
    :height: 568px
    :width: 320px
    :alt: Routes pop-up Topo GPS
