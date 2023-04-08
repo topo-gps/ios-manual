@@ -2,9 +2,9 @@
 
 Loading routes
 --------------
-To load a route on the map, you first have to open the :ref:`routes screen <sec-routes-screen>` by tapping the :ref:`route button <ss-route-button>` on the dashboard. Then select the tab 'Routes' in the bottom to show the locally saved routes. 
+To load a route on the map, you first have to tap the :ref:`route button <ss-route-button>` on the dashboard or Menu > Routes to open the :ref:`routes pop-up <sec-routes-popup>`. Then tap the 'Saved routes' item to open the saved routes screen. The saved routes screen contains all routes that are locally saved on your device.
 
-An example of the the routes screen that appears is displayed below:
+An example of the the routes screen is displayed below:
 
 .. figure:: ../_static/route-load1.png
    :height: 568px
