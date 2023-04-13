@@ -3,9 +3,9 @@
 Routes pop-up
 =============
  
-Routes can be controlled via the routes pop-up. The routes pop-up can be opened by tapping the :ref:`route button <ss-route-button>` on the dashboad. 
-This is the button in the bottom right of the :ref:`main screen <sec-main-screen>`. 
-Alternatively you can open the routes screen by tapping :ref:`Menu <sec-menu>` > Routes.
+Routes can be created, imported and shown on the map via the routes pop-up. 
+The routes pop-up can be opened by tapping the :ref:`route button <ss-route-button>` on the dashboad. 
+This is the button in the bottom right of the :ref:`main screen <sec-main-screen>`. Alternatively you can open the routes pop-up by tapping :ref:`Menu <sec-menu>` > Routes.
 
 .. figure:: ../_static/menu_route.jpg
    :height: 568px
