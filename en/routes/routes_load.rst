@@ -11,7 +11,7 @@ An example of the the routes screen is displayed below:
    :width: 320px
    :alt: Routes screen Topo GPS
 
-   *An example of the the 'Saved routes' screen.*
+   *An example of the 'Saved routes' screen.*
 
 A list of routes appears in the routes screen. In the example above there are three routes.
 
