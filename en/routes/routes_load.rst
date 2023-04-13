@@ -6,7 +6,7 @@ To load a route on the map, you first have to tap the :ref:`route button <ss-rou
 
 An example of the the routes screen is displayed below:
 
-.. figure:: ../_static/route-load1.png
+.. figure:: ../_static/routes-1.png
    :height: 568px
    :width: 320px
    :alt: Routes screen Topo GPS
@@ -22,7 +22,7 @@ To load a route on the map, you have to tap the title of the preferred route.
 
 As an example we now will load the route ‘Gower Hike’. The result is shown in the figure below.
 
-.. figure:: ../_static/route-load2.jpg
+.. figure:: ../_static/routes-2.jpg
    :height: 568px
    :width: 320px
    :alt: Loading route Topo GPS
@@ -39,7 +39,7 @@ You can alter the color, width, and transparency of the route line in the :ref:`
 
 If you open the :ref:`routes screen <sec-routes-screen>` again, you can see that the ‘Gower Hike’ route has obtained a gray background color, as in the example below:
 
-.. figure:: ../_static/route-load3.png
+.. figure:: ../_static/routes-3.png
    :height: 568px
    :width: 320px
    :alt: Route load Topo GPS
