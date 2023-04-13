@@ -34,7 +34,7 @@ The length on the top right of the :ref:`dashboard <sec-dashboard>` indicates th
 
 If you want to see the route in more detail, you can :ref:`zoom in <ss-map-zoom>` on the map.
 
-If you tap the route line, the route details screen will be opened. In the route details screen you can find more information about the route, like for example the title, description and a height profile.
+If you tap the route line in the main screen, the :ref:`route details screen <sec-route-details>` will be opened. In the route details screen you can find more information about the route, like for example the title, description and a height profile.
 
 You can alter the color, width, and transparency of the route line via Menu > More > :ref:`Settings > Styles <sec-settings-styles>`.
 
