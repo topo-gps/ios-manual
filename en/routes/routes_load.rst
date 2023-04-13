@@ -11,11 +11,11 @@ An example of the the routes screen is displayed below:
    :width: 320px
    :alt: Routes screen Topo GPS
 
-   *An example of the the 'Routes' tab in the routes screen.*
+   *An example of the the 'Saved routes' screen.*
 
 A list of routes appears in the routes screen. In the example above there are three routes.
 
-Directly below the titles of the routes you can see the route type and the length of the route. If the route is recorded, the time is displayed as well. Also it is shown how far away the route is from your current location.
+Directly below the titles of the routes you can see the route type and the length of the route. If the route is recorded, the time is displayed as well. Also the distance of your current location to the start or end point of the route is shown.
 
 To load a route on the map, you have to tap the title of the preferred route. 
 
