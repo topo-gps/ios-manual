@@ -4,7 +4,7 @@ Loading routes
 --------------
 To load a route on the map, you first have to tap the :ref:`route button <ss-route-button>` on the dashboard or Menu > Routes to open the :ref:`routes pop-up <sec-routes-popup>`. Then tap the 'Saved routes' item to open the saved routes screen. The saved routes screen contains all routes that are locally saved on your device.
 
-An example of the the routes screen is displayed below:
+An example of the the saved routes screen is displayed below:
 
 .. figure:: ../_static/routes-1.png
    :height: 568px
@@ -13,9 +13,9 @@ An example of the the routes screen is displayed below:
 
    *An example of the 'Saved routes' screen.*
 
-A list of routes appears in the routes screen. In the example above there are three routes.
+A list of routes is shown in the saved routes screen. In the example above there are three routes.
 
-Directly below the titles of the routes you can see the route type and the length of the route. If the route is recorded, the time is displayed as well. Also the distance of your current location to the start or end point of the route is shown.
+Directly below the titles of the routes you can see the route type and the length of the route. If the route is recorded, the duration is displayed as well. Also the distance of your current location to the start or end point of the route is shown.
 
 To load a route on the map, you have to tap the title of the preferred route. 
 
@@ -34,7 +34,7 @@ The length on the top right of the :ref:`dashboard <sec-dashboard>` indicates th
 
 If you want to see the route in more detail, you can :ref:`zoom in <ss-map-zoom>` on the map.
 
-If you tap the route line in the main screen, the :ref:`route details screen <sec-route-details>` will be opened. In the route details screen you can find more information about the route, like for example the title, description and a height profile.
+If you tap the route line in the main screen, or the info (i) button on the right hand side of the saved routes screen, the :ref:`route details screen <sec-route-details>` will be opened. In the route details screen you can find more information about the route, like for example the title, description and a height profile.
 
 You can alter the color, width, and transparency of the route line via Menu > More > :ref:`Settings > Styles <sec-settings-styles>`.
 
@@ -51,7 +51,7 @@ A gray background color in the routes screen indicates that the route is current
 
 It is also possible to load multiple routes on the map. This can be useful if you want to combine or compare different routes. If you tap another route in the routes screen it will be added to the map, just as the first loaded route. The route line color will be different from the first route. 
 
-It is also possible to load multiple routes at once. For this tap long on a route in the routes screen to :ref:`enable the selection screen <sec-routes-select>`. Then select the desired routes and tap the map icon in the bottom toolbar.
+It is also possible to load multiple routes at once. Tap long on a route in the routes screen to :ref:`enable the selection screen <sec-routes-select>`. Then select the desired routes and tap the map icon in the bottom toolbar.
 
 In the next section it is explained how to :ref:`remove a route from the map <sec-routes-unload>`.
 
