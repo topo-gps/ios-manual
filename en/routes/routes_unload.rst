@@ -8,7 +8,7 @@ Routes screen
 ~~~~~~~~~~~~~
 Tap the route button on the dashboard to open the :ref:`routes screen <sec-routes-screen>`. Then select the tab 'Routes'. An example is shown below:
 
-.. figure:: ../_static/route-load3.png
+.. figure:: ../_static/routes-3.png
    :height: 568px
    :width: 320px
    :alt: Routes screen Topo GPS
