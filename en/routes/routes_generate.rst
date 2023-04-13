@@ -3,7 +3,7 @@
 Generating routes
 =================
 
-Suppose you want to walk or cycle a route of a certain length from a certain point. You could try to :ref:`plan a route <sec-route-plan>`, and by trial and error you will probably end up with a nice round trip route of the desired length. However, in such situation it might be much easier to letting Topo GPS generate a route for you.
+Suppose you want to walk or cycle a route of a certain length from a certain point. You could try to :ref:`plan a route <sec-route-plan>`, and by trial and error you will probably end up with a nice round trip route of the desired length. However, in such situation it might be much easier to let Topo GPS generate a route for you.
 
 Generating a route is the automatic creation of a round-trip route. The only inputs are the starting point, the desired length and the transportation means.
 
@@ -20,12 +20,9 @@ The generated route is shown on the map.
 
 The green point on the map is the start and end point of the route. By pressing long on the green point, you can drag it to another location on the map. Immediately a new route will be generated from the new location.
 
-The slider in the bottom determines the desired length of the route. The desired length is displayed on the right hand side of the slider.
-If you move the slider, a new route will be generated. The actual length of the generated route is displayed above the slider. In the example above, the desired length is 7 km, but the actual length of the generated route is 7.7 km. The desired and actual length, do not always match exactly.
+The slider in the bottom determines the desired length of the route. If you move the slider, a new route will be generated. The desired length is displayed on the right hand side of the slider. The desired and actual length, do not always match exactly. The actual length of the generated route is displayed above the slider. Next to the actual length, you see the total ascent of the route. If you tap it, you can view the :ref:`height profile <sec-route-profiles>` of the generated route.
 
-Next to the actual length, you see the total ascent of the route. If you tap it, you can view the :ref:`height profile <sec-route-profiles>` of the generated route.
-
-Below the slider there is the transportation means button. In the example above it is set to pedestrian. If you tap this button you can change the transportation means to for example 'Bicycle'.
+Below the slider there is the transportation means button. In the example above it is set to 'Pedestrian'. If you tap this button you can change the transportation means to for example 'Bicycle'.
 
 In the bottom there is the 'Generate' button. If you tap it, you will generate a new route. This can be useful if you want to generate another route, but you do not want to change the starting point or the desired length.
 
@@ -57,7 +54,3 @@ If you tap 'Save' on the top right of the route generation screen, the generated
    :alt: Route generation Topo GPS
 
    *The generated route was saved and loaded on the main map.*
-   
-   
-   
-   
