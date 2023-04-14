@@ -3,7 +3,7 @@
 Generating routes
 =================
 
-Suppose you want to walk or cycle a route of a certain length from a certain point. You could try to :ref:`plan a route <sec-route-plan>`, and by trial and error you will probably end up with a nice round trip route of the desired length. However, in such situation it might be much easier to let Topo GPS generate a route for you.
+Suppose you want to walk or cycle a round trip route of a certain length from a certain point. You could try to :ref:`plan a route <sec-route-plan>`, and by trial and error you will probably end up with a nice round trip route of the desired length. However, in such situation it might be much easier to let Topo GPS generate a route for you.
 
 Generating a route is the automatic creation of a round-trip route. The only inputs are the starting point, the desired length and the transportation means.
 
@@ -46,7 +46,7 @@ As an example we now change the desired length to 50 km. A new longer route is g
 
    *A route with a desired length of 50 km has been generated.*
    
-If you tap 'Save' on the top right of the route generation screen, the generated route will be saved on your device, loaded on the map and you will return to the main screen. Below you see the result of saving the first generated route of the examples above:
+If you tap 'Save' on the top right of the route generation screen, the generated route will be saved on your device, loaded on the map and you will return to the main screen. Below you see the result of saving the last generated route of the examples above:
 
 .. figure:: ../_static/route-generate4.jpg
    :height: 568px
