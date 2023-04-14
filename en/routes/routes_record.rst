@@ -4,37 +4,28 @@ Recording routes
 ----------------
 When recording your route all the locations your are visiting are collected. If you finish the recording, you can save the locations as a route.
 
-To record a route you need make sure that Topo GPS is given access to your precise location while using the app in the iOS Settings.
+To record a route you need make sure that Topo GPS is given access to your precise location while using the app in the iOS Settings > Privacy > Location Services > Topo GPS.
 
 Starting a recording
 ~~~~~~~~~~~~~~~~~~~~
-To start a route recording, you have to open the :ref:`routes screen <sec-routes-screen>` and select the tab 'Record'. An example is below:
+To start a route recording, you have to open the :ref:`routes pop-up <sec-routes-popup>` (Menu > Routes) and tap the item 'Record route'. 
+A pop-up will appear in which you are asked whether you want to start a recording as in the example below:
 
 .. figure:: ../_static/route-rec1.png
    :height: 568px
    :width: 320px
    :alt: Record screen Topo GPS
    
-   *The route record screen.*
+   *Starting the recording of a route.*
 
-In the 'Record' tab of the routes screen you can start a route recording by tapping the 'Record route' button.
+If you tap 'Start' in the pop-up, the route recording will be started.
 
-Alternatively, you can also start recording a route from the :ref:`main screen <sec-main-screen>`, by tapping the :ref:`record timer <ss-rec-timer>` on the dashboard. A pop-up will appear in which you are asked whether you want to start a recording as in the example below:
-
-.. figure:: ../_static/route-rec2.png
-   :height: 568px
-   :width: 320px
-   :alt: Record screen Topo GPS
-   
-   *Starting a route recording from the dashboard.*
-
-If you tap 'Start' the route recording will be started.
+Alternatively, you can also start recording a route from the :ref:`main screen <sec-main-screen>`, by tapping the :ref:`record timer <ss-rec-timer>` on the dashboard. 
 
 
 Recording route
 ~~~~~~~~~~~~~~~
-If you have started a recording and return to the main screen, you will see that a red line will appear on the map
-if you are moving. This red line indicates your movement. An example is displayed in the figure below:
+If you have started a recording, you will see that a red line will appear on the map if you are moving. This red line indicates your movement. An example is displayed in the figure below:
 
 .. figure:: ../_static/route-record1.png
    :height: 568px
@@ -49,12 +40,9 @@ In the figure above this is 0h17m. If you tap the timer you can :ref:`end the re
 The :ref:`record distance meter <ss-rec-distance>` on the dashboard indicates
 the length of a recorded route. In the example above this is 778 m. If you tap the record distance meter the map will be zoomed to the recorded route.
 
-You can modify the color, width and transparency of the record line in the 
-:ref:`settings <sec-settings-styles>`.
+You can modify the color, width and transparency of the record line via :ref:`Menu > More > Settings > Styles > Record line <sec-settings-styles>`.
 
-While recording you can safely lock your device or switch to another app.
-This will not interrupt the recording. In the top of the screen you can see that Topo GPS is using your location in the background. 
-In some devices the clock gets a blue background, on other devices the whole status bar turns blue. If you tap the blue clock or the blue statusbar, you will return to Topo GPS.
+While recording you can safely lock your device or switch to another app. This will not interrupt the recording. In the top of the screen you can see that Topo GPS is using your location in the background.  In some devices the clock gets a blue background, on other devices the whole status bar turns blue. If you tap the blue clock or the blue statusbar, you will return to Topo GPS.
 
 If you tap on the line of the recorded route on the main map, the record screen will be opened. You can view a live altitude and speed profile. You can tap these :ref:`profiles <sec-route-profiles>` to view them in more detail. 
 
@@ -70,15 +58,19 @@ If you have :ref:`loaded <sec-routes-load>` one or more routes on the map, you c
 The blue line indicates the loaded route with a length of 1.9 km, the red line the recorded route
 with a length of 778 m.
 
-Recording a route will cost a considerable amount of energy. Therefore regularly check your battery level while recording to make sure your device is not running out of power. Pause or finish a recording when your are no longer moving.
+Recording a route will cost a considerable amount of energy. Therefore regularly check your battery level while recording to make sure your device is not running out of power. Pause or finish a recording when your are no longer moving. On a typical modern iOS device recording costs about 6-8% of battery per hour. With a full good quality battery, it is possible to record a trip of up to 10 - 12 hours long. For longer recordings, you need to recharge your battery, for example with a powerbank.
+
+The amount of battery usage really depends on the quality and size of your battery, and on the other things you are doing while recording. Turning off the screen can make a considerable difference. You could also enable the switch 'Cover camera' in the :ref:`Switching off display section <sec-settings-switching-off-display>` of the settings.
+
+If you have saved the recorded route, you can inspect the amount of battery percentage used in the additional route details screen. To open the additional route details, open the route details screen, and then tap the title section just below the map.
 
 .. _ss-route-record-end:
 
 Ending recording
 ~~~~~~~~~~~~~~~~
-You can end the a recording of a route by tapping the :ref:`record timer <ss-rec-timer>` on the dashboard or by tapping 'Stop recording' in
-the record screen. The record screen can be opened by tapping the line of the recorded route on the map,
-and by selecting the record tab in the :ref:`routes screen <sec-routes-screen>`.
+You can end the a recording of a route by tapping the route button or Menu > Routes to open the routes pop-up.
+Then tap 'Stop recording'. Alternatively, tap the :ref:`record timer <ss-rec-timer>` on the dashboard or tap 'Stop recording' in
+the record screen. The record screen can be opened by tapping the line of the recorded route on the map.
 
 A pop-up will appear asking you to stop the recording like in the example below: 
 
