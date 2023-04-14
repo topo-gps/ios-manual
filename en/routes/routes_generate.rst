@@ -7,7 +7,7 @@ Suppose you want to walk or cycle a route of a certain length from a certain poi
 
 Generating a route is the automatic creation of a round-trip route. The only inputs are the starting point, the desired length and the transportation means.
 
-To generate a route, first open the :ref:`routes pop-up <sec-routes-popup>`. Then tap the item 'Generate route'. The route generation screen will be opened and a route will be immediately generated as in the example below:
+To generate a route, first open the :ref:`routes pop-up <sec-routes-popup>`. Then tap the item 'Generate route'. The route generation screen will be opened and a route will be immediately generated like in the example below:
 
 .. figure:: ../_static/route-generate1.png
    :height: 568px
