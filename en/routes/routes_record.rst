@@ -38,7 +38,7 @@ The :ref:`record timer <ss-rec-timer>` on the dashboard indicates the duration o
 In the figure above this is 1h06m. If you tap the timer you can :ref:`end the recording <ss-route-record-end>`.
 
 The :ref:`record distance meter <ss-rec-distance>` on the dashboard indicates
-the length of a recorded route. In the example above this is 2.1 km. If you tap the record distance meter the map will be zoomed to the recorded route.
+the length of a recorded route. In the example above this is 2.9 km. If you tap the record distance meter the map will be zoomed to the recorded route.
 
 You can modify the color, width and transparency of the record line via :ref:`Menu > More > Settings > Styles > Record line <sec-settings-styles>`.
 
@@ -62,7 +62,7 @@ If you have :ref:`loaded <sec-routes-load>` one or more routes on the map, you c
 
    *Recording and showing a route.*
 
-The blue line indicates the loaded route with a length of 1.9 km, the red line the recorded route with a length of 778 m.
+The blue line indicates the loaded route with a length of 5.1 km, the red line the recorded route with a length of 2.9 km.
 
 Battery usage
 ~~~~~~~~~~~~~
