@@ -11,7 +11,7 @@ Starting a recording
 To start a route recording, you have to open the :ref:`routes pop-up <sec-routes-popup>` (Menu > Routes) and tap the item 'Record route'. 
 A pop-up will appear in which you are asked whether you want to start a recording as in the example below:
 
-.. figure:: ../_static/route-rec1.png
+.. figure:: ../_static/route-record1.jpg
    :height: 568px
    :width: 320px
    :alt: Record screen Topo GPS
@@ -27,7 +27,7 @@ Recording route
 ~~~~~~~~~~~~~~~
 If you have started a recording, you will see that a red line will appear on the map if you are moving. This red line indicates your movement. An example is displayed in the figure below:
 
-.. figure:: ../_static/route-record1.png
+.. figure:: ../_static/route-record2.jpg
    :height: 568px
    :width: 320px
    :alt: Recording route Topo GPS
@@ -46,18 +46,26 @@ While recording you can safely lock your device or switch to another app. This w
 
 If you tap on the line of the recorded route on the main map, the record screen will be opened. You can view a live altitude and speed profile. You can tap these :ref:`profiles <sec-route-profiles>` to view them in more detail. 
 
+.. figure:: ../_static/route-record-screen.png
+   :height: 568px
+   :width: 320px
+   :alt: Recording route Topo GPS
+
+   *The route record screen with live altitude and speed profiles.*
+
 If you have :ref:`loaded <sec-routes-load>` one or more routes on the map, you can record a route at the same time. An example is shown below:
 
-.. figure:: ../_static/route-record3.png
+.. figure:: ../_static/route-record3.jpg
    :height: 568px
    :width: 320px
    :alt: Recording route Topo GPS
 
    *Recording and showing a route.*
 
-The blue line indicates the loaded route with a length of 1.9 km, the red line the recorded route
-with a length of 778 m.
+The blue line indicates the loaded route with a length of 1.9 km, the red line the recorded route with a length of 778 m.
 
+Battery usage
+~~~~~~~~~~~~~
 Recording a route will cost a considerable amount of energy. Therefore regularly check your battery level while recording to make sure your device is not running out of power. Pause or finish a recording when your are no longer moving. On a typical modern iOS device recording costs about 6-8% of battery per hour. With a full good quality battery, it is possible to record a trip of up to 10 - 12 hours long. For longer recordings, you need to recharge your battery, for example with a powerbank.
 
 The amount of battery usage really depends on the quality and size of your battery, and on the other things you are doing while recording. Turning off the screen can make a considerable difference. You could also enable the switch 'Cover camera' in the :ref:`Switching off display section <sec-settings-switching-off-display>` of the settings.
@@ -74,7 +82,7 @@ the record screen. The record screen can be opened by tapping the line of the re
 
 A pop-up will appear asking you to stop the recording like in the example below: 
 
-.. figure:: ../_static/route-record4.png
+.. figure:: ../_static/route-record4.jpg
    :height: 568px
    :width: 320px
    :alt: Stopping route recording Topo GPS
@@ -91,7 +99,7 @@ If you press 'Pause' in the pop-up which appears when :ref:`ending a route recor
 
 The :ref:`record timer <ss-rec-timer>` on the dashboard will be set to '--:--' during a pause. The :ref:`record distance meter <ss-rec-distance>` will show the recorded distance as you can see below:
 
-.. figure:: ../_static/route-record5.png
+.. figure:: ../_static/route-record5.jpg
    :height: 568px
    :width: 320px
    :alt: Pausing route recording Topo GPS
@@ -105,7 +113,7 @@ Restart recording
 To restart a paused recording you have tap :ref:`record timer <ss-rec-timer>` or
 the ‘Restart recording’ button in the top of the record screen. The following pop-up will then appear:
 
-.. figure:: ../_static/route-record6.png
+.. figure:: ../_static/route-record6.jpg
    :height: 568px
    :width: 320px
    :alt: Restarting recorded route Topo GPS
@@ -123,7 +131,7 @@ Saving recording
 If you have :ref:`stopped the recording of a route <ss-route-record-end>` a screen will appear
 in which you can save the recorded route. An example is displayed below:
 
-.. figure:: ../_static/route-rec3.png
+.. figure:: ../_static/route-record7.png
    :height: 568px
    :width: 320px
    :alt: Saving recorded route Topo GPS
