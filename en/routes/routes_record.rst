@@ -62,7 +62,7 @@ If you have :ref:`loaded <sec-routes-load>` one or more routes on the map, you c
 
    *Recording and showing a route.*
 
-On the dashboard the 'dtg' symbol is shown, this is the distance to the end of the blue route, which is 2.1 km in the example above. 
+On the dashboard the 'dtg' symbol is shown, this is the distance to go to the end of the blue route, which is 1.9 km in the example above. 
 The 'rec' symbol on the dashboard indicates the length of the recorded route, which is 2.9 km in the example above. If you tap the 'rec' symbol, the map will be zoomed to the recorded route. If you tap the 'dtg' symbol, the map will be zoomed to the blue route.
 
 Battery usage
