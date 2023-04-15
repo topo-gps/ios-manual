@@ -35,10 +35,10 @@ If you have started a recording, you will see that a red line will appear on the
    *Recording a route. The red line indicates your movement.*
 
 The :ref:`record timer <ss-rec-timer>` on the dashboard indicates the duration of the current recording.
-In the figure above this is 0h17m. If you tap the timer you can :ref:`end the recording <ss-route-record-end>`.
+In the figure above this is 1h06m. If you tap the timer you can :ref:`end the recording <ss-route-record-end>`.
 
 The :ref:`record distance meter <ss-rec-distance>` on the dashboard indicates
-the length of a recorded route. In the example above this is 778 m. If you tap the record distance meter the map will be zoomed to the recorded route.
+the length of a recorded route. In the example above this is 2.1 km. If you tap the record distance meter the map will be zoomed to the recorded route.
 
 You can modify the color, width and transparency of the record line via :ref:`Menu > More > Settings > Styles > Record line <sec-settings-styles>`.
 
