@@ -18,11 +18,11 @@ In the top right of the route details screen a map icon is shown. If you tap the
 
 In the top of the route details screen a map with the route is displayed. The white arrow on the route line indicates the direction of the route.
 
-Directly below the map you can find the title, the route type, length, duration (if the route is recorded), total ascent (if available) and author. If you tap this item, you can view :ref:`additional information about the route <ss-additional-route-details>`.
+Directly below the map you can find the title, the route type, length, duration (if the route is recorded), :ref:`total ascent <ss-total-ascent>` (if available) and author. If you tap this item, you can view :ref:`additional information about the route <ss-additional-route-details>`.
 
 A description and photos will be shown if they are present. If you tap a photo, it will be shown full screen and you can browse through the photos by swiping the photos to the left and right.
 
-Next, if present an altitude/elevation profile, a slope profile, a speed and a distance profile are shown. You can tap these profiles to view the :ref:`profile in more detail <sec-route-profiles>` and obtain additional height and speed information.
+Next, if present an altitude/elevation profile, a slope profile, a speed and a distance profile are shown. You can tap these profiles to view the :ref:`profile in more detail <sec-route-profiles>` and obtain additional height, slope and speed information.
 
 .. figure:: ../_static/route-details2.png
    :height: 568px
