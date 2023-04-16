@@ -152,15 +152,13 @@ If you press the '>' on the right hand side of the title you can add an URL.
 
 If you press the '>' on the right hand side of the author you can add contact information, and copyright and license details. If you save a route also the author and copyright details will be saved for future use. If you record or plan a new route, the same author and copyright details will already be filled in. Therefore you do not have to reenter these details when saving the next recorded route.
 
-You can alter the route type by pressing the route type field. If you save the route, the current route type will be used as a suggestion for the next saved route. If you for example only record bicycles routes you therefore only have to set the route type once.
+You can alter the route type by pressing the route type field. If you save the route, the current route type will be used as a route type suggestion for the next saved route. If you for example only record bicycles routes you therefore only have to set the route type once.
 
-Waypoints that are currently shown on the map can be included with the route by the setting 'Include waypoints'. If you tap this setting you can change it. You can choose between including all waypoints that are on the map, waypoints near the route, waypoints created during recording, and no waypoints. 
-The recommended settings is: 'waypoints created during recording'. Then only waypoints that are loaded on the map and created during the recording will be added to the route. If you choose for waypoints near route, you can determine the maximal distance of the waypoints to the route. Be careful with setting this setting to all waypoints. This might cause adding waypoints which are far a way and hence irrelevant to a route.
+Using the setting 'Include waypoints' you can determine which waypoints that are currently shown on the main screen map will be included in the saved route. By tapping this setting you can choose between: all waypoints that are on the map, waypoints near the route, waypoints created during recording, and no waypoints. We recommend to set 'Include waypoints' to 'waypoints created during recording'. Then only waypoints that are loaded on the map and created during the recording will be added to the route. This ensures no irrelevant waypoints, which for example photo's from another day are added to the route. If you choose for 'waypoints near route', you can determine the maximal distance of the waypoints to the route. Be careful with setting the value to 'All waypoints'. This might cause adding waypoints which are far a way and hence irrelevant to the saved route.
 
-If you are done, you can press 'Save' on the top right to save the recorded route.
-If you do not want to save the route you can press 'Cancel' on the top left.
+If you are done, you can press 'Save' on the top right to save the recorded route. If you do not want to save the route you can press 'Cancel' on the top left.
 
-The route will be saved into the folder that is currently opened in the :ref:`routes tab of the routes screen <sec-routes-load>`.
+The route will be saved into the folder that is currently opened in the :ref:`saved routes screen <sec-routes-load>`.
 
 After you have saved the recorded route, a pop-up will appear that asks you if you would like to share your route with Topo GPS or with another app (for this tap 'More). If you do not want to share the recorded route, you can tap 'Cancel'.
 
@@ -169,7 +167,6 @@ route <ss-routes-import-shared>`.
 
 It is also possible to :ref:`share the recorded route <sec-routes-share-topo-gps>` later.
 
-The screen that appears is the :ref:`route details screen <sec-route-details>`. You can load the 
-recorded route on the map by tapping the 'Show on map’ button on the top right of this screen.
+Immediately after saving the route, the :ref:`route details screen <sec-route-details>` will be shown. Here you can view and edit the details of the route, and load the recorded route on the map by tapping the map button on the top right of this screen.
 
 You can also :ref:`load the recorded route on the map <sec-routes-load>` at a later time.
