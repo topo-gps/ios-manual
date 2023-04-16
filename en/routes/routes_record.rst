@@ -73,7 +73,7 @@ Recording a route will cost a considerable amount of energy. Therefore regularly
 
 The amount of battery usage really depends on the quality and size of your battery, and on the other things you are doing while recording. Turning off the screen can make a considerable difference. You could also enable the switch 'Cover camera' in the :ref:`Switching off display section <sec-settings-switching-off-display>` of the settings.
 
-If you have saved the recorded route, you can inspect the amount of battery percentage used in the additional route details screen. To open the additional route details, open the route details screen, and then tap the title section just below the map.
+If you have saved the recorded route, you can inspect the amount of battery percentage used in the additional route details screen. To open the additional route details, open the :ref:`route details screen <sec-route-details>`, and then tap the title section just below the map.
 
 .. _ss-route-record-end:
 
@@ -156,7 +156,7 @@ If you press the '>' on the right hand side of the author you can add contact in
 
 You can alter the route type by pressing the route type field. If you save the route, the current route type will be used as a route type suggestion for the next saved route. If you for example only record bicycles routes you therefore only have to set the route type once.
 
-Using the setting 'Include waypoints' you can determine which waypoints that are currently shown on the main screen map will be included in the saved route. By tapping this setting you can choose between: all waypoints that are on the map, waypoints near the route, waypoints created during recording, and no waypoints. We recommend to set 'Include waypoints' to 'waypoints created during recording'. Then only waypoints that are loaded on the map and created during the recording will be added to the route. This ensures no irrelevant waypoints, which for example photo's from another day are added to the route. If you choose for 'waypoints near route', you can determine the maximal distance of the waypoints to the route. Be careful with setting the value to 'All waypoints'. This might cause adding waypoints which are far a way and hence irrelevant to the saved route.
+Using the setting 'Include waypoints' you can determine which waypoints that are currently shown on the main screen map will be included in the saved route. By tapping this setting you can choose between: all waypoints that are on the map, waypoints near the route, waypoints created during recording, and no waypoints. The number between parentheses indicate the number of waypoints to be included. We recommend to set 'Include waypoints' to 'waypoints created during recording'. Then only waypoints that are loaded on the map and created during the recording will be added to the route. This ensures no irrelevant waypoints, which for example photo's from another day are added to the route. If you choose for 'waypoints near route', you can determine the maximal distance of the waypoints to the route. Be careful with setting the value to 'All waypoints'. This might cause adding waypoints which are far a way and hence irrelevant to the saved route.
 
 If you are done, you can press 'Save' on the top right to save the recorded route. If you do not want to save the route you can press 'Cancel' on the top left.
 
