@@ -65,9 +65,11 @@ If you have :ref:`loaded <sec-routes-load>` one or more routes on the map, you c
 On the dashboard the 'dtg' symbol is shown, this is the distance to go to the end of the blue route, which is 1.9 km in the example above. 
 The 'rec' symbol on the dashboard indicates the length of the recorded route, which is 2.9 km in the example above. If you tap the 'rec' symbol, the map will be zoomed to the recorded route. If you tap the 'dtg' symbol, the map will be zoomed to the blue route.
 
+While recording a route, every second your location is determined in the most accurate way possible.
+
 Battery usage
 ~~~~~~~~~~~~~
-Recording a route will cost a considerable amount of energy. Therefore regularly check your battery level while recording to make sure your device is not running out of power. Pause or finish a recording when your are no longer moving. On a typical modern iOS device recording costs about 6-8% of battery per hour. With a full good quality battery, it is possible to record a trip of up to 10 - 12 hours long. For longer recordings, you need to recharge your battery, for example with a powerbank.
+Recording a route will cost a considerable amount of energy. Therefore regularly check your battery level while recording to make sure your device is not running out of power. :ref:`Pause <ss-route-record-pause>` or :ref:`finish <ss-route-record-end>` a recording when your are no longer moving. On a typical modern iOS device recording costs about 6-8% of battery per hour. With a full good quality battery, it is possible to record a trip of up to 10 - 12 hours long. For longer recordings, you need to recharge your battery, for example with a powerbank.
 
 The amount of battery usage really depends on the quality and size of your battery, and on the other things you are doing while recording. Turning off the screen can make a considerable difference. You could also enable the switch 'Cover camera' in the :ref:`Switching off display section <sec-settings-switching-off-display>` of the settings.
 
