@@ -2,9 +2,8 @@
 
 Route details
 =============
-By tapping the information button (i) on the right hand side of a route title in :ref:`saved routes screen <sec-routes-load>` (Menu > Routes > Saved routes) the route details screen appears. 
-
-If you have :ref:`loaded a route on the map <sec-routes-load>`, you can also open the route details screen by tapping the route curve in the main screen.
+By tapping the route curve of a route that is loaded on the main screen, the route details screen will be shown.
+You can also open the route details screen by tapping the information button (i) on the right hand side of a route title in :ref:`saved routes screen <sec-routes-load>` (Menu > Routes > Saved routes) and the shared routes screen (Menu > Routes > Shared routes).
 
 An example of the route details screen is shown below.
 
