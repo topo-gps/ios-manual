@@ -4,9 +4,9 @@
 Downloading map tiles of a route
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 You can download the map tiles of a route by scrolling down in the :ref:`route details screen <sec-route-details>` to the section 
-'Tiles on current map'. An example is shown below:
+'Tiles on current map'. The current map is the map currently used in the main screen. If the route does not lie in the coverage region of the map, the 'Tiles on current map' section will not be shown. An example is shown below:
 
-.. figure:: ../_static/route-map-download1.png
+.. figure:: ../_static/route-details2.png
    :height: 568px
    :width: 320px
    :alt: Downloading map tiles of a route Topo GPS
@@ -17,12 +17,6 @@ Tap the ‘Download’ button to start downloading the map tiles. It is recommen
 
 On the download button an estimate of the size of the download and the required amount of storage space is shown.
 
-If you have tapped the download button, the button will indicate how much tiles remain to be downloaded. You can abort downloading by tapping ‘Stop download’. If all map tiles relevant to the route have been downloaded, the button will read ‘Downloaded completely’ as you can see below: 
+If you have tapped the download button, the button will indicate how much tiles remain to be downloaded. You can abort downloading by tapping ‘Stop download’. If all map tiles relevant to the route have been downloaded, the button will read ‘Downloaded completely’.
 
-.. figure:: ../_static/route-map-download2.png
-   :height: 568px
-   :width: 320px
-   :alt: Route details Topo GPS
-
-   *All map tiles relevant to the route have been made offline accessible.*
-
+Although the percentage offline accessible calculation is very reliable, you can always verify if the tiles are really accessible offline. Just put the device to airplane mode, load the route on the main map, and see if all maps around the route are shown.
