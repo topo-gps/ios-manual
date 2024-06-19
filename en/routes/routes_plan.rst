@@ -27,6 +27,8 @@ Next to the undo button, you find the more Button (circle with points, iOS only)
 - *Search*: With this option you can create a route point by entering a location name.
 - *Reset*: This will reset the route planner. The planned route and the route points will disappear.
 
+If there is a route planned, a circle with a cross will appear on the overlay. If you press this button, you will reset the route planner. By tapping the undo button, you can undo a reset action.
+
 To save a planned route, you have to press :ref:`'Save' <ss-route-plan-save>` button on the top right of the screen. 
 To share the planned route, you can tap the export icon left of the save button.
 
