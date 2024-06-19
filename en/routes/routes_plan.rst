@@ -2,7 +2,7 @@
 
 Planning routes
 ---------------
-Planning a route is creating a route between several locations for a means of transportation. These locations are called route points in Topo GPS. The route points have to be manually created by pressing long on the map. An alternative to route planning is :ref:`route generation <sec-route-generate>`. With route generation you do not have to create route points, but you only have to give a starting point and a desired length.
+Planning a route is creating a route between two or more locations. These locations are called route points in Topo GPS. The route points have to be manually created by pressing long on the map. An alternative to route planning is :ref:`route generation <sec-route-generate>`. With route generation you do not have to create route points, but you only have to give a starting point and a desired length.
 
 The route planner can be opened by first opening the :ref:`routes pop-pup <sec-routes-popup>` (Menu > Routes). Then tap the 'Plan a route' item. (In MacOS tap the 'Plan' mode selector on the top of the window, or Command-K'). An example of the route planner screen is shown below:
 
@@ -13,12 +13,12 @@ The route planner can be opened by first opening the :ref:`routes pop-pup <sec-r
    
    *The route planner with no route planned.*
 
-In the bottom of the screen you find an overlay with a search bar, the :ref:`current means of transportation <ss-route-plan-transportation-means>` and several buttons which you can use to control the route planner.
+In the route planner screen you can find an overlay. In this overlay the :ref:`transportation means button <ss-route-plan-transportation-means>` is displayed,
+and there are several other buttons that you can use to control the route planner.
 
 To zoom the map to your location, you can tap the position button in the bottom left of the overlay.
 
-To undo an action you have to press the ‘Undo’ button (circle with return arrow) in the planner. You can undo all actions in the planner until the
-undo button becomes light blue.
+To undo an action you have to press the ‘Undo’ button (circle with return arrow) in the overlay. You can undo all actions in the planner until the undo button becomes light blue.
 
 Next to the undo button, you find the more Button (circle with points, iOS only). If you tap the more button a menu will appear with the following options:
 
@@ -27,7 +27,8 @@ Next to the undo button, you find the more Button (circle with points, iOS only)
 - *Search*: With this option you can create a route point by entering a location name.
 - *Reset*: This will reset the route planner. The planned route and the route points will disappear.
 
-To save a planned route, you have to press :ref:`'Save' <ss-route-plan-save>` button on the top right. To share the planned route, you can tap the export icon left of the save button.
+To save a planned route, you have to press :ref:`'Save' <ss-route-plan-save>` button on the top right of the screen. 
+To share the planned route, you can tap the export icon left of the save button.
 
 You can obtain more information about the route planner, by pressing 'Planner: Copyright', in the top left of the route planner screen.
 
@@ -35,13 +36,14 @@ You can obtain more information about the route planner, by pressing 'Planner: C
 
 Transportation means
 ~~~~~~~~~~~~~~~~~~~~
-To plan a route, first check the transportations means in the bottom center. In the example above, it is set to 'Walking'.
+To plan a route, first check the current transportations means in the overlay. In the example above, it is set to 'Walking'.
 By tapping 'Walking' a screen will appear in which you can change the transportation means to for example 'Bicycling', 'Car' or 'Crow fly (straight line)'.
 
 If you plan a route with the transportation means 'Crow fly' or using a layer, you can do this without an internet connection. 
 For the other ways of transportation an internet connection is required, because the routes are calculated externally. 
 
-Next to the transportation means there is a settings icon. If you tap this icon you can fine tune the behavior of the transportation means. For example for 'Walking' you can enable or disable the following options: Prefer more scenic roads, prefer paved roads, prefer unpaved roads, avoid hills, avoid stairs, and avoid ferries. Depending on the settings the route will be optimized. Enabling any of these options could result in a longer route.
+On the right hand side of the transportation means button there is a settings icon. 
+If you tap this icon you can fine tune the behavior of the transportation means. For example for 'Walking' you can enable or disable the following options: Prefer more scenic roads, prefer paved roads, prefer unpaved roads, avoid hills, avoid stairs, and avoid ferries. Depending on the settings the route will be optimized. Enabling any of these options could result in a longer route.
 
 Adding route points
 ~~~~~~~~~~~~~~~~~~~
