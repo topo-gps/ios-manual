@@ -78,7 +78,7 @@ If you release the moved route point, the new route will be calculated automatic
 as you can see in the figure below: 
 
 .. figure:: ../_static/route-plan-rp2.png
-   :height: 480px
+   :height: 568px
    :width: 320px
    :alt: Route plan Topo GPS move route point.
 
