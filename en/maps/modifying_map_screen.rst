@@ -11,6 +11,7 @@ Scroll
 ~~~~~~
 To scroll the map you have to hold a finger on the map. When you move your finger, the map will be moved as well. You can also move the map by making a quick swipe with your finger on the map.
 
+For MacOS, you can scroll by pressing and holding the mouse button or trackpad button and moving around. Or put two fingers on the trackpad and move around. Or use the arrow keys. For the last option, the map has to have focus. This can be changed by pressing the tab key.
 
 .. _ss-map-zoom:
 
@@ -26,6 +27,13 @@ swap this in the via :ref:`Menu <sec-menu>` > More > Settings > :ref:`Single tap
 You can also change there bottom/top into left/right.
 
 At some point it is not possible to zoom in further. If you want to enable additional zoom, you can do this by enabling the setting :ref:`Menu > More > Settings > Map > Additional zoom in <sec-settings-map>`. The drawback is that then map will become grainy when zoomed in far.
+
+
+For MacOS, you can zoom with two fingers just like in iOS if you have a trackpad. You can also zoom using the keyboard. It is then important that the map has focus. Please press the 'tab' key to change focus. Using the keyboard you can zoom in the following ways:
+
+- Command +, Command -. Or + - keys. You can tap it one time, but also hold it to zoom further.
+- Option key + arrow up, arrow down
+- Press and hold shift and press and hold mouse button / trackpad button and move up or down.
 
 .. _ss-map-center:
 
@@ -50,6 +58,8 @@ Centering the map on your location only works if you have given Topo GPS access 
 Go to Settings > Privacy > Location services > Topo GPS.
 
 If you have centered the map on your location, the position marker icon on the dashboard will be changed to a rotation icon.
+
+If you use a keyboard you can also tap 'c' to center the map.
 
 .. _ss-map-rotate:
 
@@ -84,7 +94,7 @@ If you move the map or zoom with two fingers automatic rotation will be switched
 
 Manual rotation
 ***************
-If you put two fingers on the screen and make a rotation gesture by moving on of the fingers, the map will be rotated around the point that lies in between the two fingers. An example of a rotated map is displayed in figure above. You can rotate the map in every desired direction. 
+If you put two fingers on the screen and make a rotation gesture by moving the two finger clockwise or counter-clockwise, the map will be rotated around the point that lies in between the two fingers. An example of a rotated map is displayed in figure above. You can rotate the map in every desired direction. 
 
 If the map is rotated, an north arrow will appear on the top left of the screen. This arrow indicates the direction of the true north on the map. If you press this arrow the rotation will be cancelled.
 
@@ -92,6 +102,26 @@ If you zoom the map or move the map the map stays rotated.
 
 Manual rotation can be cancelled by pressing the north arrow. It is also possible to undo the rotation by manually rotating back to the normal situation.
 
+On MacOS, you can only rotate the map if you have a trackpad.
+
+Selecting part of map
+~~~~~~~~~~~~~~~~~~~~~
+If you press and hold two fingers simulatenously on the map a gray overlay will appear between the two fingers. If you move your fingers around you can change the size and position of this overlay. In MacOS, press and hold the command key and press and hold the trackpad or mouse button and move the pointer.
+
+If you release your fingers you have selected a part of the map indicated by the overlay area. Now a pop-up will automatically appear. In this pop-up you have the following options:
+
+- *Zoom*: This will zoom the map to the selected area.
+- *Export*: This allows you to share the points and routes shown on the map in the selected area. You can also use it to share a map of the selected area.
+- *Print*: With this option you can print the selected area. 
+- *Saved routes*: This will show you your saved routes which has either a start or end point or both in the selected area.
+- *Waypoints*: This will show you the list of waypoints in the selected area.
+
+.. figure:: ../_static/main_map_selected.png 
+   :height: 568px
+   :width: 320px
+   :alt: Selected map Topo GPS
+
+   *A part of the map is selected.*
 
 Long press
 ~~~~~~~~~~
