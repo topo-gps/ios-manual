@@ -19,6 +19,8 @@ If you are using Topo GPS during the night, it might be better to set the map st
 
 It is also possible to change the map style directly on the main screen via :ref:`Menu > Maps <sec-menu>`. Tap 'change to dark/light map' in the pop-up that appears. 
 
+.. _ss-settings-lines:
+
 Record, plan and route lines
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 To change the color of the record, plan or route line, tap the corresponding item in the 'Styles' section of the :ref:`settings <ss-settings>`.
