@@ -106,8 +106,7 @@ On MacOS, you can only rotate the map if you have a trackpad.
 
 Selecting part of map
 ~~~~~~~~~~~~~~~~~~~~~
-If you press and hold two fingers simulatenously on the map a gray overlay will appear between the two fingers. If you move your fingers around you can change the size and position of this overlay. In MacOS, press and hold the command key and press and hold the trackpad or mouse button and move the pointer.
-
+If you press and hold two fingers simulatenously on the map a gray overlay will appear between the two fingers. If you move your fingers around you can change the size and position of this overlay. In MacOS, press and hold the command key and press and hold the trackpad or mouse button and move the pointer.t
 If you release your fingers you have selected a part of the map indicated by the overlay area. Now a pop-up will automatically appear. In this pop-up you have the following options:
 
 - *Zoom*: This will zoom the map to the selected area.
@@ -116,7 +115,7 @@ If you release your fingers you have selected a part of the map indicated by the
 - *Saved routes*: This will show you your saved routes which has either a start or end point or both in the selected area.
 - *Waypoints*: This will show you the list of waypoints in the selected area.
 
-.. figure:: ../_static/main_map_selected.png 
+.. figure:: ../_static/main_map_select.png 
    :height: 568px
    :width: 320px
    :alt: Selected map Topo GPS
