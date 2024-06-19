@@ -4,17 +4,18 @@ Planning a route by manually creating route points on the map
 =============================================================
 
 To plan a route by manually creating route points on the map, first open the :ref:`route planner <sec-route-plan>`.
-If a route is present, tap More > Reset to reset the route planner.
+If a route is present, tap the button with the cross to reset the route planner.
 
-If you press long on the map, a route point will appear. If you hold you finger on the map, you can drag the route point to the desired position. If you then release your finger, the route point will be positioned.
-An example is displayed below:
+If you press long on the map, a route point will appear. If you hold you finger on the map, you can drag the route point to the desired position. If you then release your finger, the route point will be positioned. On Mac-OS, you also could press Command-A to add a route point at the position of the pointer.
+
+An example with one route point added to the map is displayed below:
 
 .. figure:: ../_static/route-plan-map1.png
    :height: 568px
    :width: 320px
    :alt: Route planner Topo GPS add route point.
    
-   *A route point is added manually to the map.*
+   *A single route point is added manually to the map.*
 
 The added route point is colored green. The green color indicates that the route point is selected.
 
@@ -27,11 +28,11 @@ You can add a second route point by pressing long on the map. This one will be c
 
    *A route is planned between two manually added route points.*
 
-By planning a route the route points will be moved automatically to the closest road.
+By planning a route the route points will be moved automatically to the closest known road.
 
 By releasing the blue route point, it will be selected automatically and colored green. The originally selected route point will be deselected and becomes orange.
 
-The length of the planned route is indicated on the route planner overlay in the bottom. If you tap the length, the map will zoom to the planned route.
+The length of the planned route is indicated in the route planner overlay in the bottom. If you tap the length, the map will zoom to the planned route. Also the total ascent is shown in the overlay. If you tap the total ascent, you can view a height profile of the planned route.
 
 To extend the route you have to add a third route point, by pressing long on the map. An example is displayed below:
 
@@ -45,7 +46,7 @@ To extend the route you have to add a third route point, by pressing long on the
 
 Planning a round-trip
 ~~~~~~~~~~~~~~~~~~~~~
-To plan a round trip, you first have to add several route points as in the example above. Then tap the first route point. A pop-up will appear in which you are asked to to plan to or select the start point. Tap 'Plan to start point' and the route will be closed, as you can see in the example below:
+To plan a round trip, you first have to create several route points as in the example above. Then tap the first route point. A pop-up will appear in which you are asked to to plan to or select the start point. If you tap 'Plan to start point' the route will be closed, as you can see in the example below:
 
 .. figure:: ../_static/route-plan-map4.png
    :height: 568px
@@ -74,8 +75,7 @@ The route point will become green. Next, you press long on the selected route po
 
    *Moving a route point.*
 
-If you release the moved route point, the new route will be calculated automatically
-as you can see in the figure below: 
+If you release the moved route point, the new route will be calculated automatically as you can see in the figure below: 
 
 .. figure:: ../_static/route-plan-rp2.png
    :height: 568px
@@ -88,9 +88,7 @@ as you can see in the figure below:
 
 Inserting route points
 ~~~~~~~~~~~~~~~~~~~~~~
-To insert a route point in between two existing route points, you first have to
-:ref:`select <ss-route-point-select>` the route point that lies just before the route point
-that you intend to insert.
+To insert a route point in between two existing route points, you first have to :ref:`select <ss-route-point-select>` the route point that lies just before the route point that you intend to insert.
 
 If the selected route point is not the last route point, you will 
 see a purple route point. That is the route point that directly follows
@@ -122,7 +120,7 @@ If the new route has been computed, the inserted route point will be automatical
 and colored green.
 
 It is also possible to insert a route point on the current route. Press long on the route, a new blue route point will appear. 
-If you move your finger around, the new route point will move along the route. If you release your finger, the route point will be inserted.
+If you move your finger around, the new route point can be moved along the route line only. If you release your finger, the route point will be inserted.
 
 
 .. _ss-route-point-remove:
@@ -136,18 +134,17 @@ You will see that the route point disappears. An example is displayed below:
 .. figure:: ../_static/route-plan-rp5.png
    :height: 568px
    :width: 320px
-   :alt: Routeplanner Topo GPS routepunt toevoegen.
+   :alt: Route planner topo gps remove point.
   
    *Removing a route point by dragging it to the top or bottom of the screen.*
 
-If you have dragged the route point to the route plan window you can release it. The
-route point will be removed and the route will be recalculated as you can see
-below:
+If you have dragged the route point to the bottom or top of the screen you can release it. The
+route point will be removed and the route will be recalculated as you can see below:
 
 .. figure:: ../_static/route-plan-rp6.png
    :height: 568px
    :width: 320px
-   :alt: Routeplanner Topo GPS routepunt toevoegen.
+   :alt: Route planner topo gps removing point.
 
    *The route after removing a route point.*
 
