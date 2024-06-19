@@ -32,6 +32,8 @@ If there is a route planned, a circle with a cross will appear on the overlay. I
 To save a planned route, you have to press :ref:`'Save' <ss-route-plan-save>` button on the top right of the screen. 
 To share the planned route, you can tap the export icon left of the save button.
 
+In the Topo GPS settings you can modify the :ref:`style of the planned route line <ss-settings-lines>`.
+
 You can obtain more information about the route planner, by pressing 'Planner: Copyright', in the top left of the route planner screen.
 
 .. _ss-route-plan-transportation-means:
