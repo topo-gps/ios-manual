@@ -11,6 +11,7 @@ select routes and perform one of the following actions on the selected routes:
 - Export selected routes
 - Load selected routes on the map
 - Remove selected routes from the map
+- Merge selected routes
 
 Selecting routes is similar to :ref:`selecting waypoints <ss-waypoints-select>`.
 
@@ -65,3 +66,6 @@ in the toolbar on the bottom of the screen. The toolbar buttons are from left to
 - *More button*: If you press the more button in the bottom toolbar, a menu will appear from which you can choose the following actions:
 
   - *Remove from map*: If you press this button, the selected routes will be removed from the map.
+  - *Merge*: If you press this button, the selected routes will be merged into a new route. A screen will be displayed in which you can choose a title. If you press 'Save' the merged route will be created.
+  
+  
