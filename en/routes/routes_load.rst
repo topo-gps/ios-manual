@@ -34,9 +34,12 @@ The length on the top right of the :ref:`dashboard <sec-dashboard>` indicates th
 
 If you want to see the route in more detail, you can :ref:`zoom in <ss-map-zoom>` on the map.
 
+If you are following a route, it possible to get a notification when you accidentally leave the route that you are following. This is useful, because you will be noticed in time that you are going in the wrong direction. For this, you need to enable the option 'Notifications - Deviate from route warning' in the Topo GPS Settings. Next you need to allow Topo GPS to send notifications in the device settings. Also we would advise you to :ref:`record <sec-route-record>` you route, so that you can also get a notification when the app is in the background.
+Notifications are send only once if you deviate from a route more than 25 m.
+
 If you tap the route line in the main screen, or the info (i) button on the right hand side of the saved routes screen, the :ref:`route details screen <sec-route-details>` will be opened. In the route details screen you can find more information about the route, like for example the title, description and a height profile.
 
-You can alter the color, width, and transparency of the route line via Menu > More > :ref:`Settings > Styles <sec-settings-styles>`.
+You can alter the color, width, and transparency of the route line in the :ref:`route details screen <sec-route-details>` by tapping Edit > Edit line style.
 
 If you open the :ref:`routes screen <sec-routes-screen>` again, you can see that the loaded route has obtained a gray background color, as in the example below:
 
