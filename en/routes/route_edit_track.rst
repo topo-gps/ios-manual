@@ -1,7 +1,8 @@
 .. _sec-route-edit-track:
 
 Editing route track
-~~~~~~~~~~~~~~~~~~~~
+===================
+
 To replace a part of a route, first :ref:`load the route in the route planner <ss-route-track-edit>` as explained above. 
 
 As an example we will now change the ‘Gower Hike’ so that the middle part of the route will go over the ‘Gower Way’. Initially the route looks as follows:
