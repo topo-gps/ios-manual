@@ -10,11 +10,11 @@ The route will be loaded into the route planner in a special way, as is in the e
 .. figure:: ../_static/route-shorten1.png
    :height: 568px
    :width: 320px
-   :alt: Editing route track Topo GPS
+   :alt: Shortening route Topo GPS
 
    *A route that needs to be shortened.*
    
-To shorten the route, you have first to press long on the first or the last point of the route. Then hold your finger on the screen and move the point. The point can only be moved along the route. If you release your finger the route will be shortened as in the example below:
+To shorten the route, first press long on the first or the last point of the route. Hold your finger on the screen and move the point to the desired location. The point can only be moved along the route. If you release your finger the route will be shortened as in the example below:
 
 .. figure:: ../_static/route-shorten2.png
    :height: 568px
