@@ -20,8 +20,8 @@ In Topo GPS you can :ref:`import <sec-routes-import>`, :ref:`plan <sec-route-pla
    downloading_route_maps
    route_profiles
    routes_edit
-   routes_extending
-   routes_shortening
+   route_extending
+   route_shortening
    route_edit_track
    routes_merging
    routes_remove
