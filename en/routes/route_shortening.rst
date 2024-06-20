@@ -1,5 +1,5 @@
 
-.. _ss-route-edit-shorten:
+.. _sec-route-shorten:
 
 Shortening a route
 ~~~~~~~~~~~~~~~~~~
