@@ -2,23 +2,39 @@
 
 Extending a route
 =================
-To extend a route, first :ref:`load the route in the route planner <ss-route-track-edit>` as explained above. 
+To extend a route, first go to the route details screen and tap :ref:`Edit <ss-route-edit> > Edit route track` in the bottom right of the screen.
 
+The route will be loaded in the route planner. Make sure that the transportation means is set correctly.
 
-Then tap the last route point so that it becomes selected and green. 
-You can now can add a route point by pressing long on the map. A blue route point will appear.
-As long as you hold your finger on the map, you can drag the blue 
-route point to the desired location. If you release your finger a route
-will be drawn from the green route point to the added route point. The added
+Extending route at end
+----------------------
+To extend a route at the end, tap the last route point so that it becomes selected and green. 
+You can now can add a route point by pressing long on the map. A blue route point will appear as in the example below:
+
+.. figure:: ../_static/route-extend1.png
+   :height: 568px
+   :width: 320px
+   :alt: Extending route Topo GPS
+
+As long as you hold your finger on the map, you can drag the blue route point to the desired location. 
+
+If you release your finger a route will be drawn from the green route point to the added route point. The added
 route point will be selected and colored green. An example of extending the route in the figure above
 is shown below.
 
-.. figure:: ../_static/route-edit3.png
+.. figure:: ../_static/route-extend2.png
    :height: 568px
    :width: 320px
    :alt: Extending route Topo GPS
 
    *The route is extended to the added route point.*
 
-You can now save the extended route by pressing ‘Save’ in the route planner 
-window. A saved route will be always stored as a new route.
+If you wish you can extend the route even more by adding more route points.
+
+You can now save the extended route by pressing ‘Save’ in the top right of the screen. A saved route will be always stored as a new route.
+
+Extending route at beginning
+----------------------------
+To extend the route at the beginning is a little bit more complicated. Please move the map to the start point. Then reset the route planner, so that the route is now no longer loaded. Plan the desired first part. Then once done, tap the 'More' icon in the planner overlay and select 'Add route'. Tap the route, and choose 'Join to planner', so that the route is now loaded into the planner. If the starting points do not match yet, you could move the last added route point so that it falls on top of the route.
+
+You can now save the extended route by pressing ‘Save’ in the top right of the screen.
