@@ -1,4 +1,4 @@
-.. _ss-map-select:
+.. _ss-map-print:
 
 Printing maps
 =============
