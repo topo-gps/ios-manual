@@ -3,7 +3,7 @@
 Route profiles
 ==============
 
-When height information is available you can find a altitude or elevation, and a slope profile by scrolling down in the :ref:`route details screen <sec-route-details>`. When timing information is available you can also find a speed and a distance profile in the :ref:`route details screen <sec-route-details>`. When :ref:`recording a route <sec-route-record>`, you can tap the route line of the recorded route to open the record screen. There you also find an altitude and a speed profile. When :ref:`planning a route <sec-route-plan>` or :ref:`generating a route <sec-route-generate>`, you can tap the 'Total ascent' label to see the elevation profile of the planned route.
+When height information is available you can find a altitude or elevation, and a slope profile by scrolling down in the :ref:`route details screen <sec-route-details>`. When timing information is available you can also find a speed and a distance profile in the :ref:`route details screen <sec-route-details>`. When :ref:`recording a route <sec-route-record>`, you can tap the route line of the recorded route to open the record screen. There you also find an altitude and a speed profile. When :ref:`planning a route <sec-route-plan>` or :ref:`generating a route <sec-route-generate>`, you can tap the 'Total ascent' label to see the elevation and slope profiles of the planned route.
 
 .. figure:: ../_static/route-profile1.png
    :height: 568px
