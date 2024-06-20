@@ -3,7 +3,7 @@
 
 Shortening a route
 ==================
-To shorten a route, first go to the route details screen and tap :ref:`Edit <ss-route-edit> > Edit route track` in the bottom right of the screen.
+To shorten a route, first go to the route details screen and tap :ref:`Edit > Edit route track <ss-route-edit>` in the bottom right of the screen.
 
 The route will be loaded into the route planner in a special way, as is in the example below
 
