@@ -8,7 +8,7 @@ If you release your fingers you have selected a part of the map indicated by the
 
 - *Zoom in*: This will zoom the map to the selected area.
 - *Export*: This allows you to share the points and routes shown on the map in the selected area. You can also use it to share a map of the selected area.
-- *Print*: With this option you can print the selected area. 
+- *Print*: With this option you can :ref:`print the map in the selected area <ss-map-print>`. 
 - *Saved routes*: This will show you your saved routes which have either the start or end point or both in the selected area.
 - *Waypoints*: This will show you the list of waypoints in the selected area.
 
