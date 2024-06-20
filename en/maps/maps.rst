@@ -9,6 +9,8 @@ The :ref:`main screen <sec-main-screen>` of Topo GPS shows the main map. In this
 
    modifying_map_screen
    maps_popup
+   selecting_map
+   printing_map
    map_legend
    map_copyright
    offline_maps
