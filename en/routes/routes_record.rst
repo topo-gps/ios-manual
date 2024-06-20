@@ -73,7 +73,7 @@ Recording a route will cost a considerable amount of energy. Therefore regularly
 
 The amount of battery usage really depends on the quality and size of your battery, and on the other things you are doing while recording. Turning off the screen can make a considerable difference. You could also enable the switch 'Cover camera' in the :ref:`Switching off display section <sec-settings-switching-off-display>` of the settings.
 
-If you have saved the recorded route, you can inspect the amount of battery percentage used in the additional route details screen. To open the additional route details, open the :ref:`route details screen <sec-route-details>`, and then tap the title section just below the map.
+If you have saved the recorded route, you can inspect the amount of battery percentage used in the :ref:`additional route details screen <ss-additional-route-details>`. To open the additional route details, open the :ref:`route details screen <sec-route-details>`, and then tap the title section just below the map.
 
 .. _ss-route-record-end:
 
