@@ -35,6 +35,6 @@ You can now save the extended route by pressing ‘Save’ in the top right of t
 
 Extending route at beginning
 ----------------------------
-To extend the route at the beginning is a little bit more complicated. Please move the map to the start point. Then reset the route planner, so that the route is now no longer loaded. Plan the desired first part. Then once done, tap the 'More' icon in the planner overlay and select 'Add route'. Tap the route, and choose 'Join to planner', so that the route is now loaded into the planner. If the starting points do not match yet, you could move the last added route point so that it falls on top of the route.
+To extend the route at the beginning is a little bit more complicated. Please move the map to the start point of the route. Then reset the route planner, so that the route is now no longer loaded. Plan the desired first part to the start point of the original route. Then once done, tap the 'More' icon in the planner overlay and select 'Add route'. Choose the original route, and choose 'Join to planner', so that the original route is now added to the planner. If the starting points do not match yet, you could move the last added route point so that it falls on top of the route.
 
 You can now save the extended route by pressing ‘Save’ in the top right of the screen.
