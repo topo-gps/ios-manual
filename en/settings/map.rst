@@ -3,7 +3,7 @@
 Map
 ===
 
-In the section 'Map' of the ref:`settings <ss-settings>` you find the switch 'Additional zoom in'.
+In the section 'Map' of the :ref:`settings <ss-settings>` you find the switch 'Additional zoom in'.
 If you enable this switch you can zoom in the map up to 8 times as far as without enabling it.
 The drawback is that the maps will become grainy when zoomed in that far.
 
