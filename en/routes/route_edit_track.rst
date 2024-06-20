@@ -1,4 +1,4 @@
-.. _ss-route-edit-replace:
+.. _sec-route-edit-track:
 
 Editing route track
 ~~~~~~~~~~~~~~~~~~~~
