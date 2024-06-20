@@ -1,7 +1,7 @@
 
 
 
-.. _ss-route-track-edit:
+.. _sec-route-extend:
 
 Editing route track
 ~~~~~~~~~~~~~~~~~~~
