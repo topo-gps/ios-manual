@@ -7,8 +7,8 @@ To edit the route track, first go to the route details screen and tap :ref:`Edit
 
 The route will be loaded in into the route planner in this way.
 
-In the previous sections, it was explained how to extend and shorten a route. Here we will discuss the more general situation in which we will change the middle part of a route.
-
+In the previous sections, it was explained how to :ref:`extend a route <sec-route-extend>` and to :ref:`shorten a route <sec-route-shorten>`. 
+Below we will discuss the more general situation in which we will change the middle part of a route.
 
 As an example we will now change the ‘Gower Hike’ so that the middle part of the route will go over the ‘Gower Way’. Initially the route looks as follows:
 
