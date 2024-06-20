@@ -59,3 +59,5 @@ If you tap on the title section just below the map, in the :ref:`route details s
 In the additional route details screen, also the exact time and date of a start and finish of a recording is shown. If you tap one of these items, a graph of the distance versus time is shown, together with a map. Here you can read off every timestamp of every point on a recorded route. The time is displayed in the time zone used on the device.
 
 If you have shared a route with Topo GPS, a special section about shared routes will appear in the additional route details screen. Here you can remove the shared route by tapping 'Remove shared route', and confirming the removal. Other users can then no longer download this shared route, but it will remain stored on your device.
+
+If you have recorded the route on this device, the battery usage of your device during the recording is also shown. Especially the percentage consumed per hour could be useful to know.
