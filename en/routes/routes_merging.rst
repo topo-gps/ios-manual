@@ -1,4 +1,4 @@
-.. _ss-route-edit-merge:
+.. _sec-routes-merge:
 
 Merging routes
 ~~~~~~~~~~~~~~
