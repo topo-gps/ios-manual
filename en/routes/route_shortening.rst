@@ -3,33 +3,26 @@
 
 Shortening a route
 ==================
-To shorten a route, first :ref:`load the route in the route planner <ss-route-track-edit>` as explained above. 
-As an example we want to shorten the following route:
+To shorten a route, first go to the route details screen and tap :ref:`Edit <ss-route-edit> > Edit route track` in the bottom right of the screen.
 
-.. figure:: ../_static/route-edit4.png
+The route will be loaded into the route planner in a special way, as is in the example below
+
+.. figure:: ../_static/route-shorten1.png
    :height: 568px
    :width: 320px
    :alt: Editing route track Topo GPS
 
    *A route that needs to be shortened.*
    
-We want to start the route in Baylham Stone. Press long on the route to insert a route point on the route. When you move your finger the route point will move on the route. Move the route point to Baylham Stone and release your finger. 
+To shorten the route, you have first to press long on the first or the last point of the route. Then hold your finger on the screen and move the point. The point can only be moved along the route. If you release your finger the route will be shortened as in the example below:
 
-.. figure:: ../_static/route-edit5.png
+.. figure:: ../_static/route-shorten2.png
    :height: 568px
    :width: 320px
    :alt: Shortening route Topo GPS
 
-   *The green route point is inserted into the route.*
+   *A route that is shortened by moving both the start and end point.*
 
-Next you have to press long on the first route point, drag it to the bottom or top of the screen and release your finger. The first route point will be removed and the route will be shortened from the inserted route point to the last route point. This is illustrated in the figure below:
- 
-.. figure:: ../_static/route-edit6.png
-   :height: 568px
-   :width: 320px
-   :alt: Shortening route Topo GPS
+If you have shortened the route, the original route is shown on the map with a lighter color. You can correct the shortening by moving the first or last route point again.
 
-   *The first route point has been removed and the route is shortened.*
-
-You can now save the shortened route by tapping ‘Save’ on the top right. 
-
+If you are ready shortening the route you can press 'Save' to save the shortened route as a new route.
