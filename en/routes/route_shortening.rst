@@ -2,7 +2,7 @@
 .. _sec-route-shorten:
 
 Shortening a route
-~~~~~~~~~~~~~~~~~~
+==================
 To shorten a route, first :ref:`load the route in the route planner <ss-route-track-edit>` as explained above. 
 As an example we want to shorten the following route:
 
