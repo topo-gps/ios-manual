@@ -14,7 +14,7 @@ If you want to have content on the printed map, like a route, points, or a layer
 
 If the print button is pressed, in both cases a print pop-up appears, like in the figure below:
 
-.. figure:: ../_static/print_popup.png
+.. figure:: ../_static/print-popup.png
    :height: 568px
    :width: 320px
    :alt: Print pop-up Topo GPS
@@ -32,20 +32,20 @@ In the print pop-up you can set the following options:
 
 If you have set the options in the print pop-up, tap 'Proceed' on the bottom right. Then the printed maps will be generated. This can take a while (be patient) because sometimes map tiles need to be downloaded. After the printed pages are ready, the system print dialog will appear automatically, as in the figure below:
 
-.. figure:: ../_static/print_dialog.png
+.. figure:: ../_static/print-dialog.png
    :height: 568px
    :width: 320px
    :alt: Print pop-up Topo GPS
    
    *The print dialog.*
 
-Before you start printing, it is _very_important_ to make sure that the paper size in the system print dialog is set to the same paper size in the print pop-up. Otherwise parts of the maps could be missing, or the map will not be printed at the scale you inteneded. If you have verified this, you could press 'Print'. Or press the 'Export' icon to save the to be printed pages as a PDF.
+Before you start printing, it is *very important* to make sure that the paper size in the system print dialog is set to the same paper size in the print pop-up. Otherwise parts of the maps could be missing, or the map will not be printed at the scale you inteneded. If you have verified this, you could press 'Print'. Or press the 'Export' icon to save the to be printed pages as a PDF.
 
 Make sure to obey the licensing constraints of a printed map. Some printed maps may only be used for personal purposes. Most printed maps have a open data licenses, which implies that they can be shared freely. But also then, always make sure the copright notice on the bottom left hand side of the printed map stays visible.
 
 Sometimes a map may not be printed due to copyright reasons. In that case the printed map will be the OpenStreetMap.
 
-
+The printed map always contains a red arrow. This arrow points to the true geographic north. This differs from the magnetic north to which a magnetic compass is pointing.
 
 
 
