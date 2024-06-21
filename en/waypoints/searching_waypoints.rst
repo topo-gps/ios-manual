@@ -10,7 +10,7 @@ In the waypoints screen (Menu > Waypoints) you can search waypoints by :ref:`ent
 
 Searching waypoints with keywords
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-If you enter a keyword in the search bar on the top of the waypoins screen only waypoints will be shown which have the keyword in its title, description, street, town, province, two character iso country code, or zip code. Search is case insensitive.  If you search in a folder, also all search results in descendant folders will be displayed. If a :ref:`filter <ss-waypoint-filter>` is applied, the search will restrict itself to the filtered waypoints.
+If you enter a keyword in the search bar on the top of the waypoins screen, only waypoints will be shown which have the keyword in its title, description, street, town, province, two character iso country code, or zip code. Search is case insensitive.  If you search in a folder, also all search results in descendant folders will be displayed. If a :ref:`filter <ss-waypoint-filter>` is applied, the search will restrict itself to the filtered waypoints.
 
 Below an example is shown in which 'stone' was entered in the search bar. Only the 'Stonehenge' waypoint is shown.
 
@@ -24,8 +24,7 @@ Below an example is shown in which 'stone' was entered in the search bar. Only t
 
 Sorting waypoints
 ~~~~~~~~~~~~~~~~~
-Below the folder/filter bar below the search bar, the current sort method is displayed in the middle.
-If you tap the sort button you can change the current sort method between:
+Below the folder/filter bar, the current sort method is displayed in the middle. If you tap the sort button you can change the current sort method between:
 
 - *Customizable order*: The waypoints are sorted in customizable order. If you did not change the order manually, the most recent added waypoints are on top.
 - *Closest on top*: The waypoints are sorted according to their distance to your current location, the closest is on top.
@@ -46,7 +45,7 @@ If you tap the sort button you can change the current sort method between:
 
 Filtering waypoints
 ~~~~~~~~~~~~~~~~~~~
-It is also possible to filter waypoints on location and on the kind of icon. To enable a filter, tap the filter button in the waypoints screen (just below the search bar on the right hand side). If the filter is enabled, the filter button has a blue background, as in the figure below. If the filter is disabled, only the edge of the filter button is blue, as in the figure above.
+It is possible to filter waypoints on location and on the kind of icon. To enable a filter, tap the filter button in the waypoints screen (just below the search bar on the right hand side). If the filter is enabled, the filter button has a blue background, as in the figure below. If the filter is disabled, only the edge of the filter button is blue, as in the figure above.
 
 .. figure:: ../_static/waypoint-search3.png
    :height: 568px
@@ -55,8 +54,7 @@ It is also possible to filter waypoints on location and on the kind of icon. To 
   
    *A filter is enabled.*
    
-In the figure above you see an example of an enabled filter. Below the search bar on the left hand side you see a description of the currently active filter. 
-Here the waypoints are filtered on location, only waypoints within 10 km of the current location are shown.
+In the figure above you see an example of an enabled filter. Below the search bar on the left hand side you see a description of the currently active filter. Here the waypoints are filtered on location, only waypoints within 10 km of the current location are shown.
 If you tap the filter description you can modify the current filter. To disable the filter, tap on the filter button.
 
 .. _ss-waypoint-filter-location:
@@ -83,7 +81,7 @@ Below the slider, the point is displayed. If you tap it, you could change the cu
 - *Custom location*: If you enter a custom location or coordinates only waypoints within a certain distance of the entered location are shown.
 
 
-If you choose 'Within selected area', a map will be shown, which you can scroll and zoom to determine the area. An example is shown below:
+If you choose 'Within selected area', a map with a gray overlay will be shown as in the figure below:
 
 .. figure:: ../_static/waypoint-search7.png
    :height: 568px
@@ -91,6 +89,8 @@ If you choose 'Within selected area', a map will be shown, which you can scroll 
    :alt: Waypoint search Topo GPS
   
    *Setting a 'Within selected area' filter.*
+
+The gray overlay area indicates the area the filtered waypoints must lie in. You can resize the size of the overlay area with two fingers, and you can zoom, rotate and move the map to determine the exact filtered area.
 
 If this filter is applied, only waypoints in the selected area in the 'Edit filter' screen will be shown in the waypoint screen as in the example below:
 
@@ -100,6 +100,9 @@ If this filter is applied, only waypoints in the selected area in the 'Edit filt
    :alt: Waypoint search Topo GPS
   
    *Only waypoints within a selected area are shown.*
+
+
+To view all waypoints in a certain area, it is also possible to :ref:`select part of the map <ss-map-select>` and tap 'Waypoints' in the pop-up.
 
 .. _ss-waypoint-filter-icon:
 
