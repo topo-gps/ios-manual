@@ -8,7 +8,9 @@ Measuring distances and angles
 Map ruler
 ~~~~~~~~~
 To measure distances and angles between two points in the main map screen you can use the map ruler. 
-To show the map ruler, first press long on the map until the icon for waypoint creation appears. Then add a second finger (possibly with your other hand). Immediately a ruler will be shown between the two fingers. If you move your fingers around you can change the start and endpoint of the ruler. 
+To show the map ruler, first press long on the map until the icon for waypoint creation appears. Then add a second finger (possibly with your other hand). Immediately a ruler will be shown between the two fingers. On MacOS tap the ruler icon on the top right of the window.
+
+If you move your fingers around you can change the start and endpoint of the ruler. 
 If you put the start or end point near a waypoint or your current location, it will snap to it automatically. If you release your fingers, the ruler will remain at its location. An example of the ruler is shown in the figure below:
 
 .. figure:: ../_static/map-ruler1.png
