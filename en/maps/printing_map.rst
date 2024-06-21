@@ -10,7 +10,7 @@ Moving the fingers can change the selection. If you release your fingers, tap 'P
 
 Alternatively, if you want to print the area which is currently visible in the maps screen, you could tap Menu > Maps > Print map. On MacOS you could also press Command-P.
 
-If you want to have content on the printed map, like a route, points, or a layer first load the contents on the main map, and then tap the print button. It might be also useful to add a coordinates grid, in order to be able to read off and find coordinates on the printed map.
+If you want to display content on the printed map, like a route, points, or a layer, first load the contents on the main map. Then tap the print button. It might be also useful to add a coordinates grid, in order to be able to read off and find coordinates on the printed map.
 
 If the print button is pressed, in both cases a print pop-up appears, like in the figure below:
 
