@@ -3,7 +3,7 @@
 Changing current map
 ====================
 
-To change the current map, tap Menu > Maps to open the :ref:`maps pop-up <ss-maps-popup>`.
+To change the current map, tap Menu > Maps to open the :ref:`maps pop-up <ss-maps-popup>`. In MacOS tap Control-0.
 
 If there are alternative maps available for the current visible area in the main screen, they are shown in the bottom of the maps pop-up. Tapping them immediately switches the map. If you tap 'More maps' in the maps pop-up, the maps screen will be opened. Here (:ref:`Menu <sec-menu>` > Maps) you can also change the current map and :ref:`purchase additional maps <sec-purchase-maps>`.
 
@@ -40,6 +40,7 @@ In the example above, the OpenStreetMap map was :ref:`purchased <sec-purchase-ma
 
 If the newly chosen map has coverage in the previously shown area, the newly opened map is zoomed to the previously shown area. Otherwise, the newly opened map is zoomed to the area it covers.
 
+In MacOS you can also press Control-2 to switch to an alternative topographic map of the region, Control-3 to OpenStreetMap, Control-4 to aerial imagery, and Control-1 back to the topographic map.
 
 Scrolling out of covered area
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
