@@ -90,7 +90,7 @@ If you choose 'Within selected area', a map with a gray overlay will be shown as
   
    *Setting a 'Within selected area' filter.*
 
-The gray overlay area indicates the area the filtered waypoints must lie in. You can resize the size of the overlay area with two fingers, and you can zoom, rotate and move the map to determine the exact filtered area.
+The gray overlay area indicates the area the filtered waypoints must be located in. You can resize the size of the overlay area with two fingers, and you can zoom, rotate and move the map to change the area.
 
 If this filter is applied, only waypoints in the selected area in the 'Edit filter' screen will be shown in the waypoint screen as in the example below:
 
@@ -102,7 +102,7 @@ If this filter is applied, only waypoints in the selected area in the 'Edit filt
    *Only waypoints within a selected area are shown.*
 
 
-To view all waypoints in a certain area, it is also possible to :ref:`select part of the map <ss-map-select>` and tap 'Waypoints' in the pop-up.
+To view all waypoints in a certain area, it is also possible to :ref:`select part of the main map <ss-map-select>` and tap 'Waypoints' in the pop-up.
 
 .. _ss-waypoint-filter-icon:
 
