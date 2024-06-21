@@ -35,3 +35,5 @@ To close the menu you have to swipe the dashboard downwards. You can also tap th
    :alt: Closed menu Topo GPS
 
    *The closed menu.*
+
+On MacOS, this menu does not exist. Instead the system menu which is in the top of the screen can be used.
