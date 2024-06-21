@@ -39,7 +39,7 @@ If you have set the options in the print pop-up, tap 'Proceed' on the bottom rig
    
    *The print dialog.*
 
-Before you start printing, it is *very important* to make sure that the paper size in the system print dialog is set to the same paper size in the print pop-up. Otherwise parts of the maps could be missing, or the map will not be printed at the scale you inteneded. If you have verified this, you could press 'Print'. Or press the 'Export' icon to save the to be printed pages as a PDF.
+Before you start printing, it is *very important* to make sure that the paper size in the system print dialog is set to the same paper size used in the print pop-up. Otherwise parts of the maps could be missing, or the map will not be printed at the scale you intended. If you have verified this, you could press 'Print'. Or press the 'Export' icon to save the to be printed pages as a PDF.
 
 Make sure to obey the licensing constraints of a printed map. Some printed maps may only be used for personal purposes. Most printed maps have a open data licenses, which implies that they can be shared freely. But also then, always make sure the copright notice on the bottom left hand side of the printed map stays visible.
 
