@@ -14,7 +14,7 @@ There is also an `Android version of the Topo GPS manual <https://www.topo-gps.c
 Contents:
 
 .. toctree::
-   :maxdepth: 3 
+   :maxdepth: 4 
    
    main/main_screen
    maps/maps
