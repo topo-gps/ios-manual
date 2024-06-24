@@ -90,7 +90,7 @@ If you choose 'Within selected area', a map with a gray overlay will be shown as
   
    *Setting a 'Within selected area' filter.*
 
-The gray overlay area indicates the area the filtered waypoints must be located in. You can resize the size of the overlay area with two fingers, and you can zoom, rotate and move the map to change the area.
+The gray overlay area indicates the area the filtered waypoints must be located in. You can resize the overlay by holding one finger and moving up-down or left-right, and you can zoom, rotate and move the map to change the selected area.
 
 If this filter is applied, only waypoints in the selected area in the 'Edit filter' screen will be shown in the waypoint screen as in the example below:
 
