@@ -59,7 +59,7 @@ To plan a round trip, you first have to create several route points as in the ex
 
 Selecting route points
 ~~~~~~~~~~~~~~~~~~~~~~
-You can select a route point by tapping it. The tapped route point will become green. A route point that immediately follows a selected route point will be colored purple. In this way you can always recover the direction of the route. All other route points will be colored orange.
+You can select a route point by tapping (pressing shortly) a route point. The tapped route point will become green. A route point that immediately follows a selected route point will be colored purple. In this way you can always recover the direction of the route. All other route points will be colored orange.
 
 .. _ss-route-point-move:
 
