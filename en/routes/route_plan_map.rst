@@ -88,12 +88,10 @@ If you release the moved route point, the new route will be calculated automatic
 
 Inserting route points
 ~~~~~~~~~~~~~~~~~~~~~~
-To insert a route point in between two existing route points, you first have to :ref:`select <ss-route-point-select>` the route point that lies just before the route point that you intend to insert.
+To insert a route point in between two existing route points, you first have to :ref:`select <ss-route-point-select>` the route point that lies just before the route point that you intend to insert. To select the route point, you just have to tap it (press shortly).
 
-If the selected route point is not the last route point, you will 
-see a purple route point. That is the route point that directly follows
-the green route point. An inserted route point will be inserted between
-the green and the purple point.
+If the selected route point is not the last route point, you will  see a purple route point. That is the route point that directly follows
+the green route point. An inserted route point will be inserted between the green and the purple point.
 
 If you press long on the map, a blue route point will appear. If you
 hold your finger on the map, you can drag this point to
