@@ -3,7 +3,7 @@
 Editing route track
 ===================
 
-To edit the route track, first go to the route details screen and tap :ref:`Edit > Edit route track <ss-route-edit>` in the bottom right of the screen.
+To edit the route track, first open the :ref:`route details screen <ss-route-details>`. Then tap :ref:`Edit > Edit route track <ss-route-edit>` in the bottom right of the screen.
 
 The route will be loaded in into the route planner in this way.
 
