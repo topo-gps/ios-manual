@@ -3,7 +3,7 @@
 Editing route track
 ===================
 
-To edit the route track, first open the :ref:`route details screen <ss-route-details>`. Then tap :ref:`Edit > Edit route track <ss-route-edit>` in the bottom right of the screen.
+To edit the route track, first open the :ref:`route details screen <sec-route-details>`. Then tap :ref:`Edit > Edit route track <ss-route-edit>` in the bottom right of the screen.
 
 The route will be loaded in into the route planner in this way.
 
@@ -48,5 +48,4 @@ By pressing long on the green route point you can drag it to the bottom or the t
 
    *The northern part of the 'Gower Hike' route is replaced.*
 
-You can now save the shortened route by pressing ‘Save’ in the route planner 
-window.
+You can now save the shortened route by pressing ‘Save’ in the route planner window.
