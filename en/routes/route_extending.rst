@@ -35,6 +35,24 @@ You can now save the extended route by pressing ‘Save’ in the top right of t
 
 Extending route at beginning
 ----------------------------
-Extending the route at the beginning is a little bit more complicated. Please move the map to the start point of the route. Then reset the route planner, so that the route is no longer loaded. Plan the desired first part to the start point of the original route. Once done, tap the 'More' icon in the planner overlay and select 'Add route'. Choose the original route, and choose 'Join to planner', so that the original route will be added to the planner. 
+To extend a route at the beginning, select the first route point by tapping it so that it becomes green. Then tap the first route point a second time, so that it becomes purple as in the figure below:
+
+.. figure:: ../_static/route-extend3.png
+   :height: 568px
+   :width: 320px
+   :alt: Extending route Topo GPS
+
+   *The first route point is purple.*
+
+Then add a new route point by pressing long on the map. A route will be drawn from the added point to the original starting point. 
+
+.. figure:: ../_static/route-extend4.png
+   :height: 568px
+   :width: 320px
+   :alt: Extending route Topo GPS
+
+   *The route is extended at the beginning.*
+
+The added point will automatically be colored purple after the route has appeared. You can then continue adding route points to extend the route at the beginning further.
 
 You can now save the extended route by pressing ‘Save’ in the top right of the screen.
