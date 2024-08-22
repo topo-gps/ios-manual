@@ -29,11 +29,12 @@ You can also change there bottom/top into left/right.
 At some point it is not possible to zoom in further. If you want to enable additional zoom, you can do this by enabling the setting :ref:`Menu > More > Settings > Map > Additional zoom in <sec-settings-map>`. The drawback is that then map will become grainy when zoomed in far.
 
 
-On MacOS, you can zoom with two fingers just like in iOS if you have a trackpad. You can also zoom using the keyboard. It is then important that the map has focus. Please press the 'tab' key to change focus. Using the keyboard you can zoom in the following ways:
+On MacOS, you can zoom with two fingers just like in iOS if you have a trackpad. You can also zoom using the keyboard. It is then important that the map has focus. Please press the 'tab' key to change focus. Using the keyboard you can zoom in and out in the following ways:
 
 - Command +, Command -. Or + - keys. You can tap it one time, but also hold it to zoom further.
 - Option key + arrow up, arrow down
 - Press and hold shift and press and hold the mouse button / trackpad button and move up or down.
+- Double tap (zoom in), hold the option key and double tap (zoom out).
 
 .. _ss-map-center:
 
