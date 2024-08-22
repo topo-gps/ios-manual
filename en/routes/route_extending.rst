@@ -55,4 +55,4 @@ Then add a new route point by pressing long on the map. A route will be drawn fr
 
 The added point will automatically be colored purple after the route has appeared. You can then continue adding route points to extend the route at the beginning further.
 
-You can now save the extended route by pressing ‘Save’ in the top right of the screen.
+If you are ready editing the route you can tap ‘Save’ in the top right of the screen.
