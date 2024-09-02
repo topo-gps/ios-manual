@@ -51,7 +51,7 @@ Adding route points
 ~~~~~~~~~~~~~~~~~~~
 To plan a route you need to add route points. You can add route points in three ways:
 
-- By pressing long on the map and dragging the icon to the desired location. If you are using MacOS you can lso put the pointer on the desired location and press Command-A.
+- By pressing long on the map and dragging the icon to the desired location. If you are using MacOS you can also put the pointer on the desired location and press Command-A.
 - By entering a location in the search bar of the route planner overlay.
 - By tapping waypoints, the position marker, or nodes from a node network.
 
