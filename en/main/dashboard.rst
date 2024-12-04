@@ -46,8 +46,7 @@ are three panels
 The circles below the panel indicate the selected panel. By swiping a panel with one finger to the left or
 the right you can load the next or previous panel.
 
-The units of the meters on the dashboard can be changed via :ref:`
-Menu > More > Settings > Units <sec-settings-units>`. You can choose between metric, imperial, and nautical units.
+The units of the meters on the dashboard can be changed via :ref:`Menu > More > Settings > Units <sec-settings-units>`. You can choose between metric, imperial, and nautical units.
 
 .. _ss-hiking-panel:
 
