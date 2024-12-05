@@ -1,6 +1,7 @@
 .. meta::
    :description: Manual of the topographic maps navigation app Topo GPS.
 
+
 #ifdef APPLE
 Topo GPS manual iOS
 ===================
