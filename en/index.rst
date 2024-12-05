@@ -1,7 +1,7 @@
 .. meta::
    :description: Manual of the topographic maps navigation app Topo GPS.
 
-#APPLE#
+#ifdef APPLE
 Topo GPS manual iOS
 ===================
 
@@ -12,9 +12,9 @@ The Topo GPS app can be installed for free from the `Apple AppStore <https://app
 and `Google Play store <https://play.google.com/store/apps/details?id=uk.rdzl.topo.gps>`__.
 
 There exists also an `Android version of the Topo GPS manual <https://www.topo-gps.com/android/en/manual/html>`_.
-#/APPLE#
+#endif
 
-<ANDROID>
+#ifdef ANDROID
 Topo GPS manual Android
 ========================
 
@@ -24,7 +24,7 @@ The complete manual can also be downloaded in `PDF format <https://www.topo-gps.
 
 The Topo GPS app can be installed for free from the `Apple AppStore <https://apps.apple.com/gb/app/topo-gps/id578960575?mt=8>`__ 
 and `Google Play store <https://play.google.com/store/apps/details?id=uk.rdzl.topo.gps>`__.
-</ANDROID>
+#endif
 
 Contents:
 
