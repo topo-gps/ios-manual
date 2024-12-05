@@ -1,10 +1,5 @@
 .. meta::
-<APPLE>
-   :description: Manual of the topographic maps navigation app Topo GPS, iPhone/iPad/Apple Watch version.
-</APPLE>
-<ANDROID>
-   :description: Manual of the topographic maps navigation app Topo GPS, iPhone/iPad/Apple Watch version.
-</ANDROID>
+   :description: <APPLE>Manual of the topographic maps navigation app Topo GPS, iPhone/iPad/Apple Watch version.</APPLE><ANDROID>Manual of the topographic maps navigation app Topo GPS, iPhone/iPad/Apple Watch version.</ANDROID>
 
 <APPLE>
 Topo GPS manual iOS
@@ -18,6 +13,7 @@ and `Google Play store <https://play.google.com/store/apps/details?id=uk.rdzl.to
 
 There exists also an `Android version of the Topo GPS manual <https://www.topo-gps.com/android/en/manual/html>`_.
 </APPLE>
+
 <ANDROID>
 Topo GPS manual Android
 ========================
