@@ -1,5 +1,5 @@
 .. meta::
-   :description: <APPLE>Manual of the topographic maps navigation app Topo GPS, iPhone/iPad/Apple Watch version.</APPLE><ANDROID>Manual of the topographic maps navigation app Topo GPS, iPhone/iPad/Apple Watch version.</ANDROID>
+   :description: Manual of the topographic maps navigation app Topo GPS.
 
 <APPLE>
 Topo GPS manual iOS
