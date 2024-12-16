@@ -3,8 +3,8 @@
 Searching addresses and places
 ==============================
 
-To search addresses and places you first have to open the search screen via :ref:`Menu <sec-menu>` > Search.
-Then select the ‘Address’ tab above the keyboard.
+To search addresses and places you first have to open the search pop-up via :ref:`Menu <sec-menu>` > Search.
+Then tap the the item ‘Search place or address’.
 
 A screen will appear in which you can enter addresses and place names. 
 
@@ -35,6 +35,7 @@ An example is shown below:
 
 In the settings (Menu > More > Settings) you can control whether used search results are automatically saved as a waypoint. The default setting is not to save automatically in order not to clutter your list of waypoint with search results. If you want to save search result as a waypoint, you could tap it to open the :ref:`waypoint details screen <ss-waypoint-details>`. There you can tap 'Save' in the bottom right to save the search result.
 
+<APPLE>
 Loading all search results
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 You can also search on a keyword, like for example ‘Pub’.  The results that appear in the list depend on 
@@ -89,10 +90,11 @@ If you press ‘Show on map’ on the bottom right the selected items will be lo
    :alt: Searching address Topo GPS
 
    *Two selected search results have been loaded on the map.*
+</APPLE>
 
 Removing search results from the map
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-To remove a single search result from the map, tap the search result to open the :ref:`waypoint details screen <ss-waypoint-details>`. Then tap 'Remove from map' in the top of the screen. To remove all search results from the map at once, tap :ref:`Menu <sec-menu>` > Search. Select the 'Address' tab and tap More (top right) > Remove all from map.
+To remove a single search result from the map, tap the search result to open the :ref:`waypoint details screen <ss-waypoint-details>`. Then tap the remove from map icon in the top right of the screen. To remove all search results from the map at once, tap :ref:`Menu <sec-menu>` > Search. Select the 'Address' tab and tap More (top right) > Remove all from map.
 
 Search result details
 ~~~~~~~~~~~~~~~~~~~~~
