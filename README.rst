@@ -7,7 +7,7 @@ The Android version of the manual can be viewd https://www.topo-gps.com/android/
 Android / iOS-MacOS
 -------------------
 The source files of the manual are universal. The manual generator makes a special version for Android and Apple OS.
-To add text specific for the Android or the Apple platform, surround text with <ANDROID> </ANDROID> or <APPLE> </APPLE>.
+To add text specific to the Android or the Apple platform, surround text with <ANDROID> </ANDROID> or <APPLE> </APPLE>.
 
 
 Updating the manual
