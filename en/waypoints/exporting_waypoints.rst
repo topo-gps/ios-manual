@@ -24,8 +24,13 @@ In the export pop-up you can select the kind of data that will be exported. The 
 - *Photos*: If you include 'Photos' the photos of the waypoint(s) will be exported as well. This item is not available if there are no photos. If you have enabled compression in the :ref:`export settings <ss-waypoints-export-settings>` the photos are included in the zip file or kmz file.
 - *Map*: If you include 'Map' a map of the waypoint(s) will be exported. The pixel size of the map and the data format are displayed in the subtitle. You can change the pixel size and the data format in the :ref:`export settings <ss-waypoints-export-settings>`. If you enable the switch 'Annotate map' you can draw remarks on the map before sharing the exported map.
 
-After you have selected the kind of data to be exported you can press 'Export' in the bottom of the export pop-up to export the waypoint(s). Then a regular iOS pop-up will show up in which you can pick an app to send the exported data to. For example, iMessage to send the waypoint to a friend, or the files app to save the waypoint on the cloud.
-
+After you have selected the kind of data to be exported you can press 'Export' in the bottom of the export pop-up to export the waypoint(s). 
+<APPLE>
+Then a regular iOS pop-up will show up in which you can pick an app to send the exported data to. For example, iMessage to send the waypoint to a friend, or the files app to save the waypoint on the cloud.
+</APPLE>
+<ANDROID>
+Then a regular Android share pop-up will show up in which you can pick an app to send the exported data to. Sometimes not all apps are shown in the share pop-up. Then you could try to tap 'Open in other app' instead of 'Export'.
+</ANDROID>
 
 .. _ss-waypoints-export-settings:
 
