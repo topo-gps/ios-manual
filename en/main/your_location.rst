@@ -20,6 +20,7 @@ The default position marker icon is red, you can :ref:`change it to another colo
 
 To center the map on your location, tap the center button on the left hand side of the :ref:`dashboard <sec-dashboard>`.
 
+<APPLE>
 Recommended iOS Settings
 ------------------------
 To enable location access for Topo GPS, first make sure that iOS Settings > Privacy > Location Services is enabled. Then in the
@@ -27,6 +28,17 @@ same screen give Topo GPS access to precise location while using the app. Or go 
 
 It is also recommended to go to iOS Settings > Privacy > Location Services > Scroll to bottom > System and 
 enable the settings 'Compass calibration' and 'Movement and distance calibration'.
+</APPLE>
+
+<ANDROID>
+Recommended Android Settings
+----------------------------
+To enable location access for Topo GPS, first go in the Android settings app to Apps > Topo GPS > Permissions.
+Here enable the location permission. And enable 'Use precise location' as well.
+
+For best performance with recording routes it is recommended to enable notifications in Apps > Topo GPS > Permissions > Notifications 
+for the Topo GPS route recorder. Also 'Allow background battery usage' in Apps > Topo GPS > App battery usage.
+</ANDROID>
 
 .. _ss-current-location-screen:
 
@@ -97,6 +109,7 @@ By pressing 'Share' on the bottom left of the current location screen you can sh
 
 
 
+<APPLE>
 Current location quick actions
 ------------------------------
 If you press long on the position marker icon, a quick actions screen will appear.
@@ -109,4 +122,4 @@ If you press long on the position marker icon, a quick actions screen will appea
    *The quick actions for your current location.* 
 
 In the quick actions screen for the current location you can choose to view the details, to share your current location, to create a waypoint at your current location, or to save the current location as a waypoint.   
-
+</APPLE>
