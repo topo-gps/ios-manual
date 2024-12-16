@@ -23,4 +23,6 @@ In the waypoints screen (:ref:`Menu <sec-menu>` > Waypoints) you can do all sort
    searching_waypoints
    exporting_waypoints
    importing_waypoints
+<APPLE>
    ../routes/routes_synchronize_icloud
+</APPLE>
