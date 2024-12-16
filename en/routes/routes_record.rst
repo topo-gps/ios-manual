@@ -7,6 +7,14 @@ When recording your route all the locations your are visiting are collected. If 
 <APPLE>
 To record a route you need make sure that Topo GPS is given access to your precise location while using the app in the iOS Settings > Privacy > Location Services > Topo GPS.
 </APPLE>
+<ANDROID>
+To record your route, you need to make sure that Topo GPS is given access to your precise location and that Topo GPS is allowed to use your battery in the background.
+
+To enable location access for Topo GPS, first go in the Android settings app to Apps > Topo GPS > Permissions. Here enable the location permission. Enable 'Use precise location' as well. Also 'Allow background battery usage' in Apps > Topo GPS > App battery usage.
+
+For best performance with recording routes it is also recommended to enable notifications in Apps > Topo GPS > Permissions > Notifications 
+for the Topo GPS route recorder. 
+</ANDROID>
 
 Starting a recording
 ~~~~~~~~~~~~~~~~~~~~
