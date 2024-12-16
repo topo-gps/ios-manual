@@ -121,19 +121,19 @@ The :ref:`record timer <ss-rec-timer>` on the dashboard will be set to '--:--' d
    
 .. _ss-record-restart:
 
-Restart recording
-~~~~~~~~~~~~~~~~~
-To restart a paused recording you have tap :ref:`record timer <ss-rec-timer>` or
-the ‘Restart recording’ button in the top of the record screen. The following pop-up will then appear:
+Resume recording
+~~~~~~~~~~~~~~~~
+To resume a paused recording you have tap :ref:`record timer <ss-rec-timer>` or
+the ‘Resume recording’ button in the top of the record screen. The following pop-up will then appear:
 
 .. figure:: ../_static/route-record6.jpg
    :height: 568px
    :width: 320px
    :alt: Restarting recorded route Topo GPS
 
-   *Restarting the recording of a route.*
+   *Resuming the recording of a route.*
 
-If you press 'Restart' the recording will be continued. If you press 'Stop'
+If you press 'Resume' the recording will be continued. If you press 'Stop'
 the recording of a route will be finished and you will be
 given the possibility to :ref:`save the recorded route <ss-record-save>`.
 
