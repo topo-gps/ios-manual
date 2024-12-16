@@ -8,7 +8,7 @@ Topo GPS supports the global WGS84 decimal, WGS84 degree minutes, WGS84 degree m
 
 In Topo GPS you can view the coordinates of a :ref:`point on the map on the dashboard <ss-coordinate-panel>`. You can view the coordinates of a waypoint in the :ref:`waypoint details screen <ss-waypoint-details>`. It is also possible to :ref:`add a coordinate grid layer to the map <sec-coordinate-grids>`.
 
-:ref:`Entering coordinates <sec-entering-coordinates>` in various formats is possible via :ref:`Menu <sec-menu>` > Search > Coordinates. If you have printed coordinates you can also :ref:`scan the coordinates <sec-scanning-coordinates>` via :ref:`Menu <sec-menu>` > Search > Camera.
+:ref:`Entering coordinates <sec-entering-coordinates>` in various formats is possible via :ref:`Menu <sec-menu>` > Search > Enter Coordinates. If you have printed coordinates you can also :ref:`scan the coordinates <sec-scanning-coordinates>` via :ref:`Menu <sec-menu>` > Search > Scan coordinates.
 
 To set the shown coordinate systems, go to :Menu > More > Settings > Coordinates > :ref:`Displayed coordinate systems <sec-settings-coordinates>`.
 
