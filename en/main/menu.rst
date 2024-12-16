@@ -25,7 +25,9 @@ The menu contains the following items:
 - :ref:`Camera <sec-camera>` - If you tap this button, the camera will be opened. If you take a photo a waypoint will be created at your current location and the photo will be added to this waypoint.
 - More - If you tap this item the more popup will be shown. Via the more popup you can import files, open the :ref:`settings <ss-settings>` screen, and the Topo GPS info screen.
 
+<APPLE>
 To quickly access an item in the maps (or other) popup, you just have to tap the maps (or other) button, hold the finger on the screen, and then move it upwards to the popup item you want to use. Then release your finger. 
+</APPLE>
 
 To close the menu you have to swipe the dashboard downwards. You can also tap the handle bar on the top of the dashboard. If the menu is closed the main screen looks as follows:
 
