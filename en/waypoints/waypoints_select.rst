@@ -77,11 +77,17 @@ If you have selected the waypoints you can perform an action with one of the but
 
 - *Share button*: If you tap this button the :ref:`export pop-up <ss-waypoints-exporting>` will be shown. In this pop-up you can select the kind of data to be exported and change the export settings. If you press 'Export' in the export pop-up the selected waypoints will be exported. Another pop-up with apps and actions will be shown. If you tap an app or action, the result of the export will be handled by the app or action.
 
-- *More button*: If you tap the more button in the bottom toolbar, a menu will appear from which you can choose the following actions:
-  - *Trash button*: If you tap this button a pop-up will ask to to whether you would like to remove the selected waypoints from your device (and iCloud if enabled). If you press 'Remove' the selected waypoints will be removed from your device. This cannot be undone.
-  - *Folder button*: If you tap this button a screen with the folder tree will be opened. You can select a folder and the selected waypoints will be moved to another :ref:`folder <ss-waypoints-organize>`. 
+- *More button*: If you tap the more button in the toolbar in the top, a menu will appear from which you can choose the following actions:
+
+  - *Remove*: If you tap this button a pop-up will ask to to whether you would like to remove the selected waypoints from your device (and iCloud if enabled). If you press 'Remove' the selected waypoints will be removed from your device. This cannot be undone.
+  
+  - *Move to folder*: If you tap this button a screen with the folder tree will be opened. You can select a folder and the selected waypoints will be moved to another :ref:`folder <ss-waypoints-organize>`. 
+  
   - *Remove from map*: If you tap this button, the selected waypoints will be removed from the map.
+  
   - *Change icon*: If you tap this button the :ref:`waypoint icons screen <ss-waypoint-icon>` will be opened. You can tap an icon in this screen to change the icon of the selected waypoints. 
+
+  - *Select all*: If you tap this button, all waypoints will be selected.
 </ANDROID>
 
 As an example we now will load the three selected waypoints from the example above on the map by pressing the map icon. The map screen will appear and the map will be zoomed to the three selected waypoints as you can see in the figure below:
