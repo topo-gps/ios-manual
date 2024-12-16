@@ -18,7 +18,7 @@ Tap on an item in the 'Store' section to see the details of the map.
 There are three kinds of map purchases in Topo GPS. 
 
 - *Full maps*: These maps are a one-time only purchase. You get full access to the entire map including future updates.
-- *Partial maps*: In these maps you can select parts of the map and buy the parts you need. This is possible with the topographic maps of Great Britain, France and Belgium.
+- *Partial maps*: In these maps you can select parts of the map and buy the parts you need. This is possible with the topographic maps of Great Britain and Belgium.
 - *Subscriptions*: In these maps you can purchase a 1 year automatically renewing subscription to get access to the entire map. This is possible with the topographic maps of Great Britain, France, and Belgium.
 
 The differences between the map purchases are due to licensing and royalty constraints. Some maps are provided as open data to us, in that case we do not have to pay royalties to the mapping agency. For other maps we however have to pay licensing fees to the mapping agency depending on the amount of maps sold. Therefore these maps are more expensive. 
@@ -68,7 +68,7 @@ The purchased maps are available on all devices that use the same Apple ID on wh
 
 Purchasing parts of maps
 ------------------------
-Maps of Great Britain, France and Belgium can be bought by part.
+Maps of Great Britain and Belgium can be bought by part.
 To purchase part of the map first go to :ref:`Menu <sec-menu>` > Maps > Store and tap on the desired map.
 If no purchases have been made yet, the map information screen will be opened, as in the example below:
 
