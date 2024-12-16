@@ -47,6 +47,11 @@ The remaining sections deal with the map (image) that can be exported. You can c
 
 Exporting all waypoints
 ~~~~~~~~~~~~~~~~~~~~~~~
-
+<APPLE>
 To export all waypoints stored on your device, open the :ref:`waypoints screen <ss-waypoint-load>` (Menu > Waypoints). Make sure that the filter is not active (filter button has a blue edge). Go to the root waypoint folder, so that 'All waypoints' is displayed below the search bar. Make sure that the search bar is empty. 
 Then open the :ref:`waypoint selection screen <ss-waypoints-select>` by tapping More > Select. Press 'All' on the top left to select all waypoints and folders. Then tap the export icon in the bottom toolbar to open the export pop-up. Select the kind of data to be exported in the export pop-up and press 'Export'.
+</APPLE>
+<ANDROID>
+To export all waypoints stored on your device, open the :ref:`waypoints screen <ss-waypoint-load>` (Menu > Waypoints). Then tap More (top right) > Export all.
+All waypoints including photo's will be exported to a gpx.zip file. If the export was succesfull a share pop-up will appear. You can then choose e.g. to store the file at a cloud service like e.g. Google Drive. We recommend to do this regularly so that you have a backup of your waypoint data.
+</ANDROID>
