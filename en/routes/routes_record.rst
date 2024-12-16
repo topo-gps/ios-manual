@@ -4,7 +4,9 @@ Recording routes
 ----------------
 When recording your route all the locations your are visiting are collected. If you finish the recording, you can save the locations as a route.
 
+<APPLE>
 To record a route you need make sure that Topo GPS is given access to your precise location while using the app in the iOS Settings > Privacy > Location Services > Topo GPS.
+</APPLE>
 
 Starting a recording
 ~~~~~~~~~~~~~~~~~~~~
