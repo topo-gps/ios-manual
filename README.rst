@@ -1,6 +1,14 @@
-Source files of the manual of Topo GPS for iOS.
-===============================================
-The test manual can be viewed via https://www.topo-gps.com/ios/manual/html/index.html
+Source files of the manual of Topo GPS
+=======================================
+The iOS version of the manual can be viewed on https://www.topo-gps.com/ios/en/manual/html/
+The Android version of the manual can be viewd https://www.topo-gps.com/android/en/manual/html/
+
+
+Android / iOS-MacOS
+-------------------
+The source files of the manual are universal. The manual generator makes a special version for Android and Apple OS.
+To add text specific for the Android or the Apple platform, surround text with <ANDROID> </ANDROID> or <APPLE> </APPLE>.
+
 
 Updating the manual
 -------------------
