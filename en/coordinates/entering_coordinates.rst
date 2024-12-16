@@ -2,7 +2,7 @@
 
 Entering coordinates
 ====================
-To enter coordinates you first have to tap :ref:`Menu <sec-menu>` > Search. Then select the 'Coordinates' tab on the bottom of the screen, to open the coordinates input screen. An example is shown in the figure below:
+To enter coordinates you first have to tap :ref:`Menu <sec-menu>` > Search. Then tap the 'Enter coordinates' item in the pop-up that appears. An example is shown in the figure below:
 
 .. figure:: ../_static/enter-coordinates1.png
    :height: 568px
