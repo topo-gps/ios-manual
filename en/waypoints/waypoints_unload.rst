@@ -36,4 +36,4 @@ If you press long on a waypoint that is loaded on the map, a menu will appear ne
 
 Waypoint details screen
 ~~~~~~~~~~~~~~~~~~~~~~~
-It is also possible to remove a waypoint from the map via the :ref:`waypoint details screen <ss-waypoint-details>`. Tap the waypoint icon of a waypoint that is loaded on the map to open the details screen. Or tap the info button (i) of a waypoint in the waypoints screen to open the details screen. In the waypoint detail screen tap the remove from map icon on the top right.
+It is also possible to remove a waypoint from the map via the :ref:`waypoint details screen <ss-waypoint-details>`. Tap the waypoint icon of a waypoint that is loaded on the map to open the details screen. Or tap the info button (i) of a waypoint in the waypoints screen to open the details screen. In the waypoint details screen tap the remove from map icon on the top right.
