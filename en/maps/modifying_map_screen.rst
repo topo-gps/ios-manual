@@ -11,7 +11,9 @@ Scroll
 ~~~~~~
 To scroll the map you have to hold a finger on the map. When you move your finger, the map will be moved as well. You can also move the map by making a quick swipe with your finger on the map.
 
+<APPLE>
 For MacOS, you can scroll by pressing and holding the mouse button or trackpad button and moving around. Or put two fingers on the trackpad and move around. Or use the arrow keys. For the last option, the map has to have focus. This can be changed by pressing the tab key.
+</APPLE>
 
 .. _ss-map-zoom:
 
@@ -22,19 +24,22 @@ You can zoom the map in or out in two ways:
 - *Zooming in:* Tap one finger on the bottom of the map. Or hold two fingers on the map and bring them together.
 - *Zooming out:* Tap one finger on the top of the map. Or hold two fingers on the map and move them away from each other.
 
+<APPLE>
 If you do not like zooming in with one tap on the bottom of the map and zooming out with one tap at the top, you can
 swap this in the via :ref:`Menu <sec-menu>` > More > Settings > :ref:`Single tap zoom <sec-settings-single-tap-zoom>`. 
 You can also change there bottom/top into left/right.
+</APPLE>
 
 At some point it is not possible to zoom in further. If you want to enable additional zoom, you can do this by enabling the setting :ref:`Menu > More > Settings > Map > Additional zoom in <sec-settings-map>`. The drawback is that then map will become grainy when zoomed in far.
 
-
+<APPLE>
 On MacOS, you can zoom with two fingers just like in iOS if you have a trackpad. You can also zoom using the keyboard. It is then important that the map has focus. Please press the 'tab' key to change focus. Using the keyboard you can zoom in and out in the following ways:
 
 - Command +, Command -. Or + - keys. You can tap it one time, but also hold it to zoom further.
 - Option key + arrow up, arrow down
 - Press and hold shift and press and hold the mouse button / trackpad button and move up or down.
 - Double tap (zoom in), hold the option key and double tap (zoom out).
+</APPLE>
 
 .. _ss-map-center:
 
@@ -103,7 +108,9 @@ If you zoom the map or move the map the map stays rotated.
 
 Manual rotation can be cancelled by pressing the north arrow. It is also possible to undo the rotation by manually rotating back to the normal situation.
 
+<APPLE>
 On MacOS, you can only rotate the map using a trackpad.
+</APPLE>
 
 Long press
 ~~~~~~~~~~
