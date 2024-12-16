@@ -79,7 +79,7 @@ If you have selected the waypoints you can perform an action with one of the but
 
 - *More button*: If you tap the more button in the toolbar in the top, a menu will appear from which you can choose the following actions:
 
-  - *Remove*: If you tap this button a pop-up will ask to to whether you would like to remove the selected waypoints from your device (and iCloud if enabled). If you press 'Remove' the selected waypoints will be removed from your device. This cannot be undone.
+  - *Remove*: If you tap this button a pop-up will ask to to whether you would like to remove the selected waypoints from your device. If you press 'Remove' the selected waypoints will be removed from your device. This cannot be undone.
   
   - *Move to folder*: If you tap this button a screen with the folder tree will be opened. You can select a folder and the selected waypoints will be moved to another :ref:`folder <ss-waypoints-organize>`. 
   
