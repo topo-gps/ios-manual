@@ -4,7 +4,8 @@ Planning routes
 ---------------
 Planning a route is creating a route between two or more locations. These locations are called route points in Topo GPS. The route points have to be manually created by pressing long on the map. An alternative to route planning is :ref:`route generation <sec-route-generate>`. With route generation you do not have to create route points, but you only have to give a starting point and a desired length.
 
-The route planner can be opened by first opening the :ref:`routes pop-pup <sec-routes-popup>` (Menu > Routes). Then tap the 'Plan a route' item. (In MacOS tap the 'Plan' mode selector on the top of the window, or Command-K'). An example of the route planner screen is shown below:
+The route planner can be opened by first opening the :ref:`routes pop-pup <sec-routes-popup>` (Menu > Routes). Then tap the 'Plan a route' item.
+<APPLE>In MacOS tap the 'Plan' mode selector on the top of the window, or Command-K'). <APPLE>An example of the route planner screen is shown below:
 
 .. figure:: ../_static/route-plan1.png
    :height: 568px
