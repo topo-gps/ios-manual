@@ -26,8 +26,10 @@ Sorting waypoints
 ~~~~~~~~~~~~~~~~~
 Below the folder/filter bar, the current sort method is displayed in the middle. If you tap the sort button you can change the current sort method between:
 
-- *Customizable order*: The waypoints are sorted in customizable order. If you did not change the order manually, the most recent added waypoints are on top.
-- *Closest on top*: The waypoints are sorted according to their distance to your current location, the closest is on top.
+<APPLE>- *Customizable order*: The waypoints are sorted in customizable order. If you did not change the order manually, the most recent added waypoints are on top.</APPLE>
+<ANDROID>- *Last added on top*: The most recent added waypoints are on top.</ANDROID>
+- *Closest on top*: The waypoints are sorted according to their distance to your current location, the closest waypoint is on top.
+- *Closest to center map on top*: The waypoints are sorted according to their distance to the current center of the map, the closest waypoint is on top.
 - *Newest on top*: The waypoints are sorted according to their creation time, the newest is on top.
 - *Oldest on top*: The waypoints are sorted according to their creation time, the oldest is on top.
 - *Most recently updated on top*: The waypoints are sorted according to the time at which they were last changed, the waypoint that was changed most recently is on top.
