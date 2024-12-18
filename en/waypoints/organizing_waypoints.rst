@@ -21,9 +21,15 @@ To create a folder, first open the :ref:`waypoints screen <ss-waypoint-load>` (M
    
    *The new folder screen*
     
-To create a folder, you have to enter a name for the new folder. The default location of the newly created folder is the currently active folder in the waypoints screen. If you want to create the new folder in another folder, you have to tap the 'Location' section and choose a folder. When you are done, tap 'Save' to create the folder. You will return to the waypoints screen and the newly created folder will be shown in the list (if the folder is saved in the currently active folder).
+To create a folder, you have to enter a name for the new folder. The default location of the newly created folder is the currently active folder in the waypoints screen. 
+<APPLE>
+If you want to create the new folder in another folder, you have to tap the 'Location' section and choose a folder. When you are done, tap 'Save' to create the folder.
+</APPLE>
+<ANDROID>
+When you are done, tap 'Create folder' on the top right of the screen.
+</ANDROID> You will return to the waypoints screen and the newly created folder will be shown in the list (if the folder is saved in the currently active folder).
 
-As an example we will enter 'Sights' and press 'Save' to create a 'Sights' folder. The waypoints screen now looks as follows:
+As an example we have created a 'Sights' folder. The waypoints screen now looks as follows:
 
 .. figure:: ../_static/waypoint-folder2.png
    :height: 568px
