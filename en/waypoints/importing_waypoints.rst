@@ -6,7 +6,7 @@ Importing waypoints
 It is possible to import waypoints in Topo GPS in the following file formats: gpx, kml/kmz, csv, geojson, <APPLE>jpeg, heic, and heif.</APPLE><ANDROID>and jpeg.</ANDROID>
 Multiple files of these types can also be imported at once if they are compressed as a zip file. If the files are organized into folders in the zip file, this folder structure will be imported as well and visible in the waypoints screen.
 
-Separate photo will only be imported if they contain a location in the EXIF metadata. For every photo a waypoint will be created at its location and the photo is added to the waypoint. If you want to import multiple photos at once, first create a zip file, add the photos, and then import this zip file.
+Separate photo's will only be imported if they contain a location in the EXIF metadata. For every photo a waypoint will be created at its location and the photo is added to the waypoint. If you want to import multiple photos at once, first create a zip file, add the photos, and then import this zip file.
 
 To import waypoints you could try to tap on a file icon. Most often an app picker will show up. You then have to select 'Open with Topo GPS' or 'Copy to Topo GPS' and the file will be imported in Topo GPS.
 
