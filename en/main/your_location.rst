@@ -14,7 +14,7 @@ Your location is displayed on the :ref:`map <sec-maps>` with the position marker
 If you are standing still, the position marker points in the direction in which you point your device.
 If you are moving, the position marker points in the direction in which you are moving.
 
-The arrow in the status bar next to the battery icon, indicates that the location services are currently in use. This can cause faster battery consumption than usual. Therefore pay attention to the battery level when using Topo GPS.
+The arrow in the status bar indicates that the location services are currently in use. This can cause faster battery consumption than usual. Therefore pay attention to the battery level when using Topo GPS.
 
 The default position marker icon is red, you can :ref:`change it to another color <ss-settings-posmarker>` via :ref:`Menu <sec-menu>` > More > Settings > Styles > Position. This might to increase the visibility of the position marker ont the map.
 
@@ -68,14 +68,22 @@ In the location information screen you find subsequently the following informati
 - *Course*: The direction which respect to the true north in which the device is moving.
 - *Device heading*: The direction with respect to the true north in which the device is pointing.
 - *Timestamp*: The exact time at which the displayed location was obtained.
+- *Magnetic declination*: This is the angle between the magnetic north pole and true north pole (geographic north). If the magnetic north lies east of the true north, the declination is positive. If the magnetic north lies west of the true north, the declination is negative.
+If you read of a direction from a magnetic compass it is always relative to the magnetic north. To obtain the direction relative to the true north you have to add the magnetic declination to the reading of the magnetic compass. The magnetic north pole changes location over time, therefore the magnetic declination varies in time and from position to position.
+
 
 Changing current location screen
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<APPLE>
 By tapping 'Edit' on the top right of the current location screen you can edit the order of the elements appearing in the current location screen. 
 
 By dragging the handles on the right hand side the order of the elements can be modified. 
 
-By tapping 'Displayed coordinate types' the :ref:`displayed coordinate types can be set <sec-settings-coordinates>` so that only coordinate systems which are of interested to you are displayed.
+By tapping 'Displayed coordinate types' the :ref:`displayed coordinate types can be set <sec-settings-coordinates>` so that only coordinate systems which are of interest to you are displayed.
+</APPLE>
+<ANDROID>
+By tapping 'More > Displayed coordinates types', the :ref:`displayed coordinate types can be set <sec-settings-coordinates>` so that only coordinate systems which are of interest to you are displayed.
+</ANDROID>
 
 .. _ss-current-location-save:
 
@@ -97,15 +105,23 @@ If you press 'Save' your current position will be saved immediately as a waypoin
 
    *Saving your current location as a waypoint.* 
 
+<APPLE>
 .. _ss-current-location-create:
 
 Creating waypoint on current location
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 By tapping 'Create waypoint' in the bottom toolbar of the current location screen you can create a waypoint at the current location. The difference between tapping 'Save' is that it is slower, but now a waypoint creation screen will pop-up in which you can enter the title, description and change the icon. This is the same screen which appears when :ref:`creating a waypoint from the map <ss-waypoint-create-map>`.
+</APPLE>
 
 Sharing current location
 ~~~~~~~~~~~~~~~~~~~~~~~~
-By pressing 'Share' on the bottom left of the current location screen you can share your location. An export pop-up will appear exactly as what happens when :ref:`exporting waypoints <ss-waypoints-exporting>`.
+<APPLE>
+By pressing 'Share' on the bottom left of the current location screen you can share your location. 
+</APPLE>
+<ANDROID>
+By pressing the 'Share' icon in the top right of the current location screen you can share your location. 
+</ANDROID>
+An export pop-up will appear exactly as what happens when :ref:`exporting waypoints <ss-waypoints-exporting>`.
 
 
 
