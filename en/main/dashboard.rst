@@ -29,7 +29,9 @@ Route button
 ------------
 By tapping the route button on the right hand side of the dashboard (arrowed icon) the :ref:`routes pop-up <sec-routes-screen>` will appear. Via this pop-up you can do everything with routes, like loading, planning, generating, and importing routes.
 
+<APPLE>
 It is possible to change the button on the right hand side of the dashboard via :ref:`Menu > More > Settings > Dashboard <sec-settings-dashboard>`. For example if you take a lot of photo's you might want to set it to 'Camera'. All functions are also always accessible via the :ref:`menu <sec-menu>`.
+</APPLE>
 
 .. _ss-panel:
 
