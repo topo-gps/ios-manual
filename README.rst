@@ -23,6 +23,13 @@ It is however possible to put both the opening tag and the closing tag on a sing
 
   To share the route tap the share button in the <APPLE>top</APPLE><ANDROID>bottom</ANDROID> of the screen.
 
+To prepare the manual files for a specific OS we use the Simple Preprocessor (simprep) found in the simprep folder.
+
+For example to generate the Android manual we run::
+
+     simprep temp/source.rst -i ANDROID -e APPLE > prepared/source.rst
+
+
 Updating the manual
 -------------------
 Manuals should be generated on the main Topo GPS server.
