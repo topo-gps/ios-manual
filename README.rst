@@ -9,17 +9,15 @@ Android / iOS-MacOS
 -------------------
 The source files of the manual are universal. The manual generator makes a special version of the manual for Android and Apple.
 To add text specific to the Android or the Apple platform, surround text with <ANDROID> </ANDROID> or <APPLE> </APPLE>.
-The tags should be preferably on a separate line, separate from the rest of the text. Like:
+The tags should be preferably on a separate line, separate from the rest of the text. Like::
 
-``
-<APPLE>
-Here is text specific for Apple devices.
-</APPLE>
-<ANDROID>
-And this is only valid in Android.
-</ANDROID>
-But this is valid for all devices.
-``
+  <APPLE>
+  Here is text specific for Apple devices.  
+  </APPLE>  
+  <ANDROID>
+  And this is only valid in Android.  
+  </ANDROID>
+  But this is valid for all devices.
 
 It is however possible to put both the opening tag and the closing tag on a single line.
 
