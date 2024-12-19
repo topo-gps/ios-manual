@@ -1,0 +1,13 @@
+<ANDROID>
+Dit is een tekstje voor android.
+Android is een goed operating system.
+</ANDROID>
+  <APPLE>
+  Dit is een tekstje voor APPLE.
+  Apple is een bedrijf dat mooie apparaten maakt.
+  </APPLE>
+
+Dit is een test voor <ANDROID>Android</ANDROID><APPLE>iOS/MacOS</APPLE> om te kijken of je ook in zinnen tekst kan
+toevoegen. Over meerdere regels.
+
+
