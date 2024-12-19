@@ -100,6 +100,7 @@ Renaming folders
 To rename a folder first open the routes screen and tap the info button next to a folder item to open the folder details screen. Then tap 'Edit' in the bottom toolbar, change the name and press 'Save'.
 
 
+<APPLE>
 .. _ss-route-folder-reorder:
 
 Changing the order of routes 
@@ -124,3 +125,4 @@ On the right hand side of each item a handle with three bars is displayed. Drag 
    :alt: An opened folder Topo GPS
    
    *The contents of the 'Favorites' folder after moving the 'Gower Hike' route.*
+</APPLE>
