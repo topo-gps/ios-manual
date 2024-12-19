@@ -27,12 +27,15 @@ The settings screen contains the following sections:
    units
    coordinates
    map_tiles_downloading
+   <APPLE>
    single_tap_zoom
+   </APPLE>
    search_results
    addresses
    camera
    dashboard
+   <APPLE>
    synchronize_with_icloud
+   </APPLE>
    device_settings
    
-
