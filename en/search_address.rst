@@ -21,7 +21,7 @@ list below the search box, as you can see below:
    *Searching the town ‘Alton’*
 
 In order to be able to find addresses or places you have to be connected to the internet. Searching will occur via a service
-of Apple.
+of <APPLE>Apple</APPLE><ANDROID>Android</ANDROID>.
 
 If you tap on a search result in the list, it will be loaded on the map as a waypoint and you will return to the main screen. 
 An example is shown below:
@@ -127,6 +127,7 @@ Clearing search history
 ~~~~~~~~~~~~~~~~~~~~~~~
 You can remove all results from the search history by pressing the ‘Clear’ button on the right hand side of the label ‘Search history’.
 
+<APPLE>
 It is also possible to remove individual results from the search history. Make a slide to the left with
 one finger on an item that needs to be removed. A delete button will appear, as is illustrated in the figure below:
 
@@ -138,6 +139,7 @@ one finger on an item that needs to be removed. A delete button will appear, as 
    *Removing a search result from the search history.*
 
 If you tap the red ’Delete’ button the item will be removed from the search history.
+</APPLE>
 
 .. _ss-search-settings:
 
