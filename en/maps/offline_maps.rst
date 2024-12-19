@@ -86,6 +86,18 @@ Storing of map tiles on your device costs disk space. In the map download screen
 
 ‘Free on device’ means the amount of available storage space on your device. In the figure above this is 1450 GB (This is not a real iPhone, but an iPhone run on a simulator on MacOS).
 
+<ANDROID>
+Storage location
+~~~~~~~~~~~~~~~~
+If you scroll down in the map download screen you can set the storage location of the map tiles. 
+You could for example set it to SD card. By default it is set to internal storage. By tapping the storage location, a screen will appear in which you can see all availble storage locations on your device. In this screen you can select a storage location. You could for example choose the SD card. Sometimes the namings are a bit unclear, but you might look at the available space to figure out which one is the SD card.
+
+To optimally use the storage space on your SD card we recommend to format your SD card with a very small allocation unit size, like 8 kB.
+The reason is that the map tiles have a typicaly size of somehwere between 0 and 100 kB. If you store them on a SD card with a allocation size of for example 128 kB, each map tile will use at least 128 kB of space on your SD card. This will result in a much higher storage space usage then necessary.
+
+To format your SD card you can put it in a Windows computer. Then right click on the SD card in Explorer and select "Format". Then you can set the allocation unit size to a small value like 4 kB and reformat the SD card. Note that if you format your SD card you will loose all data contained on it.
+</ANDROID>
+
 Removing map tiles
 ~~~~~~~~~~~~~~~~~~
 If you need storage space, you can remove map tiles in the bottom of the map download screen.
