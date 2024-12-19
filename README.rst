@@ -19,7 +19,7 @@ The tags should be preferably on a separate line, separate from the rest of the 
   </ANDROID>
   But this is valid for all devices.
 
-It is however possible to put both the opening tag and the closing tag on a single line as in the sample below:
+It is however possible to put both the opening tag and the closing tag on a single line as in the sample below::
 
   To share the route tap the share button in the <APPLE>top</APPLE><ANDROID>bottom</ANDROID> of the screen.
 
