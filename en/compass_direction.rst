@@ -12,7 +12,7 @@ Alternatively you can :ref:`enter a compass direction manually <ss-compass-direc
 
 Manually entering a compass direction
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-To add a compass direction to the map, tap :ref:`Menu <sec-menu>` > Search and select the tab 'Compass direction' above the keyboard.
+To add a compass direction to the map, tap :ref:`Menu <sec-menu>` > Search and tap the item 'Enter compass direction'.
 
 The compass direction screen will appear like in the figure below:
 
