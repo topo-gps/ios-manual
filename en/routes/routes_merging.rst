@@ -4,7 +4,7 @@ Merging routes
 ==============
 Merging routes means combining two or more routes into a new route. For example if you have multiple parts of a trail, you might want to combine them into a single route.
 
-The easiest way to merge routes is to go to the saved routes screen. There :ref:`select the required routes <sec-routes-select>`. Then tap the 'More' icon in the bottom of the screen and choose 'Merge into new route'. A pop-up will be shown in which you can enter a title for the merged route. If you press 'Save' you will be shown the details of the merged route.
+The easiest way to merge routes is to go to the saved routes screen. There :ref:`select the required routes <sec-routes-select>`. Then tap the 'More' icon in the <APPLE>bottom</APPLE><ANDROID>top</ANDROID> of the screen and choose 'Merge into new route'. A pop-up will be shown in which you can enter a title for the merged route. If you press 'Save' you will be shown the details of the merged route.
 
 Merging using route planner
 ---------------------------
