@@ -90,11 +90,15 @@ The map is rotated such that the top of the map indicates the direction in which
 
 Rotating the map can be useful when you are following a route. Left and right on the map are than also left and right in reality. In addition the position maker will stay centered on the map.
 
+<ANDROID>
+If the map does not point to the right direction if you are standing still, you might need to calibrate the compass of your device. For this, rotate your device three times around a fictional line from the middle of the bottom to the middle of the top of your device. Then rotate your device three times around a fictional that line that goes from the middle of the left to the middle of the right of your device. Then rotate the device three circles with the screen pointing upwards. 
+</ANDROID>
+
 If the map is rotated, an north arrow will appear on the top left of the screen. This arrow indicates the direction of the true north on the map. If you press this arrow the rotation will be cancelled.
 
 You can cancel rotation by pressing the position marker button on the dashboard. 
 
-If you move the map or zoom with two fingers automatic rotation will be switched off. The current rotation angle will then not longer changed and the map will not longer be centered at your current location. To zoom the map in or out while keeping the automatic rotation active, tap on the bottom or top of the map screen.
+If you move the map or zoom with two fingers automatic rotation will be switched off. The current rotation angle will then not longer change and the map will no longer be centered at your current location. To zoom the map in or out while keeping the automatic rotation active, tap on the bottom or top of the map screen.
 
 .. _ss-map-manual-rotate:
 
