@@ -4,10 +4,11 @@ Sharing routes with Topo GPS
 ============================
 
 You can share a route with Topo GPS so that it can be :ref:`imported by other Topo GPS users <ss-routes-import-shared>`.
-Only routes that you have recorded or planned yourself can be shared.
+Only routes that you have recorded or planned yourself can be shared. Routes that you have imported on your device can not be shared.
 
-Shared routes including its photos are visible to all Topo GPS users and might in the future be accessible on a webpage.
+Shared routes including its photos are visible to all Topo GPS users and are available for download on the Topo GPS website.
 
+<APPLE>
 To share a route with Topo GPS, tap the export icon in the bottom of the :ref:`route details screen <sec-route-details>`.
 
 Then select 'Geodata' in the export pop-up and tap 'Export' to export the route. A share pop-up will appear in which you can select apps, as in the example below:
@@ -19,7 +20,13 @@ Then select 'Geodata' in the export pop-up and tap 'Export' to export the route.
    
    *The share pop-up after exporting a route.*
 
-In the share pop-up tap 'Share with Topo GPS'. Then a new pop-up will appear in which you can confirm sharing the route with Topo GPS.
+In the share pop-up tap 'Share with Topo GPS'. 
+</APPLE>
+<ANDROID>
+To share a route with Topo GPS, first open the :ref:`route details screen <sec-route-details>`. Then tap 'More' (top right) > Share with Topo GPS.
+</ANDROID>
+
+A pop-up will appear in which you can confirm sharing the route with Topo GPS.
 
 .. figure:: ../_static/route-share-topogps2.png
    :height: 568px
